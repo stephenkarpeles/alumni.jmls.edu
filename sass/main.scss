@@ -4,8 +4,16 @@
 // Authored Dependencies 
 @import "components/colors";
 @import "components/typography";
+@import "components/responsive";
 
 // Partials 
 @import "partials/base";
+
+// Layout 
+@import "layout/grid";
+@import "layout/layout";
+
+// Sections
+@import "sections/footer";
 
 

@@ -1,6 +1,10 @@
 body {
 	font-family: $font-stack;
+	font-size: 1em;
 	color: $text-color; }
+
+p {
+	line-height: $line-height-main; }
 
 a {
 	color: $link-color; 

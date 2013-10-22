@@ -1,0 +1,9 @@
+.container {
+	max-width: 88%; 
+  margin: 0 auto;
+  @include breakpoint(bp2) {
+  	max-width: 40em; }
+  @include breakpoint(bp3) {
+  	max-width: 50em; }
+  @include breakpoint(bp4) {
+  	max-width: 61em; } }

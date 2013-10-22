@@ -150,3 +150,93 @@ Load paths:
 2013-10-22 13:19:48 identical css/main.css 
 2013-10-22 13:19:48 identical css/main.css 
 2013-10-22 13:20:32 overwrite css/main.css 
+2013-10-22 13:23:30 overwrite css/main.css 
+2013-10-22 13:23:39 identical css/main.css 
+2013-10-22 13:23:39 identical css/main.css 
+2013-10-22 13:24:06 overwrite css/main.css 
+2013-10-22 13:24:13 overwrite css/main.css 
+2013-10-22 13:24:29 overwrite css/main.css 
+2013-10-22 13:25:52 overwrite css/main.css 
+2013-10-22 13:26:14     error sass/main.scss (Line 8 of sass/partials/_base.scss: Invalid CSS after "	line-heig": expected "{", was "}")
+2013-10-22 13:26:14 overwrite css/main.css 
+2013-10-22 13:26:14     error sass/main.scss (Line 8 of sass/partials/_base.scss: Invalid CSS after "	line-heig": expected "{", was "}")
+2013-10-22 13:26:14 identical css/main.css 
+2013-10-22 13:26:25 overwrite css/main.css 
+2013-10-22 13:28:30 overwrite css/main.css 
+2013-10-22 13:28:38 overwrite css/main.css 
+2013-10-22 13:28:46 overwrite css/main.css 
+2013-10-22 13:28:55 overwrite css/main.css 
+2013-10-22 13:30:17 overwrite css/main.css 
+2013-10-22 13:30:26 identical css/main.css 
+2013-10-22 13:30:26 identical css/main.css 
+2013-10-22 15:47:50 identical css/main.css 
+2013-10-22 15:48:21 identical css/main.css 
+2013-10-22 15:49:42 overwrite css/main.css 
+2013-10-22 15:49:48 identical css/main.css 
+2013-10-22 15:53:34 overwrite css/main.css 
+2013-10-22 15:53:47     error sass/main.scss (Line 6 of sass/layout/_grid.scss: Undefined mixin 'grids-init'.)
+2013-10-22 15:53:47 overwrite css/main.css 
+2013-10-22 15:53:52     error sass/main.scss (Line 6 of sass/layout/_grid.scss: Undefined mixin 'grids-init'.)
+2013-10-22 15:53:52 identical css/main.css 
+2013-10-22 15:53:52     error sass/main.scss (Line 6 of sass/layout/_grid.scss: Undefined mixin 'grids-init'.)
+2013-10-22 15:53:52 identical css/main.css 
+2013-10-22 15:54:13 overwrite css/main.css 
+2013-10-22 15:56:09 overwrite css/main.css 
+2013-10-22 15:56:45 overwrite css/main.css 
+2013-10-22 15:56:52 overwrite css/main.css 
+2013-10-22 15:56:58 overwrite css/main.css 
+2013-10-22 15:57:46 overwrite css/main.css 
+2013-10-22 16:00:27 overwrite css/main.css 
+2013-10-22 16:19:57     error sass/main.scss (Line 170 of sass/layout/_grid.scss: Undefined variable: "$bp1".)
+2013-10-22 16:19:57 overwrite css/main.css 
+2013-10-22 16:20:09 overwrite css/main.css 
+2013-10-22 16:21:04 overwrite css/main.css 
+2013-10-22 16:21:13 overwrite css/main.css 
+2013-10-22 16:21:28 overwrite css/main.css 
+2013-10-22 16:21:52 overwrite css/main.css 
+2013-10-22 16:21:56 overwrite css/main.css 
+2013-10-22 16:22:00 overwrite css/main.css 
+2013-10-22 16:22:12 overwrite css/main.css 
+2013-10-22 16:22:20 overwrite css/main.css 
+2013-10-22 16:22:26 overwrite css/main.css 
+2013-10-22 16:22:47 overwrite css/main.css 
+2013-10-22 16:23:05     error sass/main.scss (Line 9 of sass/layout/_layout.scss: Invalid CSS after "...dth: 980px; } }": expected "}", was "")
+2013-10-22 16:23:05 overwrite css/main.css 
+2013-10-22 16:23:05     error sass/main.scss (Line 9 of sass/layout/_layout.scss: Invalid CSS after "...dth: 980px; } }": expected "}", was "")
+2013-10-22 16:23:05 identical css/main.css 
+2013-10-22 16:23:07     error sass/main.scss (Line 9 of sass/layout/_layout.scss: Invalid CSS after "...dth: 980px; } }": expected "}", was "")
+2013-10-22 16:23:07 identical css/main.css 
+2013-10-22 16:23:07     error sass/main.scss (Line 9 of sass/layout/_layout.scss: Invalid CSS after "...dth: 980px; } }": expected "}", was "")
+2013-10-22 16:23:07 identical css/main.css 
+2013-10-22 16:23:17 overwrite css/main.css 
+2013-10-22 16:23:37 overwrite css/main.css 
+2013-10-22 16:24:24 overwrite css/main.css 
+2013-10-22 16:26:46 overwrite css/main.css 
+2013-10-22 16:26:55 overwrite css/main.css 
+2013-10-22 16:27:05 overwrite css/main.css 
+2013-10-22 16:27:07 overwrite css/main.css 
+2013-10-22 16:27:37 overwrite css/main.css 
+2013-10-22 16:27:48 overwrite css/main.css 
+2013-10-22 16:27:55 overwrite css/main.css 
+2013-10-22 16:28:28 overwrite css/main.css 
+2013-10-22 16:28:57 overwrite css/main.css 
+2013-10-22 16:29:22 overwrite css/main.css 
+2013-10-22 16:29:30 overwrite css/main.css 
+2013-10-22 16:30:17 identical css/main.css 
+2013-10-22 16:30:18 identical css/main.css 
+2013-10-22 16:34:46 overwrite css/main.css 
+2013-10-22 16:35:10 overwrite css/main.css 
+2013-10-22 16:36:01 overwrite css/main.css 
+2013-10-22 16:36:32 identical css/main.css 
+2013-10-22 16:36:33 identical css/main.css 
+2013-10-22 16:37:15 identical css/main.css 
+2013-10-22 16:37:16 identical css/main.css 
+2013-10-22 16:37:25 identical css/main.css 
+2013-10-22 16:37:26 identical css/main.css 
+2013-10-22 16:37:41 identical css/main.css 
+2013-10-22 16:37:42 identical css/main.css 
+2013-10-22 16:37:55 overwrite css/main.css 
+2013-10-22 16:38:16 overwrite css/main.css 
+2013-10-22 16:38:49 overwrite css/main.css 
+2013-10-22 16:39:06 overwrite css/main.css 
+2013-10-22 16:39:13 overwrite css/main.css 

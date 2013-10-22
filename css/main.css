@@ -109,19 +109,9 @@ a:hover {
    Typography
    ========================================================================== */
 /**
- * Address variable `h1` font-size and margin within `section` and `article`
- * contexts in Firefox 4+, Safari 5, and Chrome.
- */
-/* line 118, ../sass/vendor/_normalize.scss */
-h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
-}
-
-/**
  * Address styling not present in IE 8/9, Safari 5, and Chrome.
  */
-/* line 127, ../sass/vendor/_normalize.scss */
+/* line 117, ../sass/vendor/_normalize.scss */
 abbr[title] {
   border-bottom: 1px dotted;
 }
@@ -129,7 +119,7 @@ abbr[title] {
 /**
  * Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
  */
-/* line 136, ../sass/vendor/_normalize.scss */
+/* line 126, ../sass/vendor/_normalize.scss */
 b,
 strong {
   font-weight: bold;
@@ -138,7 +128,7 @@ strong {
 /**
  * Address styling not present in Safari 5 and Chrome.
  */
-/* line 144, ../sass/vendor/_normalize.scss */
+/* line 134, ../sass/vendor/_normalize.scss */
 dfn {
   font-style: italic;
 }
@@ -146,7 +136,7 @@ dfn {
 /**
  * Address differences between Firefox and other browsers.
  */
-/* line 152, ../sass/vendor/_normalize.scss */
+/* line 142, ../sass/vendor/_normalize.scss */
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
@@ -156,7 +146,7 @@ hr {
 /**
  * Address styling not present in IE 8/9.
  */
-/* line 162, ../sass/vendor/_normalize.scss */
+/* line 152, ../sass/vendor/_normalize.scss */
 mark {
   background: #ff0;
   color: #000;
@@ -165,7 +155,7 @@ mark {
 /**
  * Correct font family set oddly in Safari 5 and Chrome.
  */
-/* line 174, ../sass/vendor/_normalize.scss */
+/* line 164, ../sass/vendor/_normalize.scss */
 code,
 kbd,
 pre,
@@ -177,7 +167,7 @@ samp {
 /**
  * Improve readability of pre-formatted text in all browsers.
  */
-/* line 183, ../sass/vendor/_normalize.scss */
+/* line 173, ../sass/vendor/_normalize.scss */
 pre {
   white-space: pre-wrap;
 }
@@ -185,7 +175,7 @@ pre {
 /**
  * Set consistent quote types.
  */
-/* line 191, ../sass/vendor/_normalize.scss */
+/* line 181, ../sass/vendor/_normalize.scss */
 q {
   quotes: "\201C" "\201D" "\2018" "\2019";
 }
@@ -193,7 +183,7 @@ q {
 /**
  * Address inconsistent and variable font size in all browsers.
  */
-/* line 199, ../sass/vendor/_normalize.scss */
+/* line 189, ../sass/vendor/_normalize.scss */
 small {
   font-size: 80%;
 }
@@ -201,7 +191,7 @@ small {
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
-/* line 208, ../sass/vendor/_normalize.scss */
+/* line 198, ../sass/vendor/_normalize.scss */
 sub,
 sup {
   font-size: 75%;
@@ -210,12 +200,12 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 215, ../sass/vendor/_normalize.scss */
+/* line 205, ../sass/vendor/_normalize.scss */
 sup {
   top: -0.5em;
 }
 
-/* line 219, ../sass/vendor/_normalize.scss */
+/* line 209, ../sass/vendor/_normalize.scss */
 sub {
   bottom: -0.25em;
 }
@@ -226,7 +216,7 @@ sub {
 /**
  * Remove border when inside `a` element in IE 8/9.
  */
-/* line 231, ../sass/vendor/_normalize.scss */
+/* line 221, ../sass/vendor/_normalize.scss */
 img {
   border: 0;
 }
@@ -234,7 +224,7 @@ img {
 /**
  * Correct overflow displayed oddly in IE 9.
  */
-/* line 239, ../sass/vendor/_normalize.scss */
+/* line 229, ../sass/vendor/_normalize.scss */
 svg:not(:root) {
   overflow: hidden;
 }
@@ -245,7 +235,7 @@ svg:not(:root) {
 /**
  * Address margin not present in IE 8/9 and Safari 5.
  */
-/* line 251, ../sass/vendor/_normalize.scss */
+/* line 241, ../sass/vendor/_normalize.scss */
 figure {
   margin: 0;
 }
@@ -256,7 +246,7 @@ figure {
 /**
  * Define consistent border, margin, and padding.
  */
-/* line 263, ../sass/vendor/_normalize.scss */
+/* line 253, ../sass/vendor/_normalize.scss */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
@@ -267,7 +257,7 @@ fieldset {
  * 1. Correct `color` not being inherited in IE 8/9.
  * 2. Remove padding so people aren't caught out if they zero out fieldsets.
  */
-/* line 274, ../sass/vendor/_normalize.scss */
+/* line 264, ../sass/vendor/_normalize.scss */
 legend {
   border: 0;
   /* 1 */
@@ -280,7 +270,7 @@ legend {
  * 2. Correct font size not being inherited in all browsers.
  * 3. Address margins set differently in Firefox 4+, Safari 5, and Chrome.
  */
-/* line 288, ../sass/vendor/_normalize.scss */
+/* line 278, ../sass/vendor/_normalize.scss */
 button,
 input,
 select,
@@ -297,7 +287,7 @@ textarea {
  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
  * the UA stylesheet.
  */
-/* line 300, ../sass/vendor/_normalize.scss */
+/* line 290, ../sass/vendor/_normalize.scss */
 button,
 input {
   line-height: normal;
@@ -309,7 +299,7 @@ input {
  * Correct `button` style inheritance in Chrome, Safari 5+, and IE 8+.
  * Correct `select` style inheritance in Firefox 4+ and Opera.
  */
-/* line 312, ../sass/vendor/_normalize.scss */
+/* line 302, ../sass/vendor/_normalize.scss */
 button,
 select {
   text-transform: none;
@@ -322,7 +312,7 @@ select {
  * 3. Improve usability and consistency of cursor style between image-type
  *    `input` and others.
  */
-/* line 327, ../sass/vendor/_normalize.scss */
+/* line 317, ../sass/vendor/_normalize.scss */
 button,
 html input[type="button"],
 input[type="reset"],
@@ -336,7 +326,7 @@ input[type="submit"] {
 /**
  * Re-set default cursor for disabled elements.
  */
-/* line 337, ../sass/vendor/_normalize.scss */
+/* line 327, ../sass/vendor/_normalize.scss */
 button[disabled],
 html input[disabled] {
   cursor: default;
@@ -346,7 +336,7 @@ html input[disabled] {
  * 1. Address box sizing set to `content-box` in IE 8/9/10.
  * 2. Remove excess padding in IE 8/9/10.
  */
-/* line 347, ../sass/vendor/_normalize.scss */
+/* line 337, ../sass/vendor/_normalize.scss */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -360,7 +350,7 @@ input[type="radio"] {
  * 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome
  *    (include `-moz` to future-proof).
  */
-/* line 358, ../sass/vendor/_normalize.scss */
+/* line 348, ../sass/vendor/_normalize.scss */
 input[type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -374,7 +364,7 @@ input[type="search"] {
  * Remove inner padding and search cancel button in Safari 5 and Chrome
  * on OS X.
  */
-/* line 371, ../sass/vendor/_normalize.scss */
+/* line 361, ../sass/vendor/_normalize.scss */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
@@ -383,7 +373,7 @@ input[type="search"]::-webkit-search-decoration {
 /**
  * Remove inner padding and border in Firefox 4+.
  */
-/* line 380, ../sass/vendor/_normalize.scss */
+/* line 370, ../sass/vendor/_normalize.scss */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
@@ -394,7 +384,7 @@ input::-moz-focus-inner {
  * 1. Remove default vertical scrollbar in IE 8/9.
  * 2. Improve readability and alignment in all browsers.
  */
-/* line 390, ../sass/vendor/_normalize.scss */
+/* line 380, ../sass/vendor/_normalize.scss */
 textarea {
   overflow: auto;
   /* 1 */
@@ -408,34 +398,336 @@ textarea {
 /**
  * Remove most spacing between table cells.
  */
-/* line 403, ../sass/vendor/_normalize.scss */
+/* line 393, ../sass/vendor/_normalize.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 12, ../sass/components/_typography.scss */
+/* line 14, ../sass/components/_typography.scss */
 .bold {
   font-weight: 700;
 }
 
-/* line 13, ../sass/components/_typography.scss */
+/* line 15, ../sass/components/_typography.scss */
 .italic {
   font-style: italic;
+}
+
+/* line 17, ../sass/components/_typography.scss */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+}
+
+/* line 21, ../sass/components/_typography.scss */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
 }
 
 /* line 1, ../sass/partials/_base.scss */
 body {
   font-family: "Source Sans Pro", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1em;
   color: #333333;
 }
 
-/* line 5, ../sass/partials/_base.scss */
+/* line 6, ../sass/partials/_base.scss */
+p {
+  line-height: 1.4;
+}
+
+/* line 9, ../sass/partials/_base.scss */
 a {
   color: #aa0000;
   text-decoration: none;
 }
-/* line 8, ../sass/partials/_base.scss */
+/* line 12, ../sass/partials/_base.scss */
 a:hover {
   color: #333333;
+}
+
+/* -- Setup grids with base class -- */
+/* line 26, ../sass/layout/_grid.scss */
+.grid-wrap {
+  margin-left: -2em;
+  overflow: hidden;
+  clear: both;
+}
+
+/* line 31, ../sass/layout/_grid.scss */
+.grid-col {
+  float: left;
+  padding-left: 2em;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 39, ../sass/layout/_grid.scss */
+.large-gutter {
+  margin-left: -4em;
+}
+/* line 19, ../sass/layout/_grid.scss */
+.large-gutter .grid-col {
+  padding-left: 4em;
+}
+
+/* line 42, ../sass/layout/_grid.scss */
+.half-gutter {
+  margin-left: -1em;
+}
+/* line 19, ../sass/layout/_grid.scss */
+.half-gutter .grid-col {
+  padding-left: 1em;
+}
+
+/* line 45, ../sass/layout/_grid.scss */
+.no-gutter {
+  margin-left: 0;
+}
+/* line 19, ../sass/layout/_grid.scss */
+.no-gutter .grid-col {
+  padding-left: 0;
+}
+
+/* line 48, ../sass/layout/_grid.scss */
+.reset-gutter {
+  margin-left: -2em;
+}
+/* line 19, ../sass/layout/_grid.scss */
+.reset-gutter .grid-col {
+  padding-left: 2em;
+}
+
+/* line 53, ../sass/layout/_grid.scss */
+ul.grid-wrap,
+ol.grid-wrap {
+  padding-left: 0;
+  list-style: none;
+}
+
+/* line 57, ../sass/layout/_grid.scss */
+li.grid-col {
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
+/* line 68, ../sass/layout/_grid.scss */
+.col-1-1,
+.col-set-1-1 .grid-col {
+  width: 100%;
+}
+
+/* line 71, ../sass/layout/_grid.scss */
+.col-1-2,
+.col-set-1-2 .grid-col {
+  width: 50%;
+}
+
+/* line 74, ../sass/layout/_grid.scss */
+.col-1-3,
+.col-set-1-3 .grid-col {
+  width: 33.333%;
+}
+
+/* line 77, ../sass/layout/_grid.scss */
+.col-1-4,
+.col-set-1-4 .grid-col {
+  width: 25%;
+}
+
+/* line 79, ../sass/layout/_grid.scss */
+.col-2-3 {
+  width: 66.666%;
+}
+
+/* line 81, ../sass/layout/_grid.scss */
+.col-3-4 {
+  width: 75%;
+}
+
+/* -- Breakpoint (.bp1)
+------------------------------------------------------------- */
+@media only screen and (min-width: 30em) {
+  /* line 68, ../sass/layout/_grid.scss */
+  .bp1-col-1-1,
+  .bp1-col-set-1-1 .grid-col {
+    width: 100%;
+  }
+
+  /* line 71, ../sass/layout/_grid.scss */
+  .bp1-col-1-2,
+  .bp1-col-set-1-2 .grid-col {
+    width: 50%;
+  }
+
+  /* line 74, ../sass/layout/_grid.scss */
+  .bp1-col-1-3,
+  .bp1-col-set-1-3 .grid-col {
+    width: 33.333%;
+  }
+
+  /* line 77, ../sass/layout/_grid.scss */
+  .bp1-col-1-4,
+  .bp1-col-set-1-4 .grid-col {
+    width: 25%;
+  }
+
+  /* line 79, ../sass/layout/_grid.scss */
+  .bp1-col-2-3 {
+    width: 66.666%;
+  }
+
+  /* line 81, ../sass/layout/_grid.scss */
+  .bp1-col-3-4 {
+    width: 75%;
+  }
+}
+/* -- Breakpoint 2 (.bp2)
+------------------------------------------------------------- */
+@media only screen and (min-width: 45em) {
+  /* line 68, ../sass/layout/_grid.scss */
+  .bp2-col-1-1,
+  .bp2-col-set-1-1 .grid-col {
+    width: 100%;
+  }
+
+  /* line 71, ../sass/layout/_grid.scss */
+  .bp2-col-1-2,
+  .bp2-col-set-1-2 .grid-col {
+    width: 50%;
+  }
+
+  /* line 74, ../sass/layout/_grid.scss */
+  .bp2-col-1-3,
+  .bp2-col-set-1-3 .grid-col {
+    width: 33.333%;
+  }
+
+  /* line 77, ../sass/layout/_grid.scss */
+  .bp2-col-1-4,
+  .bp2-col-set-1-4 .grid-col {
+    width: 25%;
+  }
+
+  /* line 79, ../sass/layout/_grid.scss */
+  .bp2-col-2-3 {
+    width: 66.666%;
+  }
+
+  /* line 81, ../sass/layout/_grid.scss */
+  .bp2-col-3-4 {
+    width: 75%;
+  }
+}
+/* -- Breakpoint 3 (.bp3)
+------------------------------------------------------------- */
+@media only screen and (min-width: 60em) {
+  /* line 68, ../sass/layout/_grid.scss */
+  .bp3-col-1-1,
+  .bp3-col-set-1-1 .grid-col {
+    width: 100%;
+  }
+
+  /* line 71, ../sass/layout/_grid.scss */
+  .bp3-col-1-2,
+  .bp3-col-set-1-2 .grid-col {
+    width: 50%;
+  }
+
+  /* line 74, ../sass/layout/_grid.scss */
+  .bp3-col-1-3,
+  .bp3-col-set-1-3 .grid-col {
+    width: 33.333%;
+  }
+
+  /* line 77, ../sass/layout/_grid.scss */
+  .bp3-col-1-4,
+  .bp3-col-set-1-4 .grid-col {
+    width: 25%;
+  }
+
+  /* line 79, ../sass/layout/_grid.scss */
+  .bp3-col-2-3 {
+    width: 66.666%;
+  }
+
+  /* line 81, ../sass/layout/_grid.scss */
+  .bp3-col-3-4 {
+    width: 75%;
+  }
+}
+/* -- Breakpoint 4 (.bp4)
+------------------------------------------------------------- */
+@media only screen and (min-width: 70em) {
+  /* line 68, ../sass/layout/_grid.scss */
+  .bp4-col-1-1,
+  .bp4-col-set-1-1 .grid-col {
+    width: 100%;
+  }
+
+  /* line 71, ../sass/layout/_grid.scss */
+  .bp4-col-1-2,
+  .bp4-col-set-1-2 .grid-col {
+    width: 50%;
+  }
+
+  /* line 74, ../sass/layout/_grid.scss */
+  .bp4-col-1-3,
+  .bp4-col-set-1-3 .grid-col {
+    width: 33.333%;
+  }
+
+  /* line 77, ../sass/layout/_grid.scss */
+  .bp4-col-1-4,
+  .bp4-col-set-1-4 .grid-col {
+    width: 25%;
+  }
+
+  /* line 79, ../sass/layout/_grid.scss */
+  .bp4-col-2-3 {
+    width: 66.666%;
+  }
+
+  /* line 81, ../sass/layout/_grid.scss */
+  .bp4-col-3-4 {
+    width: 75%;
+  }
+}
+/* line 1, ../sass/layout/_layout.scss */
+.container {
+  max-width: 88%;
+  margin: 0 auto;
+}
+@media (min-width: 45em) {
+  /* line 1, ../sass/layout/_layout.scss */
+  .container {
+    max-width: 40em;
+  }
+}
+@media (min-width: 60em) {
+  /* line 1, ../sass/layout/_layout.scss */
+  .container {
+    max-width: 50em;
+  }
+}
+@media (min-width: 70em) {
+  /* line 1, ../sass/layout/_layout.scss */
+  .container {
+    max-width: 61em;
+  }
+}
+
+/* line 1, ../sass/sections/_footer.scss */
+.footer {
+  padding: 1.5em 0;
+  background: #aa0000;
+  color: white;
+  border-top: 10px solid #dfdfdf;
+}
+/* line 6, ../sass/sections/_footer.scss */
+.footer a {
+  color: white;
 }
