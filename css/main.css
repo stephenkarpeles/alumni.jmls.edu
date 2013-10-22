@@ -722,12 +722,13 @@ li.grid-col {
 
 /* line 1, ../sass/sections/_footer.scss */
 .footer {
+  margin-top: 3em;
   padding: 1.5em 0;
   background: #aa0000;
   color: white;
   border-top: 10px solid #dfdfdf;
 }
-/* line 6, ../sass/sections/_footer.scss */
+/* line 7, ../sass/sections/_footer.scss */
 .footer a {
   color: white;
 }
