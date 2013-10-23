@@ -478,7 +478,7 @@ h2, h3, h4 {
 
 /* line 10, ../sass/components/_buttons.scss */
 .btn-large {
-  padding: .15em 1em .25em;
+  padding: .1em 1em .2em;
   font-size: 1.5em;
 }
 
@@ -552,6 +552,13 @@ h2, h3, h4 {
 .btn-white.btn-large:active {
   bottom: -3px;
   right: -3px;
+}
+
+/* line 1, ../sass/components/_lists.scss */
+.horizontal li {
+  display: inline-block;
+  vertical-align: baseline;
+  zoom: 1;
 }
 
 /* line 6, ../sass/partials/_base.scss */
@@ -937,6 +944,40 @@ li.grid-col {
   .container {
     max-width: 86%;
   }
+}
+
+/* line 1, ../sass/sections/_header.scss */
+.header {
+  height: 100px;
+}
+
+/* line 1, ../sass/sections/_nav.scss */
+.nav {
+  height: 50px;
+  margin-bottom: 1.5em;
+  background: #aa0000;
+  font-weight: 700;
+  font-size: 1em;
+  color: white;
+  text-align: center;
+}
+/* line 9, ../sass/sections/_nav.scss */
+.nav ul {
+  margin: 0;
+  padding: 14px 0 0;
+  list-style-type: disc;
+}
+/* line 13, ../sass/sections/_nav.scss */
+.nav li {
+  padding: 0 1.6%;
+}
+/* line 15, ../sass/sections/_nav.scss */
+.nav a {
+  color: white;
+}
+/* line 17, ../sass/sections/_nav.scss */
+.nav a:hover, .nav a:active {
+  border-bottom: 1px solid white;
 }
 
 /* line 1, ../sass/sections/_footer.scss */

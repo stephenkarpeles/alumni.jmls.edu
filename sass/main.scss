@@ -3,10 +3,12 @@
 @import "vendor/normalize";
 
 // Authored Dependencies 
+@import "components/helpers";
 @import "components/colors";
 @import "components/typography";
 @import "components/responsive";
 @import "components/buttons";
+@import "components/lists";
 
 // Partials 
 @import "partials/base";
@@ -16,6 +18,8 @@
 @import "layout/layout";
 
 // Sections
+@import "sections/header";
+@import "sections/nav";
 @import "sections/footer";
 
 
