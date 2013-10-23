@@ -2,31 +2,36 @@
 // More info here: http://ahrengot.com/web-development/sass-breakpoint-mixin/
 // And here: http://css-tricks.com/media-queries-sass-3-2-and-codekit/
 
-$bp0 	: 0em;
-$bp1 	: 30em;
-$bp2 	: 45em;
-$bp3 	: 60em;
-$bp4 	: 70em;
+$bp1  : 480px;
+$bp2 	: 600px;
+$bp3 	: 800px;
+$bp4 	: 900px;
+$bp5 	: 1000px;
+$bp6 	: 1100px;
 
 @mixin breakpoint($point, $value: 0) {
-	@if $point == bp0 {
-		@media (min-width: $bp0) { @content; }
-	}
-
-	@else if $point == bp1 {
-		@media (min-width: $bp1) { @content; }
+	@if $point == bp1 {
+		@media (max-width: $bp1) { @content; }
 	}
 
 	@else if $point == bp2 {
-		@media (min-width: $bp2) { @content; }
+		@media (max-width: $bp2) { @content; }
 	}
 
 	@else if $point == bp3 {
-		@media (min-width: $bp3) { @content; }
+		@media (max-width: $bp3) { @content; }
 	}
 	
 	@else if $point == bp4 {
-		@media (min-width: $bp4) { @content; }
+		@media (max-width: $bp4) { @content; }
+	}
+
+	@else if $point == bp5 {
+		@media (max-width: $bp5) { @content; }
+	}
+
+	@else if $point == bp6 {
+		@media (max-width: $bp6) { @content; }
 	}
 }
 
