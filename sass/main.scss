@@ -1,10 +1,12 @@
 // Vendor Dependencies 
+@import "compass";
 @import "vendor/normalize";
 
 // Authored Dependencies 
 @import "components/colors";
 @import "components/typography";
 @import "components/responsive";
+@import "components/buttons";
 
 // Partials 
 @import "partials/base";

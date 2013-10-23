@@ -263,3 +263,187 @@ Load paths:
 2013-10-23 10:31:38 identical css/main.css 
 2013-10-23 10:32:21 overwrite css/main.css 
 2013-10-23 10:33:31 overwrite css/main.css 
+2013-10-23 10:41:43     error sass/main.scss (Line 7 of sass/partials/_base.scss: Undefined mixin 'box-sizing'.)
+2013-10-23 10:41:43 overwrite css/main.css 
+2013-10-23 10:41:48     error sass/main.scss (Line 7 of sass/partials/_base.scss: Undefined mixin 'box-sizing'.)
+2013-10-23 10:41:48 identical css/main.css 
+2013-10-23 10:41:48     error sass/main.scss (Line 7 of sass/partials/_base.scss: Undefined mixin 'box-sizing'.)
+2013-10-23 10:41:48 identical css/main.css 
+2013-10-23 10:42:23 overwrite css/main.css 
+2013-10-23 10:42:25 overwrite css/main.css 
+2013-10-23 10:42:32     error sass/main.scss (Line 7 of sass/partials/_base.scss: Undefined mixin 'box-sizing'.)
+2013-10-23 10:42:32 overwrite css/main.css 
+2013-10-23 10:42:39 overwrite css/main.css 
+2013-10-23 10:42:41 identical css/main.css 
+2013-10-23 10:47:12 identical css/main.css 
+2013-10-23 10:48:06 identical css/main.css 
+2013-10-23 10:48:11 identical css/main.css 
+2013-10-23 10:49:08 overwrite css/main.css 
+2013-10-23 10:49:09 identical css/main.css 
+2013-10-23 10:49:11 overwrite css/main.css 
+2013-10-23 10:49:24 identical css/main.css 
+2013-10-23 10:49:47     error sass/main.scss (Line 4 of sass/components/_typography.scss: Invalid CSS after "...lvetica Neue', ": expected expression (e.g. 1px, bold), was ".")
+2013-10-23 10:49:47 overwrite css/main.css 
+2013-10-23 10:49:47     error sass/main.scss (Line 4 of sass/components/_typography.scss: Invalid CSS after "...lvetica Neue', ": expected expression (e.g. 1px, bold), was ".")
+2013-10-23 10:49:47 identical css/main.css 
+2013-10-23 10:49:53 overwrite css/main.css 
+2013-10-23 10:54:56 overwrite css/main.css 
+2013-10-23 10:55:51 overwrite css/main.css 
+2013-10-23 10:57:22 overwrite css/main.css 
+2013-10-23 10:57:46 overwrite css/main.css 
+2013-10-23 10:58:01 overwrite css/main.css 
+2013-10-23 10:58:21 overwrite css/main.css 
+2013-10-23 10:58:45 overwrite css/main.css 
+2013-10-23 10:59:00 overwrite css/main.css 
+2013-10-23 10:59:31 overwrite css/main.css 
+2013-10-23 10:59:51 overwrite css/main.css 
+2013-10-23 11:01:06 overwrite css/main.css 
+2013-10-23 11:01:35 overwrite css/main.css 
+2013-10-23 11:01:58 overwrite css/main.css 
+2013-10-23 11:04:19 overwrite css/main.css 
+2013-10-23 11:04:24 overwrite css/main.css 
+2013-10-23 11:04:33 overwrite css/main.css 
+2013-10-23 11:07:01 overwrite css/main.css 
+2013-10-23 11:07:24 overwrite css/main.css 
+2013-10-23 11:07:46 overwrite css/main.css 
+2013-10-23 11:08:00 overwrite css/main.css 
+2013-10-23 11:08:09     error sass/main.scss (Line 25 of sass/components/_typography.scss: Invalid CSS after "...margin-bottom: ": expected expression (e.g. 1px, bold), was "..625em; }")
+2013-10-23 11:08:09 overwrite css/main.css 
+2013-10-23 11:08:09     error sass/main.scss (Line 25 of sass/components/_typography.scss: Invalid CSS after "...margin-bottom: ": expected expression (e.g. 1px, bold), was "..625em; }")
+2013-10-23 11:08:09 identical css/main.css 
+2013-10-23 11:08:11 overwrite css/main.css 
+2013-10-23 11:08:42 overwrite css/main.css 
+2013-10-23 11:11:12 overwrite css/main.css 
+2013-10-23 11:11:45 overwrite css/main.css 
+2013-10-23 11:11:59 overwrite css/main.css 
+2013-10-23 11:12:08 overwrite css/main.css 
+2013-10-23 11:12:13 overwrite css/main.css 
+2013-10-23 11:12:36 overwrite css/main.css 
+2013-10-23 11:12:58 overwrite css/main.css 
+2013-10-23 11:17:01 overwrite css/main.css 
+2013-10-23 11:18:01 overwrite css/main.css 
+2013-10-23 11:18:28     error sass/main.scss (Line 18 of sass/components/_typography.scss: Invalid CSS after "...; line-height: ": expected expression (e.g. 1px, bold), was "}")
+2013-10-23 11:18:28 overwrite css/main.css 
+2013-10-23 11:18:28     error sass/main.scss (Line 18 of sass/components/_typography.scss: Invalid CSS after "...; line-height: ": expected expression (e.g. 1px, bold), was "}")
+2013-10-23 11:18:28 identical css/main.css 
+2013-10-23 11:18:44 overwrite css/main.css 
+2013-10-23 11:18:57 overwrite css/main.css 
+2013-10-23 11:19:13 overwrite css/main.css 
+2013-10-23 11:19:45 overwrite css/main.css 
+2013-10-23 11:19:56 overwrite css/main.css 
+2013-10-23 11:20:06 overwrite css/main.css 
+2013-10-23 11:20:15 overwrite css/main.css 
+2013-10-23 11:20:24 overwrite css/main.css 
+2013-10-23 11:20:39 overwrite css/main.css 
+2013-10-23 11:20:51 overwrite css/main.css 
+2013-10-23 11:20:58 overwrite css/main.css 
+2013-10-23 11:22:02 overwrite css/main.css 
+2013-10-23 11:22:21 overwrite css/main.css 
+2013-10-23 11:22:35 overwrite css/main.css 
+2013-10-23 11:22:45 overwrite css/main.css 
+2013-10-23 11:23:12 identical css/main.css 
+2013-10-23 11:30:32 overwrite css/main.css 
+2013-10-23 11:32:17 overwrite css/main.css 
+2013-10-23 11:32:34 overwrite css/main.css 
+2013-10-23 11:38:41 overwrite css/main.css 
+2013-10-23 11:39:21 identical css/main.css 
+2013-10-23 11:39:27 overwrite css/main.css 
+2013-10-23 11:45:45 identical css/main.css 
+2013-10-23 11:46:30 overwrite css/main.css 
+2013-10-23 11:46:42 overwrite css/main.css 
+2013-10-23 11:46:45 overwrite css/main.css 
+2013-10-23 11:46:50 overwrite css/main.css 
+2013-10-23 11:47:21 overwrite css/main.css 
+2013-10-23 11:47:30 overwrite css/main.css 
+2013-10-23 11:48:21 identical css/main.css 
+2013-10-23 11:49:41 overwrite css/main.css 
+2013-10-23 11:51:51     error sass/main.scss (Line 15 of sass/components/_buttons.scss: Undefined variable: "$white".)
+2013-10-23 11:51:51 overwrite css/main.css 
+2013-10-23 11:52:01 overwrite css/main.css 
+2013-10-23 11:52:15 overwrite css/main.css 
+2013-10-23 11:52:42 identical css/main.css 
+2013-10-23 11:53:26 overwrite css/main.css 
+2013-10-23 11:54:01 overwrite css/main.css 
+2013-10-23 11:54:20 identical css/main.css 
+2013-10-23 11:54:59 overwrite css/main.css 
+2013-10-23 11:55:15 identical css/main.css 
+2013-10-23 11:56:11     error sass/main.scss (Line 30 of sass/components/_buttons.scss: Invalid CSS after "...lude box-shadow": expected "}", was ": none;")
+2013-10-23 11:56:11 overwrite css/main.css 
+2013-10-23 11:56:11     error sass/main.scss (Line 30 of sass/components/_buttons.scss: Invalid CSS after "...lude box-shadow": expected "}", was ": none;")
+2013-10-23 11:56:11 identical css/main.css 
+2013-10-23 11:56:46 overwrite css/main.css 
+2013-10-23 11:57:14 identical css/main.css 
+2013-10-23 11:57:53 overwrite css/main.css 
+2013-10-23 11:58:06 overwrite css/main.css 
+2013-10-23 12:01:48 overwrite css/main.css 
+2013-10-23 12:01:55 overwrite css/main.css 
+2013-10-23 12:02:02 overwrite css/main.css 
+2013-10-23 12:02:07 overwrite css/main.css 
+2013-10-23 12:02:13 overwrite css/main.css 
+2013-10-23 12:03:47     error sass/main.scss (Line 13 of sass/components/_typography.scss: Invalid CSS after "$smallest-font  ": expected ":", was "{ font-size: .8...")
+2013-10-23 12:03:47 overwrite css/main.css 
+2013-10-23 12:03:47     error sass/main.scss (Line 13 of sass/components/_typography.scss: Invalid CSS after "$smallest-font  ": expected ":", was "{ font-size: .8...")
+2013-10-23 12:03:47 identical css/main.css 
+2013-10-23 12:04:37 overwrite css/main.css 
+2013-10-23 12:04:43 identical css/main.css 
+2013-10-23 12:05:07 overwrite css/main.css 
+2013-10-23 12:05:13 overwrite css/main.css 
+2013-10-23 12:05:18 overwrite css/main.css 
+2013-10-23 12:07:47 overwrite css/main.css 
+2013-10-23 12:08:24 identical css/main.css 
+2013-10-23 12:08:31 identical css/main.css 
+2013-10-23 12:08:41 overwrite css/main.css 
+2013-10-23 12:08:58 overwrite css/main.css 
+2013-10-23 12:09:25 overwrite css/main.css 
+2013-10-23 12:10:00 overwrite css/main.css 
+2013-10-23 12:10:20 overwrite css/main.css 
+2013-10-23 12:10:52 overwrite css/main.css 
+2013-10-23 12:10:59 overwrite css/main.css 
+2013-10-23 12:11:11 overwrite css/main.css 
+2013-10-23 12:11:19 overwrite css/main.css 
+2013-10-23 12:11:24 overwrite css/main.css 
+2013-10-23 12:11:29 overwrite css/main.css 
+2013-10-23 12:11:46 overwrite css/main.css 
+2013-10-23 12:11:57 overwrite css/main.css 
+2013-10-23 12:12:05 overwrite css/main.css 
+2013-10-23 12:12:12 overwrite css/main.css 
+2013-10-23 12:12:17 overwrite css/main.css 
+2013-10-23 12:12:23 overwrite css/main.css 
+2013-10-23 12:13:06 overwrite css/main.css 
+2013-10-23 12:13:21 identical css/main.css 
+2013-10-23 12:13:22 identical css/main.css 
+2013-10-23 12:13:36 overwrite css/main.css 
+2013-10-23 12:14:04 overwrite css/main.css 
+2013-10-23 12:15:11 overwrite css/main.css 
+2013-10-23 12:16:37 overwrite css/main.css 
+2013-10-23 12:17:00     error sass/main.scss (Line 40 of sass/components/_buttons.scss: Invalid CSS after "...y 3px 3px 0); }": expected selector or at-rule, was "}")
+2013-10-23 12:17:00 overwrite css/main.css 
+2013-10-23 12:17:00     error sass/main.scss (Line 40 of sass/components/_buttons.scss: Invalid CSS after "...y 3px 3px 0); }": expected selector or at-rule, was "}")
+2013-10-23 12:17:00 identical css/main.css 
+2013-10-23 12:17:22 overwrite css/main.css 
+2013-10-23 12:17:31 overwrite css/main.css 
+2013-10-23 12:17:38 overwrite css/main.css 
+2013-10-23 12:17:54 overwrite css/main.css 
+2013-10-23 12:18:49 overwrite css/main.css 
+2013-10-23 12:19:10 overwrite css/main.css 
+2013-10-23 12:19:25 overwrite css/main.css 
+2013-10-23 12:20:49     error sass/main.scss (Line 48 of sass/components/_buttons.scss: Invalid CSS after "...white.btn-large": expected "{", was "")
+2013-10-23 12:20:49 overwrite css/main.css 
+2013-10-23 12:20:49     error sass/main.scss (Line 48 of sass/components/_buttons.scss: Invalid CSS after "...white.btn-large": expected "{", was "")
+2013-10-23 12:20:49 identical css/main.css 
+2013-10-23 12:21:48     error sass/main.scss (Line 48 of sass/components/_buttons.scss: Invalid CSS after "	right: -3px; } ": expected selector or at-rule, was "}")
+2013-10-23 12:21:48 overwrite css/main.css 
+2013-10-23 12:21:48     error sass/main.scss (Line 48 of sass/components/_buttons.scss: Invalid CSS after "	right: -3px; } ": expected selector or at-rule, was "}")
+2013-10-23 12:21:48 identical css/main.css 
+2013-10-23 12:21:54     error sass/main.scss (Line 43 of sass/components/_buttons.scss: Invalid CSS after "	right: -2px; } ": expected selector or at-rule, was "}")
+2013-10-23 12:21:54 overwrite css/main.css 
+2013-10-23 12:21:54     error sass/main.scss (Line 43 of sass/components/_buttons.scss: Invalid CSS after "	right: -2px; } ": expected selector or at-rule, was "}")
+2013-10-23 12:21:54 identical css/main.css 
+2013-10-23 12:22:01 overwrite css/main.css 
+2013-10-23 12:22:52 overwrite css/main.css 
+2013-10-23 12:23:12 identical css/main.css 
+2013-10-23 12:23:27 overwrite css/main.css 
+2013-10-23 12:23:39 identical css/main.css 
+2013-10-23 12:23:56 identical css/main.css 
+2013-10-23 12:23:57 identical css/main.css 
+2013-10-23 12:24:14 identical css/main.css 

@@ -1,9 +1,18 @@
+// Control box model on all elements
+// More info here: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+// And here: http://css-tricks.com/box-sizing/
+*,
+*:after,
+*:before {
+	@include box-sizing(border-box); }
+
 body {
 	font-family: $font-stack;
 	font-size: 1em;
 	color: $text-color; }
 
 p {
+	margin: 0 0 1.25em;
 	line-height: $line-height-main; }
 
 a {

@@ -1,3 +1,6 @@
+// Author: Boon
+// More info here: http://builtbyboon.com/blog/proportional-grids
+
 //-------------------------------------------------------
 // GRID SETTINGS
 //-------------------------------------------------------
@@ -102,7 +105,7 @@ $grid-col-class: "grid-col";
         
 }
 
-// amend widths slightly for IE7/6
+// Amend widths slightly for IE7/6
 @mixin grid-setup-oldie($namespace) {
 
   .lt-ie8 {

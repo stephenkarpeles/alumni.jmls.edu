@@ -1,0 +1,51 @@
+// Main Button Element
+.btn {
+	display: inline-block;
+	cursor: pointer;	
+	@include border-radius(5px); }
+
+// Button Sizes
+.btn-small  { padding: .2em .6em .3em; font-size: $font-size-small; }
+.btn-medium { padding: .25em 1em .35em; font-size: $font-size-main;  }
+.btn-large  { padding: .15em 1em .25em; font-size: $font-size-beta; }
+
+// Button Colors
+.btn-red { 
+	background: $main-red; 
+	color: white;
+	@include box-shadow($lighter-gray-alt 2px 2px 0);
+	&:hover {
+		background: $bright-red;
+		color: white;	} }
+
+.btn-white { 
+	background: white; 
+	color: $main-red;
+	@include box-shadow($lighter-gray 2px 2px 0);
+	&:hover {		
+		color: $dark-gray; } }
+
+.btn-red.btn-large   { @include box-shadow($lighter-gray-alt 3px 3px 0); }
+.btn-white.btn-large { @include box-shadow($lighter-gray 3px 3px 0); }
+
+// Button Effects
+.btn-red,
+.btn-white,
+.btn-red.btn-large,
+.btn-white.btn-large {
+	position: relative;
+	&:active {
+		// Hide box shadow on click to create "depressed" look
+		@include box-shadow(white 0 0 0); } }
+
+.btn-red,
+.btn-white {
+	&:active {
+		bottom: -2px;
+		right: -2px; } }
+
+.btn-red.btn-large,
+.btn-white.btn-large {
+	&:active {
+		bottom: -3px;
+		right: -3px; } } 

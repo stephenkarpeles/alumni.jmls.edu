@@ -1,24 +1,42 @@
 // Variables 
 $font-stack:  
-	'Source Sans Pro', 
-	'HelveticaNeue-Light', 
-	'Helvetica Neue Light', 
+	'Source Sans Pro', 	 
 	'Helvetica Neue', 
+	'HelveticaNeue-Light', 
+	'Helvetica Neue Light',
 	Helvetica, 
 	Arial, 
 	sans-serif;
 
 $line-height-main: 1.4;
 
+// Font Sizes
+$font-size-main     : 1em; 
+
+$font-size-alpha    : 2.15em;
+$font-size-beta     : 1.5em;
+$font-size-gamma    : 1.17em;
+
+$font-size-small 		: .95em; 
+$font-size-smaller  : .9em; 
+$font-size-smallest : .8em; 
+
 // Styles
 .bold   { font-weight: 700; }
 .italic { font-style: italic; }
+.upcase { text-transform: uppercase; }
 
-h1, h2, h3, h4, h5, h6 { margin-top: 0; }
+h1, .alpha { font-size: $font-size-alpha; line-height: 1.1; }
+h2, .beta  { font-size: $font-size-beta;  line-height: 1.2; } 
+h3, .gamma { font-size: $font-size-gamma; line-height: 1.2; }
+h4, .delta { font-size: $font-size-main;  line-height: 1.235; }
 
-// Address variable `h1` font-size and margin within `section` and `article`
-// contexts in Firefox 4+, Safari 5, and Chrome.
-h1 {
-    font-size: 2em;
-    margin: 0.67em 0; }
+h1         { margin: 0 0 .5em;   }
+h2, h3, h4 { margin: 0 0 .625em; }
+
+
+
+
+
+
 
