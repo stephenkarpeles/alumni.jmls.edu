@@ -1,0 +1,17 @@
+.header-bar {
+	padding: .5em 1.125em;
+	font-weight: 700;
+	font-size: $font-size-gamma;
+	color: white; }
+
+.header-bar-red  { background: $main-red; }
+.header-bar-gray { background: $mid-gray; }
+.header-bar-gold { background: $gold; }
+
+.feature-box { 
+	padding: .5em 1.125em .75em;
+	:last-child {
+		margin-bottom: 0; } }
+
+.feature-box-gray { background: $light-gray; }
+.feature-box-gold { background: $tan; }

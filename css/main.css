@@ -453,9 +453,14 @@ h2, h3, h4 {
   margin: 0 0 .625em;
 }
 
-/* line 37, ../sass/components/_typography.scss */
+/* line 38, ../sass/components/_typography.scss */
+.page-header {
+  padding-bottom: .25em;
+  border-bottom: 1px solid #cacaca;
+}
+
+/* line 43, ../sass/components/_typography.scss */
 .featured-text {
-  color: #555555;
   font-size: 1.5em;
   font-weight: 300;
 }
@@ -568,6 +573,48 @@ h2, h3, h4 {
   zoom: 1;
 }
 
+/* line 1, ../sass/components/_modules.scss */
+.header-bar {
+  padding: .5em 1.125em;
+  font-weight: 700;
+  font-size: 1.17em;
+  color: white;
+}
+
+/* line 7, ../sass/components/_modules.scss */
+.header-bar-red {
+  background: #aa0000;
+}
+
+/* line 8, ../sass/components/_modules.scss */
+.header-bar-gray {
+  background: #666666;
+}
+
+/* line 9, ../sass/components/_modules.scss */
+.header-bar-gold {
+  background: #bf9d3e;
+}
+
+/* line 11, ../sass/components/_modules.scss */
+.feature-box {
+  padding: .5em 1.125em .75em;
+}
+/* line 13, ../sass/components/_modules.scss */
+.feature-box :last-child {
+  margin-bottom: 0;
+}
+
+/* line 16, ../sass/components/_modules.scss */
+.feature-box-gray {
+  background: #e7e7e7;
+}
+
+/* line 17, ../sass/components/_modules.scss */
+.feature-box-gold {
+  background: #f8f4e1;
+}
+
 /* line 6, ../sass/partials/_base.scss */
 *,
 *:after,
@@ -598,6 +645,21 @@ a {
 /* line 21, ../sass/partials/_base.scss */
 a:hover {
   color: #333333;
+}
+
+/* line 24, ../sass/partials/_base.scss */
+img {
+  max-width: 100%;
+}
+
+/* line 27, ../sass/partials/_base.scss */
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #cacaca;
+  margin: 1em 0;
+  padding: 0;
 }
 
 /* -- Setup grids with base class -- */
