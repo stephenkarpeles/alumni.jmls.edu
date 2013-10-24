@@ -5,3 +5,20 @@
   @include breakpoint(bp5) { max-width: 800px; } 
   @include breakpoint(bp4) { max-width: 700px; }
   @include breakpoint(bp3) { max-width: 86%;   } }
+
+ // Change order of elements at certain breakpoints
+.pull-right-above-bp1,
+.pull-right-above-bp2,
+.pull-right-above-bp3,
+.pull-right-above-bp4,
+.pull-right-above-bp5,
+.pull-right-above-bp6 { 
+	float: right; }
+
+.pull-right-above-bp1 { @include breakpoint(bp1) { float: left; } } 
+.pull-right-above-bp2 { @include breakpoint(bp2) { float: left; } } 
+.pull-right-above-bp3 { @include breakpoint(bp3) { float: left; } } 
+.pull-right-above-bp4 { @include breakpoint(bp4) { float: left; } } 
+.pull-right-above-bp5 { @include breakpoint(bp5) { float: left; } } 
+.pull-right-above-bp6 { @include breakpoint(bp6) { float: left; } } 
+	

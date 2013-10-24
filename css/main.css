@@ -453,13 +453,23 @@ h2, h3, h4 {
   margin: 0 0 .625em;
 }
 
+/* line 37, ../sass/components/_typography.scss */
+.text-center {
+  text-align: center;
+}
+
 /* line 38, ../sass/components/_typography.scss */
+.text-right {
+  text-align: right;
+}
+
+/* line 41, ../sass/components/_typography.scss */
 .page-header {
   padding-bottom: .25em;
   border-bottom: 1px solid #cacaca;
 }
 
-/* line 43, ../sass/components/_typography.scss */
+/* line 46, ../sass/components/_typography.scss */
 .featured-text {
   font-size: 1.5em;
   font-weight: 300;
@@ -573,44 +583,66 @@ h2, h3, h4 {
   zoom: 1;
 }
 
-/* line 1, ../sass/components/_modules.scss */
+/* line 2, ../sass/components/_modules.scss */
+.module {
+  position: relative;
+  overflow: hidden;
+  clear: both;
+}
+
+/* line 7, ../sass/components/_modules.scss */
+.module-narrow {
+  margin-bottom: 1em;
+}
+
+/* line 8, ../sass/components/_modules.scss */
+.module-main {
+  margin-bottom: 2em;
+}
+
+/* line 9, ../sass/components/_modules.scss */
+.module-wide {
+  margin-bottom: 3em;
+}
+
+/* line 12, ../sass/components/_modules.scss */
 .header-bar {
-  padding: .5em 1.125em;
+  padding: .45em 1.125em .5em;
   font-weight: 700;
   font-size: 1.17em;
   color: white;
 }
 
-/* line 7, ../sass/components/_modules.scss */
+/* line 18, ../sass/components/_modules.scss */
 .header-bar-red {
   background: #aa0000;
 }
 
-/* line 8, ../sass/components/_modules.scss */
+/* line 19, ../sass/components/_modules.scss */
 .header-bar-gray {
   background: #666666;
 }
 
-/* line 9, ../sass/components/_modules.scss */
+/* line 20, ../sass/components/_modules.scss */
 .header-bar-gold {
   background: #bf9d3e;
 }
 
-/* line 11, ../sass/components/_modules.scss */
+/* line 23, ../sass/components/_modules.scss */
 .feature-box {
   padding: .5em 1.125em .75em;
 }
-/* line 13, ../sass/components/_modules.scss */
+/* line 25, ../sass/components/_modules.scss */
 .feature-box :last-child {
   margin-bottom: 0;
 }
 
-/* line 16, ../sass/components/_modules.scss */
+/* line 28, ../sass/components/_modules.scss */
 .feature-box-gray {
   background: #e7e7e7;
 }
 
-/* line 17, ../sass/components/_modules.scss */
+/* line 29, ../sass/components/_modules.scss */
 .feature-box-gold {
   background: #f8f4e1;
 }
@@ -1015,15 +1047,67 @@ li.grid-col {
   }
 }
 
+/* line 15, ../sass/layout/_layout.scss */
+.pull-right-above-bp1,
+.pull-right-above-bp2,
+.pull-right-above-bp3,
+.pull-right-above-bp4,
+.pull-right-above-bp5,
+.pull-right-above-bp6 {
+  float: right;
+}
+
+@media (max-width: 480px) {
+  /* line 18, ../sass/layout/_layout.scss */
+  .pull-right-above-bp1 {
+    float: left;
+  }
+}
+
+@media (max-width: 600px) {
+  /* line 19, ../sass/layout/_layout.scss */
+  .pull-right-above-bp2 {
+    float: left;
+  }
+}
+
+@media (max-width: 800px) {
+  /* line 20, ../sass/layout/_layout.scss */
+  .pull-right-above-bp3 {
+    float: left;
+  }
+}
+
+@media (max-width: 900px) {
+  /* line 21, ../sass/layout/_layout.scss */
+  .pull-right-above-bp4 {
+    float: left;
+  }
+}
+
+@media (max-width: 1000px) {
+  /* line 22, ../sass/layout/_layout.scss */
+  .pull-right-above-bp5 {
+    float: left;
+  }
+}
+
+@media (max-width: 1100px) {
+  /* line 23, ../sass/layout/_layout.scss */
+  .pull-right-above-bp6 {
+    float: left;
+  }
+}
+
 /* line 1, ../sass/sections/_header.scss */
-.header {
+header {
   height: 100px;
 }
 
 /* line 1, ../sass/sections/_nav.scss */
-.nav {
+nav {
   height: 50px;
-  margin-bottom: 1.5em;
+  margin-bottom: 2em;
   background: #aa0000;
   font-weight: 700;
   font-size: 1em;
@@ -1031,26 +1115,27 @@ li.grid-col {
   text-align: center;
 }
 /* line 9, ../sass/sections/_nav.scss */
-.nav ul {
+nav ul {
   margin: 0;
   padding: 14px 0 0;
   list-style-type: disc;
 }
 /* line 13, ../sass/sections/_nav.scss */
-.nav li {
+nav li {
   padding: 0 1.6%;
 }
 /* line 15, ../sass/sections/_nav.scss */
-.nav a {
+nav a {
   color: white;
 }
 /* line 17, ../sass/sections/_nav.scss */
-.nav a:hover, .nav a:active {
+nav a:hover, nav a:active {
+  color: white;
   border-bottom: 1px solid white;
 }
 
 /* line 1, ../sass/sections/_footer.scss */
-.footer {
+footer {
   margin-top: 3em;
   padding: 1.5em 0;
   background: #aa0000;
@@ -1058,6 +1143,6 @@ li.grid-col {
   border-top: 10px solid #dfdfdf;
 }
 /* line 7, ../sass/sections/_footer.scss */
-.footer a {
+footer a {
   color: white;
 }

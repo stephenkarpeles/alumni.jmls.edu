@@ -1,6 +1,6 @@
 		</div><!-- .container -->
 
-		<div class="footer">
+		<footer>
 			<div class="container">
 				<div class="grid-wrap">
 					<div class="grid-col col-1-4">
@@ -41,7 +41,7 @@
 					</div>
 				</div><!-- .grid-wrap -->
 			</div><!-- .container -->
-		</div><!-- .footer -->
+		</footer><!-- .footer -->
 		
 	</body>
 </html>

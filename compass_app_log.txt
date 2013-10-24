@@ -590,3 +590,76 @@ Load paths:
 2013-10-23 16:41:37 overwrite css/main.css 
 2013-10-23 16:41:53 overwrite css/main.css 
 2013-10-23 16:44:36 overwrite css/main.css 
+2013-10-24 10:03:32 overwrite css/main.css 
+2013-10-24 10:03:40 overwrite css/main.css 
+2013-10-24 10:03:51 identical css/main.css 
+2013-10-24 10:03:52 identical css/main.css 
+2013-10-24 10:17:38 overwrite css/main.css 
+2013-10-24 10:17:41 overwrite css/main.css 
+2013-10-24 10:17:45 overwrite css/main.css 
+2013-10-24 10:46:50 overwrite css/main.css 
+2013-10-24 10:50:08 overwrite css/main.css 
+2013-10-24 11:10:51 overwrite css/main.css 
+2013-10-24 11:11:25     error sass/main.scss (Line 2 of sass/components/_helpers.scss: Invalid CSS after "$mar-bot-tiny": expected ":", was "$margin-bottom-...")
+2013-10-24 11:11:25 overwrite css/main.css 
+2013-10-24 11:11:25     error sass/main.scss (Line 2 of sass/components/_helpers.scss: Invalid CSS after "$mar-bot-tiny": expected ":", was "$margin-bottom-...")
+2013-10-24 11:11:25 identical css/main.css 
+2013-10-24 11:12:43     error sass/main.scss (Line 20 of sass/components/_modules.scss: Undefined variable: "$margin-bottom-main".)
+2013-10-24 11:12:43 overwrite css/main.css 
+2013-10-24 11:13:04     error sass/main.scss (Line 3 of sass/sections/_nav.scss: Undefined variable: "$margin-bottom-main".)
+2013-10-24 11:13:04 overwrite css/main.css 
+2013-10-24 11:13:11     error sass/main.scss (Line 3 of sass/sections/_nav.scss: Undefined variable: "$margin-bottom-main".)
+2013-10-24 11:13:11 identical css/main.css 
+2013-10-24 11:13:22 overwrite css/main.css 
+2013-10-24 11:14:15 overwrite css/main.css 
+2013-10-24 11:18:07 identical css/main.css 
+2013-10-24 11:18:36 overwrite css/main.css 
+2013-10-24 11:20:29 overwrite css/main.css 
+2013-10-24 11:20:58     error sass/main.scss (Line 20 of sass/components/_modules.scss: Undefined variable: "$mar-bot-large".)
+2013-10-24 11:20:58 overwrite css/main.css 
+2013-10-24 11:21:07     error sass/main.scss (Line 3 of sass/sections/_nav.scss: Undefined variable: "$mar-bot-medium".)
+2013-10-24 11:21:07 overwrite css/main.css 
+2013-10-24 11:21:20 overwrite css/main.css 
+2013-10-24 11:21:30 identical css/main.css 
+2013-10-24 11:21:34 overwrite css/main.css 
+2013-10-24 11:21:44 identical css/main.css 
+2013-10-24 11:21:52 overwrite css/main.css 
+2013-10-24 11:29:17 overwrite css/main.css 
+2013-10-24 11:29:30 overwrite css/main.css 
+2013-10-24 11:30:10     error sass/main.scss (Line 9 of sass/layout/_layout.scss: Invalid CSS after "... float: right; ": expected "}", was "!important; }")
+2013-10-24 11:30:10 overwrite css/main.css 
+2013-10-24 11:30:10     error sass/main.scss (Line 9 of sass/layout/_layout.scss: Invalid CSS after "... float: right; ": expected "}", was "!important; }")
+2013-10-24 11:30:10 identical css/main.css 
+2013-10-24 11:30:17 overwrite css/main.css 
+2013-10-24 11:37:58 overwrite css/main.css 
+2013-10-24 11:38:27     error sass/main.scss (Line 20 of sass/components/_modules.scss: Undefined variable: "$space-large".)
+2013-10-24 11:38:27 overwrite css/main.css 
+2013-10-24 11:38:45     error sass/main.scss (Line 3 of sass/sections/_nav.scss: Undefined variable: "$space-medium".)
+2013-10-24 11:38:45 overwrite css/main.css 
+2013-10-24 11:39:05 overwrite css/main.css 
+2013-10-24 11:40:32 identical css/main.css 
+2013-10-24 11:40:33 identical css/main.css 
+2013-10-24 11:40:39     error sass/main.scss (Line 5 of sass/components/_helpers.scss: Invalid CSS after ".": expected class name, was "")
+2013-10-24 11:40:39 overwrite css/main.css 
+2013-10-24 11:40:40     error sass/main.scss (Line 5 of sass/components/_helpers.scss: Invalid CSS after ".": expected class name, was "")
+2013-10-24 11:40:40 identical css/main.css 
+2013-10-24 11:41:25 overwrite css/main.css 
+2013-10-24 11:42:00 identical css/main.css 
+2013-10-24 11:43:32 overwrite css/main.css 
+2013-10-24 11:43:42 overwrite css/main.css 
+2013-10-24 12:43:01 overwrite css/main.css 
+2013-10-24 12:45:59 overwrite css/main.css 
+2013-10-24 12:49:40 overwrite css/main.css 
+2013-10-24 12:51:04 identical css/main.css 
+2013-10-24 12:51:05 identical css/main.css 
+2013-10-24 12:51:18 overwrite css/main.css 
+2013-10-24 12:51:28 identical css/main.css 
+2013-10-24 12:52:32 overwrite css/main.css 
+2013-10-24 12:52:59 overwrite css/main.css 
+2013-10-24 12:53:25 overwrite css/main.css 
+2013-10-24 12:55:52 identical css/main.css 
+2013-10-24 13:02:37 overwrite css/main.css 
+2013-10-24 13:05:00 overwrite css/main.css 
+2013-10-24 13:07:51 overwrite css/main.css 
+2013-10-24 13:07:54 overwrite css/main.css 
+2013-10-24 13:14:24 overwrite css/main.css 

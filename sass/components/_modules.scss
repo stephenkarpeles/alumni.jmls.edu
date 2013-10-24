@@ -1,5 +1,16 @@
+// Modules
+.module {
+	position: relative;
+	overflow: hidden;
+	clear: both; }
+
+.module-narrow  { margin-bottom: $base-spacing-unit * 2; }
+.module-main    { margin-bottom: $base-spacing-unit * 4; }
+.module-wide    { margin-bottom: $base-spacing-unit * 6; }
+
+//Header Bars
 .header-bar {
-	padding: .5em 1.125em;
+	padding: .45em 1.125em .5em;
 	font-weight: 700;
 	font-size: $font-size-gamma;
 	color: white; }
@@ -8,6 +19,7 @@
 .header-bar-gray { background: $mid-gray; }
 .header-bar-gold { background: $gold; }
 
+// Feature Boxes
 .feature-box { 
 	padding: .5em 1.125em .75em;
 	:last-child {
