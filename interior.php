@@ -9,53 +9,36 @@
 				<!-- Main -->			
 				<article class="main">				
 					<h1 class="page-header">Get Involved</h1>
-					<p class="featured-text">As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile.</p>		
+					<p class="featured-text">As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile.</p>
 
-					<div class="grid-wrap">
-						<div class="grid-col bp2-col-1-3">														
-							<div class="module highlight mar-bot-small">
+					<div class="highlight">
+						<div class="highlight-wrap">
+							<div class="highlight-unit">
 								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta bold"><a href="">Young Alumni Council</a></div>
-							</div>							
-						</div>
-
-						<div class="grid-col bp2-col-1-3">
-							<div class="module highlight mar-bot-small">
+								<div class="highlight-header"><a href="">Young Alumni Council</a></div>
+							</div>
+							<div class="highlight-unit">
 								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta bold"><a href="">Alumni Association</a></div>
+								<div class="highlight-header"><a href="">Alumni Association</a></div>	
+							</div>
+							<div class="highlight-unit">
+								<img src="http://placehold.it/220x133" alt="">
+								<div class="highlight-header"><a href="">Mentoring Program</a></div>
+							</div>
+							<div class="highlight-unit">
+								<img src="http://placehold.it/220x133" alt="">
+								<div class="highlight-header"><a href="">Alumni Events</a></div>
+							</div>
+							<div class="highlight-unit">
+								<img src="http://placehold.it/220x133" alt="">
+								<div class="highlight-header"><a href="">Alumni Meetings</a></div>
+							</div>
+							<div class="highlight-unit">
+								<img src="http://placehold.it/220x133" alt="">
+								<div class="highlight-header"><a href="">Volunteer Opportunities</a></div>
 							</div>
 						</div>
-
-						<div class="grid-col bp2-col-1-3">
-							<div class="module highlight mar-bot-small">
-								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta bold"><a href="">Mentoring Program</a></div>
-							</div>
-						</div>						
-					</div><!-- .grid-wrap -->	
-
-					<div class="grid-wrap">
-						<div class="grid-col bp2-col-1-3">														
-							<div class="module highlight mar-bot-small">
-								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta bold"><a href="">Alumni Events</a></div>
-							</div>							
-						</div>
-
-						<div class="grid-col bp2-col-1-3">
-							<div class="module highlight mar-bot-small">
-								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta bold"><a href="">Alumni Meetings</a></div>
-							</div>
-						</div>
-
-						<div class="grid-col bp2-col-1-3">
-							<div class="module highlight mar-bot-small">								
-								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta bold"><a href="">Volunteer Opportunities</a></div>
-							</div>
-						</div>						
-					</div><!-- .grid-wrap -->	
+					</div>	
 
 					<hr class="mar-top-small">
 
