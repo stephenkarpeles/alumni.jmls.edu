@@ -689,3 +689,36 @@ Load paths:
 2013-10-24 13:46:14 overwrite css/main.css 
 2013-10-24 13:47:15 identical css/main.css 
 2013-10-24 13:47:16 identical css/main.css 
+2013-10-24 14:06:28 overwrite css/main.css 
+2013-10-24 14:07:22 overwrite css/main.css 
+2013-10-24 14:07:24 overwrite css/main.css 
+2013-10-24 14:07:33 overwrite css/main.css 
+2013-10-24 14:07:49 overwrite css/main.css 
+2013-10-24 14:08:27 overwrite css/main.css 
+2013-10-24 14:08:54 overwrite css/main.css 
+2013-10-24 14:09:07 overwrite css/main.css 
+2013-10-24 14:09:29 overwrite css/main.css 
+2013-10-24 14:09:35 overwrite css/main.css 
+2013-10-24 14:09:51 overwrite css/main.css 
+2013-10-24 14:10:09 overwrite css/main.css 
+2013-10-24 14:21:20 overwrite css/main.css 
+2013-10-24 14:27:05 overwrite css/main.css 
+2013-10-24 14:28:30 overwrite css/main.css 
+2013-10-24 14:30:00 overwrite css/main.css 
+2013-10-24 14:30:19 overwrite css/main.css 
+2013-10-24 14:30:34 overwrite css/main.css 
+2013-10-24 14:30:44 overwrite css/main.css 
+2013-10-24 14:30:56 overwrite css/main.css 
+2013-10-24 14:31:29 overwrite css/main.css 
+2013-10-24 14:32:17 overwrite css/main.css 
+2013-10-24 14:33:10 overwrite css/main.css 
+2013-10-24 14:33:48 overwrite css/main.css 
+2013-10-24 14:33:57 overwrite css/main.css 
+2013-10-24 14:34:26 overwrite css/main.css 
+2013-10-24 14:34:51 overwrite css/main.css 
+2013-10-24 14:35:06 identical css/main.css 
+2013-10-24 14:35:16     error sass/main.scss (Line 12 of sass/components/_modules.scss: Invalid CSS after "...align: left;	} ": expected selector or at-rule, was "}")
+2013-10-24 14:35:16 overwrite css/main.css 
+2013-10-24 14:35:17     error sass/main.scss (Line 12 of sass/components/_modules.scss: Invalid CSS after "...align: left;	} ": expected selector or at-rule, was "}")
+2013-10-24 14:35:17 identical css/main.css 
+2013-10-24 14:35:23 overwrite css/main.css 

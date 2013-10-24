@@ -13,46 +13,46 @@
 
 					<div class="grid-wrap">
 						<div class="grid-col bp2-col-1-3">														
-							<div class="module mar-bot-small">
+							<div class="module highlight mar-bot-small">
 								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta text-center bold"><a href="">Young Alumni Council</a></div>
+								<div class="delta bold"><a href="">Young Alumni Council</a></div>
 							</div>							
 						</div>
 
 						<div class="grid-col bp2-col-1-3">
-							<div class="module mar-bot-small">
+							<div class="module highlight mar-bot-small">
 								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta text-center bold"><a href="">Alumni Association</a></div>
+								<div class="delta bold"><a href="">Alumni Association</a></div>
 							</div>
 						</div>
 
 						<div class="grid-col bp2-col-1-3">
-							<div class="module mar-bot-small">
+							<div class="module highlight mar-bot-small">
 								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta text-center bold"><a href="">Mentoring Program</a></div>
+								<div class="delta bold"><a href="">Mentoring Program</a></div>
 							</div>
 						</div>						
 					</div><!-- .grid-wrap -->	
 
 					<div class="grid-wrap">
 						<div class="grid-col bp2-col-1-3">														
-							<div class="module mar-bot-small">
+							<div class="module highlight mar-bot-small">
 								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta text-center bold"><a href="">Alumni Events</a></div>
+								<div class="delta bold"><a href="">Alumni Events</a></div>
 							</div>							
 						</div>
 
 						<div class="grid-col bp2-col-1-3">
-							<div class="module mar-bot-small">
+							<div class="module highlight mar-bot-small">
 								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta text-center bold"><a href="">Alumni Meetings</a></div>
+								<div class="delta bold"><a href="">Alumni Meetings</a></div>
 							</div>
 						</div>
 
 						<div class="grid-col bp2-col-1-3">
-							<div class="module mar-bot-small">								
+							<div class="module highlight mar-bot-small">								
 								<img src="http://placehold.it/220x133" alt="">
-								<div class="delta text-center bold"><a href="">Volunteer Opportunities</a></div>
+								<div class="delta bold"><a href="">Volunteer Opportunities</a></div>
 							</div>
 						</div>						
 					</div><!-- .grid-wrap -->	

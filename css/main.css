@@ -474,73 +474,73 @@ table {
   margin-top: 3em;
 }
 
-/* line 26, ../sass/components/_typography.scss */
+/* line 31, ../sass/components/_typography.scss */
 .bold {
   font-weight: 700;
 }
 
-/* line 27, ../sass/components/_typography.scss */
+/* line 32, ../sass/components/_typography.scss */
 .italic {
   font-style: italic;
 }
 
-/* line 28, ../sass/components/_typography.scss */
+/* line 33, ../sass/components/_typography.scss */
 .upcase {
   text-transform: uppercase;
 }
 
-/* line 30, ../sass/components/_typography.scss */
+/* line 35, ../sass/components/_typography.scss */
 h1, .alpha {
   font-size: 2.15em;
   line-height: 1.1;
   margin: 0 0 .5em;
 }
 
-/* line 31, ../sass/components/_typography.scss */
+/* line 40, ../sass/components/_typography.scss */
 h2, .beta {
   font-size: 1.5em;
   line-height: 1.2;
   margin: 0 0 .625em;
 }
 
-/* line 32, ../sass/components/_typography.scss */
+/* line 45, ../sass/components/_typography.scss */
 h3, .gamma {
   font-size: 1.17em;
   line-height: 1.2;
   margin: 0 0 .625em;
 }
 
-/* line 33, ../sass/components/_typography.scss */
+/* line 50, ../sass/components/_typography.scss */
 h4 {
   font-size: 1em;
-  line-height: 1.235;
+  line-height: 1.1;
   margin: 0 0 .625em;
 }
 
-/* line 35, ../sass/components/_typography.scss */
+/* line 55, ../sass/components/_typography.scss */
 .delta {
   font-size: 1.1em;
   line-height: 1.2;
   margin: 0 0 .625em;
 }
 
-/* line 37, ../sass/components/_typography.scss */
+/* line 60, ../sass/components/_typography.scss */
 .text-center {
   text-align: center;
 }
 
-/* line 38, ../sass/components/_typography.scss */
+/* line 61, ../sass/components/_typography.scss */
 .text-right {
   text-align: right;
 }
 
-/* line 41, ../sass/components/_typography.scss */
+/* line 64, ../sass/components/_typography.scss */
 .page-header {
   padding-bottom: .25em;
   border-bottom: 1px solid #cacaca;
 }
 
-/* line 46, ../sass/components/_typography.scss */
+/* line 69, ../sass/components/_typography.scss */
 .featured-text {
   font-size: 1.5em;
   font-weight: 300;
@@ -661,59 +661,66 @@ h4 {
   clear: both;
 }
 
-/* line 7, ../sass/components/_modules.scss */
-.module-narrow {
-  margin-bottom: 1em;
-}
-
 /* line 8, ../sass/components/_modules.scss */
-.module-main {
-  margin-bottom: 2em;
+.highlight {
+  text-align: center;
+}
+@media (max-width: 600px) {
+  /* line 8, ../sass/components/_modules.scss */
+  .highlight {
+    width: 50%;
+    text-align: left;
+  }
 }
 
-/* line 9, ../sass/components/_modules.scss */
-.module-wide {
-  margin-bottom: 3em;
+@media (max-width: 600px) {
+  /* line 14, ../sass/components/_modules.scss */
+  .highlight img {
+    float: left;
+    width: 30%;
+    overflow: hidden;
+  }
 }
 
-/* line 12, ../sass/components/_modules.scss */
+/* line 23, ../sass/components/_modules.scss */
 .header-bar {
   padding: .45em 1.125em .5em;
   font-weight: 700;
   font-size: 1.17em;
+  line-height: 1.1;
   color: white;
 }
 
-/* line 18, ../sass/components/_modules.scss */
+/* line 30, ../sass/components/_modules.scss */
 .header-bar-red {
   background: #aa0000;
 }
 
-/* line 19, ../sass/components/_modules.scss */
+/* line 31, ../sass/components/_modules.scss */
 .header-bar-gray {
   background: #666666;
 }
 
-/* line 20, ../sass/components/_modules.scss */
+/* line 32, ../sass/components/_modules.scss */
 .header-bar-gold {
   background: #bf9d3e;
 }
 
-/* line 23, ../sass/components/_modules.scss */
+/* line 35, ../sass/components/_modules.scss */
 .feature-box {
   padding: .5em 1.125em .75em;
 }
-/* line 25, ../sass/components/_modules.scss */
+/* line 37, ../sass/components/_modules.scss */
 .feature-box :last-child {
   margin-bottom: 0;
 }
 
-/* line 28, ../sass/components/_modules.scss */
+/* line 40, ../sass/components/_modules.scss */
 .feature-box-gray {
   background: #e7e7e7;
 }
 
-/* line 29, ../sass/components/_modules.scss */
+/* line 41, ../sass/components/_modules.scss */
 .feature-box-gold {
   background: #f8f4e1;
 }
@@ -733,29 +740,35 @@ body {
   font-size: 1em;
   color: #333333;
 }
+@media (max-width: 800px) {
+  /* line 9, ../sass/partials/_base.scss */
+  body {
+    font-size: 95%;
+  }
+}
 
-/* line 14, ../sass/partials/_base.scss */
+/* line 16, ../sass/partials/_base.scss */
 p {
   margin: 0 0 1.25em;
   line-height: 1.4;
 }
 
-/* line 18, ../sass/partials/_base.scss */
+/* line 20, ../sass/partials/_base.scss */
 a {
   color: #aa0000;
   text-decoration: none;
 }
-/* line 21, ../sass/partials/_base.scss */
+/* line 23, ../sass/partials/_base.scss */
 a:hover {
   color: #333333;
 }
 
-/* line 24, ../sass/partials/_base.scss */
+/* line 26, ../sass/partials/_base.scss */
 img {
   max-width: 100%;
 }
 
-/* line 27, ../sass/partials/_base.scss */
+/* line 29, ../sass/partials/_base.scss */
 hr {
   display: block;
   height: 1px;

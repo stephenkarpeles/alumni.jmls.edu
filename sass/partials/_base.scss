@@ -9,7 +9,9 @@
 body {
 	font-family: $font-stack;
 	font-size: 1em;
-	color: $text-color; }
+	color: $text-color; 
+  @include breakpoint(bp3) {
+    font-size: 95%; } }
 
 p {
 	margin: 0 0 1.25em;

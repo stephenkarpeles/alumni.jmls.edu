@@ -4,15 +4,27 @@
 	overflow: hidden;
 	clear: both; }
 
-.module-narrow  { margin-bottom: $base-spacing-unit*2; }
-.module-main    { margin-bottom: $base-spacing-unit*4; }
-.module-wide    { margin-bottom: $base-spacing-unit*6; }
+// Highlight Module 
+.highlight {
+	text-align: center;	
+	@include breakpoint(bp2) {
+	  width: 50%; 
+		text-align: left;	} }
 
-//Header Bars
+.highlight img {
+	@include breakpoint(bp2) {
+		float: left;
+		width: 30%;
+		overflow: hidden; } }
+
+.highlight .header {}
+
+// Header Bars
 .header-bar {
 	padding: .45em 1.125em .5em;
 	font-weight: 700;
 	font-size: $font-size-gamma;
+	line-height: $line-height-lowest;
 	color: white; }
 
 .header-bar-red  { background: $main-red; }
