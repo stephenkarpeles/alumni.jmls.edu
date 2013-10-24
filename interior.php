@@ -12,51 +12,58 @@
 					<p class="featured-text">As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile.</p>		
 
 					<div class="grid-wrap">
-						<div class="grid-col col-1-3">														
-							<div class="module module-narrow">
+						<div class="grid-col bp2-col-1-3">														
+							<div class="module mar-bot-small">
 								<img src="http://placehold.it/220x133" alt="">
-								<h3 class="text-center"><a href="">Young Alumni Council</a></h3>
+								<div class="delta text-center bold"><a href="">Young Alumni Council</a></div>
 							</div>							
 						</div>
 
-						<div class="grid-col col-1-3">
-							<div class="module module-narrow">
+						<div class="grid-col bp2-col-1-3">
+							<div class="module mar-bot-small">
 								<img src="http://placehold.it/220x133" alt="">
-								<h3 class="text-center"><a href="">Alumni Association</a></h3>
+								<div class="delta text-center bold"><a href="">Alumni Association</a></div>
 							</div>
 						</div>
 
-						<div class="grid-col col-1-3">
-							<div class="module module-narrow">
+						<div class="grid-col bp2-col-1-3">
+							<div class="module mar-bot-small">
 								<img src="http://placehold.it/220x133" alt="">
-								<h3 class="text-center"><a href="">Mentoring Program</a></h3>
+								<div class="delta text-center bold"><a href="">Mentoring Program</a></div>
 							</div>
-						</div>
+						</div>						
 					</div><!-- .grid-wrap -->	
 
 					<div class="grid-wrap">
-						<div class="grid-col col-1-3">														
-							<div class="module module-narrow">
+						<div class="grid-col bp2-col-1-3">														
+							<div class="module mar-bot-small">
 								<img src="http://placehold.it/220x133" alt="">
-								<h3 class="text-center"><a href="">Young Alumni Council</a></h3>
+								<div class="delta text-center bold"><a href="">Alumni Events</a></div>
 							</div>							
 						</div>
 
-						<div class="grid-col col-1-3">
-							<div class="module module-narrow">
+						<div class="grid-col bp2-col-1-3">
+							<div class="module mar-bot-small">
 								<img src="http://placehold.it/220x133" alt="">
-								<h3 class="text-center"><a href="">Alumni Association</a></h3>
+								<div class="delta text-center bold"><a href="">Alumni Meetings</a></div>
 							</div>
 						</div>
 
-						<div class="grid-col col-1-3">
-							<div class="module module-narrow">
+						<div class="grid-col bp2-col-1-3">
+							<div class="module mar-bot-small">								
 								<img src="http://placehold.it/220x133" alt="">
-								<h3 class="text-center"><a href="">Mentoring Program</a></h3>
+								<div class="delta text-center bold"><a href="">Volunteer Opportunities</a></div>
 							</div>
-						</div>
+						</div>						
 					</div><!-- .grid-wrap -->	
 
+					<hr class="mar-top-small">
+
+					<h2>Headline Number Two</h2>
+
+					<p>The sky is the limit only for those who aren't afraid to fly!</p>
+					<p>The Earth was small, light blue, and so touchingly alone, our home that must be defended like a holy relic. The Earth was absolutely round. I believe I never knew what the word round meant until I saw Earth from space.</p>
+					<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
 
 				</article>
@@ -66,7 +73,7 @@
 			<div class="grid-col bp2-col-1-4">
 				<!-- Sidebar -->
 				<aside class="sidebar">			
-					<div class="module module-main">
+					<div class="module mar-bot-large">
 						<div class="header-bar header-bar-red">Get Involved Menu</div>
 						<ul>
 							<li><a href="">Interior Link</a></li>
@@ -78,21 +85,21 @@
 						</ul>
 					</div>
 
-					<div class="module module-main">
+					<div class="module mar-bot-large">
 						<div class="header-bar header-bar-gray">Connect Online</div>
 						<div class="feature-box feature">
 							<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
 						</div>
 					</div>
 
-					<div class="module module-main">
+					<div class="module mar-bot-large">
 						<div class="header-bar header-bar-gold">Briefcase</div>
 						<div class="feature-box feature-box-gold">
 							<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
 						</div>
 					</div>
 
-					<div class="module module-main">
+					<div class="module mar-bot-large">
 						<div class="header-bar header-bar-gold">Upcoming Events</div>
 						<div class="feature-box">
 							<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
