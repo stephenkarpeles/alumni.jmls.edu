@@ -4,7 +4,7 @@
 	<!-- Begin Content -->
 	<section>
 		<div class="grid-wrap">								
-			<div class="grid-col bp2-col-3-4 pull-right-above-bp2">	
+			<div class="grid-col col-3-4 bp2-col-1-1 pull-right-above-bp2">	
 
 				<!-- Main -->			
 				<article class="main">				
@@ -40,7 +40,7 @@
 						</div>
 					</div>	
 
-					<hr class="mar-top-small">
+					<hr class="mar-top-zero">
 
 					<h2>Headline Number Two</h2>
 
@@ -53,7 +53,7 @@
 				<!-- End Main -->
 			</div><!-- .grid-col -->			
 						
-			<div class="grid-col bp2-col-1-4">
+			<div class="grid-col col-1-4 bp2-col-1-1">
 				<!-- Sidebar -->
 				<aside class="sidebar">			
 					<div class="module mar-bot-large">

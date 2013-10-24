@@ -2,18 +2,20 @@
 $base-spacing-unit  : .5em;
 
 // Margins
-.mar-bot-smallest {margin-bottom: $base-spacing-unit/2; }  // .25em
-.mar-bot-smaller  {margin-bottom: $base-spacing-unit; }    // .5em
-.mar-bot-small    {margin-bottom: $base-spacing-unit*2; }  // 1em
-.mar-bot-medium   {margin-bottom: $base-spacing-unit*3; }  // 1.5em
-.mar-bot-large 		{margin-bottom: $base-spacing-unit*4; }  // 2em
-.mar-bot-larger 	{margin-bottom: $base-spacing-unit*5; }  // 2.5em
-.mar-bot-largest 	{margin-bottom: $base-spacing-unit*6; }  // 3em
- 
-.mar-top-smallest {margin-top: $base-spacing-unit/2; }     // .25em
-.mar-top-smaller  {margin-top: $base-spacing-unit; }       // .5em
-.mar-top-small    {margin-top: $base-spacing-unit*2; }     // 1em
-.mar-top-medium   {margin-top: $base-spacing-unit*3; }     // 1.5em
-.mar-top-large 		{margin-top: $base-spacing-unit*4; }     // 2em
-.mar-top-larger 	{margin-top: $base-spacing-unit*5; }     // 2.5em
-.mar-top-largest 	{margin-top: $base-spacing-unit*6; }     // 3em
+.mar-bot-zero     { margin-bottom: 0; }  									  // 0em
+.mar-bot-smallest { margin-bottom: $base-spacing-unit/2; }  // .25em
+.mar-bot-smaller  { margin-bottom: $base-spacing-unit; }    // .5em
+.mar-bot-small    { margin-bottom: $base-spacing-unit*2; }  // 1em
+.mar-bot-medium   { margin-bottom: $base-spacing-unit*3; }  // 1.5em
+.mar-bot-large 		{ margin-bottom: $base-spacing-unit*4; }  // 2em
+.mar-bot-larger 	{ margin-bottom: $base-spacing-unit*5; }  // 2.5em
+.mar-bot-largest 	{ margin-bottom: $base-spacing-unit*6; }  // 3em
+
+.mar-top-zero     { margin-top: 0; }  									    // 0em  
+.mar-top-smallest { margin-top: $base-spacing-unit/2; }     // .25em
+.mar-top-smaller  { margin-top: $base-spacing-unit; }       // .5em
+.mar-top-small    { margin-top: $base-spacing-unit*2; }     // 1em
+.mar-top-medium   { margin-top: $base-spacing-unit*3; }     // 1.5em
+.mar-top-large 		{ margin-top: $base-spacing-unit*4; }     // 2em
+.mar-top-larger 	{ margin-top: $base-spacing-unit*5; }     // 2.5em
+.mar-top-largest 	{ margin-top: $base-spacing-unit*6; }     // 3em

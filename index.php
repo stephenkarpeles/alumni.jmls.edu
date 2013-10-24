@@ -4,7 +4,7 @@
 	<!-- Begin Content -->
 	<section>
 		<div class="grid-wrap">
-			<div class="grid-col bp2-col-1-2">
+			<div class="grid-col">
 				<h1>Headline One</h1>
 				<p>Never in all their history <a href="" class="bold">have men</a> been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 				<h2>Second Headline</h2>
@@ -20,7 +20,7 @@
 				</div>						
 			</div>
 
-			<div class="grid-col bp2-col-1-2">
+			<div class="grid-col">
 				<h1>Headline One</h1>
 				<p>Never in all their history <a href="" class="bold">have men</a> been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 				<h2>Second Headline</h2>
