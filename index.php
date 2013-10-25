@@ -9,7 +9,7 @@
 				<div class="slider mar-bot-large">
 					<ul class="rslides no-list-style">
 					  <li>
-					  	<img src="http://placehold.it/675x285/eee" alt="">
+					  	<img src="images/hero-1.jpg" alt="">
 					  	<p class="caption">Alumni Gather at the Annual Meeting to share stories and celebrate. The event saw over 200 attendees. <a class="caption-link" href="">Read More &raquo;</a></p>
 					  </li>					  
 					  <li>
