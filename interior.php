@@ -59,7 +59,7 @@
 
 					<div class="grid-wrap">
 
-						<div class="grid-col col-1-1 bp1-col-1-2 bp3-col-1-1">
+						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 							<div class="module mar-bot-large">
 								<div class="header-bar header-bar-red">Get Involved Menu</div>
 								<ul>
@@ -73,7 +73,7 @@
 							</div>							
 						</div>
 
-						<div class="grid-col col-1-1 bp1-col-1-2 bp3-col-1-1">
+						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 							<div class="module mar-bot-large">
 								<div class="header-bar header-bar-gray">Connect Online</div>
 								<div class="feature-box feature">
@@ -86,7 +86,7 @@
 
 					<div class="grid-wrap">
 
-						<div class="grid-col col-1-1 bp1-col-1-2 bp3-col-1-1">
+						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 							<div class="module mar-bot-large">
 								<div class="header-bar header-bar-gold">Briefcase</div>
 								<div class="feature-box feature-box-gold">
@@ -95,7 +95,7 @@
 							</div>
 						</div>
 
-						<div class="grid-col col-1-1 bp1-col-1-2 bp3-col-1-1">
+						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 							<div class="module mar-bot-large">
 								<div class="header-bar header-bar-gold">Upcoming Events</div>
 								<div class="feature-box">
