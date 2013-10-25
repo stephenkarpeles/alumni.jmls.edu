@@ -4,7 +4,17 @@
 	<!-- Begin Content -->
 	<section>
 		<div class="grid-wrap">
-			<div class="grid-col bp1-col-1-2">
+			<div class="grid-col bp3-col-2-3">
+
+				<div class="slider mar-bot-medium">
+					<img src="http://placehold.it/675x270" alt="">					
+				</div>
+
+				<div class="header-bar header-bar-gray beta">Current Projects</div>
+				<div class="feature-box feature-box-gray">
+					<p>Copy here</p>					
+				</div>				
+
 				<h1>Headline One</h1>
 				<p>Never in all their history <a href="" class="bold">have men</a> been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 				<h2>Second Headline</h2>
@@ -20,7 +30,7 @@
 				</div>						
 			</div>
 
-			<div class="grid-col bp1-col-1-2">
+			<div class="grid-col bp3-col-1-3">
 				<h1>Headline One</h1>
 				<p>Never in all their history <a href="" class="bold">have men</a> been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 				<h2>Second Headline</h2>

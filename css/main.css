@@ -500,22 +500,22 @@ table {
 }
 
 /* line 35, ../sass/components/_typography.scss */
-h1, .alpha {
+h1 {
   font-size: 2.15em;
   line-height: 1.1;
   margin: 0 0 .5em;
 }
 
 /* line 40, ../sass/components/_typography.scss */
-h2, .beta {
+h2 {
   font-size: 1.5em;
   line-height: 1.2;
   margin: 0 0 .625em;
 }
 
 /* line 45, ../sass/components/_typography.scss */
-h3, .gamma {
-  font-size: 1.17em;
+h3 {
+  font-size: 1.25em;
   line-height: 1.2;
   margin: 0 0 .625em;
 }
@@ -528,29 +528,52 @@ h4 {
 }
 
 /* line 55, ../sass/components/_typography.scss */
-.delta {
-  font-size: 1.1em;
+.alpha {
+  font-size: 2.15em;
   line-height: 1.1;
-  margin: 0 0 .625em;
 }
 
-/* line 60, ../sass/components/_typography.scss */
+/* line 56, ../sass/components/_typography.scss */
+.beta {
+  font-size: 1.5em;
+  line-height: 1.2;
+}
+
+/* line 57, ../sass/components/_typography.scss */
+.gamma {
+  font-size: 1.25em;
+  line-height: 1.2;
+}
+
+/* line 58, ../sass/components/_typography.scss */
+.delta {
+  font-size: 1.17em;
+  line-height: 1.1;
+}
+
+/* line 59, ../sass/components/_typography.scss */
+.epsilon {
+  font-size: 1.1em;
+  line-height: 1.1;
+}
+
+/* line 61, ../sass/components/_typography.scss */
 .text-center {
   text-align: center;
 }
 
-/* line 61, ../sass/components/_typography.scss */
+/* line 62, ../sass/components/_typography.scss */
 .text-right {
   text-align: right;
 }
 
-/* line 64, ../sass/components/_typography.scss */
+/* line 65, ../sass/components/_typography.scss */
 .page-header {
   padding-bottom: .25em;
   border-bottom: 1px solid #cacaca;
 }
 
-/* line 69, ../sass/components/_typography.scss */
+/* line 70, ../sass/components/_typography.scss */
 .featured-text {
   font-size: 1.5em;
   font-weight: 300;
@@ -725,7 +748,7 @@ h4 {
 .highlight-header {
   padding-top: 0.25em;
   height: 4.75em;
-  font-size: 1.1em;
+  font-size: 1.17em;
   font-weight: 700;
   line-height: 1.1;
 }
@@ -744,9 +767,9 @@ h4 {
 
 /* line 40, ../sass/components/_modules.scss */
 .header-bar {
-  padding: .45em 1.125em .5em;
+  padding: 7px 16px 8px;
   font-weight: 700;
-  font-size: 1.17em;
+  font-size: 1.25em;
   line-height: 1.1;
   color: white;
 }
@@ -768,7 +791,7 @@ h4 {
 
 /* line 52, ../sass/components/_modules.scss */
 .feature-box {
-  padding: .5em 1.125em .75em;
+  padding: 8px 16px 9px;
 }
 /* line 54, ../sass/components/_modules.scss */
 .feature-box :last-child {

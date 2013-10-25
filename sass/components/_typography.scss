@@ -1,4 +1,5 @@
-// Variables 
+//-------------------------------------------------------
+// Font Families
 $font-stack:  
 	'Source Sans Pro', 	 
 	'Helvetica Neue', 
@@ -10,39 +11,38 @@ $font-stack:
 
 // Font Sizes
 $font-size-main     : 1em;
-
 $font-size-small 		: .95em; 
 $font-size-smaller  : .9em; 
 $font-size-smallest : .8em;  
 
 $font-size-alpha    : 2.15em;
 $font-size-beta     : 1.5em;
-$font-size-gamma    : 1.17em;
-$font-size-delta    : 1.1em;
+$font-size-gamma    : 1.25em;
+$font-size-delta    : 1.17em;
+$font-size-epsilon  : 1.1em;
 
 // Line Heights
 $line-height-main   : 1.4;
-
 $line-height-low    : 1.235;
 $line-height-lower  : 1.2;
 $line-height-lowest : 1.1;
+//-------------------------------------------------------
 
-// Styles
 .bold   { font-weight: 700; }
 .italic { font-style: italic; }
 .upcase { text-transform: uppercase; }
 
-h1, .alpha { 
+h1 { 
 	font-size: $font-size-alpha; 
 	line-height: $line-height-lowest;  
 	margin: 0 0 .5em; }
 
-h2, .beta  { 
+h2 { 
 	font-size: $font-size-beta;  
 	line-height: $line-height-lower;   
 	margin: 0 0 .625em; } 
 
-h3, .gamma { 
+h3 { 
 	font-size: $font-size-gamma; 
 	line-height: $line-height-lower;   
 	margin: 0 0 .625em; }
@@ -52,10 +52,11 @@ h4 {
 	line-height: $line-height-lowest;  
 	margin: 0 0 .625em; }
 
-.delta { 
-	font-size: $font-size-delta; 
-	line-height: $line-height-lowest;  
-	margin: 0 0 .625em; }
+.alpha 		{ font-size: $font-size-alpha; 	 line-height: $line-height-lowest; }
+.beta 		{ font-size: $font-size-beta;  	 line-height: $line-height-lower;  }
+.gamma 		{ font-size: $font-size-gamma;   line-height: $line-height-lower;  }
+.delta 		{ font-size: $font-size-delta;   line-height: $line-height-lowest; }
+.epsilon 	{ font-size: $font-size-epsilon; line-height: $line-height-lowest; }
 
 .text-center { text-align: center; }
 .text-right  { text-align: right; }
