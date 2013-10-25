@@ -12,31 +12,31 @@ $bp6 			: 1100px;
 
 @mixin breakpoint($point, $value: 0) {
 	@if $point == bp-tiny {
-		@media (max-width: $bp-tiny) { @content; }
+		@media (min-width: $bp-tiny) { @content; }
 	}
 
 	@else if $point == bp1 {
-		@media (max-width: $bp1) { @content; }
+		@media (min-width: $bp1) { @content; }
 	}
 
 	@else if $point == bp2 {
-		@media (max-width: $bp2) { @content; }
+		@media (min-width: $bp2) { @content; }
 	}
 
 	@else if $point == bp3 {
-		@media (max-width: $bp3) { @content; }
+		@media (min-width: $bp3) { @content; }
 	}
 	
 	@else if $point == bp4 {
-		@media (max-width: $bp4) { @content; }
+		@media (min-width: $bp4) { @content; }
 	}
 
 	@else if $point == bp5 {
-		@media (max-width: $bp5) { @content; }
+		@media (min-width: $bp5) { @content; }
 	}
 
 	@else if $point == bp6 {
-		@media (max-width: $bp6) { @content; }
+		@media (min-width: $bp6) { @content; }
 	}
 }
 

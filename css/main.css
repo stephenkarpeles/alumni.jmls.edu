@@ -690,59 +690,59 @@ h4 {
 .highlight-wrap {
   overflow: hidden;
   clear: both;
-  margin-left: -2em;
+  margin-left: -1.5em;
   padding: 0;
 }
-@media (max-width: 480px) {
+@media (min-width: 480px) {
   /* line 14, ../sass/components/_modules.scss */
   .highlight-wrap {
-    margin-left: -1.5em;
+    margin-left: -2em;
   }
 }
 
-/* line 22, ../sass/components/_modules.scss */
+/* line 21, ../sass/components/_modules.scss */
 .highlight-unit {
   position: relative;
   overflow: visible;
   float: left;
-  width: 33%;
-  padding-left: 2em;
+  width: 50%;
+  padding-left: 1.5em;
 }
-@media (max-width: 900px) {
-  /* line 22, ../sass/components/_modules.scss */
+@media (min-width: 480px) {
+  /* line 21, ../sass/components/_modules.scss */
   .highlight-unit {
-    width: 50%;
+    padding-left: 2em;
   }
 }
-@media (max-width: 480px) {
-  /* line 22, ../sass/components/_modules.scss */
+@media (min-width: 900px) {
+  /* line 21, ../sass/components/_modules.scss */
   .highlight-unit {
-    padding-left: 1.5em;
+    width: 33%;
   }
 }
 
-/* line 33, ../sass/components/_modules.scss */
+/* line 30, ../sass/components/_modules.scss */
 .highlight-header {
   padding-top: 0.25em;
-  height: 3.75em;
+  height: 4.75em;
   font-size: 1.1em;
   font-weight: 700;
   line-height: 1.1;
 }
-@media (max-width: 800px) {
-  /* line 33, ../sass/components/_modules.scss */
+@media (min-width: 360px) {
+  /* line 30, ../sass/components/_modules.scss */
   .highlight-header {
     height: 4em;
   }
 }
-@media (max-width: 360px) {
-  /* line 33, ../sass/components/_modules.scss */
+@media (min-width: 800px) {
+  /* line 30, ../sass/components/_modules.scss */
   .highlight-header {
-    height: 4.75em;
+    height: 3.75em;
   }
 }
 
-/* line 45, ../sass/components/_modules.scss */
+/* line 40, ../sass/components/_modules.scss */
 .header-bar {
   padding: .45em 1.125em .5em;
   font-weight: 700;
@@ -751,36 +751,36 @@ h4 {
   color: white;
 }
 
-/* line 52, ../sass/components/_modules.scss */
+/* line 47, ../sass/components/_modules.scss */
 .header-bar-red {
   background: #aa0000;
 }
 
-/* line 53, ../sass/components/_modules.scss */
+/* line 48, ../sass/components/_modules.scss */
 .header-bar-gray {
   background: #666666;
 }
 
-/* line 54, ../sass/components/_modules.scss */
+/* line 49, ../sass/components/_modules.scss */
 .header-bar-gold {
   background: #bf9d3e;
 }
 
-/* line 57, ../sass/components/_modules.scss */
+/* line 52, ../sass/components/_modules.scss */
 .feature-box {
   padding: .5em 1.125em .75em;
 }
-/* line 59, ../sass/components/_modules.scss */
+/* line 54, ../sass/components/_modules.scss */
 .feature-box :last-child {
   margin-bottom: 0;
 }
 
-/* line 62, ../sass/components/_modules.scss */
+/* line 57, ../sass/components/_modules.scss */
 .feature-box-gray {
   background: #e7e7e7;
 }
 
-/* line 63, ../sass/components/_modules.scss */
+/* line 58, ../sass/components/_modules.scss */
 .feature-box-gold {
   background: #f8f4e1;
 }
@@ -797,19 +797,19 @@ h4 {
 /* line 9, ../sass/partials/_base.scss */
 body {
   font-family: "Source Sans Pro", "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
-  font-size: 1em;
+  font-size: 92.5%;
   color: #333333;
 }
-@media (max-width: 800px) {
+@media (min-width: 480px) {
   /* line 9, ../sass/partials/_base.scss */
   body {
     font-size: 95%;
   }
 }
-@media (max-width: 480px) {
+@media (min-width: 800px) {
   /* line 9, ../sass/partials/_base.scss */
   body {
-    font-size: 90%;
+    font-size: 100%;
   }
 }
 
@@ -947,7 +947,7 @@ li.grid-col {
 
 /* -- Breakpoint Tiny (.bp-tiny)
 ------------------------------------------------------------- */
-@media only screen and (max-width: 360px) {
+@media only screen and (min-width: 360px) {
   /* line 71, ../sass/layout/_grid.scss */
   .bp-tiny-col-1-1,
   .bp-tiny-col-set-1-1 .grid-col {
@@ -984,7 +984,7 @@ li.grid-col {
 }
 /* -- Breakpoint 1 (.bp1)
 ------------------------------------------------------------- */
-@media only screen and (max-width: 480px) {
+@media only screen and (min-width: 480px) {
   /* line 71, ../sass/layout/_grid.scss */
   .bp1-col-1-1,
   .bp1-col-set-1-1 .grid-col {
@@ -1021,7 +1021,7 @@ li.grid-col {
 }
 /* -- Breakpoint 2 (.bp2)
 ------------------------------------------------------------- */
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 600px) {
   /* line 71, ../sass/layout/_grid.scss */
   .bp2-col-1-1,
   .bp2-col-set-1-1 .grid-col {
@@ -1058,7 +1058,7 @@ li.grid-col {
 }
 /* -- Breakpoint 3 (.bp3)
 ------------------------------------------------------------- */
-@media only screen and (max-width: 800px) {
+@media only screen and (min-width: 800px) {
   /* line 71, ../sass/layout/_grid.scss */
   .bp3-col-1-1,
   .bp3-col-set-1-1 .grid-col {
@@ -1095,7 +1095,7 @@ li.grid-col {
 }
 /* -- Breakpoint 4 (.bp4)
 ------------------------------------------------------------- */
-@media only screen and (max-width: 900px) {
+@media only screen and (min-width: 900px) {
   /* line 71, ../sass/layout/_grid.scss */
   .bp4-col-1-1,
   .bp4-col-set-1-1 .grid-col {
@@ -1130,9 +1130,9 @@ li.grid-col {
     width: 75%;
   }
 }
-/* -- Breakpoint 5 (.bp4)
+/* -- Breakpoint 5 (.bp5)
 ------------------------------------------------------------- */
-@media only screen and (max-width: 1000px) {
+@media only screen and (min-width: 1000px) {
   /* line 71, ../sass/layout/_grid.scss */
   .bp5-col-1-1,
   .bp5-col-set-1-1 .grid-col {
@@ -1167,9 +1167,9 @@ li.grid-col {
     width: 75%;
   }
 }
-/* -- Breakpoint 6 (.bp4)
+/* -- Breakpoint 6 (.bp6)
 ------------------------------------------------------------- */
-@media only screen and (max-width: 1100px) {
+@media only screen and (min-width: 1100px) {
   /* line 71, ../sass/layout/_grid.scss */
   .bp6-col-1-1,
   .bp6-col-set-1-1 .grid-col {
@@ -1206,83 +1206,73 @@ li.grid-col {
 }
 /* line 1, ../sass/layout/_layout.scss */
 .container {
-  max-width: 980px;
+  width: 86%;
   margin: 0 auto;
 }
-@media (max-width: 1100px) {
+@media (min-width: 800px) {
   /* line 1, ../sass/layout/_layout.scss */
   .container {
-    max-width: 900px;
+    width: 700px;
   }
 }
-@media (max-width: 1000px) {
+@media (min-width: 900px) {
   /* line 1, ../sass/layout/_layout.scss */
   .container {
-    max-width: 800px;
+    width: 800px;
   }
 }
-@media (max-width: 900px) {
+@media (min-width: 1000px) {
   /* line 1, ../sass/layout/_layout.scss */
   .container {
-    max-width: 700px;
+    width: 900px;
   }
 }
-@media (max-width: 800px) {
+@media (min-width: 1100px) {
   /* line 1, ../sass/layout/_layout.scss */
   .container {
-    max-width: 86%;
+    width: 980px;
   }
 }
 
-/* line 15, ../sass/layout/_layout.scss */
-.pull-right-above-bp1,
-.pull-right-above-bp2,
-.pull-right-above-bp3,
-.pull-right-above-bp4,
-.pull-right-above-bp5,
-.pull-right-above-bp6 {
-  float: right;
-}
-
-@media (max-width: 480px) {
-  /* line 18, ../sass/layout/_layout.scss */
+@media (min-width: 480px) {
+  /* line 10, ../sass/layout/_layout.scss */
   .pull-right-above-bp1 {
-    float: left;
+    float: right;
   }
 }
 
-@media (max-width: 600px) {
-  /* line 19, ../sass/layout/_layout.scss */
+@media (min-width: 600px) {
+  /* line 11, ../sass/layout/_layout.scss */
   .pull-right-above-bp2 {
-    float: left;
+    float: right;
   }
 }
 
-@media (max-width: 800px) {
-  /* line 20, ../sass/layout/_layout.scss */
+@media (min-width: 800px) {
+  /* line 12, ../sass/layout/_layout.scss */
   .pull-right-above-bp3 {
-    float: left;
+    float: right;
   }
 }
 
-@media (max-width: 900px) {
-  /* line 21, ../sass/layout/_layout.scss */
+@media (min-width: 900px) {
+  /* line 13, ../sass/layout/_layout.scss */
   .pull-right-above-bp4 {
-    float: left;
+    float: right;
   }
 }
 
-@media (max-width: 1000px) {
-  /* line 22, ../sass/layout/_layout.scss */
+@media (min-width: 1000px) {
+  /* line 14, ../sass/layout/_layout.scss */
   .pull-right-above-bp5 {
-    float: left;
+    float: right;
   }
 }
 
-@media (max-width: 1100px) {
-  /* line 23, ../sass/layout/_layout.scss */
+@media (min-width: 1100px) {
+  /* line 15, ../sass/layout/_layout.scss */
   .pull-right-above-bp6 {
-    float: left;
+    float: right;
   }
 }
 

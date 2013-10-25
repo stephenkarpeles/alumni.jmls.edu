@@ -4,7 +4,7 @@
 	<!-- Begin Content -->
 	<section>
 		<div class="grid-wrap">								
-			<div class="grid-col col-3-4 bp3-col-1-1 pull-right-above-bp3">	
+			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
 				<!-- Main -->			
 				<article class="main">				
@@ -53,13 +53,13 @@
 				<!-- End Main -->
 			</div><!-- .grid-col -->			
 						
-			<div class="grid-col col-1-4 bp3-col-1-1">
+			<div class="grid-col bp3-col-1-4">
 				<!-- Sidebar -->
 				<aside class="sidebar">	
 
 					<div class="grid-wrap">
 
-						<div class="grid-col bp3-col-1-2 bp1-col-1-1">
+						<div class="grid-col col-1-1 bp1-col-1-2 bp3-col-1-1">
 							<div class="module mar-bot-large">
 								<div class="header-bar header-bar-red">Get Involved Menu</div>
 								<ul>
@@ -73,7 +73,7 @@
 							</div>							
 						</div>
 
-						<div class="grid-col bp3-col-1-2 bp1-col-1-1">
+						<div class="grid-col col-1-1 bp1-col-1-2 bp3-col-1-1">
 							<div class="module mar-bot-large">
 								<div class="header-bar header-bar-gray">Connect Online</div>
 								<div class="feature-box feature">
@@ -86,7 +86,7 @@
 
 					<div class="grid-wrap">
 
-						<div class="grid-col bp3-col-1-2 bp1-col-1-1">
+						<div class="grid-col col-1-1 bp1-col-1-2 bp3-col-1-1">
 							<div class="module mar-bot-large">
 								<div class="header-bar header-bar-gold">Briefcase</div>
 								<div class="feature-box feature-box-gold">
@@ -95,7 +95,7 @@
 							</div>
 						</div>
 
-						<div class="grid-col bp3-col-1-2 bp1-col-1-1">
+						<div class="grid-col col-1-1 bp1-col-1-2 bp3-col-1-1">
 							<div class="module mar-bot-large">
 								<div class="header-bar header-bar-gold">Upcoming Events</div>
 								<div class="feature-box">

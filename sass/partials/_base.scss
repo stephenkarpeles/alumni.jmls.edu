@@ -8,10 +8,10 @@
 
 body {
 	font-family: $font-stack;
-	font-size: 1em;
+	font-size: 92.5%;
 	color: $text-color; 
-  @include breakpoint(bp3) { font-size: 95%; } 
-  @include breakpoint(bp1) { font-size: 90%; } }
+  @include breakpoint(bp1) { font-size: 95%; }
+  @include breakpoint(bp3) { font-size: 100%; } }
 
 p {
 	margin: 0 0 1.25em;
@@ -33,4 +33,3 @@ hr {
    border-top: 1px solid $lighter-gray;
    margin: 1.25em 0;
    padding: 0; }
-

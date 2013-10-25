@@ -170,42 +170,42 @@ $old-ie: null !default;
 
 /* -- Breakpoint Tiny (.bp-tiny)
 ------------------------------------------------------------- */                        
-@media only screen and (max-width: $bp-tiny) { 
+@media only screen and (min-width: $bp-tiny) { 
   @include grid-setup("bp-tiny-col");    
 }
 
 /* -- Breakpoint 1 (.bp1)
 ------------------------------------------------------------- */                        
-@media only screen and (max-width: $bp1) { 
+@media only screen and (min-width: $bp1) { 
   @include grid-setup("bp1-col");    
 }
    
 /* -- Breakpoint 2 (.bp2)
 ------------------------------------------------------------- */                        
-@media only screen and (max-width: $bp2) {
+@media only screen and (min-width: $bp2) {
   @include grid-setup("bp2-col");    
 }
 
 /* -- Breakpoint 3 (.bp3)
 ------------------------------------------------------------- */                        
-@media only screen and (max-width: $bp3) {
+@media only screen and (min-width: $bp3) {
   @include grid-setup("bp3-col");    
 }
 
 /* -- Breakpoint 4 (.bp4)
 ------------------------------------------------------------- */                        
-@media only screen and (max-width: $bp4) {
+@media only screen and (min-width: $bp4) {
   @include grid-setup("bp4-col");    
 }
 
-/* -- Breakpoint 5 (.bp4)
+/* -- Breakpoint 5 (.bp5)
 ------------------------------------------------------------- */                        
-@media only screen and (max-width: $bp5) {
+@media only screen and (min-width: $bp5) {
   @include grid-setup("bp5-col");    
 }
 
-/* -- Breakpoint 6 (.bp4)
+/* -- Breakpoint 6 (.bp6)
 ------------------------------------------------------------- */                        
-@media only screen and (max-width: $bp6) {
+@media only screen and (min-width: $bp6) {
   @include grid-setup("bp6-col");    
 }
