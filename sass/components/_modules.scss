@@ -1,24 +1,50 @@
-// Modules
 .module {
 	position: relative;
 	overflow: hidden;
 	clear: both; }
+
+// Media Object - More info here: http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/
+.media, 
+.media-content { 
+	overflow: hidden; 
+	_overflow: visible; 
+	zoom: 1; }
+
+.media-content {
+	line-height: $line-height-lower; }
+
+.media .img { 
+	float: left;
+	margin-top: 3px;
+	margin-right: 12px; }
+
+.media-bordered {
+	padding-top: 10px;
+	border-top: 1px solid $lighter-gray;
+	&:first-child {
+		padding-top: 0;
+		border-top: none;	} }
+
 
 // Header Bars
 .header-bar {
 	padding: 8px 16px 9px;
 	font-weight: 700;
 	font-size: $font-size-gamma;
-	line-height: $line-height-lowest;
-	color: white; }
+	line-height: $line-height-lowest; }
 
-.header-bar-red  { background: $main-red; }
-.header-bar-gray { background: $mid-gray; }
-.header-bar-gold { background: $gold; }
+.header-bar-red      { background: $main-red; color: white; }
+.header-bar-gray     { background: $mid-gray; color: white; }
+.header-bar-gold     { background: $gold;     color: white; }
+
+.header-bar-basic { 
+	padding: 8px 0 9px;
+	border-top: 1px solid $lighter-gray;  
+	border-bottom: 1px solid $lighter-gray; }
 
 // Feature Boxes
 .feature-box { 
-	padding: 8px 16px 9px;
+	padding: 11px 16px 12px;
 	:last-child {
 		margin-bottom: 0; } }
 

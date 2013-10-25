@@ -37,12 +37,100 @@
 		<div class="grid-col bp3-col-2-3">
 			<div class="header-bar header-bar-gray beta">Current Projects</div>
 			<div class="feature-box feature-box-gray mar-bot-medium">
-				<p>Copy here</p>					
-			</div>				
-			<h1>Headline One</h1>
-			<p>Never in all their history <a href="" class="bold">have men</a> been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
-			<h2>Second Headline</h2>
-			<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore . . . and this is exploration at its greatest.</p>		
+					
+				<div class="grid-wrap">
+
+					<div class="grid-col bp1-col-1-2">	
+
+						<!-- Project -->
+						<div class="media media-bordered mar-bot-smaller">
+							<a href="" class="img">
+								<img src="images/project-1.jpg" alt="">
+							</a>
+							<div class="media-content">
+								<a href="">Dean&rsquo;s Initiative to Start Renovating State Street Building</a>
+							</div>
+						</div>
+
+						<!-- Project -->
+						<div class="media media-bordered mar-bot-smaller">
+							<a href="" class="img">
+								<img src="images/project-2.jpg" alt="">
+							</a>
+							<div class="media-content">
+								<a href="">Justice Scalia Speaks at Graduate Commencement</a>
+							</div>
+						</div>
+
+						<!-- Project -->
+						<div class="media media-bordered mar-bot-smaller">
+							<a href="" class="img">
+								<img src="images/project-3.jpg" alt="">
+							</a>
+							<div class="media-content">
+								<a href="">Increasing Awning Size on All Overhangs, Schoolwide</a>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="grid-col bp1-col-1-2">
+
+						<!-- Project -->
+						<div class="media media-bordered mar-bot-smaller">
+							<a href="" class="img">
+								<img src="images/project-4.jpg" alt="">
+							</a>
+							<div class="media-content">
+								<a href="">Veterans Legal Support Center &amp; Clinic Begins Expansion for 2014</a>
+							</div>
+						</div>
+
+						<!-- Project -->
+						<div class="media media-bordered mar-bot-smaller">
+							<a href="" class="img">
+								<img src="images/project-5.jpg" alt="">
+							</a>
+							<div class="media-content">
+								<a href="">Career Services Office to Start Student Projects</a>
+							</div>
+						</div>					
+
+						<!-- Project -->
+						<div class="media media-bordered mar-bot-smaller">
+							<a href="" class="img">
+								<img src="images/project-6.jpg" alt="">
+							</a>
+							<div class="media-content">
+								<a href="">Classroom Technology Getting a Makeover</a>
+							</div>
+						</div>
+
+					</div>
+
+				</div><!-- .grid-wrap -->			
+			</div><!-- .feature-box -->
+
+			<div class="grid-wrap">
+
+				<div class="grid-col col-1-2">
+					<div class="header-bar header-bar-basic">
+						Upcoming Events
+					</div>	
+						
+
+				</div>
+
+				<div class="grid-col col-1-2">
+					<div class="header-bar header-bar-basic">
+						<span class="bold">Latest News</span>
+					</div>
+				</div>
+
+			</div> <!-- .grid-wrap -->
+
+
+				
 			<p><a class="btn btn-red btn-small bold">Small Red</a></p>							
 			<p><a class="btn btn-red btn-medium bold">Medium Red</a></p>	
 			<p><a class="btn btn-red btn-large bold">Large Red</a></p>	
@@ -70,7 +158,7 @@
 				<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 					<div class="module mar-bot-large">
 						<div class="header-bar header-bar-gray">Online Directory</div>
-						<div class="feature-box">
+						<div class="feature-box feature-box-gray">
 							<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
 						</div>			
 					</div>
