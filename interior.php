@@ -4,7 +4,7 @@
 	<!-- Begin Content -->
 	<section>
 		<div class="grid-wrap">								
-			<div class="grid-col col-3-4 bp2-col-1-1 pull-right-above-bp2">	
+			<div class="grid-col col-3-4 bp3-col-1-1 pull-right-above-bp3">	
 
 				<!-- Main -->			
 				<article class="main">				
@@ -53,44 +53,63 @@
 				<!-- End Main -->
 			</div><!-- .grid-col -->			
 						
-			<div class="grid-col col-1-4 bp2-col-1-1">
+			<div class="grid-col col-1-4 bp3-col-1-1">
 				<!-- Sidebar -->
-				<aside class="sidebar">			
-					<div class="module mar-bot-large">
-						<div class="header-bar header-bar-red">Get Involved Menu</div>
-						<ul>
-							<li><a href="">Interior Link</a></li>
-							<li><a href="">Interior Link</a></li>
-							<li><a href="">Interior Link</a></li>
-							<li><a href="">Interior Link</a></li>
-							<li><a href="">Interior Link</a></li>
-							<li><a href="">Interior Link</a></li>
-						</ul>
-					</div>
+				<aside class="sidebar">	
 
-					<div class="module mar-bot-large">
-						<div class="header-bar header-bar-gray">Connect Online</div>
-						<div class="feature-box feature">
-							<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+					<div class="grid-wrap">
+
+						<div class="grid-col bp3-col-1-2 bp1-col-1-1">
+							<div class="module mar-bot-large">
+								<div class="header-bar header-bar-red">Get Involved Menu</div>
+								<ul>
+									<li><a href="">Interior Link</a></li>
+									<li><a href="">Interior Link</a></li>
+									<li><a href="">Interior Link</a></li>
+									<li><a href="">Interior Link</a></li>
+									<li><a href="">Interior Link</a></li>
+									<li><a href="">Interior Link</a></li>
+								</ul>
+							</div>							
 						</div>
-					</div>
 
-					<div class="module mar-bot-large">
-						<div class="header-bar header-bar-gold">Briefcase</div>
-						<div class="feature-box feature-box-gold">
-							<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+						<div class="grid-col bp3-col-1-2 bp1-col-1-1">
+							<div class="module mar-bot-large">
+								<div class="header-bar header-bar-gray">Connect Online</div>
+								<div class="feature-box feature">
+									<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+								</div>
+							</div>
 						</div>
-					</div>
 
-					<div class="module mar-bot-large">
-						<div class="header-bar header-bar-gold">Upcoming Events</div>
-						<div class="feature-box">
-							<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-						</div>			
-					</module>
-				</aside>
+					</div><!-- .grid-wrap -->	
+
+					<div class="grid-wrap">
+
+						<div class="grid-col bp3-col-1-2 bp1-col-1-1">
+							<div class="module mar-bot-large">
+								<div class="header-bar header-bar-gold">Briefcase</div>
+								<div class="feature-box feature-box-gold">
+									<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="grid-col bp3-col-1-2 bp1-col-1-1">
+							<div class="module mar-bot-large">
+								<div class="header-bar header-bar-gold">Upcoming Events</div>
+								<div class="feature-box">
+									<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+								</div>			
+							</div>
+						</div>
+
+					</div><!-- .grid-wrap -->	
+
+				</aside>				
 				<!-- End Sidebar -->
-			</div><!-- .grid-col -->				
+
+			</div><!-- .grid-col -->			
 
 		</div><!-- .grid-wrap -->	
 	</section>
