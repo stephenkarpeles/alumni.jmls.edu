@@ -831,38 +831,32 @@ h4 {
 /* line 9, ../sass/partials/_base.scss */
 body {
   font-family: "Source Sans Pro", "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
-  font-size: 95%;
+  font-size: 100%;
   color: #333333;
 }
-@media (min-width: 800px) {
-  /* line 9, ../sass/partials/_base.scss */
-  body {
-    font-size: 100%;
-  }
-}
 
-/* line 15, ../sass/partials/_base.scss */
+/* line 14, ../sass/partials/_base.scss */
 p {
   margin: 0 0 1.25em;
   line-height: 1.4;
 }
 
-/* line 19, ../sass/partials/_base.scss */
+/* line 18, ../sass/partials/_base.scss */
 a {
   color: #aa0000;
   text-decoration: none;
 }
-/* line 22, ../sass/partials/_base.scss */
+/* line 21, ../sass/partials/_base.scss */
 a:hover {
   color: #333333;
 }
 
-/* line 25, ../sass/partials/_base.scss */
+/* line 24, ../sass/partials/_base.scss */
 img {
   max-width: 100%;
 }
 
-/* line 28, ../sass/partials/_base.scss */
+/* line 27, ../sass/partials/_base.scss */
 hr {
   display: block;
   height: 1px;
