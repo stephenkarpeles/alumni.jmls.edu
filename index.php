@@ -6,12 +6,25 @@
 		<div class="grid-wrap">
 			<div class="grid-col bp3-col-2-3">
 
-				<div class="slider mar-bot-medium">
-					<img src="http://placehold.it/675x270" alt="">					
+				<div class="slider mar-bot-large">
+					<ul class="rslides no-list-style">
+					  <li>
+					  	<img src="http://placehold.it/675x285/eee" alt="">
+					  	<p class="caption">Alumni Gather at the Annual Meeting to share stories and celebrate. The event saw over 200 attendees. <a class="caption-link" href="">Read More &raquo;</a></p>
+					  </li>					  
+					  <li>
+					  	<img src="http://placehold.it/675x285/ccc" alt="">
+					  	<p class="caption">This is another caption that wraps two lines and is about the same size as the first one, but a little bit different. <a class="caption-link" href="">Read More &raquo;</a></p>
+					  </li>					  
+					  <li>
+					  	<img src="http://placehold.it/675x285/aaa" alt="">
+					  	<p class="caption">A third caption, just like this one is all about something related to the school and super important and cool. <a class="caption-link" href="">Read More &raquo;</a></p>
+					  </li>					  
+					</ul>									
 				</div>
 
 				<div class="header-bar header-bar-gray beta">Current Projects</div>
-				<div class="feature-box feature-box-gray">
+				<div class="feature-box feature-box-gray mar-bot-medium">
 					<p>Copy here</p>					
 				</div>				
 
@@ -60,6 +73,19 @@
 		</ol>
 	</section>
 	<!-- End Content -->
+
+	<!-- Slider - More info here: http://responsiveslides.com/ -->
+	<script>
+	  $(function() {
+	    $('.rslides').responsiveSlides({
+	    	nav: true,
+	    	speed: 400,
+	    	timeout: 7000,
+	    	prevText: '&#9664;',
+	    	nextText: '&#9654;'
+	     });
+	  });
+	</script>
 
 <!-- Footer -->
 <?php include('includes/footer.php'); ?>	

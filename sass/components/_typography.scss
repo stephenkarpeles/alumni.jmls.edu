@@ -10,22 +10,23 @@ $font-stack:
 	sans-serif;
 
 // Font Sizes
-$font-size-main     : 1em;
-$font-size-small 		: .95em; 
-$font-size-smaller  : .9em; 
-$font-size-smallest : .8em;  
+$font-size-main     	: 1em;
+$font-size-small 			: .95em; 
+$font-size-smaller  	: .9em; 
+$font-size-smallest 	: .8em;  
 
-$font-size-alpha    : 2.15em;
-$font-size-beta     : 1.5em;
-$font-size-gamma    : 1.25em;
-$font-size-delta    : 1.17em;
-$font-size-epsilon  : 1.1em;
+$font-size-alpha    	: 2.15em;
+$font-size-beta     	: 1.5em;
+$font-size-gamma    	: 1.25em;
+$font-size-delta    	: 1.17em;
+$font-size-epsilon  	: 1.1em;
 
 // Line Heights
-$line-height-main   : 1.4;
-$line-height-low    : 1.235;
-$line-height-lower  : 1.2;
-$line-height-lowest : 1.1;
+$line-height-main   	: 1.4;
+$line-height-low-alt  : 1.3;
+$line-height-low    	: 1.235;
+$line-height-lower  	: 1.2;
+$line-height-lowest 	: 1.1;
 //-------------------------------------------------------
 
 .bold   { font-weight: 700; }
