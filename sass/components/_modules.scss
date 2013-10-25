@@ -4,6 +4,40 @@
 	overflow: hidden;
 	clear: both; }
 
+// Header Bars
+.header-bar {
+	padding: 7px 16px 8px;
+	font-weight: 700;
+	font-size: $font-size-gamma;
+	line-height: $line-height-lowest;
+	color: white; }
+
+.header-bar-red  { background: $main-red; }
+.header-bar-gray { background: $mid-gray; }
+.header-bar-gold { background: $gold; }
+
+// Feature Boxes
+.feature-box { 
+	padding: 8px 16px 9px;
+	:last-child {
+		margin-bottom: 0; } }
+
+.feature-box-gray { background: $light-gray; }
+.feature-box-gold { background: $tan; }
+
+// Action Bars
+.action-bar {		
+	a {
+		display: block;
+		padding: 15px 20px;
+		background: $main-red;
+		font-size: $font-size-delta;
+		text-transform: uppercase;
+		color: white;
+		&:hover, &:active {
+			background: $bright-red;
+			color: white;	} } }
+
 // Highlight Module 
 .highlight {
 	text-align: center; }
@@ -35,24 +69,3 @@
 	line-height: $line-height-lowest;
 	@include breakpoint(bp-tiny) { height: 4em; }
 	@include breakpoint(bp3) { height: 3.75em; } }
-
-// Header Bars
-.header-bar {
-	padding: 7px 16px 8px;
-	font-weight: 700;
-	font-size: $font-size-gamma;
-	line-height: $line-height-lowest;
-	color: white; }
-
-.header-bar-red  { background: $main-red; }
-.header-bar-gray { background: $mid-gray; }
-.header-bar-gold { background: $gold; }
-
-// Feature Boxes
-.feature-box { 
-	padding: 8px 16px 9px;
-	:last-child {
-		margin-bottom: 0; } }
-
-.feature-box-gray { background: $light-gray; }
-.feature-box-gold { background: $tan; }
