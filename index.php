@@ -47,7 +47,7 @@
 							<a href="" class="img">
 								<img src="images/project-1.jpg" alt="">
 							</a>
-							<div class="media-content">
+							<div class="media-content bold">
 								<a href="">Dean&rsquo;s Initiative to Start Renovating State Street Building</a>
 							</div>
 						</div>
@@ -57,7 +57,7 @@
 							<a href="" class="img">
 								<img src="images/project-2.jpg" alt="">
 							</a>
-							<div class="media-content">
+							<div class="media-content bold">
 								<a href="">Justice Scalia Speaks at Graduate Commencement</a>
 							</div>
 						</div>
@@ -67,7 +67,7 @@
 							<a href="" class="img">
 								<img src="images/project-3.jpg" alt="">
 							</a>
-							<div class="media-content">
+							<div class="media-content bold">
 								<a href="">Increasing Awning Size on All Overhangs, Schoolwide</a>
 							</div>
 						</div>
@@ -81,7 +81,7 @@
 							<a href="" class="img">
 								<img src="images/project-4.jpg" alt="">
 							</a>
-							<div class="media-content">
+							<div class="media-content bold">
 								<a href="">Veterans Legal Support Center &amp; Clinic Begins Expansion for 2014</a>
 							</div>
 						</div>
@@ -91,7 +91,7 @@
 							<a href="" class="img">
 								<img src="images/project-5.jpg" alt="">
 							</a>
-							<div class="media-content">
+							<div class="media-content bold">
 								<a href="">Career Services Office to Start Student Projects</a>
 							</div>
 						</div>					
@@ -101,7 +101,7 @@
 							<a href="" class="img">
 								<img src="images/project-6.jpg" alt="">
 							</a>
-							<div class="media-content">
+							<div class="media-content bold">
 								<a href="">Classroom Technology Getting a Makeover</a>
 							</div>
 						</div>
@@ -112,6 +112,7 @@
 			</div><!-- .feature-box -->
 
 			<div class="grid-wrap">
+
 
 				<div class="grid-col col-1-2">
 					<div class="header-bar header-bar-basic">
