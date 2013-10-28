@@ -44,7 +44,7 @@
 
 						<!-- Project -->
 						<div class="media media-bordered mar-bot-smaller">
-							<a href="" class="img">
+							<a href="" class="graphic">
 								<img src="images/project-1.jpg" alt="">
 							</a>
 							<div class="media-content">
@@ -54,7 +54,7 @@
 
 						<!-- Project -->
 						<div class="media media-bordered mar-bot-smaller">
-							<a href="" class="img">
+							<a href="" class="graphic">
 								<img src="images/project-2.jpg" alt="">
 							</a>
 							<div class="media-content">
@@ -64,7 +64,7 @@
 
 						<!-- Project -->
 						<div class="media media-bordered mar-bot-smaller">
-							<a href="" class="img">
+							<a href="" class="graphic">
 								<img src="images/project-3.jpg" alt="">
 							</a>
 							<div class="media-content">
@@ -78,7 +78,7 @@
 
 						<!-- Project -->
 						<div class="media media-bordered mar-bot-smaller">
-							<a href="" class="img">
+							<a href="" class="graphic">
 								<img src="images/project-4.jpg" alt="">
 							</a>
 							<div class="media-content">
@@ -88,7 +88,7 @@
 
 						<!-- Project -->
 						<div class="media media-bordered mar-bot-smaller">
-							<a href="" class="img">
+							<a href="" class="graphic">
 								<img src="images/project-5.jpg" alt="">
 							</a>
 							<div class="media-content">
@@ -98,7 +98,7 @@
 
 						<!-- Project -->
 						<div class="media media-bordered mar-bot-smaller">
-							<a href="" class="img">
+							<a href="" class="graphic">
 								<img src="images/project-6.jpg" alt="">
 							</a>
 							<div class="media-content">
@@ -116,8 +116,58 @@
 				<div class="grid-col col-1-2">
 					<div class="header-bar header-bar-basic">
 						Upcoming Events
-					</div>			
-				</div>					
+					</div>
+
+					<div class="feature-box-basic">	
+
+						<!-- Event -->
+						<div class="media media-bordered mar-bot-small">
+							<div href="" class="graphic">
+								<div class="datebox">
+								  <div class="datebox-header">Sep</div>
+								  <div class="datebox-content">15</div>
+								</div>
+							</div>
+							<div class="media-content">
+								<a class="bold" href="">Mini Reunion Party</a>
+								<div class="subtext mar-top-smallest">6 &ndash; 7:30pm</div>
+							</div>
+						</div>
+
+						<!-- Event -->
+						<div class="media media-bordered mar-bot-small">
+							<div href="" class="graphic">
+								<div class="datebox">
+								  <div class="datebox-header">Oct</div>
+								  <div class="datebox-content">22</div>
+								</div>
+							</div>
+							<div class="media-content">
+								<a class="bold" href="">Vistor&rsquo;s Reception &amp; Dinner</a>
+								<div class="subtext mar-top-smallest">5 &ndash; 8pm</div>
+							</div>
+						</div>
+
+						<!-- Event -->
+						<div class="media media-bordered mar-bot-small">
+							<div href="" class="graphic">
+								<div class="datebox">
+								  <div class="datebox-header">Nov</div>
+								  <div class="datebox-content">09</div>
+								</div>
+							</div>
+							<div class="media-content">
+								<a class="bold" href="">Continued Learning Program</a>
+								<div class="subtext mar-top-smallest">5 &ndash; 7:30pm</div>
+							</div>
+						</div>
+
+						<p class="small-text mar-top-small bold italic"><a href="">View all events &raquo;</a></p>
+
+					</div><!-- .feature-box-basic -->
+
+				</div>
+
 
 				<div class="grid-col col-1-2">
 
@@ -151,23 +201,14 @@
 							</div>
 						</div>
 
+						<p class="small-text mar-top-small bold italic"><a href="">View all news &raquo;</a></p>
+
 					</div><!-- .feature-box-basic -->
 
 				</div>
 
 			</div> <!-- .grid-wrap -->
-
-
-				
-			<p><a class="btn btn-red btn-small bold">Small Red</a></p>							
-			<p><a class="btn btn-red btn-medium bold">Medium Red</a></p>	
-			<p><a class="btn btn-red btn-large bold">Large Red</a></p>	
-
-			<div class="div" style="background: #e7e7e7; padding: 20px; margin-top: 20px;">
-				<p><a class="btn btn-white btn-small bold">Small White</a></p>							
-				<p><a class="btn btn-white btn-medium bold">Medium White</a></p>	
-				<p><a class="btn btn-white btn-large bold">Large White</a></p>	
-			</div>						
+						
 		</div>		
 
 		<div class="grid-col bp3-col-1-3">
