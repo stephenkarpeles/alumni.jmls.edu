@@ -36,7 +36,7 @@
 	<div class="grid-wrap">
 		<div class="grid-col bp3-col-2-3">
 			<div class="header-bar header-bar-gray beta">Current Projects</div>
-			<div class="feature-box feature-box-gray mar-bot-medium">
+			<div class="feature-box feature-box-gray mar-bot-large">
 					
 				<div class="grid-wrap">
 
@@ -113,7 +113,7 @@
 
 			<div class="grid-wrap">
 
-				<div class="grid-col col-1-2">
+				<div class="grid-col bp2-col-1-2 mar-bot-medium">
 					<div class="header-bar header-bar-basic">
 						Upcoming Events
 					</div>
@@ -169,7 +169,7 @@
 				</div>
 
 
-				<div class="grid-col col-1-2">
+				<div class="grid-col bp2-col-1-2 mar-bot-medium">
 
 					<div class="header-bar header-bar-basic">
 						<span class="bold">Latest News</span>
