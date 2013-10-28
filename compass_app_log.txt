@@ -1068,3 +1068,31 @@ Load paths:
 2013-10-25 16:38:05 identical css/main.css 
 2013-10-25 16:38:06 identical css/main.css 
 2013-10-25 16:39:53 overwrite css/main.css 
+2013-10-28 11:30:42 overwrite css/main.css 
+2013-10-28 11:30:50 overwrite css/main.css 
+2013-10-28 11:31:45 overwrite css/main.css 
+2013-10-28 11:33:56 overwrite css/main.css 
+2013-10-28 11:34:05 overwrite css/main.css 
+2013-10-28 11:34:11 overwrite css/main.css 
+2013-10-28 11:36:47 overwrite css/main.css 
+2013-10-28 11:36:55 overwrite css/main.css 
+2013-10-28 11:38:47 overwrite css/main.css 
+2013-10-28 11:40:04 overwrite css/main.css 
+2013-10-28 11:40:23 overwrite css/main.css 
+2013-10-28 11:42:58 overwrite css/main.css 
+2013-10-28 11:44:50 overwrite css/main.css 
+2013-10-28 11:46:08 overwrite css/main.css 
+2013-10-28 11:47:50 overwrite css/main.css 
+2013-10-28 11:47:57 identical css/main.css 
+2013-10-28 11:49:11 overwrite css/main.css 
+2013-10-28 11:49:18 identical css/main.css 
+2013-10-28 11:55:05     error sass/main.scss (Line 77 of sass/components/_typography.scss: Invalid CSS after "	font-size: ": expected expression (e.g. 1px, bold), was "&font-size-small;")
+2013-10-28 11:55:05 overwrite css/main.css 
+2013-10-28 11:55:05     error sass/main.scss (Line 77 of sass/components/_typography.scss: Invalid CSS after "	font-size: ": expected expression (e.g. 1px, bold), was "&font-size-small;")
+2013-10-28 11:55:05 identical css/main.css 
+2013-10-28 11:55:07     error sass/main.scss (Line 77 of sass/components/_typography.scss: Invalid CSS after "	font-size: ": expected expression (e.g. 1px, bold), was "&font-size-small;")
+2013-10-28 11:55:07 identical css/main.css 
+2013-10-28 11:55:07     error sass/main.scss (Line 77 of sass/components/_typography.scss: Invalid CSS after "	font-size: ": expected expression (e.g. 1px, bold), was "&font-size-small;")
+2013-10-28 11:55:07 identical css/main.css 
+2013-10-28 11:55:15 overwrite css/main.css 
+2013-10-28 11:55:26 overwrite css/main.css 

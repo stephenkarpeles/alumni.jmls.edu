@@ -575,6 +575,11 @@ h4 {
   font-weight: 300;
 }
 
+/* line 76, ../sass/components/_typography.scss */
+.subtext {
+  font-size: 0.95em;
+}
+
 /* line 2, ../sass/components/_buttons.scss */
 .btn {
   display: inline-block;
@@ -769,16 +774,25 @@ h4 {
 }
 
 /* line 51, ../sass/components/_modules.scss */
+.feature-box-basic {
+  padding: 11px 0px 12px;
+}
+/* line 53, ../sass/components/_modules.scss */
+.feature-box-basic :last-child {
+  margin-bottom: 0;
+}
+
+/* line 56, ../sass/components/_modules.scss */
 .feature-box-gray {
   background: #e7e7e7;
 }
 
-/* line 52, ../sass/components/_modules.scss */
+/* line 57, ../sass/components/_modules.scss */
 .feature-box-gold {
   background: #f8f4e1;
 }
 
-/* line 56, ../sass/components/_modules.scss */
+/* line 61, ../sass/components/_modules.scss */
 .action-bar a {
   display: block;
   padding: 16px 20px;
@@ -787,23 +801,23 @@ h4 {
   text-transform: uppercase;
   color: white;
 }
-/* line 63, ../sass/components/_modules.scss */
+/* line 68, ../sass/components/_modules.scss */
 .action-bar a:hover, .action-bar a:active {
   background: #bb0000;
   color: white;
 }
 
-/* line 68, ../sass/components/_modules.scss */
+/* line 73, ../sass/components/_modules.scss */
 .highlight {
   text-align: center;
 }
 
-/* line 71, ../sass/components/_modules.scss */
+/* line 76, ../sass/components/_modules.scss */
 .highlight img {
   width: 100%;
 }
 
-/* line 74, ../sass/components/_modules.scss */
+/* line 79, ../sass/components/_modules.scss */
 .highlight-wrap {
   overflow: hidden;
   clear: both;
@@ -811,13 +825,13 @@ h4 {
   padding: 0;
 }
 @media (min-width: 480px) {
-  /* line 74, ../sass/components/_modules.scss */
+  /* line 79, ../sass/components/_modules.scss */
   .highlight-wrap {
     margin-left: -2em;
   }
 }
 
-/* line 81, ../sass/components/_modules.scss */
+/* line 86, ../sass/components/_modules.scss */
 .highlight-unit {
   position: relative;
   overflow: visible;
@@ -826,34 +840,37 @@ h4 {
   padding-left: 1.5em;
 }
 @media (min-width: 480px) {
-  /* line 81, ../sass/components/_modules.scss */
+  /* line 86, ../sass/components/_modules.scss */
   .highlight-unit {
     padding-left: 2em;
   }
 }
 @media (min-width: 900px) {
-  /* line 81, ../sass/components/_modules.scss */
+  /* line 86, ../sass/components/_modules.scss */
   .highlight-unit {
     width: 33%;
   }
 }
+/* line 94, ../sass/components/_modules.scss */
+.highlight-unit img {
+  padding-bottom: 0.25em;
+}
 
-/* line 90, ../sass/components/_modules.scss */
+/* line 97, ../sass/components/_modules.scss */
 .highlight-header {
-  padding-top: 0.25em;
   height: 4.75em;
   font-size: 1.17em;
   font-weight: 700;
   line-height: 1.1;
 }
 @media (min-width: 360px) {
-  /* line 90, ../sass/components/_modules.scss */
+  /* line 97, ../sass/components/_modules.scss */
   .highlight-header {
     height: 4em;
   }
 }
 @media (min-width: 800px) {
-  /* line 90, ../sass/components/_modules.scss */
+  /* line 97, ../sass/components/_modules.scss */
   .highlight-header {
     height: 3.75em;
   }

@@ -47,8 +47,8 @@
 							<a href="" class="img">
 								<img src="images/project-1.jpg" alt="">
 							</a>
-							<div class="media-content bold">
-								<a href="">Dean&rsquo;s Initiative to Start Renovating State Street Building</a>
+							<div class="media-content">
+								<a class="bold" href="">Dean&rsquo;s Initiative to Start Renovating State Street Building</a>
 							</div>
 						</div>
 
@@ -57,8 +57,8 @@
 							<a href="" class="img">
 								<img src="images/project-2.jpg" alt="">
 							</a>
-							<div class="media-content bold">
-								<a href="">Justice Scalia Speaks at Graduate Commencement</a>
+							<div class="media-content">
+								<a class="bold" href="">Justice Scalia Speaks at Graduate Commencement</a>
 							</div>
 						</div>
 
@@ -67,8 +67,8 @@
 							<a href="" class="img">
 								<img src="images/project-3.jpg" alt="">
 							</a>
-							<div class="media-content bold">
-								<a href="">Increasing Awning Size on All Overhangs, Schoolwide</a>
+							<div class="media-content">
+								<a class="bold" href="">Increasing Awning Size on All Overhangs, Schoolwide</a>
 							</div>
 						</div>
 
@@ -81,8 +81,8 @@
 							<a href="" class="img">
 								<img src="images/project-4.jpg" alt="">
 							</a>
-							<div class="media-content bold">
-								<a href="">Veterans Legal Support Center &amp; Clinic Begins Expansion for 2014</a>
+							<div class="media-content">
+								<a class="bold" href="">Veterans Legal Support Center &amp; Clinic Begins Expansion for 2014</a>
 							</div>
 						</div>
 
@@ -91,8 +91,8 @@
 							<a href="" class="img">
 								<img src="images/project-5.jpg" alt="">
 							</a>
-							<div class="media-content bold">
-								<a href="">Career Services Office to Start Student Projects</a>
+							<div class="media-content">
+								<a class="bold" href="">Career Services Office to Start Student Projects</a>
 							</div>
 						</div>					
 
@@ -101,8 +101,8 @@
 							<a href="" class="img">
 								<img src="images/project-6.jpg" alt="">
 							</a>
-							<div class="media-content bold">
-								<a href="">Classroom Technology Getting a Makeover</a>
+							<div class="media-content">
+								<a class="bold" href="">Classroom Technology Getting a Makeover</a>
 							</div>
 						</div>
 
@@ -113,19 +113,46 @@
 
 			<div class="grid-wrap">
 
-
 				<div class="grid-col col-1-2">
 					<div class="header-bar header-bar-basic">
 						Upcoming Events
-					</div>	
-						
-
-				</div>
+					</div>			
+				</div>					
 
 				<div class="grid-col col-1-2">
+
 					<div class="header-bar header-bar-basic">
 						<span class="bold">Latest News</span>
-					</div>
+					</div>	
+
+					<div class="feature-box-basic">				
+
+						<!-- News Item -->
+						<div class="media media-bordered mar-bot-smaller">							
+							<div class="media-content">
+								<a class="bold" href="">Students and Faculty Come Together to Celebrate a Lifetime of Achievement</a>
+								<div class="subtext mar-top-smallest">March 19, 2014</div>
+							</div>
+						</div>
+
+						<!-- News Item -->
+						<div class="media media-bordered mar-bot-smaller">							
+							<div class="media-content">
+								<a class="bold" href="">Justice Scalia Set to Speak at Spring Graduate Commencement</a>
+								<div class="subtext mar-top-smallest">February 12, 2014</div>
+							</div>
+						</div>
+
+						<!-- News Item -->
+						<div class="media media-bordered mar-bot-smaller">							
+							<div class="media-content">
+								<a class="bold" href="">Investors Consider Repurchasing Another Education Center on Jackson Blvd</a>
+								<div class="subtext mar-top-smallest">December 8, 2013</div>
+							</div>
+						</div>
+
+					</div><!-- .feature-box-basic -->
+
 				</div>
 
 			</div> <!-- .grid-wrap -->
