@@ -5,3 +5,8 @@
 
 .no-list-style { list-style-type: none; }
 
+.list-arrow {
+	position: relative;
+	bottom: 1px;
+	font-size: $font-size-small; }
+

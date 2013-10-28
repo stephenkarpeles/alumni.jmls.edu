@@ -1,2 +1,18 @@
-header {
+header { 
+	position: relative;
 	height: 100px; }
+
+.logo {
+	float: left;
+	display: block;
+	background: url('../images/logo-1.svg') no-repeat;
+	width: 470px;
+	height: 50px;
+	margin-top: 24px; }
+
+.utilities { float: right; }
+
+.login {
+	font-size: $font-size-small; 
+  li {
+  	padding-left: 8px; } }
