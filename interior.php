@@ -60,7 +60,7 @@
 					<div class="grid-wrap">
 
 						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
-							<div class="module mar-bot-large">
+							<div class="module ">
 								<div class="header-bar header-bar-red">Get Involved Menu</div>
 								<ul>
 									<li><a href="">Interior Link</a></li>
@@ -74,10 +74,10 @@
 						</div>
 
 						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
-							<div class="module mar-bot-large">
+							<div class="module">
 								<div class="header-bar header-bar-gray">Connect Online</div>
 								<div class="feature-box feature">
-									<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+									Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 								</div>
 							</div>
 						</div>
@@ -87,19 +87,19 @@
 					<div class="grid-wrap">
 
 						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
-							<div class="module mar-bot-large">
+							<div class="module">
 								<div class="header-bar header-bar-gold">Briefcase</div>
 								<div class="feature-box feature-box-gold">
-									<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+									Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 								</div>
 							</div>
 						</div>
 
 						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
-							<div class="module mar-bot-large">
+							<div class="module">
 								<div class="header-bar header-bar-gold">Upcoming Events</div>
 								<div class="feature-box">
-									<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+									Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 								</div>			
 							</div>
 						</div>

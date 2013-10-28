@@ -59,9 +59,9 @@ h4 {
 .delta 		{ font-size: $font-size-delta;   line-height: $line-height-lowest; }
 .epsilon 	{ font-size: $font-size-epsilon; line-height: $line-height-lowest; }
 
-.small-text    { font-size: $font-size-small; }
-.smaller-text  { font-size: $font-size-smaller; }
-.smallest-text { font-size: $font-size-smallest; }
+.text-small    { font-size: $font-size-small; }
+.text-smaller  { font-size: $font-size-smaller; }
+.text-smallest { font-size: $font-size-smallest; }
 
 .text-center { text-align: center; }
 .text-right  { text-align: right; }
@@ -77,4 +77,12 @@ h4 {
 	font-weight: 300; }
 
 // Subtext for things like dates or times
-.subtext { font-size: $font-size-small; }
+.subtext { 
+	font-size: $font-size-small;
+	margin-bottom: 0;
+	padding-top: $base-spacing-unit/2; }
+
+.subtext-alt {
+	font-size: $font-size-smallest;
+	color: $mid-gray-alt;
+	padding-top: .4em; }
