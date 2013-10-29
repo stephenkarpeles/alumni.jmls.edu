@@ -15,4 +15,6 @@ header {
 .login {
 	font-size: $font-size-small; 
   li {
-  	padding-left: 8px; } }
+  	padding-left: 8px; }
+  a:hover {
+  	border-bottom: 1px solid $text-color; } }

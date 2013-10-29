@@ -1227,3 +1227,14 @@ Load paths:
 2013-10-28 16:04:17 overwrite css/main.css 
 2013-10-28 16:04:26 overwrite css/main.css 
 2013-10-28 16:04:50 overwrite css/main.css 
+2013-10-28 16:37:51 overwrite css/main.css 
+2013-10-28 16:37:56 overwrite css/main.css 
+2013-10-28 16:37:59 overwrite css/main.css 
+2013-10-28 16:44:42 overwrite css/main.css 
+2013-10-28 16:44:48 overwrite css/main.css 
+2013-10-28 16:45:03 overwrite css/main.css 
+2013-10-28 16:45:11     error sass/main.scss (Line 20 of sass/sections/_header.scss: Undefined variable: "$dark-red".)
+2013-10-28 16:45:11 overwrite css/main.css 
+2013-10-28 16:45:15 overwrite css/main.css 
+2013-10-28 16:45:17 identical css/main.css 
+2013-10-28 16:45:35 identical css/main.css 

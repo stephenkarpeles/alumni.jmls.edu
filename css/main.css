@@ -1449,6 +1449,10 @@ header {
 .login li {
   padding-left: 8px;
 }
+/* line 19, ../sass/sections/_header.scss */
+.login a:hover {
+  border-bottom: 1px solid #333333;
+}
 
 /* line 1, ../sass/sections/_nav.scss */
 nav {
