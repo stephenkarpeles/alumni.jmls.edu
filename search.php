@@ -48,14 +48,18 @@
 				    border-color: #CACACA;				  
 				  }
 				  input.gsc-search-button {
-				  	padding: 6px 15px 7px;
-				  	font-size: 16px;
+				  	padding: 7px 16px;
+				  	font-size: 17px;
 				    border: none;
 				    background-color: #AA0000;
 				    color: white;
 				  }
 				  .gsc-branding-text, .gsc-branding-img {
 				  	display: none;
+				  }
+				  .gcsc-branding-text {
+						color: #666666;
+						margin-bottom: 10px;
 				  }
 				  .gsc-tabHeader.gsc-tabhInactive {
 				    border-color: #AA0000;
@@ -69,6 +73,9 @@
 				  }
 				  .gsc-tabsArea {
 				    border-color: #E9E9E9;
+				  }
+				  .gsc-selected-option {
+				  	color: #333333;
 				  }
 				  .gsc-result-info {
 				  	padding-left: 0;
@@ -127,7 +134,7 @@
 				  }
 				  .gsc-cursor-box {
 				  	margin-top: 1.25em;
-				  	font-size: 1.17em;
+				  	font-size: 15px;
 				  	font-weight: 700;
 				    border-color: #FFFFFF;
 				  }
@@ -141,13 +148,12 @@
 				    color: #AA0000; 
 				  }
 				  .gsc-results .gsc-cursor-box .gsc-cursor-page:hover {
-				  	background-color: #bf9d3e;
-				  	color: white;
+				  	background-color: #cacaca;
 				  }
 				  .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
 				    cursor: pointer;	
 				    border-color: #AA0000;
-				    background-color: #bf9d3e;
+				    background-color: #666666;
 				    color: white;
 				  }
 				  .gsc-webResult.gsc-result.gsc-promotion {
