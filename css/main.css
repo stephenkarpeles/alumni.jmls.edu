@@ -1551,7 +1551,7 @@ nav a {
 /* line 17, ../sass/sections/_nav.scss */
 nav a:hover, nav a:active {
   color: white;
-  border-bottom: 1px solid white;
+  text-decoration: underline;
 }
 
 /* line 1, ../sass/sections/_slider.scss */
