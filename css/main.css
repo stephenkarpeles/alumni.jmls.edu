@@ -1443,25 +1443,27 @@ header {
 
 /* line 15, ../sass/sections/_header.scss */
 .login {
+  margin-bottom: 6px;
+  padding-top: 8px;
   font-size: 0.9em;
   text-align: right;
 }
-/* line 18, ../sass/sections/_header.scss */
-.login li {
-  padding-left: 8px;
-}
 /* line 20, ../sass/sections/_header.scss */
+.login li {
+  padding-left: 5px;
+}
+/* line 22, ../sass/sections/_header.scss */
 .login a:hover {
   border-bottom: 1px solid #333333;
 }
 
-/* line 24, ../sass/sections/_header.scss */
+/* line 26, ../sass/sections/_header.scss */
 .search-wrap {
   position: relative;
   float: right;
 }
 
-/* line 28, ../sass/sections/_header.scss */
+/* line 30, ../sass/sections/_header.scss */
 .search-bar {
   position: relative;
   width: 220px;
@@ -1477,18 +1479,24 @@ header {
   border-radius: 5px;
 }
 
-/* line 38, ../sass/sections/_header.scss */
-.search-submit {
-  position: absolute;
-  z-index: 100;
-  top: 2px;
-  right: 0;
+/* line 40, ../sass/sections/_header.scss */
+.search-bar::-ms-clear {
+  display: none;
 }
 
 /* line 44, ../sass/sections/_header.scss */
+.search-submit {
+  position: absolute;
+  z-index: 100;
+  top: 3px;
+  right: 2px;
+}
+
+/* line 50, ../sass/sections/_header.scss */
 .search-wrap input[type='submit'] {
   background: none;
   border: none;
+  color: #555555;
 }
 
 /* line 1, ../sass/sections/_nav.scss */

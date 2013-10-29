@@ -13,10 +13,12 @@ header {
 .utilities { float: right; }
 
 .login {
+	margin-bottom: 6px;
+	padding-top: 8px;
 	font-size: $font-size-smaller; 
 	text-align: right;
   li {
-  	padding-left: 8px; }
+  	padding-left: 5px; }
   a:hover {
   	border-bottom: 1px solid $text-color; } }
 
@@ -35,13 +37,18 @@ header {
 	color: $mid-gray-alt;
 	@include border-radius(5px); }
 
+.search-bar::-ms-clear { 
+	// Disable 'X' from appearing in IE10. Info here: http://stackoverflow.com/questions/14007655/remove-ie10s-clear-field-x-button-on-certain-inputs
+	display: none; } 
+
 .search-submit {
 	position: absolute;
 	z-index: 100;
-	top: 2px;
-	right: 0; }
+	top: 3px;
+	right: 2px; }
 
 .search-wrap input[type='submit'] {	
 	background: none;
 	border: none;
+	color: $mid-gray-alt;
 }
