@@ -32,22 +32,27 @@
 					<!-- Search Styles -->
 					<style type='text/css'>
 				  .gsc-control-cse {
-				    font-family: Arial, sans-serif;
+				    font-family: 'Source Sans Pro', 'Helvetica Neue', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
+				    font-size: 15px;
 				    border-color: #FFFFFF;
 				    background-color: #FFFFFF; 
 				  }
 				  .gsc-control-cse .gsc-table-result {
-				  	margin: .5em 0;
-				    font-family: Arial, sans-serif; 				    
+				  	margin: 5px 0;
+				    font-family: 'Source Sans Pro', 'Helvetica Neue', 'HelveticaNeue-Light', 'Helvetica Neue Light', Helvetica, Arial, sans-serif;	
+				    font-size: 15px;
 				  }
 				  input.gsc-input {
 				  	padding: 6px 8px;
-				  	font-size: 1.17em;
+				  	font-size: 17px;				  	
 				    border-color: #CACACA;				  
 				  }
 				  input.gsc-search-button {
-				    border-color: #FFFFFF;
+				  	padding: 6px 15px 7px;
+				  	font-size: 16px;
+				    border: none;
 				    background-color: #AA0000;
+				    color: white;
 				  }
 				  .gsc-branding-text, .gsc-branding-img {
 				  	display: none;
@@ -121,21 +126,29 @@
 				    display: block;
 				  }
 				  .gsc-cursor-box {
-				  	margin-top: 1em;
+				  	margin-top: 1.25em;
 				  	font-size: 1.17em;
 				  	font-weight: 700;
 				    border-color: #FFFFFF;
 				  }
 				  .gsc-results .gsc-cursor-box .gsc-cursor-page {
-				  	padding-right: 6px;
+				  	padding: 4px 9px;		
+				  	margin-right: 10px;	
+				  	cursor: pointer;				  	 	
+				  	text-decoration: none;
 				    border-color: #E9E9E9;
-				    background-color: #FFFFFF;
-				    color: #AA0000;
+				    background-color: #E7E7E7;
+				    color: #AA0000; 
+				  }
+				  .gsc-results .gsc-cursor-box .gsc-cursor-page:hover {
+				  	background-color: #bf9d3e;
+				  	color: white;
 				  }
 				  .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+				    cursor: pointer;	
 				    border-color: #AA0000;
-				    background-color: #FFFFFF;
-				    color: #333333;
+				    background-color: #bf9d3e;
+				    color: white;
 				  }
 				  .gsc-webResult.gsc-result.gsc-promotion {
 				    border-color: #336699;
