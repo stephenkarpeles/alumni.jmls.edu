@@ -1356,3 +1356,27 @@ Load paths:
 2013-10-29 15:10:01 identical css/main.css 
 2013-10-29 15:11:07 overwrite css/main.css 
 2013-10-29 15:11:12 overwrite css/main.css 
+2013-10-29 15:17:09     error sass/main.scss (Line 17 of sass/components/_lists.scss: Invalid CSS after "}": expected "}", was "")
+2013-10-29 15:17:09 overwrite css/main.css 
+2013-10-29 15:17:10     error sass/main.scss (Line 17 of sass/components/_lists.scss: Invalid CSS after "}": expected "}", was "")
+2013-10-29 15:17:10 identical css/main.css 
+2013-10-29 15:17:15 overwrite css/main.css 
+2013-10-29 15:17:17 identical css/main.css 
+2013-10-29 15:19:27     error sass/main.scss (Line 19 of sass/components/_lists.scss: Invalid CSS after "	}": expected "}", was "")
+2013-10-29 15:19:27 overwrite css/main.css 
+2013-10-29 15:19:28     error sass/main.scss (Line 19 of sass/components/_lists.scss: Invalid CSS after "	}": expected "}", was "")
+2013-10-29 15:19:28 identical css/main.css 
+2013-10-29 15:19:34 overwrite css/main.css 
+2013-10-29 15:20:01 overwrite css/main.css 
+2013-10-29 15:20:10 overwrite css/main.css 
+2013-10-29 15:22:02 overwrite css/main.css 
+2013-10-29 15:22:13 overwrite css/main.css 
+2013-10-29 15:22:19 overwrite css/main.css 
+2013-10-29 15:22:27 overwrite css/main.css 
+2013-10-29 15:22:33 overwrite css/main.css 
+2013-10-29 15:22:44 overwrite css/main.css 
+2013-10-29 15:22:51 overwrite css/main.css 
+2013-10-29 15:23:03 overwrite css/main.css 
+2013-10-29 15:23:44 overwrite css/main.css 
+2013-10-29 15:24:38 identical css/main.css 
+2013-10-29 15:27:31 identical css/main.css 

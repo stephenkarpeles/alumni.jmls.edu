@@ -734,6 +734,26 @@ h4 {
   font-size: 0.95em;
 }
 
+/* line 14, ../sass/components/_lists.scss */
+.sub-nav ul {
+  margin: 0;
+  padding: 0;
+}
+/* line 17, ../sass/components/_lists.scss */
+.sub-nav li {
+  padding: 7px 10px;
+  border-top: 1px solid #cacaca;
+}
+/* line 20, ../sass/components/_lists.scss */
+.sub-nav li:first-child {
+  padding-top: 0;
+  border-top: none;
+}
+/* line 23, ../sass/components/_lists.scss */
+.sub-nav li:last-child {
+  padding-bottom: 0;
+}
+
 /* line 1, ../sass/components/_modules.scss */
 .module {
   position: relative;
