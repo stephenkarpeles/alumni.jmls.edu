@@ -728,7 +728,7 @@ h4 {
 }
 
 /* line 8, ../sass/components/_lists.scss */
-.list-arrow {
+.arrow {
   position: relative;
   bottom: 1px;
   font-size: 0.95em;
@@ -1420,6 +1420,11 @@ li.grid-col {
   }
 }
 
+/* line 17, ../sass/layout/_layout.scss */
+.main {
+  margin-bottom: 1.5em;
+}
+
 /* line 1, ../sass/sections/_header.scss */
 header {
   position: relative;
@@ -1444,26 +1449,26 @@ header {
 /* line 15, ../sass/sections/_header.scss */
 .login {
   margin-bottom: 6px;
-  padding-top: 8px;
+  padding-top: 9px;
   font-size: 0.9em;
   text-align: right;
 }
-/* line 20, ../sass/sections/_header.scss */
+/* line 21, ../sass/sections/_header.scss */
 .login li {
   padding-left: 5px;
 }
-/* line 22, ../sass/sections/_header.scss */
+/* line 23, ../sass/sections/_header.scss */
 .login a:hover {
   border-bottom: 1px solid #333333;
 }
 
-/* line 26, ../sass/sections/_header.scss */
+/* line 27, ../sass/sections/_header.scss */
 .search-wrap {
   position: relative;
   float: right;
 }
 
-/* line 30, ../sass/sections/_header.scss */
+/* line 31, ../sass/sections/_header.scss */
 .search-bar {
   position: relative;
   width: 220px;
@@ -1479,12 +1484,12 @@ header {
   border-radius: 5px;
 }
 
-/* line 40, ../sass/sections/_header.scss */
+/* line 41, ../sass/sections/_header.scss */
 .search-bar::-ms-clear {
   display: none;
 }
 
-/* line 44, ../sass/sections/_header.scss */
+/* line 45, ../sass/sections/_header.scss */
 .search-submit {
   position: absolute;
   z-index: 100;
@@ -1492,7 +1497,7 @@ header {
   right: 2px;
 }
 
-/* line 50, ../sass/sections/_header.scss */
+/* line 51, ../sass/sections/_header.scss */
 .search-wrap input[type='submit'] {
   background: none;
   border: none;
@@ -1628,7 +1633,7 @@ a.caption-link:hover, a.caption-link:active {
 /* line 1, ../sass/sections/_footer.scss */
 footer {
   margin-top: 1em;
-  padding: 1.5em 0;
+  padding: 1.5em 0 0;
   background: #aa0000;
   color: white;
   border-top: 10px solid #dfdfdf;
@@ -1636,4 +1641,26 @@ footer {
 /* line 7, ../sass/sections/_footer.scss */
 footer a {
   color: white;
+}
+/* line 9, ../sass/sections/_footer.scss */
+footer a:hover {
+  color: white;
+  text-decoration: underline;
+}
+/* line 12, ../sass/sections/_footer.scss */
+footer ul {
+  margin: 0;
+  padding: 0;
+  font-weight: 300;
+}
+/* line 16, ../sass/sections/_footer.scss */
+footer li {
+  padding: 0 0 1px;
+}
+
+/* line 19, ../sass/sections/_footer.scss */
+.footer-headline {
+  margin-bottom: .5em;
+  font-size: 1.1em;
+  font-weight: 700;
 }

@@ -14,8 +14,9 @@ header {
 
 .login {
 	margin-bottom: 6px;
-	padding-top: 8px;
+	padding-top: 9px;
 	font-size: $font-size-smaller; 
+
 	text-align: right;
   li {
   	padding-left: 5px; }
@@ -38,7 +39,7 @@ header {
 	@include border-radius(5px); }
 
 .search-bar::-ms-clear { 
-	// Disable 'X' from appearing in IE10. Info here: http://stackoverflow.com/questions/14007655/remove-ie10s-clear-field-x-button-on-certain-inputs
+	// Disable 'X' from appearing in search bar in IE10. Info here: http://stackoverflow.com/questions/14007655/remove-ie10s-clear-field-x-button-on-certain-inputs
 	display: none; } 
 
 .search-submit {
@@ -50,5 +51,4 @@ header {
 .search-wrap input[type='submit'] {	
 	background: none;
 	border: none;
-	color: $mid-gray-alt;
-}
+	color: $mid-gray-alt; }

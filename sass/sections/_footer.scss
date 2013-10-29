@@ -1,8 +1,22 @@
 footer {	
 	margin-top: $base-spacing-unit*2;
-	padding: 1.5em 0;
+	padding: 1.5em 0 0;
 	background: $main-red;
 	color: white;
 	border-top: 10px solid $light-gray-alt;
-		a {
-			color: white;	} }
+	a {
+		color: white;
+		&:hover {
+			color: white;
+			text-decoration: underline;	} }
+	ul {
+		margin: 0;
+		padding: 0;
+		font-weight: 300; }
+	li {
+		padding: 0 0 1px;	} }
+
+.footer-headline {
+	margin-bottom: .5em;
+	font-size: $font-size-epsilon;
+	font-weight: 700; }
