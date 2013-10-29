@@ -49,8 +49,8 @@
 					<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
 
-				</article>
-				<!-- End Main -->
+				</article><!-- .main -->
+				
 			</div><!-- .grid-col -->			
 						
 			<div class="grid-col bp3-col-1-4">
