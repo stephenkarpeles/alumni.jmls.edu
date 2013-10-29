@@ -38,5 +38,10 @@ header {
 .search-submit {
 	position: absolute;
 	z-index: 100;
-	top: 0;
+	top: 2px;
 	right: 0; }
+
+.search-wrap input[type='submit'] {	
+	background: none;
+	border: none;
+}

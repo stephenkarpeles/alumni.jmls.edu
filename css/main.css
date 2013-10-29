@@ -1481,8 +1481,14 @@ header {
 .search-submit {
   position: absolute;
   z-index: 100;
-  top: 0;
+  top: 2px;
   right: 0;
+}
+
+/* line 44, ../sass/sections/_header.scss */
+.search-wrap input[type='submit'] {
+  background: none;
+  border: none;
 }
 
 /* line 1, ../sass/sections/_nav.scss */
