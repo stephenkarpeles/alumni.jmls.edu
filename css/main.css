@@ -1443,15 +1443,46 @@ header {
 
 /* line 15, ../sass/sections/_header.scss */
 .login {
-  font-size: 0.95em;
+  font-size: 0.9em;
+  text-align: right;
 }
-/* line 17, ../sass/sections/_header.scss */
+/* line 18, ../sass/sections/_header.scss */
 .login li {
   padding-left: 8px;
 }
-/* line 19, ../sass/sections/_header.scss */
+/* line 20, ../sass/sections/_header.scss */
 .login a:hover {
   border-bottom: 1px solid #333333;
+}
+
+/* line 24, ../sass/sections/_header.scss */
+.search-wrap {
+  position: relative;
+  float: right;
+}
+
+/* line 28, ../sass/sections/_header.scss */
+.search-bar {
+  position: relative;
+  width: 220px;
+  padding: 5px 10px;
+  border: none;
+  background: #f0f0f0;
+  font-size: 0.9em;
+  color: #555555;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+}
+
+/* line 38, ../sass/sections/_header.scss */
+.search-submit {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  right: 0;
 }
 
 /* line 1, ../sass/sections/_nav.scss */

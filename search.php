@@ -14,19 +14,51 @@
 					<div id='cse' style='width: 100%;'>Loading</div>
 					<script src='//www.google.com/jsapi' type='text/javascript'></script>
 					<script type='text/javascript'>
-					google.load('search', '1', {language: 'en', style: google.loader.themes.DEFAULT});
-					google.setOnLoadCallback(function() {
+						function parseQueryFromUrl () {
+						var queryParamName = "q";
+						var search = window.location.search.substr(1);
+						var parts = search.split('&');
+						for (var i = 0; i < parts.length; i++) {
+						  var keyvaluepair = parts[i].split('=');
+						  if (decodeURIComponent(keyvaluepair[0]) == queryParamName) {
+							return decodeURIComponent(keyvaluepair[1].replace(/\+/g, ' '));
+						  }
+						}
+						return '';
+					  }
+					  google.load('search', '1', {language: 'en', style: google.loader.themes.DEFAULT});
+					  var _gaq = _gaq || [];
+					  _gaq.push(["_setAccount", "UA-400422-1"]);
+					  function _trackQuery(control, searcher, query) {
+						var gaQueryParamName = "q";
+						var loc = document.location;
+						var url = [
+						  loc.pathname,
+						  loc.search,
+						  loc.search ? '&' : '?',
+						  gaQueryParamName == '' ? 'q' : encodeURIComponent(gaQueryParamName),
+						  '=',
+						  encodeURIComponent(query)
+						].join('');
+						_gaq.push(["_trackPageview", url]);
+					  }
+					  google.setOnLoadCallback(function() {
 					  var customSearchOptions = {};
 					  var orderByOptions = {};
 					  orderByOptions['keys'] = [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];
 					  customSearchOptions['enableOrderBy'] = true;
 					  customSearchOptions['orderByOptions'] = orderByOptions;
-					  var customSearchControl =   new google.search.CustomSearchControl('008902623546163794413:uohfxsmad_e', customSearchOptions);
-					  customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-					  var options = new google.search.DrawOptions();
-					  options.setAutoComplete(true);
-					  customSearchControl.draw('cse', options);
-					}, true);
+						var customSearchControl =   new google.search.CustomSearchControl('008902623546163794413:uohfxsmad_e', customSearchOptions);
+						customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+						customSearchControl.setSearchStartingCallback(null, _trackQuery);
+						var options = new google.search.DrawOptions();
+						options.setAutoComplete(true);    
+						customSearchControl.draw('cse', options);
+						var queryFromUrl = parseQueryFromUrl();
+						if (queryFromUrl) {
+						  customSearchControl.execute(queryFromUrl);
+						}
+					  }, true);
 					</script>
 
 					<!-- Search Styles -->
@@ -150,7 +182,7 @@
 				  .gsc-results .gsc-cursor-box .gsc-cursor-page:hover {
 				  	background-color: #cacaca;
 				  }
-				  .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+				  .gsc-results .gsc-cursor-box .gsc-cursor-current-page, .gsc-results .gsc-cursor-box .gsc-cursor-current-page:hover {
 				    cursor: pointer;	
 				    border-color: #AA0000;
 				    background-color: #666666;

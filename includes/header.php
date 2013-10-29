@@ -32,9 +32,14 @@
 						<li><a href="">Login <span class="list-arrow">&#9654;</span></a></li>
 						<li><a href="">First Time Login <span class="list-arrow">&#9654;</a></li>
 					</ul>
+
+					<div class="search-wrap">
+						<form action="search.php" method="get">
+            	<input type="text" class="search-bar" name="q" value="Search" onfocus="this.value==this.defaultValue?this.value='':null" /> 
+            	<input class="search-submit" type="submit" value="GO" />
+            </form>
+					</div>
 				</div>
-
-
 
 			</header><!-- .header -->
 		</div><!-- .container -->

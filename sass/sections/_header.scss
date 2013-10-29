@@ -13,8 +13,30 @@ header {
 .utilities { float: right; }
 
 .login {
-	font-size: $font-size-small; 
+	font-size: $font-size-smaller; 
+	text-align: right;
   li {
   	padding-left: 8px; }
   a:hover {
   	border-bottom: 1px solid $text-color; } }
+
+// Search 
+.search-wrap { 
+	position: relative;
+	float: right; }
+
+.search-bar {	
+	position: relative;
+	width: 220px;
+	padding: 5px 10px;
+	border: none;
+	background: $lightest-gray;
+	font-size: $font-size-smaller;
+	color: $mid-gray-alt;
+	@include border-radius(5px); }
+
+.search-submit {
+	position: absolute;
+	z-index: 100;
+	top: 0;
+	right: 0; }
