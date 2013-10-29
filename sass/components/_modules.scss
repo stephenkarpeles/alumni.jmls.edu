@@ -43,9 +43,9 @@
 	border-bottom: 1px solid $lighter-gray; }
 
 // Feature Boxes
-.feature-box 				{ padding: 11px 16px 14px; }
-.feature-box-basic  { padding: 0; }
-.feature-box-media  {	padding: 0 16px;}
+.feature-box           { padding: 0 16px; }
+.feature-box-color	   { padding: 11px 16px 14px; }
+.feature-box-no-color  { padding: 11px 16px 0; } // Same padding-top as .feature-box 
 
 .feature-box-gray { background: $light-gray; }
 .feature-box-gold { background: $tan; }

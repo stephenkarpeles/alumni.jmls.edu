@@ -1380,3 +1380,36 @@ Load paths:
 2013-10-29 15:23:44 overwrite css/main.css 
 2013-10-29 15:24:38 identical css/main.css 
 2013-10-29 15:27:31 identical css/main.css 
+2013-10-29 16:11:10 overwrite css/main.css 
+2013-10-29 16:15:34 overwrite css/main.css 
+2013-10-29 16:16:00     error sass/main.scss (Line 121 of sass/components/_modules.scss: Invalid CSS after "...-bottom: 4px; }": expected "}", was "")
+2013-10-29 16:16:00 overwrite css/main.css 
+2013-10-29 16:16:01     error sass/main.scss (Line 121 of sass/components/_modules.scss: Invalid CSS after "...-bottom: 4px; }": expected "}", was "")
+2013-10-29 16:16:01 identical css/main.css 
+2013-10-29 16:16:08 overwrite css/main.css 
+2013-10-29 16:16:12 identical css/main.css 
+2013-10-29 16:16:13 identical css/main.css 
+2013-10-29 16:16:43 overwrite css/main.css 
+2013-10-29 16:16:46 overwrite css/main.css 
+2013-10-29 16:17:32 overwrite css/main.css 
+2013-10-29 16:17:40 overwrite css/main.css 
+2013-10-29 16:17:50 overwrite css/main.css 
+2013-10-29 16:18:01 overwrite css/main.css 
+2013-10-29 16:18:09 overwrite css/main.css 
+2013-10-29 16:18:14 overwrite css/main.css 
+2013-10-29 16:18:25 overwrite css/main.css 
+2013-10-29 16:18:45 overwrite css/main.css 
+2013-10-29 16:19:20 overwrite css/main.css 
+2013-10-29 16:19:39 identical css/main.css 
+2013-10-29 16:24:54 identical css/main.css 
+2013-10-29 16:25:56 overwrite css/main.css 
+2013-10-29 16:26:03 overwrite css/main.css 
+2013-10-29 16:26:33 overwrite css/main.css 
+2013-10-29 16:35:39 overwrite css/main.css 
+2013-10-29 16:35:56 overwrite css/main.css 
+2013-10-29 16:36:08 overwrite css/main.css 
+2013-10-29 16:36:17 overwrite css/main.css 
+2013-10-29 16:37:47 overwrite css/main.css 
+2013-10-29 16:38:02 overwrite css/main.css 
+2013-10-29 16:38:13 overwrite css/main.css 
+2013-10-29 16:38:24 overwrite css/main.css 

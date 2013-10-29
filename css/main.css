@@ -741,12 +741,12 @@ h4 {
 }
 /* line 17, ../sass/components/_lists.scss */
 .sub-nav li {
-  padding: 7px 10px;
+  padding: 7px 16px;
   border-top: 1px solid #cacaca;
 }
 /* line 20, ../sass/components/_lists.scss */
 .sub-nav li:first-child {
-  padding-top: 0;
+  padding-top: 10px;
   border-top: none;
 }
 /* line 23, ../sass/components/_lists.scss */
@@ -826,17 +826,17 @@ h4 {
 
 /* line 46, ../sass/components/_modules.scss */
 .feature-box {
-  padding: 11px 16px 14px;
+  padding: 0 16px;
 }
 
 /* line 47, ../sass/components/_modules.scss */
-.feature-box-basic {
-  padding: 0;
+.feature-box-color {
+  padding: 11px 16px 14px;
 }
 
 /* line 48, ../sass/components/_modules.scss */
-.feature-box-media {
-  padding: 0 16px;
+.feature-box-no-color {
+  padding: 11px 16px 0;
 }
 
 /* line 50, ../sass/components/_modules.scss */

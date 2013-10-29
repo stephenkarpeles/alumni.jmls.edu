@@ -36,7 +36,7 @@
 	<div class="grid-wrap">
 		<div class="grid-col bp3-col-2-3">
 			<div class="header-bar header-bar-gray beta">Current Projects</div>
-			<div class="module feature-box feature-box-media feature-box-gray">
+			<div class="module feature-box feature-box-gray">
 					
 				<div class="grid-wrap">
 
@@ -130,7 +130,7 @@
 						Upcoming Events
 					</div>
 
-					<div class="module feature-box-basic">	
+					<div class="module">	
 
 						<!-- Event -->
 						<div class="media-box">
@@ -150,21 +150,21 @@
 
 						<!-- Event -->
 						<div class="media-box">
-						<div class="media">
-							<div href="" class="graphic">
-								<div class="datebox">
-								  <div class="datebox-header">Oct</div>
-								  <div class="datebox-content">22</div>
+							<div class="media">
+								<div href="" class="graphic">
+									<div class="datebox">
+									  <div class="datebox-header">Oct</div>
+									  <div class="datebox-content">22</div>
+									</div>
+								</div>
+								<div class="media-content">
+									<a class="bold" href="">Vistor&rsquo;s Reception &amp; Dinner</a>
+									<div class="subtext">5 &ndash; 8pm</div>
 								</div>
 							</div>
-							<div class="media-content">
-								<a class="bold" href="">Vistor&rsquo;s Reception &amp; Dinner</a>
-								<div class="subtext">5 &ndash; 8pm</div>
-							</div>
-						</div>
 						</div>
 
-						<!-- Event -->
+						<!-- Event -->						
 						<div class="media-box">
 							<div class="media">
 								<div href="" class="graphic">
@@ -182,10 +182,8 @@
 
 						<p class="subtext bold italic"><a href="">View all events &raquo;</a></p>
 
-					</div><!-- .feature-box-basic -->
-
-				</div>
-
+					</div><!-- .module -->
+				</div><!-- .grid-col -->
 
 				<div class="grid-col bp2-col-1-2">
 
@@ -193,7 +191,7 @@
 						<span class="bold">Latest News</span>
 					</div>	
 
-					<div class="module feature-box-basic">				
+					<div class="module">				
 
 						<!-- News Item -->
 						<div class="media-box">
@@ -227,13 +225,11 @@
 
 						<p class="subtext bold italic"><a href="">View all news &raquo;</a></p>
 
-					</div><!-- .feature-box-basic -->
-
-				</div>
-
-			</div> <!-- .grid-wrap -->
+					</div><!-- .module -->
+				</div><!-- .grid-col -->
+			</div><!-- .grid-wrap -->
 						
-		</div>		
+		</div><!-- .grid-wrap -->		
 
 		<div class="grid-col bp3-col-1-3">
 
@@ -242,7 +238,7 @@
 				<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 					<div class="module">
 						<div class="header-bar header-bar-gold">Dean&rsquo;s Report</div>
-						<div class="feature-box feature-box-gold">
+						<div class="feature-box-color feature-box-gold">
 							Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 						</div>
 					</div>
@@ -251,7 +247,7 @@
 				<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 					<div class="module">
 						<div class="header-bar header-bar-gray">Online Directory</div>
-						<div class="feature-box feature-box-gray text-center">
+						<div class="feature-box-color feature-box-gray text-center">
 							<div class="btn btn-medium btn-white bold">Alumni Login</div>
 							<div class="subtext-alt">For alumni who have their login ID</div>	
 							<div class="mar-bot-small-alt"></div>						

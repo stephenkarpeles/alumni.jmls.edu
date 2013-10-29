@@ -62,14 +62,13 @@
 						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 							<div class="module">
 								<div class="header-bar header-bar-red">Get Involved Menu</div>
-								<div class="sub-nav feature-box-basic">
+								<div class="sub-nav">
 									<ul class="no-list-style">
-										<li><a href="">Interior Link</a></li>
-										<li><a href="">Interior Link</a></li>
-										<li><a href="">Interior Link</a></li>
-										<li><a href="">Interior Link</a></li>
-										<li><a href="">Interior Link</a></li>
-										<li><a href="">Interior Link</a></li>
+										<li><a href="">Young Alumni Council</a></li>
+										<li><a href="">Alumni Association</a></li>
+										<li><a href="">Mentoring Program</a></li>
+										<li><a href="">Alumni Meetings &amp; Events</a></li>
+										<li><a href="">Volunteer Opportunities</a></li>
 									</ul>
 								</div>
 							</div>							
@@ -78,7 +77,7 @@
 						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 							<div class="module">
 								<div class="header-bar header-bar-gray">Connect Online</div>
-								<div class="feature-box-basic">
+								<div class="feature-box-no-color">
 									Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 								</div>
 							</div>
@@ -91,7 +90,7 @@
 						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 							<div class="module">
 								<div class="header-bar header-bar-gold">Briefcase</div>
-								<div class="feature-box feature-box-gold">
+								<div class="feature-box-color feature-box-gold">
 									Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 								</div>
 							</div>
@@ -100,16 +99,67 @@
 						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 							<div class="module">
 								<div class="header-bar header-bar-gold">Upcoming Events</div>
-								<div class="feature-box">
-									Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-								</div>			
-							</div>
-						</div>
+								
+								<!-- Event -->
+								<div class="media-box">
+									<div class="feature-box">
+										<div class="media">
+											<div href="" class="graphic">
+												<div class="datebox">
+												  <div class="datebox-header">Sep</div>
+												  <div class="datebox-content">15</div>
+												</div>
+											</div>
+											<div class="media-content">
+												<a class="bold" href="">Mini Reunion Party</a>
+												<div class="subtext">6 &ndash; 7:30pm</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<!-- Event -->
+								<div class="media-box">
+									<div class="feature-box">
+										<div class="media">
+											<div href="" class="graphic">
+												<div class="datebox">
+												  <div class="datebox-header">Oct</div>
+												  <div class="datebox-content">22</div>
+												</div>
+											</div>
+											<div class="media-content">
+												<a class="bold" href="">Vistor&rsquo;s Reception &amp; Dinner</a>
+												<div class="subtext">5 &ndash; 8pm</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<!-- Event -->
+								<div class="media-box">
+									<div class="feature-box">
+										<div class="media">
+											<div href="" class="graphic">
+												<div class="datebox">
+												  <div class="datebox-header">Nov</div>
+												  <div class="datebox-content">09</div>
+												</div>
+											</div>
+											<div class="media-content">
+												<a class="bold" href="">Continued Learning Program</a>
+												<div class="subtext">5 &ndash; 7:30pm</div>
+											</div>
+										</div>
+									</div>
+								</div>
+											
+							</div><!-- .header-bar -->
+						</div><!-- .module -->
 
 					</div><!-- .grid-wrap -->	
 
-				</aside>				
-				<!-- End Sidebar -->
+				</aside><!-- End Sidebar -->
 
 			</div><!-- .grid-col -->			
 
