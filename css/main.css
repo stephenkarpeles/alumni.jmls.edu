@@ -424,57 +424,57 @@ table {
 
 /* line 26, ../sass/vendor/_icon-fonts.scss */
 .icon-youtube:before {
-  content: "\e601";
+  content: "\e600";
 }
 
 /* line 29, ../sass/vendor/_icon-fonts.scss */
-.icon-twitter:before {
-  content: "\e602";
+.icon-arrow:before {
+  content: "\e601";
 }
 
 /* line 32, ../sass/vendor/_icon-fonts.scss */
-.icon-search:before {
-  content: "\e603";
+.icon-facebook:before {
+  content: "\e602";
 }
 
 /* line 35, ../sass/vendor/_icon-fonts.scss */
-.icon-ribbon:before {
-  content: "\e604";
+.icon-flickr:before {
+  content: "\e603";
 }
 
 /* line 38, ../sass/vendor/_icon-fonts.scss */
-.icon-linkedin:before {
-  content: "\e605";
+.icon-gift:before {
+  content: "\e604";
 }
 
 /* line 41, ../sass/vendor/_icon-fonts.scss */
+.icon-globe:before {
+  content: "\e605";
+}
+
+/* line 44, ../sass/vendor/_icon-fonts.scss */
 .icon-info:before {
   content: "\e606";
 }
 
-/* line 44, ../sass/vendor/_icon-fonts.scss */
-.icon-globe:before {
+/* line 47, ../sass/vendor/_icon-fonts.scss */
+.icon-linkedin:before {
   content: "\e607";
 }
 
-/* line 47, ../sass/vendor/_icon-fonts.scss */
-.icon-gift:before {
+/* line 50, ../sass/vendor/_icon-fonts.scss */
+.icon-ribbon:before {
   content: "\e608";
 }
 
-/* line 50, ../sass/vendor/_icon-fonts.scss */
-.icon-flickr:before {
+/* line 53, ../sass/vendor/_icon-fonts.scss */
+.icon-twitter:before {
   content: "\e609";
 }
 
-/* line 53, ../sass/vendor/_icon-fonts.scss */
-.icon-facebook:before {
-  content: "\e60a";
-}
-
 /* line 56, ../sass/vendor/_icon-fonts.scss */
-.icon-arrow:before {
-  content: "\e60b";
+.icon-search:before {
+  content: "\e60a";
 }
 
 /* line 5, ../sass/components/_helpers.scss */
@@ -1093,8 +1093,22 @@ hr {
 /* line 1, ../sass/partials/_social.scss */
 .social {
   font-family: 'icomoon';
-  font-size: 40px;
-  color: black;
+  text-align: center;
+}
+
+/* line 5, ../sass/partials/_social.scss */
+.icon-facebook {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+  background: #3b5998;
+  color: white;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  border-radius: 25px;
 }
 
 /* -- Setup grids with base class -- */

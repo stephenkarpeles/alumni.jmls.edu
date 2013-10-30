@@ -1,4 +1,12 @@
-.social {
+.social {	
 	font-family: 'icomoon';
-	font-size: 40px;
-	color: black; }
+	text-align: center; }
+
+.icon-facebook {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	font-size: 30px;
+	background: $facebook-blue;
+	color: white;
+	@include border-radius(25px); }

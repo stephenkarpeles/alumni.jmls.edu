@@ -1430,3 +1430,24 @@ Load paths:
 2013-10-30 10:54:48 identical css/main.css 
 2013-10-30 10:57:35 identical css/main.css 
 2013-10-30 10:57:49 overwrite css/main.css 
+2013-10-30 11:00:37 identical css/main.css 
+2013-10-30 11:00:46 overwrite css/main.css 
+2013-10-30 11:10:26 overwrite css/main.css 
+2013-10-30 11:10:55 overwrite css/main.css 
+2013-10-30 11:11:00     error sass/main.scss (Line 8 of sass/partials/_social.scss: Invalid CSS after "	color: ": expected expression (e.g. 1px, bold), was "#white;")
+2013-10-30 11:11:00 overwrite css/main.css 
+2013-10-30 11:11:01     error sass/main.scss (Line 8 of sass/partials/_social.scss: Invalid CSS after "	color: ": expected expression (e.g. 1px, bold), was "#white;")
+2013-10-30 11:11:01 identical css/main.css 
+2013-10-30 11:11:02 overwrite css/main.css 
+2013-10-30 11:11:20 overwrite css/main.css 
+2013-10-30 11:11:45 overwrite css/main.css 
+2013-10-30 11:11:53 overwrite css/main.css 
+2013-10-30 11:11:55 identical css/main.css 
+2013-10-30 11:12:24 overwrite css/main.css 
+2013-10-30 11:12:33 overwrite css/main.css 
+2013-10-30 11:12:56 overwrite css/main.css 
+2013-10-30 11:13:05 overwrite css/main.css 
+2013-10-30 11:13:33 overwrite css/main.css 
+2013-10-30 11:13:48 overwrite css/main.css 
+2013-10-30 11:14:12 overwrite css/main.css 
+2013-10-30 11:14:33 overwrite css/main.css 
