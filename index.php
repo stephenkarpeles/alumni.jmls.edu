@@ -133,7 +133,7 @@
 					<div class="module">	
 
 						<!-- Event -->
-						<div class="media-box media-box-tall">
+						<div class="media-box">
 							<div class="media">
 								<div href="" class="graphic">
 									<div class="datebox">
@@ -149,7 +149,7 @@
 						</div>
 
 						<!-- Event -->
-						<div class="media-box media-box-tall">
+						<div class="media-box">
 							<div class="media">
 								<div href="" class="graphic">
 									<div class="datebox">
@@ -165,7 +165,7 @@
 						</div>
 
 						<!-- Event -->						
-						<div class="media-box media-box-tall">
+						<div class="media-box">
 							<div class="media">
 								<div href="" class="graphic">
 									<div class="datebox">
@@ -179,7 +179,7 @@
 								</div>
 							</div>
 						</div>
-
+						
 						<p class="subtext bold italic"><a href="">View all events &raquo;</a></p>
 
 					</div><!-- .module -->

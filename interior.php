@@ -54,7 +54,8 @@
 			</div><!-- .grid-col -->			
 						
 			<div class="grid-col bp3-col-1-4">
-				<!-- Sidebar -->
+
+				<!-- Start Sidebar -->
 				<aside class="sidebar">	
 
 					<div class="grid-wrap">
@@ -153,9 +154,13 @@
 										</div>
 									</div>
 								</div>
+
+								<div class="feature-box">
+									<p class="subtext bold italic"><a href="">View all events &raquo;</a></p>
+								</div>
 											
-							</div><!-- .header-bar -->
-						</div><!-- .module -->
+							</div><!-- .module -->
+						</div><!-- .grid-col -->
 
 					</div><!-- .grid-wrap -->	
 
