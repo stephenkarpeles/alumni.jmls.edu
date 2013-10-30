@@ -772,6 +772,11 @@ h4 {
 }
 
 /* line 15, ../sass/components/_modules.scss */
+.media-box-tall {
+  padding: 13px 0;
+}
+
+/* line 18, ../sass/components/_modules.scss */
 .media,
 .media-content {
   overflow: hidden;
@@ -779,19 +784,19 @@ h4 {
   zoom: 1;
 }
 
-/* line 20, ../sass/components/_modules.scss */
+/* line 23, ../sass/components/_modules.scss */
 .media-content {
   line-height: 1.2;
 }
 
-/* line 23, ../sass/components/_modules.scss */
+/* line 26, ../sass/components/_modules.scss */
 .media .graphic {
   float: left;
   margin-top: 3px;
   margin-right: 12px;
 }
 
-/* line 30, ../sass/components/_modules.scss */
+/* line 33, ../sass/components/_modules.scss */
 .header-bar {
   padding: 8px 16px 9px;
   font-weight: 700;
@@ -799,57 +804,57 @@ h4 {
   line-height: 1.1;
 }
 
-/* line 36, ../sass/components/_modules.scss */
+/* line 39, ../sass/components/_modules.scss */
 .header-bar-red {
   background: #aa0000;
   color: white;
 }
 
-/* line 37, ../sass/components/_modules.scss */
+/* line 40, ../sass/components/_modules.scss */
 .header-bar-gray {
   background: #666666;
   color: white;
 }
 
-/* line 38, ../sass/components/_modules.scss */
+/* line 41, ../sass/components/_modules.scss */
 .header-bar-gold {
   background: #bf9d3e;
   color: white;
 }
 
-/* line 40, ../sass/components/_modules.scss */
+/* line 43, ../sass/components/_modules.scss */
 .header-bar-basic {
   padding: 8px 0 9px;
   border-top: 1px solid #cacaca;
   border-bottom: 1px solid #cacaca;
 }
 
-/* line 46, ../sass/components/_modules.scss */
+/* line 49, ../sass/components/_modules.scss */
 .feature-box {
   padding: 0 16px;
 }
 
-/* line 47, ../sass/components/_modules.scss */
+/* line 50, ../sass/components/_modules.scss */
 .feature-box-color {
   padding: 11px 16px 14px;
 }
 
-/* line 48, ../sass/components/_modules.scss */
+/* line 51, ../sass/components/_modules.scss */
 .feature-box-no-color {
   padding: 11px 16px 0;
 }
 
-/* line 50, ../sass/components/_modules.scss */
+/* line 53, ../sass/components/_modules.scss */
 .feature-box-gray {
   background: #e7e7e7;
 }
 
-/* line 51, ../sass/components/_modules.scss */
+/* line 54, ../sass/components/_modules.scss */
 .feature-box-gold {
   background: #f8f4e1;
 }
 
-/* line 55, ../sass/components/_modules.scss */
+/* line 58, ../sass/components/_modules.scss */
 .action-bar a {
   display: block;
   margin-bottom: 1em;
@@ -860,23 +865,23 @@ h4 {
   text-transform: uppercase;
   color: white;
 }
-/* line 64, ../sass/components/_modules.scss */
+/* line 67, ../sass/components/_modules.scss */
 .action-bar a:hover, .action-bar a:active {
   background: #bb0000;
   color: white;
 }
 
-/* line 69, ../sass/components/_modules.scss */
+/* line 72, ../sass/components/_modules.scss */
 .highlight {
   text-align: center;
 }
 
-/* line 72, ../sass/components/_modules.scss */
+/* line 75, ../sass/components/_modules.scss */
 .highlight img {
   width: 100%;
 }
 
-/* line 75, ../sass/components/_modules.scss */
+/* line 78, ../sass/components/_modules.scss */
 .highlight-wrap {
   overflow: hidden;
   clear: both;
@@ -884,13 +889,13 @@ h4 {
   padding: 0;
 }
 @media (min-width: 480px) {
-  /* line 75, ../sass/components/_modules.scss */
+  /* line 78, ../sass/components/_modules.scss */
   .highlight-wrap {
     margin-left: -2em;
   }
 }
 
-/* line 82, ../sass/components/_modules.scss */
+/* line 85, ../sass/components/_modules.scss */
 .highlight-unit {
   position: relative;
   overflow: visible;
@@ -899,23 +904,23 @@ h4 {
   padding-left: 1.5em;
 }
 @media (min-width: 480px) {
-  /* line 82, ../sass/components/_modules.scss */
+  /* line 85, ../sass/components/_modules.scss */
   .highlight-unit {
     padding-left: 2em;
   }
 }
 @media (min-width: 900px) {
-  /* line 82, ../sass/components/_modules.scss */
+  /* line 85, ../sass/components/_modules.scss */
   .highlight-unit {
     width: 33%;
   }
 }
-/* line 90, ../sass/components/_modules.scss */
+/* line 93, ../sass/components/_modules.scss */
 .highlight-unit img {
   padding-bottom: 0.25em;
 }
 
-/* line 93, ../sass/components/_modules.scss */
+/* line 96, ../sass/components/_modules.scss */
 .highlight-header {
   height: 4.75em;
   font-size: 1.17em;
@@ -923,25 +928,25 @@ h4 {
   line-height: 1.1;
 }
 @media (min-width: 360px) {
-  /* line 93, ../sass/components/_modules.scss */
+  /* line 96, ../sass/components/_modules.scss */
   .highlight-header {
     height: 4em;
   }
 }
 @media (min-width: 800px) {
-  /* line 93, ../sass/components/_modules.scss */
+  /* line 96, ../sass/components/_modules.scss */
   .highlight-header {
     height: 3.75em;
   }
 }
 
-/* line 102, ../sass/components/_modules.scss */
+/* line 105, ../sass/components/_modules.scss */
 .datebox {
   width: 46px;
   text-align: center;
 }
 
-/* line 106, ../sass/components/_modules.scss */
+/* line 109, ../sass/components/_modules.scss */
 .datebox-header {
   width: 100%;
   padding-top: 1px;
@@ -952,7 +957,7 @@ h4 {
   color: white;
 }
 
-/* line 115, ../sass/components/_modules.scss */
+/* line 118, ../sass/components/_modules.scss */
 .datebox-content {
   background: #e7e7e7;
   font-size: 21px;

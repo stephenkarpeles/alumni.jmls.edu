@@ -101,7 +101,7 @@
 								<div class="header-bar header-bar-gold">Upcoming Events</div>
 								
 								<!-- Event -->
-								<div class="media-box">
+								<div class="media-box media-box-tall">
 									<div class="feature-box">
 										<div class="media">
 											<div href="" class="graphic">
@@ -119,7 +119,7 @@
 								</div>
 
 								<!-- Event -->
-								<div class="media-box">
+								<div class="media-box media-box-tall">
 									<div class="feature-box">
 										<div class="media">
 											<div href="" class="graphic">
@@ -137,7 +137,7 @@
 								</div>
 
 								<!-- Event -->
-								<div class="media-box">
+								<div class="media-box media-box-tall">
 									<div class="feature-box">
 										<div class="media">
 											<div href="" class="graphic">
