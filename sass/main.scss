@@ -1,6 +1,7 @@
 // Vendor Dependencies 
 @import "compass";
 @import "vendor/normalize";
+@import "vendor/icon-fonts";
 
 // Authored Dependencies 
 @import "components/helpers";
@@ -13,6 +14,7 @@
 
 // Partials 
 @import "partials/base";
+@import "partials/social";
 
 // Layout 
 @import "layout/grid";

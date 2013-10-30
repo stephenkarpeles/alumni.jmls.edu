@@ -29,6 +29,16 @@
 				<div class="action-bar"><a href="">Get Involved</a></div>
 				<div class="action-bar"><a href="">Stay Connected</a></div>
 				<div class="action-bar"><a href="">Support John Marshall</a></div>
+				
+				<div class="social">
+					<span class="icon-facebook"></span>
+					<span class="icon-twitter"></span>
+					<span class="icon-linkedin"></span>
+					<span class="icon-youtube"></span>
+					<span class="icon-flickr"></span>
+
+				</div>
+
 			</div>
 		
 	</div><!-- .grid-wrap -->		
