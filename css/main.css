@@ -1026,10 +1026,12 @@ h4 {
   padding-bottom: 4px;
 }
 
-/* line 116, ../sass/components/_modules.scss */
-.action-bar a {
+/* line 115, ../sass/components/_modules.scss */
+.action-bar {
+  overflow: hidden;
+  position: relative;
   display: block;
-  margin-bottom: 0.925em;
+  margin-bottom: 0.9em;
   padding: 16px 20px;
   background: #aa0000;
   font-size: 1.17em;
@@ -1037,25 +1039,45 @@ h4 {
   text-transform: uppercase;
   color: white;
 }
-/* line 125, ../sass/components/_modules.scss */
-.action-bar a:hover, .action-bar a:active {
+/* line 126, ../sass/components/_modules.scss */
+.action-bar:hover, .action-bar:active {
   background: #bb0000;
   color: white;
 }
 
 /* line 130, ../sass/components/_modules.scss */
+.action-bar-text {
+  position: relative;
+  z-index: 1000;
+}
+
+/* line 134, ../sass/components/_modules.scss */
+.action-bar-icon {
+  display: block;
+  float: right;
+  position: absolute;
+  right: 12px;
+  top: -6px;
+  font-size: 65px;
+  color: white;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=15)";
+  filter: alpha(opacity=15);
+  opacity: .15;
+}
+
+/* line 147, ../sass/components/_modules.scss */
 .social {
   letter-spacing: -4px;
 }
 
-/* line 133, ../sass/components/_modules.scss */
+/* line 151, ../sass/components/_modules.scss */
 .social-icon {
   display: inline-block;
   zoom: 1;
   width: 20%;
 }
 
-/* line 138, ../sass/components/_modules.scss */
+/* line 156, ../sass/components/_modules.scss */
 .social-icon-img {
   position: relative;
   bottom: 0;
@@ -1069,7 +1091,7 @@ h4 {
   -o-transition: ease-in-out 0.15s;
   transition: ease-in-out 0.15s;
 }
-/* line 147, ../sass/components/_modules.scss */
+/* line 165, ../sass/components/_modules.scss */
 .social-icon-img:hover {
   bottom: 3px;
 }

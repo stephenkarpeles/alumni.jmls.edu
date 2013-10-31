@@ -112,22 +112,40 @@
 
 
 // Action Bars
-.action-bar {		
-	a {
-		display: block;
-		margin-bottom: $base-spacing-unit*1.85;
-		padding: 16px 20px;
-		background: $main-red;
-		font-size: $font-size-delta;
-		font-weight: 700;
-		text-transform: uppercase;
-		color: white;
-		&:hover, &:active {
-			background: $bright-red;
-			color: white;	} } }
+.action-bar {	
+	overflow: hidden;	
+	position: relative;
+	display: block;
+	margin-bottom: $base-spacing-unit*1.8;
+	padding: 16px 20px;
+	background: $main-red;	
+	font-size: $font-size-delta;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: white;
+	&:hover, &:active {
+		background: $bright-red;
+		color: white;	} } 
 
-// Social
+.action-bar-text {
+	position: relative;
+	z-index: 1000; }
+
+.action-bar-icon {
+	display: block;
+	float: right;
+	position: absolute;
+	right: 12px;
+	top: -6px;	
+	font-size: 65px;
+	color: white;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=15)"; // IE 8
+	filter: alpha(opacity=15); // IE 5-7
+	opacity: .15; }
+
+// Social 
 .social { 
+	// Keep icons from wrapping. More info here: http://css-tricks.com/almanac/properties/l/letter-spacing/
 	letter-spacing: -4px;	}
 
 .social-icon {

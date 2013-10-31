@@ -1691,3 +1691,65 @@ Load paths:
   C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/vendor/assets/stylesheets)
 2013-10-31 14:06:29 identical css/main.css 
 2013-10-31 14:06:59 overwrite css/main.css 
+2013-10-31 14:56:09 identical css/main.css 
+2013-10-31 14:56:11 identical css/main.css 
+2013-10-31 14:56:27 identical css/main.css 
+2013-10-31 15:08:08 overwrite css/main.css 
+2013-10-31 15:08:29 overwrite css/main.css 
+2013-10-31 15:09:02 overwrite css/main.css 
+2013-10-31 15:09:43 overwrite css/main.css 
+2013-10-31 15:09:45 identical css/main.css 
+2013-10-31 15:10:20 overwrite css/main.css 
+2013-10-31 15:10:23 identical css/main.css 
+2013-10-31 15:10:26 identical css/main.css 
+2013-10-31 15:19:20 overwrite css/main.css 
+2013-10-31 16:06:46 overwrite css/main.css 
+2013-10-31 16:06:54 overwrite css/main.css 
+2013-10-31 16:07:07 overwrite css/main.css 
+2013-10-31 16:07:12 overwrite css/main.css 
+2013-10-31 16:08:06 overwrite css/main.css 
+2013-10-31 16:09:52 overwrite css/main.css 
+2013-10-31 16:10:00 overwrite css/main.css 
+2013-10-31 16:10:05 overwrite css/main.css 
+2013-10-31 16:10:16 overwrite css/main.css 
+2013-10-31 16:10:37 overwrite css/main.css 
+2013-10-31 16:11:57 overwrite css/main.css 
+2013-10-31 16:12:26 overwrite css/main.css 
+2013-10-31 16:12:44 overwrite css/main.css 
+2013-10-31 16:12:47 overwrite css/main.css 
+2013-10-31 16:13:04 overwrite css/main.css 
+2013-10-31 16:13:20     error sass/main.scss (Line 135 of sass/components/_modules.scss: Invalid CSS after "	z-index": expected ";", was ": 1000;")
+2013-10-31 16:13:20 overwrite css/main.css 
+2013-10-31 16:13:21     error sass/main.scss (Line 135 of sass/components/_modules.scss: Invalid CSS after "	z-index": expected ";", was ": 1000;")
+2013-10-31 16:13:21 identical css/main.css 
+2013-10-31 16:13:29 overwrite css/main.css 
+2013-10-31 16:13:39 overwrite css/main.css 
+2013-10-31 16:14:03 overwrite css/main.css 
+2013-10-31 16:14:30 overwrite css/main.css 
+2013-10-31 16:14:34 overwrite css/main.css 
+2013-10-31 16:14:40 overwrite css/main.css 
+2013-10-31 16:14:46 overwrite css/main.css 
+2013-10-31 16:14:56 overwrite css/main.css 
+2013-10-31 16:15:05 overwrite css/main.css 
+2013-10-31 16:15:31 overwrite css/main.css 
+2013-10-31 16:15:40 overwrite css/main.css 
+2013-10-31 16:18:19 overwrite css/main.css 
+2013-10-31 16:18:27 overwrite css/main.css 
+2013-10-31 16:19:55 overwrite css/main.css 
+2013-10-31 16:20:03 overwrite css/main.css 
+2013-10-31 16:20:32     error sass/main.scss (Line 128 of sass/components/_modules.scss: Invalid CSS after "...or: white;	} } ": expected selector or at-rule, was "}")
+2013-10-31 16:20:32 overwrite css/main.css 
+2013-10-31 16:20:33     error sass/main.scss (Line 128 of sass/components/_modules.scss: Invalid CSS after "...or: white;	} } ": expected selector or at-rule, was "}")
+2013-10-31 16:20:33 identical css/main.css 
+2013-10-31 16:20:43 overwrite css/main.css 
+2013-10-31 16:21:54 overwrite css/main.css 
+2013-10-31 16:22:01 overwrite css/main.css 
+2013-10-31 16:23:24 overwrite css/main.css 
+2013-10-31 16:23:34 overwrite css/main.css 
+2013-10-31 16:23:54 overwrite css/main.css 
+2013-10-31 16:25:04 overwrite css/main.css 
+2013-10-31 16:25:47 overwrite css/main.css 
+2013-10-31 16:26:40 overwrite css/main.css 
+2013-10-31 16:27:14 overwrite css/main.css 
+2013-10-31 16:28:49 identical css/main.css 
+2013-10-31 16:29:31 overwrite css/main.css 

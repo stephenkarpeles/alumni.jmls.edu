@@ -26,9 +26,9 @@
 			</div>
 
 			<div class="grid-col bp3-col-1-3">
-				<div class="action-bar"><a href="">Get Involved</a></div>
-				<div class="action-bar"><a href="">Stay Connected</a></div>
-				<div class="action-bar"><a href="">Support John Marshall</a></div>
+				<a href="#"><div class="action-bar"><span class="action-bar-text">Get Involved</span><span class="action-bar-icon icon-info"></span></div></a>
+				<a href="#"><div class="action-bar"><span class="action-bar-text">Stay Connected</span><span class="action-bar-icon icon-globe"></span></div></a>
+				<a href="#"><div class="action-bar"><span class="action-bar-text">Support John Marshall</span><span class="action-bar-icon icon-gift"></span></div></a>
 				
 				<div class="social">
 					<div class="social-icon"><a href="https://www.facebook.com/JMLSAlumni" title="Facebook" target="_blank"><img class="social-icon-img" src="images/icon-facebook-color.svg" alt="Facebook"></a></div>
