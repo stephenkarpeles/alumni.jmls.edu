@@ -31,14 +31,12 @@
 				<div class="action-bar"><a href="">Support John Marshall</a></div>
 				
 				<div class="social">
-					<span class="icon-facebook"></span>
-					<span class="icon-twitter"></span>
-					<span class="icon-linkedin"></span>
-					<span class="icon-youtube"></span>
-					<span class="icon-flickr"></span>
-
+					<a href="https://www.facebook.com/JMLSAlumni" title="Facebook" target="_blank"><span class="icon-facebook"></span></a>
+					<a href="https://twitter.com/JMLSAlumni" title="Twitter" target="_blank"><span class="icon-twitter"></span></a>
+					<a href="http://www.linkedin.com/groups?gid=121368&trk=myg_ugrp_ovr" title="LinkedIn" target="_blank"><span class="icon-linkedin"></span></a>
+					<a href="http://www.youtube.com/jmlschicago" title="YouTube" target="_blank"><span class="icon-youtube"></span></a>
+					<a href="http://www.flickr.com/photos/43883549@N08/" title="Fl" target="_blank"><span class="icon-flickr"></span></a>
 				</div>
-
 			</div>
 		
 	</div><!-- .grid-wrap -->		

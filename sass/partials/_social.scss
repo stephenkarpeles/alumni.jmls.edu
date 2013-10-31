@@ -1,13 +1,23 @@
 .social {	
-	font-family: 'icomoon';
-	text-align: center; }
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	font-family: 'icomoon';	
+	font-size: 20px;	
+	@include breakpoint(bp6) {  }		
+	a:hover {
+		opacity: .9;
+		@include transition(ease-in-out .15s); } }
 
-.icon-facebook {
+.social-icon {
+	background: blue;		
+	max-width: 20%;
+	padding: 0;
 	display: inline-block;
-	
-	width: 50px;
-	height: 50px;
-	font-size: 30px;
-	background: $facebook-blue;
-	color: white;
-	@include border-radius(25px); }
+	zoom: 1; }
+
+.icon-facebook { color: $facebook-blue; }
+.icon-twitter  { color: $twitter-blue; }
+.icon-linkedin { color: $linkedin-blue; }
+.icon-youtube  { color: $youtube-red; }
+.icon-flickr   { color: $flickr-blue; }
