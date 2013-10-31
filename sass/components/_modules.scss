@@ -45,6 +45,7 @@
 	border-top: 1px solid $lighter-gray;  
 	border-bottom: 1px solid $lighter-gray; }
 
+
 // Feature Boxes
 .feature-box           { padding: 0 16px; }
 .feature-box-color	   { padding: 11px 16px 14px; }
@@ -53,20 +54,6 @@
 .feature-box-gray { background: $light-gray; }
 .feature-box-gold { background: $tan; }
 
-// Action Bars
-.action-bar {		
-	a {
-		display: block;
-		margin-bottom: $base-spacing-unit*2;
-		padding: 16px 20px;
-		background: $main-red;
-		font-size: $font-size-delta;
-		font-weight: 700;
-		text-transform: uppercase;
-		color: white;
-		&:hover, &:active {
-			background: $bright-red;
-			color: white;	} } }
 
 // Highlight Module 
 .highlight {
@@ -101,6 +88,7 @@
 	@include breakpoint(bp-tiny) { height: 4em; }
 	@include breakpoint(bp3) { height: 3.75em; } }
 
+
 // Datebox
 .datebox {
   width: 46px;
@@ -121,3 +109,40 @@
   line-height: $line-height-low;
   padding-top: 0px; 
   padding-bottom: 4px; }
+
+
+// Action Bars
+.action-bar {		
+	a {
+		display: block;
+		margin-bottom: $base-spacing-unit*1.85;
+		padding: 16px 20px;
+		background: $main-red;
+		font-size: $font-size-delta;
+		font-weight: 700;
+		text-transform: uppercase;
+		color: white;
+		&:hover, &:active {
+			background: $bright-red;
+			color: white;	} } }
+
+// Social
+.social { 
+	letter-spacing: -4px;	}
+
+.social-icon {
+	display: inline-block;
+	zoom: 1;
+	width: 20%; }	
+
+.social-icon-img {
+	position: relative;	
+	bottom: 0;
+  left: 50%;
+  margin-bottom: 2px;
+  margin-left: -25px; // Half of width
+  width: 50px;
+  max-width: 100%;  
+  @include transition(ease-in-out .15s);
+  &:hover {
+  	bottom: 3px; } }
