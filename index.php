@@ -256,10 +256,10 @@
 					<div class="module">
 						<div class="header-bar header-bar-gray">Online Directory</div>
 						<div class="feature-box-color feature-box-gray text-center">
-							<div class="btn btn-medium btn-white bold">Alumni Login</div>
+							<a class="btn btn-medium btn-white bold">Alumni Login</a>
 							<div class="subtext-alt">For alumni who have their login ID</div>	
 							<div class="mar-bot-small-alt"></div>						
-							<div class="btn btn-medium btn-white bold">Alumni Registration</div>
+							<a class="btn btn-medium btn-white bold">Alumni Registration</a>
 							<div class="subtext-alt">For alumni who need a login ID</div>							
 						</div>			
 					</div>

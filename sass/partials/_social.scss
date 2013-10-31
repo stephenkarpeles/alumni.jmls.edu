@@ -1,20 +1,16 @@
 .social {	
-	position: relative;
-	overflow: hidden;
-	width: 100%;
+	text-align: center;
 	font-family: 'icomoon';	
-	font-size: 20px;	
-	@include breakpoint(bp6) {  }		
-	a:hover {
-		opacity: .9;
-		@include transition(ease-in-out .15s); } }
-
-.social-icon {
-	background: blue;		
-	max-width: 20%;
-	padding: 0;
-	display: inline-block;
-	zoom: 1; }
+	font-size: 43px;
+	letter-spacing: -2px;	
+	@include breakpoint(bp6) {  }
+	a {	
+		position: relative;	
+		bottom: 0;
+		display: inline-block;
+		zoom: 1; } 
+	a:hover {		
+		bottom: 3px; } }
 
 .icon-facebook { color: $facebook-blue; }
 .icon-twitter  { color: $twitter-blue; }

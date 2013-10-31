@@ -1561,3 +1561,42 @@ Load paths:
 2013-10-31 12:06:56 overwrite css/main.css 
 2013-10-31 12:07:03 overwrite css/main.css 
 2013-10-31 12:07:19 overwrite css/main.css 
+2013-10-31 12:09:09 overwrite css/main.css 
+2013-10-31 12:09:20 overwrite css/main.css 
+2013-10-31 12:09:28 overwrite css/main.css 
+2013-10-31 12:09:34 overwrite css/main.css 
+2013-10-31 12:10:10 overwrite css/main.css 
+2013-10-31 12:10:36 overwrite css/main.css 
+2013-10-31 12:11:31 overwrite css/main.css 
+2013-10-31 12:13:07 overwrite css/main.css 
+2013-10-31 12:13:20 overwrite css/main.css 
+2013-10-31 12:13:27 overwrite css/main.css 
+2013-10-31 12:14:02 overwrite css/main.css 
+2013-10-31 12:14:43 identical css/main.css 
+2013-10-31 12:14:48 overwrite css/main.css 
+2013-10-31 12:15:00 overwrite css/main.css 
+2013-10-31 12:15:13 overwrite css/main.css 
+2013-10-31 12:17:19 overwrite css/main.css 
+2013-10-31 12:17:45     error sass/main.scss (Line 18 of sass/partials/_social.scss: Invalid CSS after "...$flickr-blue; }": expected "}", was "")
+2013-10-31 12:17:45 overwrite css/main.css 
+2013-10-31 12:17:45     error sass/main.scss (Line 18 of sass/partials/_social.scss: Invalid CSS after "...$flickr-blue; }": expected "}", was "")
+2013-10-31 12:17:45 identical css/main.css 
+2013-10-31 12:17:52 overwrite css/main.css 
+2013-10-31 12:18:08 overwrite css/main.css 
+2013-10-31 12:18:20 overwrite css/main.css 
+2013-10-31 12:18:27 identical css/main.css 
+2013-10-31 12:18:34 overwrite css/main.css 
+2013-10-31 12:18:40 overwrite css/main.css 
+2013-10-31 12:20:33 overwrite css/main.css 
+2013-10-31 12:20:36 overwrite css/main.css 
+2013-10-31 12:20:38 overwrite css/main.css 
+2013-10-31 12:20:59     error sass/main.scss (Line 14 of sass/partials/_social.scss: Invalid CSS after "		bottom: 2px; } ": expected selector or at-rule, was "}")
+2013-10-31 12:20:59 overwrite css/main.css 
+2013-10-31 12:20:59     error sass/main.scss (Line 14 of sass/partials/_social.scss: Invalid CSS after "		bottom: 2px; } ": expected selector or at-rule, was "}")
+2013-10-31 12:20:59 identical css/main.css 
+2013-10-31 12:21:05 overwrite css/main.css 
+2013-10-31 12:21:11 overwrite css/main.css 
+2013-10-31 12:21:21 overwrite css/main.css 
+2013-10-31 12:21:30 overwrite css/main.css 
+2013-10-31 12:21:55 overwrite css/main.css 
+2013-10-31 12:21:58 overwrite css/main.css 

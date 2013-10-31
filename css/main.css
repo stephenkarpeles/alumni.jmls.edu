@@ -1069,18 +1069,23 @@ p {
 a {
   color: #aa0000;
   text-decoration: none;
+  -webkit-transition: all ease-in-out;
+  -webkit-transition-delay: 0.15s;
+  -moz-transition: all ease-in-out 0.15s;
+  -o-transition: all ease-in-out 0.15s;
+  transition: all ease-in-out 0.15s;
 }
-/* line 21, ../sass/partials/_base.scss */
+/* line 22, ../sass/partials/_base.scss */
 a:hover {
   color: #333333;
 }
 
-/* line 24, ../sass/partials/_base.scss */
+/* line 25, ../sass/partials/_base.scss */
 img {
   max-width: 100%;
 }
 
-/* line 27, ../sass/partials/_base.scss */
+/* line 28, ../sass/partials/_base.scss */
 hr {
   display: block;
   height: 1px;
@@ -1092,51 +1097,44 @@ hr {
 
 /* line 1, ../sass/partials/_social.scss */
 .social {
-  position: relative;
-  overflow: hidden;
-  width: 100%;
+  text-align: center;
   font-family: 'icomoon';
-  font-size: 20px;
+  font-size: 43px;
+  letter-spacing: -2px;
 }
-/* line 8, ../sass/partials/_social.scss */
-.social a:hover {
-  opacity: .9;
-  -webkit-transition: ease-in-out 0.15s;
-  -moz-transition: ease-in-out 0.15s;
-  -o-transition: ease-in-out 0.15s;
-  transition: ease-in-out 0.15s;
-}
-
-/* line 12, ../sass/partials/_social.scss */
-.social-icon {
-  background: blue;
-  max-width: 20%;
-  padding: 0;
+/* line 7, ../sass/partials/_social.scss */
+.social a {
+  position: relative;
+  bottom: 0;
   display: inline-block;
   zoom: 1;
 }
+/* line 12, ../sass/partials/_social.scss */
+.social a:hover {
+  bottom: 3px;
+}
 
-/* line 19, ../sass/partials/_social.scss */
+/* line 15, ../sass/partials/_social.scss */
 .icon-facebook {
   color: #3b5998;
 }
 
-/* line 20, ../sass/partials/_social.scss */
+/* line 16, ../sass/partials/_social.scss */
 .icon-twitter {
   color: #00aced;
 }
 
-/* line 21, ../sass/partials/_social.scss */
+/* line 17, ../sass/partials/_social.scss */
 .icon-linkedin {
   color: #007bb6;
 }
 
-/* line 22, ../sass/partials/_social.scss */
+/* line 18, ../sass/partials/_social.scss */
 .icon-youtube {
   color: #bb0000;
 }
 
-/* line 23, ../sass/partials/_social.scss */
+/* line 19, ../sass/partials/_social.scss */
 .icon-flickr {
   color: #0063dc;
 }

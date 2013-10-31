@@ -18,6 +18,7 @@ p {
 a {
 	color: $link-color; 
   text-decoration: none;  
+  @include transition(all ease-in-out .15s);
   &:hover {
   	color: $text-color; } }
 
