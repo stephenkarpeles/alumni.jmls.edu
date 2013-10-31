@@ -1100,7 +1100,7 @@ hr {
   text-align: center;
   font-family: 'icomoon';
   font-size: 43px;
-  letter-spacing: -2px;
+  letter-spacing: -4px;
 }
 /* line 7, ../sass/partials/_social.scss */
 .social a {
@@ -1108,33 +1108,34 @@ hr {
   bottom: 0;
   display: inline-block;
   zoom: 1;
+  letter-spacing: normal;
 }
-/* line 12, ../sass/partials/_social.scss */
+/* line 13, ../sass/partials/_social.scss */
 .social a:hover {
   bottom: 3px;
 }
 
-/* line 15, ../sass/partials/_social.scss */
+/* line 16, ../sass/partials/_social.scss */
 .icon-facebook {
   color: #3b5998;
 }
 
-/* line 16, ../sass/partials/_social.scss */
+/* line 17, ../sass/partials/_social.scss */
 .icon-twitter {
   color: #00aced;
 }
 
-/* line 17, ../sass/partials/_social.scss */
+/* line 18, ../sass/partials/_social.scss */
 .icon-linkedin {
   color: #007bb6;
 }
 
-/* line 18, ../sass/partials/_social.scss */
+/* line 19, ../sass/partials/_social.scss */
 .icon-youtube {
   color: #bb0000;
 }
 
-/* line 19, ../sass/partials/_social.scss */
+/* line 20, ../sass/partials/_social.scss */
 .icon-flickr {
   color: #0063dc;
 }
