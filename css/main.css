@@ -1655,9 +1655,10 @@ header {
   z-index: 100;
   top: 3px;
   right: 2px;
+  height: 20px;
 }
 
-/* line 51, ../sass/sections/_header.scss */
+/* line 52, ../sass/sections/_header.scss */
 .search-wrap input[type='submit'] {
   background: none;
   border: none;
