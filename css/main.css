@@ -1660,7 +1660,13 @@ header {
 
 /* line 52, ../sass/sections/_header.scss */
 .search-wrap input[type='submit'] {
-  background: none;
+  background: url("../images/icon-search.svg") no-repeat;
+  height: 14px;
+  width: 14px;
+  margin-right: 10px;
+  margin-top: 4px;
+  text-indent: -9999px;
+  /* Push 'Search' text off screen */
   border: none;
   color: #555555;
 }
