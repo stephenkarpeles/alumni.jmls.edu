@@ -21,3 +21,10 @@ $base-spacing-unit  : .5em;
 .mar-top-large 			{ margin-top: $base-spacing-unit*4; }     // 2em
 .mar-top-larger 		{ margin-top: $base-spacing-unit*5; }     // 2.5em
 .mar-top-largest 		{ margin-top: $base-spacing-unit*6; }     // 3em
+
+// Floats
+.left  { float: left; }
+.right { float: right; }
+
+// Align
+.center { margin: 0 auto; }

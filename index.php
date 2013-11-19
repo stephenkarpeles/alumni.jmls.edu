@@ -243,16 +243,33 @@
 
 			<div class="grid-wrap">
 
-				<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
+				<div class="grid-col bp2-col-1-2 bp3-col-1-1">
 					<div class="module">
 						<div class="header-bar header-bar-gold">Dean&rsquo;s Report</div>
 						<div class="feature-box-color feature-box-gold">
-							Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+							<div class="feature-box-col feature-box-col-3-5">
+								<ul class="no-list-style list-space-small">
+									<li><span class="red arrow arrow-push-right">&#9654;</span> Dean&rsquo;s Letter</li>
+									<li><span class="red arrow arrow-push-right">&#9654;</span> 2013 Highlights</li>
+									<li><span class="red arrow arrow-push-right">&#9654;</span> Student Stories</li>
+									<li><span class="red arrow arrow-push-right">&#9654;</span> Honor Roll</li>
+									<li><span class="red arrow arrow-push-right">&#9654;</span> Much more!</li>
+								</ul>			
+							</div>
+
+							<div class="feature-box-col feature-box-col-2-5 feature-box-col-raised">
+								<div class="text-center">							
+									<img class="mar-bot-smallest" src="http://placehold.it/105x130" alt="Annual Report of the Dean 2013">
+									<a class="btn btn-small btn-red bold">Read Issue</a>
+								</div>	
+							</div>
+
 						</div>
 					</div>
 				</div>
 
-				<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
+				<div class="grid-col bp2-col-1-2 bp3-col-1-1">
 					<div class="module">
 						<div class="header-bar header-bar-gray">Online Directory</div>
 						<div class="feature-box-color feature-box-gray text-center">

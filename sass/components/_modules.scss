@@ -54,6 +54,17 @@
 .feature-box-gray { background: $light-gray; }
 .feature-box-gold { background: $tan; }
 
+.feature-box-col {
+	display: inline-block;
+	vertical-align: top; }
+
+.feature-box-col-2-5 { width: 39%; } // Slightly less than 40% to preserve layout
+.feature-box-col-3-5 { width: 59%; } // Slightly less than 60% to preserve layout
+
+.feature-box-col-raised {
+	position: relative;	
+	z-index: 200;
+	margin-top: -2em; }
 
 // Highlight Module 
 .highlight {

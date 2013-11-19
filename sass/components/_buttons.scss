@@ -2,6 +2,7 @@
 .btn {
 	display: inline-block;
 	cursor: pointer;	
+	line-height: $line-height-low;
 	@include border-radius(5px); }
 
 // Button Sizes
