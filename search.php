@@ -260,8 +260,17 @@
 						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
 							<div class="module">
 								<div class="header-bar header-bar-gold">Briefcase</div>
-								<div class="feature-box-color feature-box-gold">
-									Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+								<div class="feature-box-color feature-box-gold text-small">
+									
+									<div class="feature-box-col feature-box-col-1-2 text-small">		
+										A blurb about the current issue and a short call to action perhaps.
+									</div>
+
+									<div class="feature-box-col feature-box-col-1-2 feature-box-col-raised text-center">	
+										<img class="mar-bot-smallest box-shadow-1" src="http://placehold.it/105x130" alt="Annual Report of the Dean 2013">														
+										<a class="btn btn-small btn-red bold">Read Issue</a>
+									</div>		
+									
 								</div>
 							</div>
 						</div>

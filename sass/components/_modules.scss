@@ -56,10 +56,13 @@
 
 .feature-box-col {
 	display: inline-block;
-	vertical-align: top; }
+	vertical-align: top;
+	&:first-child {
+		padding-right: 2%; } }
 
-.feature-box-col-2-5 { width: 39%; } // Slightly less than 40% to preserve layout
-.feature-box-col-3-5 { width: 59%; } // Slightly less than 60% to preserve layout
+.feature-box-col-1-2 { width: 48.95%; } // Slightly less than 50% to preserve layout
+.feature-box-col-2-5 { width: 38.95%; } // Slightly less than 40% to preserve layout
+.feature-box-col-3-5 { width: 58.95%; } // Slightly less than 60% to preserve layout
 
 .feature-box-col-raised {
 	position: relative;	
