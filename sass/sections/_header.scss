@@ -10,6 +10,7 @@ header {
 	height: 50px;
 	margin-top: 24px; }
 
+
 .utilities { float: right; }
 
 .login {
@@ -19,9 +20,7 @@ header {
 
 	text-align: right;
   li {
-  	padding-left: 5px; }
-  a:hover {
-  	border-bottom: 1px solid $text-color; } }
+  	padding-left: 5px; } }
 
 // Search 
 .search-wrap { 
@@ -31,12 +30,14 @@ header {
 .search-bar {	
 	position: relative;
 	width: 220px;
-	padding: 5px 10px;
+	padding: 5px 11px;
 	border: none;
 	background: $lightest-gray;
 	font-size: $font-size-smaller;
 	color: $mid-gray-alt;
-	@include border-radius(5px); }
+	@include border-radius(5px);	
+  &:focus {
+  	outline: none; } }
 
 .search-bar::-ms-clear { 
 	// Disable 'X' from appearing in search bar in IE10. Info here: http://stackoverflow.com/questions/14007655/remove-ie10s-clear-field-x-button-on-certain-inputs
@@ -56,5 +57,5 @@ header {
 	margin-right: 10px;
 	margin-top: 4px;
 	text-indent: -9999px; /* Push 'Search' text off screen */
-	border: none;
+	border: none;	
 	color: $mid-gray-alt; }
