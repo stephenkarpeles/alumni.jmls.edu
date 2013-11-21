@@ -162,6 +162,8 @@
 	// Keep icons from wrapping. More info here: http://css-tricks.com/almanac/properties/l/letter-spacing/
 	letter-spacing: -4px;	}
 
+.social-sidebar { padding: 0 5px; }
+
 .social-icon {
 	display: inline-block;
 	zoom: 1;
@@ -174,6 +176,18 @@
   margin-bottom: 2px;
   margin-left: -25px; // Half of width
   width: 50px;
+  max-width: 100%;  
+  @include transition(ease-in-out .15s);
+  &:hover {
+  	bottom: 3px; } }
+
+.social-icon-img-small {
+	position: relative;	
+	bottom: 0;
+  left: 50%;
+  margin-top: 11px;
+  margin-left: -16px; // Half of width
+  width: 32px;
   max-width: 100%;  
   @include transition(ease-in-out .15s);
   &:hover {
