@@ -36,10 +36,10 @@
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
 						<div class="footer-headline">Get In Touch</div>
 						<ul class="no-list-style">
-							<li><a href="">The John Marshall Law School</a></li>
-							<li><a href="">315 S Plymouth Ct</a></li>
-							<li><a href="">Chicago, IL 60604</a></li>
-							<li><a href="">321.427.2737</a></li>
+							<li>The John Marshall Law School</li>
+							<li>315 S Plymouth Ct</li>
+							<li>Chicago, IL 60604</li>
+							<li>321.427.2737</li>
 							<li><a href="mailto:alumni@jmls.edu">alumni@jmls.edu</a></li>
 						</ul>
 					</div>

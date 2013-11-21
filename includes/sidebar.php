@@ -44,8 +44,8 @@
 					</div>
 
 					<div class="feature-box-col feature-box-col-1-2 feature-box-col-raised text-center">	
-						<img class="mar-bot-smallest box-shadow-1" src="http://placehold.it/105x130" alt="Annual Report of the Dean 2013">														
-						<a class="btn btn-small btn-red bold">Read Issue</a>
+						<a href="#"><img class="mar-bot-smallest box-shadow-1" src="images/briefcase-cover.jpg" alt="Annual Report of the Dean 2013"></a>													
+						<a href="#" class="btn btn-small btn-red bold">Read Issue</a>
 					</div>																
 
 				</div>
