@@ -90,7 +90,7 @@
 	width: 50%;
 	padding-left: 1.5em;
 	@include breakpoint(bp1) { padding-left: 2em; }
-	@include breakpoint(bp4) { width: 33%; }
+	@include breakpoint(bp3) { width: 33%; }
 	img {
 		padding-bottom: $base-spacing-unit/2; } }  	
 

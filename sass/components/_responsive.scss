@@ -6,9 +6,6 @@ $bp-tiny  : 360px;
 $bp1  		: 480px;
 $bp2 			: 600px;
 $bp3 			: 800px;
-$bp4 			: 900px;
-$bp5 			: 1000px;
-$bp6 			: 1100px;
 
 @mixin breakpoint($point, $value: 0) {
 	@if $point == bp-tiny {
@@ -25,18 +22,6 @@ $bp6 			: 1100px;
 
 	@else if $point == bp3 {
 		@media (min-width: $bp3) { @content; }
-	}
-	
-	@else if $point == bp4 {
-		@media (min-width: $bp4) { @content; }
-	}
-
-	@else if $point == bp5 {
-		@media (min-width: $bp5) { @content; }
-	}
-
-	@else if $point == bp6 {
-		@media (min-width: $bp6) { @content; }
 	}
 }
 

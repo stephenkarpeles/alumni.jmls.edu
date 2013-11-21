@@ -1,18 +1,11 @@
 .container {
 	width: 86%; 
   margin: 0 auto;
-  @include breakpoint(bp3) { width: 700px; }
-  @include breakpoint(bp4) { width: 800px; }
-  @include breakpoint(bp5) { width: 900px; } 
-  @include breakpoint(bp6) { width: 980px; } }
+  @include breakpoint(bp3) { width: 980px; } }
 
  // Change order of elements at certain breakpoints
 .pull-right-above-bp1 { @include breakpoint(bp1) { float: right; } } 
 .pull-right-above-bp2 { @include breakpoint(bp2) { float: right; } } 
-.pull-right-above-bp3 { @include breakpoint(bp3) { float: right; } } 
-.pull-right-above-bp4 { @include breakpoint(bp4) { float: right; } } 
-.pull-right-above-bp5 { @include breakpoint(bp5) { float: right; } } 
-.pull-right-above-bp6 { @include breakpoint(bp6) { float: right; } } 
+.pull-right-above-bp3 { @include breakpoint(bp3) { float: right; } }
 
 .main { margin-bottom: $base-spacing-unit*3; }
-	

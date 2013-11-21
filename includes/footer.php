@@ -3,7 +3,7 @@
 		<footer>
 			<div class="container">
 				<div class="grid-wrap">
-					<div class="module grid-col bp1-col-1-2 bp4-col-1-4">
+					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
 						<div class="footer-headline">Get Involved</div>
 						<ul class="no-list-style">
 							<li><a href="">Young Alumni Council</a></li>
@@ -13,7 +13,7 @@
 							<li><a href="">Volunteer Opportunities</a></li>
 						</ul>
 					</div>
-					<div class="module grid-col bp1-col-1-2 bp4-col-1-4">
+					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
 						<div class="footer-headline">Stay Connected</div>
 						<ul class="no-list-style">
 							<li><a href="">Alumni Reunions</a></li>
@@ -23,7 +23,7 @@
 							<li><a href="">Briefcase</a></li>
 						</ul>
 					</div>
-					<div class="module grid-col bp1-col-1-2 bp4-col-1-4">
+					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
 						<div class="footer-headline">Support John Marshall</div>
 						<ul class="no-list-style">
 							<li><a href="">Giving to John Marshall</a></li>
@@ -33,7 +33,7 @@
 							<li><a href="">Contact Us</a></li>
 						</ul>
 					</div>
-					<div class="module grid-col bp1-col-1-2 bp4-col-1-4">
+					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
 						<div class="footer-headline">Get In Touch</div>
 						<ul class="no-list-style">
 							<li><a href="">The John Marshall Law School</a></li>

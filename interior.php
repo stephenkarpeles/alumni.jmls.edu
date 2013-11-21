@@ -60,7 +60,7 @@
 
 					<div class="grid-wrap">
 
-						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
+						<div class="grid-col bp2-col-1-2 bp3-col-1-1">
 							<div class="module">
 								<div class="header-bar header-bar-red">Get Involved Menu</div>
 								<div class="sub-nav">
@@ -75,7 +75,7 @@
 							</div>							
 						</div>
 
-						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
+						<div class="grid-col bp2-col-1-2 bp3-col-1-1">
 							<div class="module">
 								<div class="header-bar header-bar-gray">Connect Online</div>
 								<div class="feature-box-no-color">
@@ -88,7 +88,7 @@
 
 					<div class="grid-wrap">
 
-						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
+						<div class="grid-col bp2-col-1-2 bp3-col-1-1">
 							<div class="module">
 								<div class="header-bar header-bar-gold">Briefcase</div>
 								<div class="feature-box-color feature-box-gold text-small">
@@ -106,7 +106,7 @@
 							</div>
 						</div>
 
-						<div class="grid-col col-1-1 bp2-col-1-2 bp3-col-1-1">
+						<div class="grid-col bp2-col-1-2 bp3-col-1-1">
 							<div class="module">
 								<div class="header-bar header-bar-gold">Upcoming Events</div>
 								

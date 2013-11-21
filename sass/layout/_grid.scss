@@ -191,21 +191,3 @@ $old-ie: null !default;
 @media only screen and (min-width: $bp3) {
   @include grid-setup("bp3-col");    
 }
-
-/* -- Breakpoint 4 (.bp4)
-------------------------------------------------------------- */                        
-@media only screen and (min-width: $bp4) {
-  @include grid-setup("bp4-col");    
-}
-
-/* -- Breakpoint 5 (.bp5)
-------------------------------------------------------------- */                        
-@media only screen and (min-width: $bp5) {
-  @include grid-setup("bp5-col");    
-}
-
-/* -- Breakpoint 6 (.bp6)
-------------------------------------------------------------- */                        
-@media only screen and (min-width: $bp6) {
-  @include grid-setup("bp6-col");    
-}
