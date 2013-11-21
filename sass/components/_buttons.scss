@@ -16,7 +16,7 @@
 	color: white;
 	@include box-shadow($lighter-gray-alt 2px 2px 0);
 	&:hover {
-		background: $bright-red;
+		background: lighten($main-red, 5%);
 		color: white;	} }
 
 .btn-white { 

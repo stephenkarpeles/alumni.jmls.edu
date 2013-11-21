@@ -260,7 +260,7 @@
 
 							<div class="feature-box-col feature-box-col-2-5 feature-box-col-raised">
 								<div class="text-center">							
-									<img class="mar-bot-smallest box-shadow-1" src="http://placehold.it/105x130" alt="Annual Report of the Dean 2013">
+									<a href="#"><img class="mar-bot-smallest box-shadow-1" src="images/deans-report-cover.jpg" alt="Annual Report of the Dean 2013"></a>
 									<a class="btn btn-small btn-red bold">Read Issue</a>
 								</div>	
 							</div>
