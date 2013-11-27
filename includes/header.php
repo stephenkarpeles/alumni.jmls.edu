@@ -18,8 +18,9 @@
 
 		<!-- Scripts -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script src="js/responsiveslides.min.js">	</script>
-		<script src="js/respond.min.js">	</script>
+		<script src="js/responsiveslides.min.js"></script>
+		<script src="js/responsive-nav.min.js"></script>
+		<script src="js/respond.min.js"></script>
 
 	</head>
 	<body>
@@ -45,18 +46,22 @@
 			</header><!-- .header -->
 		</div><!-- .container -->
 
-		<nav>	
+		<div class="nav-container">
 			<div class="container">
-				<ul class="horizontal">
-					<li><a href="">Get Involved</a></li>
-					<li><a href="">Stay Connected</a></li>
-					<li><a href="">Tips &amp; Tools</a></li>
-					<li><a href="">Support John Marshall</a></li>
-					<li><a href="">Contact Us</a></li>
-					<li><a href="">Give Online</a></li>
-					<li><a href="">JMLS Home</a></li>
-				</ul>
+				<div class="top-nav">
+					<nav class="nav-collapse">					
+						<ul>
+							<li><a href="">Get Involved</a></li>
+							<li><a href="">Stay Connected</a></li>
+							<li><a href="">Tips &amp; Tools</a></li>
+							<li><a href="">Support John Marshall</a></li>
+							<li><a href="">Contact Us</a></li>
+							<li><a href="">Give Online</a></li>
+							<li><a href="">JMLS Home</a></li>
+						</ul>				
+					</nav><!-- .nav -->
+				</div><!-- .top-nav -->
 			</div><!-- .container -->
-		</nav><!-- .nav -->
+		</div><!-- .nav-container -->
 
 		<div class="container">

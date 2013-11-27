@@ -46,6 +46,13 @@
 				</div><!-- .grid-wrap -->
 			</div><!-- .container -->
 		</footer><!-- .footer -->
+
+		<!-- Top Navigation for Responsive -->
+		<script>
+      var navigation = responsiveNav(".nav-collapse", {
+        insert: "before"
+      });
+    </script>
 		
 	</body>
 </html>

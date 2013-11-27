@@ -1617,36 +1617,113 @@ header {
   color: #555555;
 }
 
-/* line 1, ../sass/sections/_nav.scss */
-nav {
-  height: 50px;
+/* line 3, ../sass/sections/_nav.scss */
+.nav-container {
+  min-height: 50px;
   margin-bottom: 2em;
   background: #aa0000;
+}
+@media (min-width: 800px) {
+  /* line 3, ../sass/sections/_nav.scss */
+  .nav-container {
+    height: 50px;
+  }
+}
+
+/* line 10, ../sass/sections/_nav.scss */
+.nav-collapse {
   font-weight: 700;
   font-size: 1em;
   color: white;
-  text-align: center;
+  text-align: left;
 }
-/* line 9, ../sass/sections/_nav.scss */
-nav ul {
-  margin: 0;
-  padding: 14px 0 0;
-  list-style-type: disc;
-}
-/* line 13, ../sass/sections/_nav.scss */
-nav li {
-  padding: 0 1.6%;
-}
-/* line 15, ../sass/sections/_nav.scss */
-nav a {
-  color: white;
+@media (min-width: 800px) {
+  /* line 10, ../sass/sections/_nav.scss */
+  .nav-collapse {
+    text-align: center;
+  }
 }
 /* line 17, ../sass/sections/_nav.scss */
-nav a:hover, nav a:active {
+.nav-collapse ul {
+  margin: 10px 0 0 0;
+  padding: 14px 0 0;
+  width: 100%;
+  list-style: none;
+}
+@media (min-width: 800px) {
+  /* line 17, ../sass/sections/_nav.scss */
+  .nav-collapse ul {
+    margin: 0;
+  }
+}
+/* line 24, ../sass/sections/_nav.scss */
+.nav-collapse li {
+  width: 100%;
+  display: block;
+  border-top: 1px solid #ddd;
+  padding: 10px 0;
+}
+@media (min-width: 800px) {
+  /* line 24, ../sass/sections/_nav.scss */
+  .nav-collapse li {
+    display: inline;
+    padding: 0 1.6%;
+    border-top: none;
+  }
+}
+/* line 33, ../sass/sections/_nav.scss */
+.nav-collapse a {
+  color: white;
+}
+/* line 35, ../sass/sections/_nav.scss */
+.nav-collapse a:hover, .nav-collapse a:active {
   color: white;
   text-decoration: underline;
 }
 
+/* line 39, ../sass/sections/_nav.scss */
+.js .nav-collapse {
+  clip: rect(0 0 0 0);
+  max-height: 0;
+  position: absolute;
+  display: block;
+  overflow: hidden;
+  zoom: 1;
+}
+
+/* line 47, ../sass/sections/_nav.scss */
+.nav-collapse.opened {
+  max-height: 9999px;
+}
+
+/* line 50, ../sass/sections/_nav.scss */
+.nav-toggle {
+  background: #eee;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+@media screen and (min-width: 800px) {
+  /* line 61, ../sass/sections/_nav.scss */
+  .js .nav-collapse {
+    position: relative;
+  }
+
+  /* line 64, ../sass/sections/_nav.scss */
+  .js .nav-collapse.closed {
+    max-height: none;
+  }
+
+  /* line 67, ../sass/sections/_nav.scss */
+  .nav-toggle {
+    display: none;
+  }
+}
 /* line 1, ../sass/sections/_slider.scss */
 .slider {
   position: relative;

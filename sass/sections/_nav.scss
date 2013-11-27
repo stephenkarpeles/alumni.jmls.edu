@@ -1,22 +1,69 @@
-nav {
-	height: 50px;
+// Responsive Nav (responsive-nav.js 1.0.23 by @viljamis)
+
+.nav-container {	
+	min-height: 50px;
 	margin-bottom: $base-spacing-unit*4;
 	background: $main-red;
+	@include breakpoint(bp3) {
+		height: 50px;	} }
+
+.nav-collapse {
 	font-weight: 700;
 	font-size: $font-size-main;
-	color: white;	
-	text-align: center;
+	color: white;			
+	text-align: left;
+	@include breakpoint(bp3) { 
+		text-align: center; }	
 	ul {
-		margin: 0;
-		padding: 14px 0 0;
-		list-style-type: disc; }
-	li {
-		padding: 0 1.6%;	}
+  margin: 10px 0 0 0;
+  padding: 14px 0 0;
+  width: 100%;
+  list-style: none;
+  @include breakpoint(bp3) {
+  	margin: 0; } }
+  li {
+  width: 100%;
+  display: block;
+  border-top: 1px solid #ddd;
+  padding: 10px 0;
+  @include breakpoint(bp3) { 
+  	display: inline;
+    padding: 0 1.6%;
+    border-top: none; } }
 	a {
 		color: white;
 		&:hover, &:active {
 			color: white;
 			text-decoration: underline;	}	} }
 
+.js .nav-collapse {
+  clip: rect(0 0 0 0);
+  max-height: 0;
+  position: absolute;
+  display: block;
+  overflow: hidden;
+  zoom: 1; }
 
+.nav-collapse.opened {
+  max-height: 9999px; }
 
+.nav-toggle {
+  background: #eee; 
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none; }
+
+@media screen and (min-width: $bp3) {
+  .js .nav-collapse {
+    position: relative; }
+
+  .js .nav-collapse.closed {
+    max-height: none; }
+
+  .nav-toggle {
+    display: none; } 
+}

@@ -1974,3 +1974,63 @@ Load paths:
 2013-11-21 13:52:21 identical css/main.css 
 2013-11-21 14:14:40 overwrite css/main.css 
 2013-11-21 14:14:48 overwrite css/main.css 
+2013-11-27 10:54:57     error sass/main.scss (Line 76 of sass/sections/_nav.scss: Invalid CSS after "}": expected selector or at-rule, was ")")
+2013-11-27 10:54:57 overwrite css/main.css 
+2013-11-27 10:55:20 overwrite css/main.css 
+2013-11-27 10:55:56 overwrite css/main.css 
+2013-11-27 10:57:29 overwrite css/main.css 
+2013-11-27 10:57:37 identical css/main.css 
+2013-11-27 10:57:38 identical css/main.css 
+2013-11-27 10:59:57 identical css/main.css 
+2013-11-27 11:01:25 overwrite css/main.css 
+2013-11-27 11:01:34     error sass/main.scss (Line 74 of sass/sections/_nav.scss: Invalid CSS after "}": expected "}", was "")
+2013-11-27 11:01:34 overwrite css/main.css 
+2013-11-27 11:01:35     error sass/main.scss (Line 74 of sass/sections/_nav.scss: Invalid CSS after "}": expected "}", was "")
+2013-11-27 11:01:35 identical css/main.css 
+2013-11-27 11:01:36     error sass/main.scss (Line 75 of sass/sections/_nav.scss: Invalid CSS after "}": expected "}", was "")
+2013-11-27 11:01:36 overwrite css/main.css 
+2013-11-27 11:01:37     error sass/main.scss (Line 75 of sass/sections/_nav.scss: Invalid CSS after "}": expected "}", was "")
+2013-11-27 11:01:37 identical css/main.css 
+2013-11-27 11:01:40 overwrite css/main.css 
+2013-11-27 11:02:11 overwrite css/main.css 
+2013-11-27 11:03:28 overwrite css/main.css 
+2013-11-27 11:05:03     error sass/main.scss (Line 15 of sass/sections/_nav.scss: Invalid CSS after "...underline;	}	} ": expected selector or at-rule, was "}")
+2013-11-27 11:05:03 overwrite css/main.css 
+2013-11-27 11:05:03     error sass/main.scss (Line 15 of sass/sections/_nav.scss: Invalid CSS after "...underline;	}	} ": expected selector or at-rule, was "}")
+2013-11-27 11:05:03 identical css/main.css 
+2013-11-27 11:05:07 overwrite css/main.css 
+2013-11-27 11:05:35 overwrite css/main.css 
+2013-11-27 11:05:43 overwrite css/main.css 
+2013-11-27 11:05:46 overwrite css/main.css 
+2013-11-27 11:06:31 overwrite css/main.css 
+2013-11-27 11:08:48     error sass/main.scss (Line 79 of sass/sections/_nav.scss: Invalid CSS after "...select: none; }": expected "}", was "")
+2013-11-27 11:08:48 overwrite css/main.css 
+2013-11-27 11:08:48     error sass/main.scss (Line 79 of sass/sections/_nav.scss: Invalid CSS after "...select: none; }": expected "}", was "")
+2013-11-27 11:08:48 identical css/main.css 
+2013-11-27 11:08:53     error sass/main.scss (Line 73 of sass/sections/_nav.scss: Invalid CSS after "...select: none; }": expected "}", was "")
+2013-11-27 11:08:53 overwrite css/main.css 
+2013-11-27 11:08:53     error sass/main.scss (Line 73 of sass/sections/_nav.scss: Invalid CSS after "...select: none; }": expected "}", was "")
+2013-11-27 11:08:53 identical css/main.css 
+2013-11-27 11:08:57 overwrite css/main.css 
+2013-11-27 11:09:26 overwrite css/main.css 
+2013-11-27 11:21:44 overwrite css/main.css 
+2013-11-27 11:22:15 overwrite css/main.css 
+2013-11-27 11:22:26 overwrite css/main.css 
+2013-11-27 11:26:00 overwrite css/main.css 
+2013-11-27 11:26:12 overwrite css/main.css 
+2013-11-27 11:26:19 overwrite css/main.css 
+2013-11-27 11:27:13     error sass/main.scss (Line 79 of sass/sections/_nav.scss: Invalid CSS after "...select: none; }": expected "}", was "")
+2013-11-27 11:27:14 overwrite css/main.css 
+2013-11-27 11:27:14     error sass/main.scss (Line 79 of sass/sections/_nav.scss: Invalid CSS after "...select: none; }": expected "}", was "")
+2013-11-27 11:27:14 identical css/main.css 
+2013-11-27 11:27:16 overwrite css/main.css 
+2013-11-27 11:27:20 overwrite css/main.css 
+2013-11-27 11:27:33 overwrite css/main.css 
+2013-11-27 11:28:13 overwrite css/main.css 
+2013-11-27 11:28:18 overwrite css/main.css 
+2013-11-27 11:29:53 overwrite css/main.css 
+2013-11-27 11:30:54 overwrite css/main.css 
+2013-11-27 11:31:30 overwrite css/main.css 
+2013-11-27 11:31:35 overwrite css/main.css 
+2013-11-27 11:31:41 identical css/main.css 
+2013-11-27 11:32:33 overwrite css/main.css 
