@@ -49,6 +49,7 @@
 		<div class="nav-container">
 			<div class="container">
 				<div class="top-nav">
+					<div style="float: right;">Search</div>
 					<nav class="nav-collapse">					
 						<ul>
 							<a href=""><li>Get Involved</li></a>
@@ -59,8 +60,9 @@
 							<a href=""><li>Give Online</li></a>
 							<a href=""><li>JMLS Home</li></a>
 						</ul>				
-					</nav><!-- .nav -->
+					</nav><!-- .nav -->					
 				</div><!-- .top-nav -->
+
 			</div><!-- .container -->
 		</div><!-- .nav-container -->
 
