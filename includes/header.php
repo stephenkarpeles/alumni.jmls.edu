@@ -51,13 +51,13 @@
 				<div class="top-nav">
 					<nav class="nav-collapse">					
 						<ul>
-							<li><a href="">Get Involved</a></li>
-							<li><a href="">Stay Connected</a></li>
-							<li><a href="">Tips &amp; Tools</a></li>
-							<li><a href="">Support John Marshall</a></li>
-							<li><a href="">Contact Us</a></li>
-							<li><a href="">Give Online</a></li>
-							<li><a href="">JMLS Home</a></li>
+							<a href=""><li>Get Involved</li></a>
+							<a href=""><li>Stay Connected</li></a>
+							<a href=""><li>Tips &amp; Tools</li></a>
+							<a href=""><li>Support John Marshall</li></a>
+							<a href=""><li>Contact Us</li></a>
+							<a href=""><li>Give Online</li></a>
+							<a href=""><li>JMLS Home</li></a>
 						</ul>				
 					</nav><!-- .nav -->
 				</div><!-- .top-nav -->
