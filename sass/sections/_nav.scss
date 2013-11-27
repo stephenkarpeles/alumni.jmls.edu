@@ -77,3 +77,59 @@ a.nav-toggle {
   .nav-toggle {
     display: none; } 
 }
+
+
+// Search below breakpoint 3
+
+.search-toggle {
+  float: right;
+  @include breakpoint(bp3) { 
+    display: none; } }
+
+.search-toggle input[type=search] {
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: content-box;
+  font-family: inherit;
+  font-size: 100%;
+
+  background: #ededed url(http://webdesignerwall.com/demo/expandable-search-form/images/search-icon.png) no-repeat 9px center;
+  border: solid 1px #ccc;
+  padding: 9px 10px 9px 32px;
+  width: 55px;
+
+  -webkit-border-radius: 10em;
+  -moz-border-radius: 10em;
+  border-radius: 10em;
+  
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  transition: all .5s; }
+
+.search-toggle input::-webkit-search-decoration,
+.search-toggle input::-webkit-search-cancel-button {
+  display: none; }
+
+.search-toggle input:-moz-placeholder {
+  color: transparent; }
+
+.search-toggle input::-webkit-input-placeholder {
+  color: transparent; }
+
+.search-toggle input[type=search] {
+  width: 15px;
+  padding-left: 10px;
+  color: transparent;
+  cursor: pointer; }
+
+.search-toggle input[type=search]:hover {
+  background-color: #fff; }
+
+.search-toggle input[type=search]:focus {
+  width: 130px;
+  padding-left: 32px;
+  color: #000;
+  background-color: #fff;
+  cursor: auto;
+  -webkit-box-shadow: 0 0 5px rgba(109,207,246,.5);
+  -moz-box-shadow: 0 0 5px rgba(109,207,246,.5);
+  box-shadow: 0 0 5px rgba(109,207,246,.5); }

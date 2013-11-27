@@ -2065,3 +2065,17 @@ Load paths:
 2013-11-27 11:49:20 identical css/main.css 
 2013-11-27 12:54:47 overwrite css/main.css 
 2013-11-27 12:54:54 overwrite css/main.css 
+2013-11-27 13:49:42     error sass/main.scss (Line 84 of sass/sections/_nav.scss: Invalid CSS after "...isplay: none; }": expected "}", was "")
+2013-11-27 13:49:42 overwrite css/main.css 
+2013-11-27 13:49:43     error sass/main.scss (Line 84 of sass/sections/_nav.scss: Invalid CSS after "...isplay: none; }": expected "}", was "")
+2013-11-27 13:49:43 identical css/main.css 
+2013-11-27 13:49:47 overwrite css/main.css 
+2013-11-27 13:50:24 overwrite css/main.css 
+2013-11-27 13:51:11 overwrite css/main.css 
+2013-11-27 13:51:26 overwrite css/main.css 
+2013-11-27 13:53:14 overwrite css/main.css 
+2013-11-27 13:54:06 overwrite css/main.css 
+2013-11-27 13:54:19 overwrite css/main.css 
+2013-11-27 13:54:32 overwrite css/main.css 
+2013-11-27 13:54:34 overwrite css/main.css 
+2013-11-27 14:00:04 overwrite css/main.css 

@@ -1747,6 +1747,76 @@ a.nav-toggle:hover, a.nav-toggle:active {
     display: none;
   }
 }
+/* line 84, ../sass/sections/_nav.scss */
+.search-toggle {
+  float: right;
+}
+@media (min-width: 800px) {
+  /* line 84, ../sass/sections/_nav.scss */
+  .search-toggle {
+    display: none;
+  }
+}
+
+/* line 89, ../sass/sections/_nav.scss */
+.search-toggle input[type=search] {
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: content-box;
+  font-family: inherit;
+  font-size: 100%;
+  background: #ededed url(http://webdesignerwall.com/demo/expandable-search-form/images/search-icon.png) no-repeat 9px center;
+  border: solid 1px #ccc;
+  padding: 9px 10px 9px 32px;
+  width: 55px;
+  -webkit-border-radius: 10em;
+  -moz-border-radius: 10em;
+  border-radius: 10em;
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  transition: all .5s;
+}
+
+/* line 109, ../sass/sections/_nav.scss */
+.search-toggle input::-webkit-search-decoration,
+.search-toggle input::-webkit-search-cancel-button {
+  display: none;
+}
+
+/* line 112, ../sass/sections/_nav.scss */
+.search-toggle input:-moz-placeholder {
+  color: transparent;
+}
+
+/* line 115, ../sass/sections/_nav.scss */
+.search-toggle input::-webkit-input-placeholder {
+  color: transparent;
+}
+
+/* line 118, ../sass/sections/_nav.scss */
+.search-toggle input[type=search] {
+  width: 15px;
+  padding-left: 10px;
+  color: transparent;
+  cursor: pointer;
+}
+
+/* line 124, ../sass/sections/_nav.scss */
+.search-toggle input[type=search]:hover {
+  background-color: #fff;
+}
+
+/* line 127, ../sass/sections/_nav.scss */
+.search-toggle input[type=search]:focus {
+  width: 130px;
+  padding-left: 32px;
+  color: #000;
+  background-color: #fff;
+  cursor: auto;
+  -webkit-box-shadow: 0 0 5px rgba(109, 207, 246, 0.5);
+  -moz-box-shadow: 0 0 5px rgba(109, 207, 246, 0.5);
+  box-shadow: 0 0 5px rgba(109, 207, 246, 0.5);
+}
+
 /* line 1, ../sass/sections/_slider.scss */
 .slider {
   position: relative;

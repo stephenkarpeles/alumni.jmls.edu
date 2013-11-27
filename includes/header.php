@@ -49,7 +49,11 @@
 		<div class="nav-container">
 			<div class="container">
 				<div class="top-nav">
-					<div style="float: right;">Search</div>
+					<div class="search-toggle">
+						<form>
+							<input type="search" placeholder="Search">
+						</form>
+					</div>
 					<nav class="nav-collapse">					
 						<ul>
 							<a href=""><li>Get Involved</li></a>
