@@ -1750,6 +1750,7 @@ a.nav-toggle:hover, a.nav-toggle:active {
 /* line 84, ../sass/sections/_nav.scss */
 .search-toggle {
   float: right;
+  margin-top: -4px;
 }
 @media (min-width: 800px) {
   /* line 84, ../sass/sections/_nav.scss */
@@ -1758,16 +1759,17 @@ a.nav-toggle:hover, a.nav-toggle:active {
   }
 }
 
-/* line 89, ../sass/sections/_nav.scss */
+/* line 90, ../sass/sections/_nav.scss */
 .search-toggle input[type=search] {
+  outline: none;
   -webkit-appearance: textfield;
   -webkit-box-sizing: content-box;
   font-family: inherit;
   font-size: 100%;
-  background: #ededed url(http://webdesignerwall.com/demo/expandable-search-form/images/search-icon.png) no-repeat 9px center;
-  border: solid 1px #ccc;
-  padding: 9px 10px 9px 32px;
-  width: 55px;
+  background: url("../images/icon-search-large.png") no-repeat 5px center;
+  border: none;
+  padding: 6px 7px 6px 32px;
+  width: 24px;
   -webkit-border-radius: 10em;
   -moz-border-radius: 10em;
   border-radius: 10em;
@@ -1775,46 +1777,48 @@ a.nav-toggle:hover, a.nav-toggle:active {
   -moz-transition: all .5s;
   transition: all .5s;
 }
+/* line 96, ../sass/sections/_nav.scss */
+.search-toggle input[type=search]:focus {
+  outline: none;
+}
 
-/* line 109, ../sass/sections/_nav.scss */
+/* line 113, ../sass/sections/_nav.scss */
 .search-toggle input::-webkit-search-decoration,
 .search-toggle input::-webkit-search-cancel-button {
   display: none;
 }
 
-/* line 112, ../sass/sections/_nav.scss */
+/* line 116, ../sass/sections/_nav.scss */
 .search-toggle input:-moz-placeholder {
   color: transparent;
 }
 
-/* line 115, ../sass/sections/_nav.scss */
+/* line 119, ../sass/sections/_nav.scss */
 .search-toggle input::-webkit-input-placeholder {
   color: transparent;
 }
 
-/* line 118, ../sass/sections/_nav.scss */
+/* line 122, ../sass/sections/_nav.scss */
 .search-toggle input[type=search] {
-  width: 15px;
+  width: 16px;
   padding-left: 10px;
   color: transparent;
   cursor: pointer;
 }
 
-/* line 124, ../sass/sections/_nav.scss */
+/* line 128, ../sass/sections/_nav.scss */
 .search-toggle input[type=search]:hover {
-  background-color: #fff;
+  background-color: #bbb;
 }
 
-/* line 127, ../sass/sections/_nav.scss */
+/* line 131, ../sass/sections/_nav.scss */
 .search-toggle input[type=search]:focus {
-  width: 130px;
-  padding-left: 32px;
+  background: url("../images/icon-search-large-gray.png") no-repeat 5px center;
+  width: 135px;
+  padding-left: 35px;
   color: #000;
   background-color: #fff;
   cursor: auto;
-  -webkit-box-shadow: 0 0 5px rgba(109, 207, 246, 0.5);
-  -moz-box-shadow: 0 0 5px rgba(109, 207, 246, 0.5);
-  box-shadow: 0 0 5px rgba(109, 207, 246, 0.5);
 }
 
 /* line 1, ../sass/sections/_slider.scss */

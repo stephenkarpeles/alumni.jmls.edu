@@ -82,20 +82,24 @@ a.nav-toggle {
 // Search below breakpoint 3
 
 .search-toggle {
-  float: right;
+  float: right;  
+  margin-top: -4px;
   @include breakpoint(bp3) { 
     display: none; } }
 
 .search-toggle input[type=search] {
+  outline: none;
   -webkit-appearance: textfield;
   -webkit-box-sizing: content-box;
   font-family: inherit;
   font-size: 100%;
+  &:focus {
+    outline: none; }
 
-  background: #ededed url(http://webdesignerwall.com/demo/expandable-search-form/images/search-icon.png) no-repeat 9px center;
-  border: solid 1px #ccc;
-  padding: 9px 10px 9px 32px;
-  width: 55px;
+  background: url('../images/icon-search-large.png') no-repeat 5px center;
+  border: none;
+  padding: 6px 7px 6px 32px;
+  width: 24px;
 
   -webkit-border-radius: 10em;
   -moz-border-radius: 10em;
@@ -116,20 +120,18 @@ a.nav-toggle {
   color: transparent; }
 
 .search-toggle input[type=search] {
-  width: 15px;
+  width: 16px;
   padding-left: 10px;
   color: transparent;
   cursor: pointer; }
 
 .search-toggle input[type=search]:hover {
-  background-color: #fff; }
+  background-color: #bbb; }
 
 .search-toggle input[type=search]:focus {
-  width: 130px;
-  padding-left: 32px;
+  background: url('../images/icon-search-large-gray.png') no-repeat 5px center;
+  width: 135px;
+  padding-left: 35px;
   color: #000;
   background-color: #fff;
-  cursor: auto;
-  -webkit-box-shadow: 0 0 5px rgba(109,207,246,.5);
-  -moz-box-shadow: 0 0 5px rgba(109,207,246,.5);
-  box-shadow: 0 0 5px rgba(109,207,246,.5); }
+  cursor: auto; }
