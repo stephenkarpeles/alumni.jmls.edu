@@ -1,3 +1,10 @@
+<!-- Meta content goes below. Write content between quote marks. -->
+<?php
+$tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall Law School";
+$pgDesc="";
+$pgKeywords="";
+?>
+
 <!-- Header -->
 <?php include('includes/header.php'); ?>		
 

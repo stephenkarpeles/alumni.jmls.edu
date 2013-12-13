@@ -3,8 +3,12 @@
 	<head>
 	  <meta charset="utf-8">
 	  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	  <title>The Office of Alumni Relations &amp; Development | The John Marshall Law School</title>
-	  <meta name="description" content="">
+
+	  <!-- Meta content populates below. See individual pages for meta info. -->
+		<title><?php echo $tpTitle ?></title>
+		<meta name="description" content="<?php echo $pgDesc ?>"></meta>
+		<meta name="keywords" content="<?php echo $pgKeywords ?>"></meta>
+
 	  <meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- Stylesheets -->
