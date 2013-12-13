@@ -1,3 +1,10 @@
+<!-- Meta content goes below. Write content between quote marks. -->
+<?php
+$tpTitle="";
+$pgDesc="";
+$pgKeywords="";
+?>
+
 <!-- Header -->
 <?php include('includes/header.php'); ?>
 
