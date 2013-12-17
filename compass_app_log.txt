@@ -2146,3 +2146,69 @@ Load paths:
 2013-12-02 16:43:20 overwrite css/main.css 
 2013-12-02 16:43:45 identical css/main.css 
 2013-12-13 09:52:18 identical css/main.css 
+2013-12-17 16:12:17 overwrite css/main.css 
+2013-12-17 16:12:26 identical css/main.css 
+2013-12-17 16:13:23 identical css/main.css 
+2013-12-17 16:13:52 overwrite css/main.css 
+2013-12-17 16:14:14 overwrite css/main.css 
+2013-12-17 16:15:09     error sass/main.scss (Line 191 of sass/components/_modules.scss: Invalid CSS after "...ottom: 3px; } }": expected "}", was "")
+2013-12-17 16:15:09 overwrite css/main.css 
+2013-12-17 16:15:09     error sass/main.scss (Line 191 of sass/components/_modules.scss: Invalid CSS after "...ottom: 3px; } }": expected "}", was "")
+2013-12-17 16:15:09 identical css/main.css 
+2013-12-17 16:15:12 overwrite css/main.css 
+2013-12-17 16:15:16 identical css/main.css 
+2013-12-17 16:15:27 overwrite css/main.css 
+2013-12-17 16:15:47     error sass/main.scss (Line 194 of sass/components/_modules.scss: Invalid CSS after "...ottom: 3px; } }": expected "}", was "")
+2013-12-17 16:15:47 overwrite css/main.css 
+2013-12-17 16:15:47     error sass/main.scss (Line 194 of sass/components/_modules.scss: Invalid CSS after "...ottom: 3px; } }": expected "}", was "")
+2013-12-17 16:15:47 identical css/main.css 
+2013-12-17 16:16:36     error sass/main.scss (Line 194 of sass/components/_modules.scss: Invalid CSS after "...ottom: 3px; } }": expected "}", was "")
+2013-12-17 16:16:36 overwrite css/main.css 
+2013-12-17 16:17:16     error sass/main.scss (Line 194 of sass/components/_modules.scss: Invalid CSS after "...ottom: 3px; } }": expected "}", was "")
+2013-12-17 16:17:16 overwrite css/main.css 
+2013-12-17 16:17:17     error sass/main.scss (Line 194 of sass/components/_modules.scss: Invalid CSS after "...ottom: 3px; } }": expected "}", was "")
+2013-12-17 16:17:17 identical css/main.css 
+2013-12-17 16:17:24 overwrite css/main.css 
+2013-12-17 16:17:38 overwrite css/main.css 
+2013-12-17 16:17:55 overwrite css/main.css 
+2013-12-17 16:18:02 overwrite css/main.css 
+2013-12-17 16:18:10 overwrite css/main.css 
+2013-12-17 16:24:17 overwrite css/main.css 
+2013-12-17 16:24:35 overwrite css/main.css 
+2013-12-17 16:24:50 overwrite css/main.css 
+2013-12-17 16:24:53 overwrite css/main.css 
+2013-12-17 16:25:29 overwrite css/main.css 
+2013-12-17 16:25:38 identical css/main.css 
+2013-12-17 16:25:42 overwrite css/main.css 
+2013-12-17 16:25:46 identical css/main.css 
+2013-12-17 16:26:20 overwrite css/main.css 
+2013-12-17 16:26:49 overwrite css/main.css 
+2013-12-17 16:26:56 overwrite css/main.css 
+2013-12-17 16:27:25 overwrite css/main.css 
+2013-12-17 16:27:34 overwrite css/main.css 
+2013-12-17 16:28:01 overwrite css/main.css 
+2013-12-17 16:28:15 overwrite css/main.css 
+2013-12-17 16:28:25 overwrite css/main.css 
+2013-12-17 16:28:40 overwrite css/main.css 
+2013-12-17 16:28:53 overwrite css/main.css 
+2013-12-17 16:29:03 overwrite css/main.css 
+2013-12-17 16:29:45 identical css/main.css 
+2013-12-17 16:32:04 overwrite css/main.css 
+2013-12-17 16:32:52 overwrite css/main.css 
+2013-12-17 16:33:00 overwrite css/main.css 
+2013-12-17 16:33:05 overwrite css/main.css 
+2013-12-17 16:33:30 overwrite css/main.css 
+2013-12-17 16:33:36 overwrite css/main.css 
+2013-12-17 16:33:44 overwrite css/main.css 
+2013-12-17 16:33:51 overwrite css/main.css 
+2013-12-17 16:34:06 overwrite css/main.css 
+2013-12-17 16:34:15 overwrite css/main.css 
+2013-12-17 16:34:19 overwrite css/main.css 
+2013-12-17 16:34:23 overwrite css/main.css 
+2013-12-17 16:36:32 overwrite css/main.css 
+2013-12-17 16:36:37 overwrite css/main.css 
+2013-12-17 16:36:56 overwrite css/main.css 
+2013-12-17 16:37:12 identical css/main.css 
+2013-12-17 16:37:33 overwrite css/main.css 
+2013-12-17 16:37:59 overwrite css/main.css 
+2013-12-17 16:38:09 overwrite css/main.css 

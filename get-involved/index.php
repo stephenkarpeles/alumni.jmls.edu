@@ -17,45 +17,32 @@
 				<!-- Main -->			
 				<article class="main">				
 					<h1 class="page-header">Get Involved</h1>
-					<p class="featured-text">As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile.</p>
+					<p class="featured-text">There are so many ways for our alumni to get involved, no matter where you are or what you do. Explore the options below and find one that fits your needs and interest.</p>
 
 					<div class="highlight">
 						<div class="highlight-wrap">
 							<div class="highlight-unit">
-								<img src="http://placehold.it/220x133" alt="">
-								<div class="highlight-header"><a href="">Young Alumni Council</a></div>
+								<a href="volunteer-opportunities.php"><img src="../images/volunteer-opportunities.jpg" alt="Volunteer Opportunities"></a>
+								<div class="highlight-header"><a href="volunteer-opportunities.php">Volunteer Opportunities</a></div>
 							</div>
 							<div class="highlight-unit">
-								<img src="http://placehold.it/220x133" alt="">
-								<div class="highlight-header"><a href="">Alumni Association</a></div>	
+								<a href="alumni-events.php"><img src="../images/alumni-events.jpg" alt="Alumni Events"></a>
+								<div class="highlight-header"><a href="alumni-events.php">Alumni Events</a></div>	
 							</div>
 							<div class="highlight-unit">
-								<img src="http://placehold.it/220x133" alt="">
-								<div class="highlight-header"><a href="">Mentoring Program</a></div>
+								<a href="alumni-association.php"><img src="../images/alumni-association.png" alt="Alumni Association"></a>
+								<div class="highlight-header"><a href="alumni-association.php">Alumni Association</a></div>
 							</div>
 							<div class="highlight-unit">
-								<img src="http://placehold.it/220x133" alt="">
-								<div class="highlight-header"><a href="">Alumni Events</a></div>
+								<a href="young-alumni-council.php"><img src="../images/young-alumni-council.jpg" alt="Young Alumni Council"></a>
+								<div class="highlight-header"><a href="young-alumni-council.php">Young Alumni Council</a></div>
 							</div>
 							<div class="highlight-unit">
-								<img src="http://placehold.it/220x133" alt="">
-								<div class="highlight-header"><a href="">Alumni Meetings</a></div>
-							</div>
-							<div class="highlight-unit">
-								<img src="http://placehold.it/220x133" alt="">
-								<div class="highlight-header"><a href="">Volunteer Opportunities</a></div>
+								<a href="get-quoted.php"><img src="../images/get-quoted.jpg" alt="Get Quoted"></a>
+								<div class="highlight-header"><a href="get-quoted.php">Get Quoted</a></div>
 							</div>
 						</div>
 					</div>	
-
-					<hr class="mar-top-zero">
-
-					<h2>Headline Number Two</h2>
-
-					<p>The sky is the limit only for those who aren't afraid to fly!</p>
-					<p>The Earth was small, light blue, and so touchingly alone, our home that must be defended like a holy relic. The Earth was absolutely round. I believe I never knew what the word round meant until I saw Earth from space.</p>
-					<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
-
 
 				</article><!-- .main -->
 				

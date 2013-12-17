@@ -92,7 +92,7 @@
 	@include breakpoint(bp1) { padding-left: 2em; }
 	@include breakpoint(bp3) { width: 33%; }
 	img {
-		padding-bottom: $base-spacing-unit/2; } }  	
+		padding-bottom: $base-spacing-unit/2; } }
 
 .highlight-header {	
 	height: 4.75em;

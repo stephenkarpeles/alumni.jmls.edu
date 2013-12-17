@@ -15,7 +15,7 @@
 	  <meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- Stylesheets -->
-		<link rel="stylesheet" href="http://test.jmls.edu/testalumni/css/main.css" media="screen" type="text/css">
+		<link rel="stylesheet" href="http://localhost/alumni.jmls.edu/css/main.css" media="screen" type="text/css">
 		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic,700italic" type="text/css">
 
 		<!-- HTML5 Shiv -->
@@ -63,7 +63,7 @@
 					</div>
 					<nav class="nav-collapse">					
 						<ul>
-							<a href=""><li>Get Involved</li></a>
+							<a href="http://localhost/alumni.jmls.edu/get-involved/"><li>Get Involved</li></a>
 							<a href=""><li>Stay Connected</li></a>
 							<a href=""><li>Tips &amp; Tools</li></a>
 							<a href=""><li>Support John Marshall</li></a>

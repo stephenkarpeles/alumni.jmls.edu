@@ -8,4 +8,5 @@
 .pull-right-above-bp2 { @include breakpoint(bp2) { float: right; } } 
 .pull-right-above-bp3 { @include breakpoint(bp3) { float: right; } }
 
-.main { margin-bottom: $base-spacing-unit*3; }
+.main { 
+	margin-bottom: $base-spacing-unit*4; }

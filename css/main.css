@@ -594,124 +594,126 @@ table {
   box-shadow: rgba(0, 0, 0, 0.4) 1px 1px 4px;
 }
 
-/* line 32, ../sass/components/_typography.scss */
+/* line 35, ../sass/components/_typography.scss */
 .bold {
   font-weight: 700;
 }
 
-/* line 33, ../sass/components/_typography.scss */
+/* line 36, ../sass/components/_typography.scss */
 .italic {
   font-style: italic;
 }
 
-/* line 34, ../sass/components/_typography.scss */
+/* line 37, ../sass/components/_typography.scss */
 .upcase {
   text-transform: uppercase;
 }
 
-/* line 36, ../sass/components/_typography.scss */
+/* line 39, ../sass/components/_typography.scss */
 h1 {
   font-size: 2.15em;
   line-height: 1.1;
   margin: 0 0 .5em;
 }
 
-/* line 41, ../sass/components/_typography.scss */
+/* line 44, ../sass/components/_typography.scss */
 h2 {
   font-size: 1.5em;
   line-height: 1.2;
-  margin: 0 0 .625em;
+  margin: 1.5em 0 .625em;
 }
 
-/* line 46, ../sass/components/_typography.scss */
+/* line 49, ../sass/components/_typography.scss */
 h3 {
   font-size: 1.25em;
   line-height: 1.2;
-  margin: 0 0 .625em;
+  margin: 1.25em 0 .5em;
 }
 
-/* line 51, ../sass/components/_typography.scss */
+/* line 54, ../sass/components/_typography.scss */
 h4 {
   font-size: 1em;
   line-height: 1.1;
   margin: 0 0 .625em;
 }
 
-/* line 56, ../sass/components/_typography.scss */
+/* line 59, ../sass/components/_typography.scss */
 .alpha {
   font-size: 2.15em;
   line-height: 1.1;
 }
 
-/* line 57, ../sass/components/_typography.scss */
+/* line 60, ../sass/components/_typography.scss */
 .beta {
   font-size: 1.5em;
   line-height: 1.2;
 }
 
-/* line 58, ../sass/components/_typography.scss */
+/* line 61, ../sass/components/_typography.scss */
 .gamma {
   font-size: 1.25em;
   line-height: 1.2;
 }
 
-/* line 59, ../sass/components/_typography.scss */
+/* line 62, ../sass/components/_typography.scss */
 .delta {
   font-size: 1.17em;
   line-height: 1.1;
 }
 
-/* line 60, ../sass/components/_typography.scss */
+/* line 63, ../sass/components/_typography.scss */
 .epsilon {
   font-size: 1.1em;
   line-height: 1.1;
 }
 
-/* line 62, ../sass/components/_typography.scss */
+/* line 65, ../sass/components/_typography.scss */
 .text-small {
   font-size: 0.95em;
 }
 
-/* line 63, ../sass/components/_typography.scss */
+/* line 66, ../sass/components/_typography.scss */
 .text-smaller {
   font-size: 0.9em;
 }
 
-/* line 64, ../sass/components/_typography.scss */
+/* line 67, ../sass/components/_typography.scss */
 .text-smallest {
   font-size: 0.8em;
 }
 
-/* line 66, ../sass/components/_typography.scss */
+/* line 69, ../sass/components/_typography.scss */
 .text-center {
   text-align: center;
 }
 
-/* line 67, ../sass/components/_typography.scss */
+/* line 70, ../sass/components/_typography.scss */
 .text-right {
   text-align: right;
 }
 
-/* line 70, ../sass/components/_typography.scss */
+/* line 73, ../sass/components/_typography.scss */
 .page-header {
   padding-bottom: .25em;
   border-bottom: 1px solid #cacaca;
 }
 
-/* line 75, ../sass/components/_typography.scss */
+/* line 78, ../sass/components/_typography.scss */
 .featured-text {
+  margin-bottom: 1em;
   font-size: 1.5em;
   font-weight: 300;
+  line-height: 1.4;
 }
 
-/* line 80, ../sass/components/_typography.scss */
+/* line 85, ../sass/components/_typography.scss */
 .subtext {
   font-size: 0.95em;
   margin-bottom: 0;
   padding-top: 0.25em;
 }
 
-/* line 85, ../sass/components/_typography.scss */
+/* line 90, ../sass/components/_typography.scss */
 .subtext-alt {
   font-size: 0.8em;
   color: #555555;
@@ -1211,7 +1213,7 @@ body {
 /* line 14, ../sass/partials/_base.scss */
 p {
   margin: 0 0 1.25em;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 /* line 18, ../sass/partials/_base.scss */
@@ -1528,7 +1530,7 @@ li.grid-col {
 
 /* line 11, ../sass/layout/_layout.scss */
 .main {
-  margin-bottom: 1.5em;
+  margin-bottom: 2em;
 }
 
 /* line 1, ../sass/sections/_header.scss */
