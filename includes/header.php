@@ -5,14 +5,17 @@
 	  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 	  <!-- Meta content populates below. See individual pages for meta info. -->
-		<title><?php echo $tpTitle ?></title>
-		<meta name="description" content="<?php echo $pgDesc ?>"></meta>
-		<meta name="keywords" content="<?php echo $pgKeywords ?>"></meta>
+		<title><?php if(isset($tpTitle)) { echo $tpTitle; }
+    else { echo 'The John Marshall Law School | Office of Alumni Relations &amp; Development '; } ?></title>
+		<meta name="description" content="<?php if(isset($pgDesc)) { echo $pgDesc; }
+    else { echo ''; } ?>"></meta>
+		<meta name="keywords" content="<?php if(isset($pgKeywords)) { echo $pgKeywords; }
+    else { echo ''; } ?>"></meta>
 
 	  <meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- Stylesheets -->
-		<link rel="stylesheet" href="css/main.css" media="screen" type="text/css">
+		<link rel="stylesheet" href="http://test.jmls.edu/testalumni/css/main.css" media="screen" type="text/css">
 		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic,700italic" type="text/css">
 
 		<!-- HTML5 Shiv -->

@@ -3,29 +3,19 @@
 	<div class="grid-wrap">
 
 		<div class="grid-col bp2-col-1-2 bp3-col-1-1">
-			<div class="module">
-				<div class="header-bar header-bar-red">Get Involved Menu</div>
-				<div class="sub-nav">
-					<ul class="no-list-style">
-						<li><a href="">Young Alumni Council</a></li>
-						<li><a href="">Alumni Association</a></li>
-						<li><a href="">Mentoring Program</a></li>
-						<li><a href="">Alumni Meetings &amp; Events</a></li>
-						<li><a href="">Volunteer Opportunities</a></li>
-					</ul>
-				</div>
-			</div>							
+			<!-- Menu -->
+			<?php include('menus/get-involved.php'); ?>						
 		</div>
 
 		<div class="grid-col bp2-col-1-2 bp3-col-1-1">
 			<div class="module">
 				<div class="header-bar header-bar-gray">Connect Online</div>
 					<div class="social social-sidebar">
-						<div class="social-icon"><a href="https://www.facebook.com/JMLSAlumni" title="Facebook" target="_blank"><img class="social-icon-img-small" src="images/icon-facebook-color.svg" alt="Facebook"></a></div>
-						<div class="social-icon"><a href="https://twitter.com/JMLSAlumni" title="Twitter" target="_blank"><img class="social-icon-img-small" src="images/icon-twitter-color.svg" alt="Twitter"></a></div>
-						<div class="social-icon"><a href="http://www.linkedin.com/groups?gid=121368&trk=myg_ugrp_ovr" title="LinkedIn" target="_blank"><img class="social-icon-img-small" src="images/icon-linkedin-color.svg" alt="LinkedIn"></a></div>
-						<div class="social-icon"><a href="http://www.youtube.com/jmlschicago" title="YouTube" target="_blank"><img class="social-icon-img-small" src="images/icon-youtube-color.svg" alt="YouTube"></a></div>
-						<div class="social-icon"><a href="http://www.flickr.com/photos/43883549@N08/" title="Flickr" target="_blank"><img class="social-icon-img-small" src="images/icon-flickr-color.svg" alt="Flickr"></a></div>
+						<div class="social-icon"><a href="https://www.facebook.com/JMLSAlumni" title="Facebook" target="_blank"><img class="social-icon-img-small" src="../images/icon-facebook-color.svg" alt="Facebook"></a></div>
+						<div class="social-icon"><a href="https://twitter.com/JMLSAlumni" title="Twitter" target="_blank"><img class="social-icon-img-small" src="../images/icon-twitter-color.svg" alt="Twitter"></a></div>
+						<div class="social-icon"><a href="http://www.linkedin.com/groups?gid=121368&trk=myg_ugrp_ovr" title="LinkedIn" target="_blank"><img class="social-icon-img-small" src="../images/icon-linkedin-color.svg" alt="LinkedIn"></a></div>
+						<div class="social-icon"><a href="http://www.youtube.com/jmlschicago" title="YouTube" target="_blank"><img class="social-icon-img-small" src="../images/icon-youtube-color.svg" alt="YouTube"></a></div>
+						<div class="social-icon"><a href="http://www.flickr.com/photos/43883549@N08/" title="Flickr" target="_blank"><img class="social-icon-img-small" src="../images/icon-flickr-color.svg" alt="Flickr"></a></div>
 					</div>				
 			</div>
 		</div>
@@ -44,7 +34,7 @@
 					</div>
 
 					<div class="feature-box-col feature-box-col-1-2 feature-box-col-raised text-center">	
-						<a href="#"><img class="mar-bot-smallest box-shadow-1" src="images/briefcase-cover.jpg" alt="Annual Report of the Dean 2013"></a>													
+						<a href="#"><img class="mar-bot-smallest box-shadow-1" src="../images/briefcase-cover.jpg" alt="Annual Report of the Dean 2013"></a>													
 						<a href="#" class="btn btn-small btn-red bold">Read Issue</a>
 					</div>																
 

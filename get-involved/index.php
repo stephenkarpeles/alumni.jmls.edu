@@ -1,12 +1,13 @@
-<!-- Meta content goes below. Write content between quote marks. -->
+<!-- Meta Info -->
 <?php
-$tpTitle="";
-$pgDesc="";
-$pgKeywords="";
+// Remove commented out marks before each line you wish to edit, and place content between quote marks.
+// $tpTitle="";
+// $pgDesc="";
+// $pgKeywords="";
 ?>
 
 <!-- Header -->
-<?php include('includes/header.php'); ?>
+<?php include('../includes/header.php'); ?>
 
 	<!-- Begin Content -->
 	<section>
@@ -62,11 +63,11 @@ $pgKeywords="";
 						
 			<div class="grid-col bp3-col-1-4">
 				<!-- Sidebar -->
-				<?php include('includes/sidebar.php'); ?>				
+				<?php include('../includes/sidebar.php'); ?>				
 			</div><!-- .grid-col -->			
 
 		</div><!-- .grid-wrap -->	
 	</section>
 
 <!-- Footer -->
-<?php include('includes/footer.php'); ?>	
+<?php include('../includes/footer.php'); ?>	
