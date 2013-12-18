@@ -2280,3 +2280,7 @@ Load paths:
   C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/vendor/assets/stylesheets)
 2013-12-18 12:16:07 identical css/main.css 
 2013-12-18 12:16:46 overwrite css/main.css 
+2013-12-18 13:33:24 overwrite css/main.css 
+2013-12-18 13:33:36 overwrite css/main.css 
+2013-12-18 13:33:52 overwrite css/main.css 
+2013-12-18 13:34:17 overwrite css/main.css 
