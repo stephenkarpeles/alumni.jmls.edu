@@ -66,8 +66,8 @@
 					<nav class="nav-collapse">					
 						<ul>
 							<a href="http://localhost/alumni.jmls.edu/get-involved/"><li>Get Involved</li></a>
-							<a href=""><li>Stay Connected</li></a>
-							<a href=""><li>Tips &amp; Tools</li></a>
+							<a href="http://localhost/alumni.jmls.edu/stay-connected/"><li>Stay Connected</li></a>
+							<a href="http://localhost/alumni.jmls.edu/tips-and-tools/"><li>Tips &amp; Tools</li></a>
 							<a href=""><li>Support John Marshall</li></a>
 							<a href=""><li>Contact Us</li></a>
 							<a href=""><li>Give Online</li></a>
