@@ -44,17 +44,17 @@ h1 {
 h2 { 
 	font-size: $font-size-beta;  
 	line-height: $line-height-lower;   
-	margin: 1.5em 0 .625em; } 
+	margin: 1.5em 0 .3em; } 
 
 h3 { 
 	font-size: $font-size-gamma; 
 	line-height: $line-height-lower;   
-	margin: 1.25em 0 .5em; }
+	margin: 1.5em 0 .3em; }
 
 h4 { 
 	font-size: $font-size-main;  
 	line-height: $line-height-lowest;  
-	margin: 0 0 .625em; }
+	margin: .75em 0 .25em; }
 
 .alpha 		{ font-size: $font-size-alpha; 	 line-height: $line-height-lowest; }
 .beta 		{ font-size: $font-size-beta;  	 line-height: $line-height-lower;  }
@@ -79,7 +79,7 @@ h4 {
 	margin-bottom: 1em;
 	font-size: $font-size-beta;
 	font-weight: 300;
-	line-height: $line-height-main; }
+	line-height: $line-height-low-alt; }
 
 // Subtext for things like dates or times
 .subtext { 

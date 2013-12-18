@@ -33,7 +33,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 			</div>
 
 			<div class="grid-col bp3-col-1-3">
-				<a href="#"><div class="action-bar"><span class="action-bar-text">Get Involved</span><span class="action-bar-icon icon-info"></span></div></a>
+				<a href="get-involved/"><div class="action-bar"><span class="action-bar-text">Get Involved</span><span class="action-bar-icon icon-info"></span></div></a>
 				<a href="#"><div class="action-bar"><span class="action-bar-text">Stay Connected</span><span class="action-bar-icon icon-globe"></span></div></a>
 				<a href="#"><div class="action-bar"><span class="action-bar-text">Support John Marshall</span><span class="action-bar-icon icon-gift"></span></div></a>
 				
