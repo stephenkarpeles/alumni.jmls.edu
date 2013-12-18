@@ -267,8 +267,8 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 
 							<div class="feature-box-col feature-box-col-2-5 feature-box-col-raised">
 								<div class="text-center">							
-									<a href="#"><img class="mar-bot-smallest box-shadow-1" src="images/deans-report-cover.jpg" alt="Annual Report of the Dean 2013"></a>
-									<a class="btn btn-small btn-red bold">Read Issue</a>
+									<a href="http://deansreport.jmls.edu/"><img class="mar-bot-smallest box-shadow-1" src="images/deans-report-cover.jpg" alt="Annual Report of the Dean 2013"></a>
+									<a href="http://deansreport.jmls.edu/" class="btn btn-small btn-red bold">Read Issue</a>
 								</div>	
 							</div>
 
