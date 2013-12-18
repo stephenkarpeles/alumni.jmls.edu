@@ -22,23 +22,23 @@
 					<div class="highlight">
 						<div class="highlight-wrap">
 							<div class="highlight-unit">
-								<a href="../tips-and-tools/resources.php"><img src="http://placehold.it/218x132" alt="Volunteer Opportunities"></a>
+								<a href="../tips-and-tools/resources.php"><img src="../images/resources.jpg" alt="JMLS Resources"></a>
 								<div class="highlight-header"><a href="../tips-and-tools/resources.php">JMLS Resources</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="http://www.jmls.edu/career-services/alumni/" target="_blank"><img src="http://placehold.it/218x132" alt="Alumni Events"></a>
+								<a href="http://www.jmls.edu/career-services/alumni/" target="_blank"><img src="../images/career-services.jpg" alt="Career Services Office"></a>
 								<div class="highlight-header"><a href="http://www.jmls.edu/career-services/alumni/" target="_blank">Career Services Office</a></div>	
 							</div>
 							<div class="highlight-unit">
-								<a href="../tips-and-tools/alumni-benefits.php"><img src="http://placehold.it/218x132" alt="Alumni Association"></a>
+								<a href="../tips-and-tools/alumni-benefits.php"><img src="../images/alumni-benefits.jpg" alt="Alumni Benefits"></a>
 								<div class="highlight-header"><a href="../tips-and-tools/alumni-benefits.php">Alumni Benefits</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="http://www.jmls.edu/aap/" target="_blank"><img src="http://placehold.it/218x132" alt="Young Alumni Council"></a>
+								<a href="http://www.jmls.edu/aap/" target="_blank"><img src="../images/alumni-advantage.jpg" alt="Alumni Advantage Program"></a>
 								<div class="highlight-header"><a href="http://www.jmls.edu/aap/" target="_blank">Alumni Advantage Program</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="http://edegrees.jmls.edu" target="_blank"><img src="http://placehold.it/218x132" alt="Get Quoted"></a>
+								<a href="http://edegrees.jmls.edu" target="_blank"><img src="../images/distance-education.jpg" alt="Distance Education"></a>
 								<div class="highlight-header"><a href="http://edegrees.jmls.edu" target="_blank">Distance Education</a></div>
 							</div>
 						</div>

@@ -21,21 +21,21 @@
 
 					<div class="highlight">
 						<div class="highlight-wrap">
-							<div class="highlight-unit">
-								<a href="../tips-and-tools/resources.php"><img src="http://placehold.it/218x132" alt="Volunteer Opportunities"></a>
-								<div class="highlight-header"><a href="../tips-and-tools/resources.php">JMLS Resources</a></div>
+							<div class="highlight-unit-1-2">
+								<a href="../stay-connected/alumni-news.php"><img src="../images/alumni-news.jpg" alt="Alumni News"></a>
+								<div class="highlight-header"><a href="../stay-connected/alumni-news.php">Alumni News</a></div>
 							</div>
-							<div class="highlight-unit">
-								<a href="http://www.jmls.edu/career-services/alumni/" target="_blank"><img src="http://placehold.it/218x132" alt="Alumni Events"></a>
-								<div class="highlight-header"><a href="http://www.jmls.edu/career-services/alumni/" target="_blank">Career Services Office</a></div>	
+							<div class="highlight-unit-1-2">
+								<a href="http://www.jmls.edu/alumni-reunion/" target="_blank"><img src="../images/alumni-reunions.jpg" alt="Alumni Reunions"></a>
+								<div class="highlight-header"><a href="http://www.jmls.edu/alumni-reunion/" target="_blank">Alumni Reunions</a></div>	
 							</div>
-							<div class="highlight-unit">
-								<a href="../tips-and-tools/alumni-benefits.php"><img src="http://placehold.it/218x132" alt="Alumni Association"></a>
-								<div class="highlight-header"><a href="../tips-and-tools/alumni-benefits.php">Alumni Benefits</a></div>
+							<div class="highlight-unit-1-2">
+								<a href="../stay-connected/alumni-directory.php"><img src="../images/alumni-directory.jpg" alt="Alumni Directory"></a>
+								<div class="highlight-header"><a href="../stay-connected/alumni-directory.php">Alumni Directory</a></div>
 							</div>
-							<div class="highlight-unit">
-								<a href="http://www.jmls.edu/aap/" target="_blank"><img src="http://placehold.it/218x132" alt="Young Alumni Council"></a>
-								<div class="highlight-header"><a href="http://www.jmls.edu/aap/" target="_blank">Alumni Advantage Program</a></div>
+							<div class="highlight-unit-1-2">
+								<a href="../stay-connected/hall-of-distinction.php"><img src="../images/hall-of-distinction.jpg" alt="Hall of Distinction"></a>
+								<div class="highlight-header"><a href="../stay-connected/hall-of-distinction.php">Hall of Distinction</a></div>
 							</div>
 						</div>
 					</div>	

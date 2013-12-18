@@ -1051,10 +1051,31 @@ h4 {
 }
 /* line 93, ../sass/components/_modules.scss */
 .highlight-unit img {
-  padding-bottom: 0.25em;
+  border: 4px double gainsboro;
+  margin-bottom: 0.25em;
 }
 
-/* line 96, ../sass/components/_modules.scss */
+/* line 97, ../sass/components/_modules.scss */
+.highlight-unit-1-2 {
+  position: relative;
+  overflow: visible;
+  float: left;
+  width: 50%;
+  padding-left: 1.5em;
+}
+@media (min-width: 480px) {
+  /* line 97, ../sass/components/_modules.scss */
+  .highlight-unit-1-2 {
+    padding-left: 2em;
+  }
+}
+/* line 104, ../sass/components/_modules.scss */
+.highlight-unit-1-2 img {
+  border: 4px double gainsboro;
+  margin-bottom: 0.25em;
+}
+
+/* line 108, ../sass/components/_modules.scss */
 .highlight-header {
   height: 4.75em;
   font-size: 1.17em;
@@ -1062,25 +1083,25 @@ h4 {
   line-height: 1.1;
 }
 @media (min-width: 360px) {
-  /* line 96, ../sass/components/_modules.scss */
+  /* line 108, ../sass/components/_modules.scss */
   .highlight-header {
     height: 4em;
   }
 }
 @media (min-width: 800px) {
-  /* line 96, ../sass/components/_modules.scss */
+  /* line 108, ../sass/components/_modules.scss */
   .highlight-header {
     height: 3.75em;
   }
 }
 
-/* line 106, ../sass/components/_modules.scss */
+/* line 118, ../sass/components/_modules.scss */
 .datebox {
   width: 46px;
   text-align: center;
 }
 
-/* line 110, ../sass/components/_modules.scss */
+/* line 122, ../sass/components/_modules.scss */
 .datebox-header {
   width: 100%;
   padding-top: 1px;
@@ -1091,7 +1112,7 @@ h4 {
   color: white;
 }
 
-/* line 119, ../sass/components/_modules.scss */
+/* line 131, ../sass/components/_modules.scss */
 .datebox-content {
   background: #e7e7e7;
   font-size: 21px;
@@ -1100,7 +1121,7 @@ h4 {
   padding-bottom: 4px;
 }
 
-/* line 128, ../sass/components/_modules.scss */
+/* line 140, ../sass/components/_modules.scss */
 .action-bar {
   overflow: hidden;
   position: relative;
@@ -1113,19 +1134,19 @@ h4 {
   text-transform: uppercase;
   color: white;
 }
-/* line 139, ../sass/components/_modules.scss */
+/* line 151, ../sass/components/_modules.scss */
 .action-bar:hover, .action-bar:active {
   background: #bb0000;
   color: white;
 }
 
-/* line 143, ../sass/components/_modules.scss */
+/* line 155, ../sass/components/_modules.scss */
 .action-bar-text {
   position: relative;
   z-index: 1000;
 }
 
-/* line 147, ../sass/components/_modules.scss */
+/* line 159, ../sass/components/_modules.scss */
 .action-bar-icon {
   display: block;
   float: right;
@@ -1139,24 +1160,24 @@ h4 {
   opacity: .15;
 }
 
-/* line 161, ../sass/components/_modules.scss */
+/* line 173, ../sass/components/_modules.scss */
 .social {
   letter-spacing: -4px;
 }
 
-/* line 165, ../sass/components/_modules.scss */
+/* line 177, ../sass/components/_modules.scss */
 .social-sidebar {
   padding: 0 5px;
 }
 
-/* line 167, ../sass/components/_modules.scss */
+/* line 179, ../sass/components/_modules.scss */
 .social-icon {
   display: inline-block;
   zoom: 1;
   width: 20%;
 }
 
-/* line 172, ../sass/components/_modules.scss */
+/* line 184, ../sass/components/_modules.scss */
 .social-icon-img {
   position: relative;
   bottom: 0;
@@ -1170,12 +1191,12 @@ h4 {
   -o-transition: ease-in-out 0.15s;
   transition: ease-in-out 0.15s;
 }
-/* line 181, ../sass/components/_modules.scss */
+/* line 193, ../sass/components/_modules.scss */
 .social-icon-img:hover {
   bottom: 3px;
 }
 
-/* line 184, ../sass/components/_modules.scss */
+/* line 196, ../sass/components/_modules.scss */
 .social-icon-img-small {
   position: relative;
   bottom: 0;
@@ -1189,7 +1210,7 @@ h4 {
   -o-transition: ease-in-out 0.15s;
   transition: ease-in-out 0.15s;
 }
-/* line 193, ../sass/components/_modules.scss */
+/* line 205, ../sass/components/_modules.scss */
 .social-icon-img-small:hover {
   bottom: 3px;
 }
