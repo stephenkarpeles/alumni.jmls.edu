@@ -91,7 +91,6 @@
 	@include breakpoint(bp1) { padding-left: 2em; }
 	@include breakpoint(bp3) { width: 33%; }
 	img {
-		border: 4px double lighten($lighter-gray,7%);
 		margin-bottom: $base-spacing-unit/2; } }
 
 .highlight-unit-1-2 {
@@ -102,7 +101,6 @@
 	padding-left: 1.5em;
 	@include breakpoint(bp1) { padding-left: 2em; }
 	img {
-		border: 4px double lighten($lighter-gray,7%);
 		margin-bottom: $base-spacing-unit/2; } }
 
 .highlight-header {	
