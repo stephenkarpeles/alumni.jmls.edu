@@ -42,6 +42,7 @@
 								<div class="highlight-header"><a href="get-quoted.php">Get Quoted</a></div>
 							</div>
 						</div>
+						
 					</div>	
 
 				</article><!-- .main -->
@@ -49,8 +50,12 @@
 			</div><!-- .grid-col -->			
 						
 			<div class="grid-col bp3-col-1-4">				
-				<!-- Sidebar -->
-				<?php include('../includes/sidebar.php'); ?>				
+				<!-- Sidebar Wrap Top -->
+				<?php include('../includes/sidebar/sidebar-wrap-top.php'); ?>	
+				<!-- Menu -->
+				<?php include('../includes/menus/get-involved.php'); ?>
+				<!-- Sidebar Wrap Bottom -->
+				<?php include('../includes/sidebar/sidebar-wrap-bottom.php'); ?>				
 			</div><!-- .grid-col -->			
 
 		</div><!-- .grid-wrap -->	
