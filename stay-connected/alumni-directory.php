@@ -16,9 +16,11 @@
 
 				<!-- Main -->			
 				<article class="main">				
-					<h1 class="page-header">John Marshall Resources for Alumni</h1>
-					<h3>Club Quarters Hotel Discount</h3>
-					<p>The John Marshall Law School has a membership with Club Quarters hotel chain. This membership allows alumni and friends of John Marshall to reserve a room at any of the Club Quarters in the U.S. and in London for a substantially lower rate than other area hotels. Club Quarters is a full-service, member-only hotel. <a href="http://www.clubquarters.com/" class="bold">Visit their website</a> for more information. To enter their website or reserve a room, you must have a password. Our password is <strong>JOHN MARSHALL LAW SCHOOL</strong>. Please contact <a href="mailto:sdzik@jmls.edu" class="bold">Sherri Dzik</a> with any questions about the membership.</p>
+					<h1 class="page-header">Alumni Directory</h1>
+					<p class="featured-text"><em>Call to action paragraph coming. This will describe why anyone should bother to update their information.</em></p>
+					<p>Update your address and practice information, search for an old friend, or find a referral. When you sign in, you can choose how much information will be shared with other alumni.</p>
+					<p><a href="#" class="bold">Visit Your Personal Record Now</a> (<em>link coming</em>)</p>
+					
 				</article><!-- .main -->
 				
 			</div><!-- .grid-col -->			
@@ -27,7 +29,7 @@
 				<!-- Sidebar Wrap Top -->
 				<?php include('../includes/sidebar/sidebar-wrap-top.php'); ?>	
 				<!-- Menu -->
-				<?php include('../includes/menus/tips-and-tools.php'); ?>
+				<?php include('../includes/menus/stay-connected.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
 				<?php include('../includes/sidebar/sidebar-wrap-bottom.php'); ?>					
 			</div><!-- .grid-col -->			

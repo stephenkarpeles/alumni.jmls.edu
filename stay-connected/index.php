@@ -16,7 +16,7 @@
 
 				<!-- Main -->			
 				<article class="main">				
-					<h1 class="page-header">Tips &amp; Tools</h1>
+					<h1 class="page-header">Stay Connected</h1>
 					<p class="featured-text"><em>Intro copy needed</em></p>
 
 					<div class="highlight">
@@ -37,10 +37,6 @@
 								<a href="http://www.jmls.edu/aap/" target="_blank"><img src="http://placehold.it/218x132" alt="Young Alumni Council"></a>
 								<div class="highlight-header"><a href="http://www.jmls.edu/aap/" target="_blank">Alumni Advantage Program</a></div>
 							</div>
-							<div class="highlight-unit">
-								<a href="http://edegrees.jmls.edu" target="_blank"><img src="http://placehold.it/218x132" alt="Get Quoted"></a>
-								<div class="highlight-header"><a href="http://edegrees.jmls.edu" target="_blank">Distance Education</a></div>
-							</div>
 						</div>
 					</div>	
 
@@ -52,7 +48,7 @@
 				<!-- Sidebar Wrap Top -->
 				<?php include('../includes/sidebar/sidebar-wrap-top.php'); ?>	
 				<!-- Menu -->
-				<?php include('../includes/menus/tips-and-tools.php'); ?>
+				<?php include('../includes/menus/stay-connected.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
 				<?php include('../includes/sidebar/sidebar-wrap-bottom.php'); ?>								
 			</div><!-- .grid-col -->			

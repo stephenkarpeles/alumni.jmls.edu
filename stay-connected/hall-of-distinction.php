@@ -16,9 +16,18 @@
 
 				<!-- Main -->			
 				<article class="main">				
-					<h1 class="page-header">John Marshall Resources for Alumni</h1>
-					<h3>Club Quarters Hotel Discount</h3>
-					<p>The John Marshall Law School has a membership with Club Quarters hotel chain. This membership allows alumni and friends of John Marshall to reserve a room at any of the Club Quarters in the U.S. and in London for a substantially lower rate than other area hotels. Club Quarters is a full-service, member-only hotel. <a href="http://www.clubquarters.com/" class="bold">Visit their website</a> for more information. To enter their website or reserve a room, you must have a password. Our password is <strong>JOHN MARSHALL LAW SCHOOL</strong>. Please contact <a href="mailto:sdzik@jmls.edu" class="bold">Sherri Dzik</a> with any questions about the membership.</p>
+					<h1 class="page-header">Hall of Distinction</h1>
+					<p><em>Photos of the Hall of Distinction (coming)</em></p>
+					<p>John Marshall&rsquo;s Hall of Distinction showcases photos of John Marshall alumni who have either ascended to the bench or are elected to public office. If you qualify, please send us a 5&rdquo; x 7&rdquo; black-and-white photo of yourself. Photos are framed quarterly.</p>
+					<p>Send photos to:</p>
+					<p><strong>Sherri Dzik</strong><br>
+					Office of Alumni Relations<br>
+					The John Marshall Law School<br>
+					315 S Plymouth Court<br>
+					Chicago, IL 60604<br>
+					sdzik@jmls.edu
+					</p>
+					
 				</article><!-- .main -->
 				
 			</div><!-- .grid-col -->			
@@ -27,7 +36,7 @@
 				<!-- Sidebar Wrap Top -->
 				<?php include('../includes/sidebar/sidebar-wrap-top.php'); ?>	
 				<!-- Menu -->
-				<?php include('../includes/menus/tips-and-tools.php'); ?>
+				<?php include('../includes/menus/stay-connected.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
 				<?php include('../includes/sidebar/sidebar-wrap-bottom.php'); ?>					
 			</div><!-- .grid-col -->			
