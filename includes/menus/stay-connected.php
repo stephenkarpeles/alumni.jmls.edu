@@ -1,5 +1,5 @@
 <div class="module">
-	<div class="header-bar header-bar-red">Stay Connected Menu</div>
+	<div class="header-bar header-bar-red">Stay Connected</div>
 	<div class="sub-nav">
 		<ul class="no-list-style">
 			<li><a href="../stay-connected/">Stay Connected Home</a></li>
