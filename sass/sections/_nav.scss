@@ -50,9 +50,11 @@
   max-height: 9999px; }
 
 .top-nav {
-	padding: 12px 0 10px; }
+	padding: 14px 0 10px; }
 
 .nav-toggle {    
+  position: relative;
+  top: -2px;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -62,7 +64,7 @@
   user-select: none; }
 
 a.nav-toggle {
-  background: url('../images/icon-menu.svg') no-repeat 0 4px;
+  background: url('../images/icon-menu.svg') no-repeat 0 4px;  
   padding-left: 27px;
 	color: white;
   font-size: 20px;
@@ -90,7 +92,7 @@ a.nav-toggle {
 
 .search-toggle {
   float: right;  
-  margin-top: -2px;
+  margin-top: -4px;
   @include breakpoint(bp3) { 
     display: none; } }
 

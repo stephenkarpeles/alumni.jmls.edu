@@ -1738,11 +1738,13 @@ header {
 
 /* line 52, ../sass/sections/_nav.scss */
 .top-nav {
-  padding: 12px 0 10px;
+  padding: 14px 0 10px;
 }
 
 /* line 55, ../sass/sections/_nav.scss */
 .nav-toggle {
+  position: relative;
+  top: -2px;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -1752,7 +1754,7 @@ header {
   user-select: none;
 }
 
-/* line 64, ../sass/sections/_nav.scss */
+/* line 66, ../sass/sections/_nav.scss */
 a.nav-toggle {
   background: url("../images/icon-menu.svg") no-repeat 0 4px;
   padding-left: 27px;
@@ -1760,46 +1762,46 @@ a.nav-toggle {
   font-size: 20px;
   font-weight: 700;
 }
-/* line 70, ../sass/sections/_nav.scss */
+/* line 72, ../sass/sections/_nav.scss */
 a.nav-toggle:hover, a.nav-toggle:active {
   color: white;
   text-decoration: underline;
 }
 
-/* line 74, ../sass/sections/_nav.scss */
+/* line 76, ../sass/sections/_nav.scss */
 .no-svg a.nav-toggle {
   background: url("../images/icon-menu.png") no-repeat 0 4px;
 }
 
 @media screen and (min-width: 800px) {
-  /* line 78, ../sass/sections/_nav.scss */
+  /* line 80, ../sass/sections/_nav.scss */
   .js .nav-collapse {
     position: relative;
   }
 
-  /* line 81, ../sass/sections/_nav.scss */
+  /* line 83, ../sass/sections/_nav.scss */
   .js .nav-collapse.closed {
     max-height: none;
   }
 
-  /* line 84, ../sass/sections/_nav.scss */
+  /* line 86, ../sass/sections/_nav.scss */
   .nav-toggle {
     display: none;
   }
 }
-/* line 91, ../sass/sections/_nav.scss */
+/* line 93, ../sass/sections/_nav.scss */
 .search-toggle {
   float: right;
-  margin-top: -2px;
+  margin-top: -4px;
 }
 @media (min-width: 800px) {
-  /* line 91, ../sass/sections/_nav.scss */
+  /* line 93, ../sass/sections/_nav.scss */
   .search-toggle {
     display: none;
   }
 }
 
-/* line 97, ../sass/sections/_nav.scss */
+/* line 99, ../sass/sections/_nav.scss */
 .search-toggle input[type=search] {
   outline: none;
   -webkit-appearance: textfield;
@@ -1817,33 +1819,33 @@ a.nav-toggle:hover, a.nav-toggle:active {
   -moz-transition: all .5s;
   transition: all .5s;
 }
-/* line 103, ../sass/sections/_nav.scss */
+/* line 105, ../sass/sections/_nav.scss */
 .search-toggle input[type=search]:focus {
   outline: none;
 }
 
-/* line 119, ../sass/sections/_nav.scss */
+/* line 121, ../sass/sections/_nav.scss */
 .no-svg .search-toggle input[type=search] {
   background: url("../images/icon-search-large.png") no-repeat 5px center;
 }
 
-/* line 123, ../sass/sections/_nav.scss */
+/* line 125, ../sass/sections/_nav.scss */
 .search-toggle input::-webkit-search-decoration,
 .search-toggle input::-webkit-search-cancel-button {
   display: none;
 }
 
-/* line 126, ../sass/sections/_nav.scss */
+/* line 128, ../sass/sections/_nav.scss */
 .search-toggle input:-moz-placeholder {
   color: transparent;
 }
 
-/* line 129, ../sass/sections/_nav.scss */
+/* line 131, ../sass/sections/_nav.scss */
 .search-toggle input::-webkit-input-placeholder {
   color: transparent;
 }
 
-/* line 132, ../sass/sections/_nav.scss */
+/* line 134, ../sass/sections/_nav.scss */
 .search-toggle input[type=search] {
   width: 16px;
   padding-left: 10px;
@@ -1851,12 +1853,12 @@ a.nav-toggle:hover, a.nav-toggle:active {
   cursor: pointer;
 }
 
-/* line 138, ../sass/sections/_nav.scss */
+/* line 140, ../sass/sections/_nav.scss */
 .search-toggle input[type=search]:hover {
   background-color: #bbb;
 }
 
-/* line 141, ../sass/sections/_nav.scss */
+/* line 143, ../sass/sections/_nav.scss */
 .search-toggle input[type=search]:focus {
   background: url("../images/icon-search-large-gray.svg") no-repeat 5px center;
   width: 135px;
@@ -1866,7 +1868,7 @@ a.nav-toggle:hover, a.nav-toggle:active {
   cursor: auto;
 }
 
-/* line 149, ../sass/sections/_nav.scss */
+/* line 151, ../sass/sections/_nav.scss */
 .no-svg .search-toggle input[type=search]:focus {
   background: url("../images/icon-search-large-gray.png") no-repeat 5px center;
 }
