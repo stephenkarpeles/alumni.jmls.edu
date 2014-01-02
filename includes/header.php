@@ -20,7 +20,7 @@
 
 		<!-- HTML5 Shiv -->
 		<!--[if lt IE 9]>
-			<script src="js/html5shiv.js"></script>
+			<script src="http://localhost/alumni.jmls.edu/js/html5shiv.js"></script>
 		<![endif]-->
 
 		<!-- Scripts -->

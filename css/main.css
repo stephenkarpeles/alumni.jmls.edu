@@ -1657,7 +1657,7 @@ header {
 
 /* line 3, ../sass/sections/_nav.scss */
 .nav-container {
-  display: block;
+  clear: both;
   min-height: 50px;
   margin-bottom: 2em;
   background: #aa0000;
