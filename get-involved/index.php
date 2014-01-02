@@ -22,7 +22,7 @@
 					<div class="highlight">
 						<div class="highlight-wrap">
 							<div class="highlight-unit">
-								<a href="volunteer-opportunities.php"><img src="<?php echo (SITE_ROOT . '/images/volunteer-opportunities.jpg'); ?>" alt="Volunteer Opportunities"></a>
+								<a href="volunteer-opportunities.php"><img src="../images/volunteer-opportunities.jpg" alt="Volunteer Opportunities"></a>
 								<div class="highlight-header"><a href="volunteer-opportunities.php">Volunteer Opportunities</a></div>
 							</div>
 							<div class="highlight-unit">

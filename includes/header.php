@@ -46,7 +46,7 @@
 					</ul>
 
 					<div class="search-wrap">
-						<form action="search.php" method="get">
+						<form action="http://localhost/alumni.jmls.edu/search.php" method="get">
             	<input type="text" class="search-bar" name="q" value="Search" onfocus="this.value==this.defaultValue?this.value='':null" /> 
             	<input class="search-submit" type="submit" value="Search" />
             </form>
