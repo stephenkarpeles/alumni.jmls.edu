@@ -1562,48 +1562,62 @@ header {
 .logo {
   float: left;
   display: block;
-  background: url("../images/logo-1.svg") no-repeat;
-  width: 470px;
-  height: 50px;
-  margin-top: 24px;
+  background: url("../images/logo-2.svg") no-repeat;
+  width: 321px;
+  height: 30px;
+}
+@media (min-width: 800px) {
+  /* line 5, ../sass/sections/_header.scss */
+  .logo {
+    background: url("../images/logo-1.svg") no-repeat;
+    width: 470px;
+    height: 50px;
+    margin-top: 24px;
+  }
 }
 
-/* line 13, ../sass/sections/_header.scss */
+/* line 17, ../sass/sections/_header.scss */
 .no-svg .logo {
-  background: url("../images/logo-1.png") no-repeat;
+  background: url("../images/logo-2.png") no-repeat;
+}
+@media (min-width: 800px) {
+  /* line 17, ../sass/sections/_header.scss */
+  .no-svg .logo {
+    background: url("../images/logo-1.png") no-repeat;
+  }
 }
 
-/* line 16, ../sass/sections/_header.scss */
+/* line 22, ../sass/sections/_header.scss */
 .utilities {
   float: right;
   display: none;
 }
 @media (min-width: 800px) {
-  /* line 16, ../sass/sections/_header.scss */
+  /* line 22, ../sass/sections/_header.scss */
   .utilities {
     display: block;
   }
 }
 
-/* line 22, ../sass/sections/_header.scss */
+/* line 28, ../sass/sections/_header.scss */
 .login {
   margin-bottom: 6px;
   padding-top: 9px;
   font-size: 0.9em;
   text-align: right;
 }
-/* line 28, ../sass/sections/_header.scss */
+/* line 34, ../sass/sections/_header.scss */
 .login li {
   padding-left: 5px;
 }
 
-/* line 32, ../sass/sections/_header.scss */
+/* line 38, ../sass/sections/_header.scss */
 .search-wrap {
   position: relative;
   float: right;
 }
 
-/* line 36, ../sass/sections/_header.scss */
+/* line 42, ../sass/sections/_header.scss */
 .search-bar {
   position: relative;
   width: 220px;
@@ -1618,17 +1632,17 @@ header {
   -o-border-radius: 5px;
   border-radius: 5px;
 }
-/* line 45, ../sass/sections/_header.scss */
+/* line 51, ../sass/sections/_header.scss */
 .search-bar:focus {
   outline: none;
 }
 
-/* line 48, ../sass/sections/_header.scss */
+/* line 54, ../sass/sections/_header.scss */
 .search-bar::-ms-clear {
   display: none;
 }
 
-/* line 52, ../sass/sections/_header.scss */
+/* line 58, ../sass/sections/_header.scss */
 .search-submit {
   position: absolute;
   z-index: 100;
@@ -1637,7 +1651,7 @@ header {
   height: 20px;
 }
 
-/* line 59, ../sass/sections/_header.scss */
+/* line 65, ../sass/sections/_header.scss */
 .search-wrap input[type='submit'] {
   background: url("../images/icon-search.svg") no-repeat;
   height: 14px;
@@ -1650,7 +1664,7 @@ header {
   color: #555555;
 }
 
-/* line 69, ../sass/sections/_header.scss */
+/* line 75, ../sass/sections/_header.scss */
 .no-svg .search-wrap input[type='submit'] {
   background: url("../images/icon-search.png") no-repeat;
 }
@@ -1861,7 +1875,7 @@ a.nav-toggle:hover, a.nav-toggle:active {
 /* line 143, ../sass/sections/_nav.scss */
 .search-toggle input[type=search]:focus {
   background: url("../images/icon-search-large-gray.svg") no-repeat 5px center;
-  width: 135px;
+  width: 100px;
   padding-left: 35px;
   color: #000;
   background-color: #fff;

@@ -5,13 +5,19 @@ header {
 .logo {
 	float: left;
 	display: block;
-	background: url('../images/logo-1.svg') no-repeat;
-	width: 470px;
-	height: 50px;
-	margin-top: 24px; }
+	background: url('../images/logo-2.svg') no-repeat;
+	width: 321px;
+	height: 30px;
+	@include breakpoint(bp3) {
+		background: url('../images/logo-1.svg') no-repeat;
+		width: 470px;
+		height: 50px;
+		margin-top: 24px; } }
 
 .no-svg .logo {
-	background: url('../images/logo-1.png') no-repeat; }
+	background: url('../images/logo-2.png') no-repeat;
+	@include breakpoint(bp3) {
+		background: url('../images/logo-1.png') no-repeat; } }
 
 .utilities { 
 	float: right;
