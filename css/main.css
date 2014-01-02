@@ -1738,7 +1738,7 @@ header {
 
 /* line 52, ../sass/sections/_nav.scss */
 .top-nav {
-  padding: 14px 0 10px;
+  padding: 12px 0 10px;
 }
 
 /* line 55, ../sass/sections/_nav.scss */
@@ -1754,51 +1754,59 @@ header {
 
 /* line 64, ../sass/sections/_nav.scss */
 a.nav-toggle {
+  background: url("../images/icon-menu.svg") no-repeat 0 4px;
+  padding-left: 27px;
   color: white;
+  font-size: 20px;
   font-weight: 700;
 }
-/* line 67, ../sass/sections/_nav.scss */
+/* line 70, ../sass/sections/_nav.scss */
 a.nav-toggle:hover, a.nav-toggle:active {
   color: white;
   text-decoration: underline;
 }
 
+/* line 74, ../sass/sections/_nav.scss */
+.no-svg a.nav-toggle {
+  background: url("../images/icon-menu.png") no-repeat 0 4px;
+}
+
 @media screen and (min-width: 800px) {
-  /* line 72, ../sass/sections/_nav.scss */
+  /* line 78, ../sass/sections/_nav.scss */
   .js .nav-collapse {
     position: relative;
   }
 
-  /* line 75, ../sass/sections/_nav.scss */
+  /* line 81, ../sass/sections/_nav.scss */
   .js .nav-collapse.closed {
     max-height: none;
   }
 
-  /* line 78, ../sass/sections/_nav.scss */
+  /* line 84, ../sass/sections/_nav.scss */
   .nav-toggle {
     display: none;
   }
 }
-/* line 85, ../sass/sections/_nav.scss */
+/* line 91, ../sass/sections/_nav.scss */
 .search-toggle {
   float: right;
-  margin-top: -4px;
+  margin-top: -2px;
 }
 @media (min-width: 800px) {
-  /* line 85, ../sass/sections/_nav.scss */
+  /* line 91, ../sass/sections/_nav.scss */
   .search-toggle {
     display: none;
   }
 }
 
-/* line 91, ../sass/sections/_nav.scss */
+/* line 97, ../sass/sections/_nav.scss */
 .search-toggle input[type=search] {
   outline: none;
   -webkit-appearance: textfield;
   -webkit-box-sizing: content-box;
   font-family: inherit;
   font-size: 100%;
-  background: url("../images/icon-search-large.png") no-repeat 5px center;
+  background: url("../images/icon-search-large.svg") no-repeat 5px center;
   border: none;
   padding: 6px 7px 6px 32px;
   width: 24px;
@@ -1809,28 +1817,33 @@ a.nav-toggle:hover, a.nav-toggle:active {
   -moz-transition: all .5s;
   transition: all .5s;
 }
-/* line 97, ../sass/sections/_nav.scss */
+/* line 103, ../sass/sections/_nav.scss */
 .search-toggle input[type=search]:focus {
   outline: none;
 }
 
-/* line 114, ../sass/sections/_nav.scss */
+/* line 119, ../sass/sections/_nav.scss */
+.no-svg .search-toggle input[type=search] {
+  background: url("../images/icon-search-large.png") no-repeat 5px center;
+}
+
+/* line 123, ../sass/sections/_nav.scss */
 .search-toggle input::-webkit-search-decoration,
 .search-toggle input::-webkit-search-cancel-button {
   display: none;
 }
 
-/* line 117, ../sass/sections/_nav.scss */
+/* line 126, ../sass/sections/_nav.scss */
 .search-toggle input:-moz-placeholder {
   color: transparent;
 }
 
-/* line 120, ../sass/sections/_nav.scss */
+/* line 129, ../sass/sections/_nav.scss */
 .search-toggle input::-webkit-input-placeholder {
   color: transparent;
 }
 
-/* line 123, ../sass/sections/_nav.scss */
+/* line 132, ../sass/sections/_nav.scss */
 .search-toggle input[type=search] {
   width: 16px;
   padding-left: 10px;
@@ -1838,19 +1851,24 @@ a.nav-toggle:hover, a.nav-toggle:active {
   cursor: pointer;
 }
 
-/* line 129, ../sass/sections/_nav.scss */
+/* line 138, ../sass/sections/_nav.scss */
 .search-toggle input[type=search]:hover {
   background-color: #bbb;
 }
 
-/* line 132, ../sass/sections/_nav.scss */
+/* line 141, ../sass/sections/_nav.scss */
 .search-toggle input[type=search]:focus {
-  background: url("../images/icon-search-large-gray.png") no-repeat 5px center;
+  background: url("../images/icon-search-large-gray.svg") no-repeat 5px center;
   width: 135px;
   padding-left: 35px;
   color: #000;
   background-color: #fff;
   cursor: auto;
+}
+
+/* line 149, ../sass/sections/_nav.scss */
+.no-svg .search-toggle input[type=search]:focus {
+  background: url("../images/icon-search-large-gray.png") no-repeat 5px center;
 }
 
 /* line 1, ../sass/sections/_slider.scss */

@@ -224,10 +224,10 @@
 						
 			<div class="grid-col bp3-col-1-4">
 				<!-- Sidebar Wrap Top -->
-				<?php include('includes/sidebar/sidebar-wrap-top.php'); ?>				
+				<?php include('includes/sidebar/sidebar-wrap-top.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
-				<?php include('includes/sidebar/sidebar-wrap-bottom.php'); ?>
-			</div><!-- .grid-col -->			
+				<?php include('includes/sidebar/sidebar-wrap-bottom.php'); ?>					
+			</div><!-- .grid-col -->						
 
 		</div><!-- .grid-wrap -->	
 	</section>

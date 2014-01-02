@@ -7,7 +7,7 @@
 ?>
 
 <!-- Header -->
-<?php include('../includes/header.php'); ?>
+<?php include(SITE_ROOT . '/includes/header.php'); ?>
 
 	<!-- Begin Content -->
 	<section>
@@ -51,15 +51,15 @@
 						
 			<div class="grid-col bp3-col-1-4">				
 				<!-- Sidebar Wrap Top -->
-				<?php include('../includes/sidebar/sidebar-wrap-top.php'); ?>	
+				<?php include(SITE_ROOT . '/includes/sidebar/sidebar-wrap-top.php'); ?>	
 				<!-- Menu -->
-				<?php include('../includes/menus/get-involved.php'); ?>
+				<?php include(SITE_ROOT . '/includes/menus/get-involved.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
-				<?php include('../includes/sidebar/sidebar-wrap-bottom.php'); ?>				
+				<?php include(SITE_ROOT . '/includes/sidebar/sidebar-wrap-bottom.php'); ?>				
 			</div><!-- .grid-col -->			
 
 		</div><!-- .grid-wrap -->	
 	</section>
 
 <!-- Footer -->
-<?php include('../includes/footer.php'); ?>	
+<?php include(SITE_ROOT . '/includes/footer.php'); ?>	
