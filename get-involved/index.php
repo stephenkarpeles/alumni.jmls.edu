@@ -6,9 +6,8 @@
 // $pgKeywords="";
 ?>
 
-
 <!-- Header -->
-<?php include (SITE_ROOT . '/includes/header.php'); ?>
+<?php include('../includes/header.php'); ?>
 
 	<!-- Begin Content -->
 	<section>

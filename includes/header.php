@@ -37,7 +37,7 @@
 
 			<header>
 
-				<a class="logo" href="http://localhost//alumni.jmls.edu"></a>
+				<a class="logo" href="http://localhost/alumni.jmls.edu"></a>
 
 				<div class="utilities">
 					<ul class="horizontal login">
