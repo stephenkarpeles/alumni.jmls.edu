@@ -25,9 +25,10 @@
 
 		<!-- Scripts -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="http://localhost/alumni.jmls.edu/js/modernizr.custom.min.js"></script>			
 		<script src="http://localhost/alumni.jmls.edu/js/responsiveslides.min.js"></script>
 		<script src="http://localhost/alumni.jmls.edu/js/responsive-nav.min.js"></script>
-		<script src="http://localhost/alumni.jmls.edu/js/respond.min.js"></script>
+		<script src="http://localhost/alumni.jmls.edu/js/respond.min.js"></script>						
 
 	</head>
 	<body>

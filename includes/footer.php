@@ -53,6 +53,9 @@
         insert: "before"
       });
     </script>
+
+    <!-- Replace SVG with PNG fallback for certain browsers -->
+    <script src="http://localhost/alumni.jmls.edu/js/site.js"></script>	
 		
 	</body>
 </html>
