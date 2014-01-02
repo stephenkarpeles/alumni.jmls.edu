@@ -2442,3 +2442,73 @@ Load paths:
 2014-01-02 13:55:13 overwrite css/main.css 
 2014-01-02 14:18:07 overwrite css/main.css 
 2014-01-02 14:18:37 overwrite css/main.css 
+2014-01-02 14:19:29 overwrite css/main.css 
+2014-01-02 14:46:26 overwrite css/main.css 
+2014-01-02 14:46:30 identical css/main.css 
+2014-01-02 14:46:52 overwrite css/main.css 
+2014-01-02 14:47:02 identical css/main.css 
+2014-01-02 14:47:05 overwrite css/main.css 
+2014-01-02 14:47:07 overwrite css/main.css 
+2014-01-02 14:47:09 overwrite css/main.css 
+2014-01-02 14:49:23 overwrite css/main.css 
+2014-01-02 14:50:01 overwrite css/main.css 
+2014-01-02 14:50:07 overwrite css/main.css 
+2014-01-02 14:50:33 overwrite css/main.css 
+2014-01-02 14:50:39 overwrite css/main.css 
+2014-01-02 14:50:54 overwrite css/main.css 
+2014-01-02 14:50:58 overwrite css/main.css 
+2014-01-02 14:51:16     error sass/main.scss (Line 83 of sass/sections/_header.scss: Invalid CSS after "...') no-repeat; }": expected "}", was "")
+2014-01-02 14:51:16 overwrite css/main.css 
+2014-01-02 14:51:16     error sass/main.scss (Line 83 of sass/sections/_header.scss: Invalid CSS after "...') no-repeat; }": expected "}", was "")
+2014-01-02 14:51:16 identical css/main.css 
+2014-01-02 14:51:34 overwrite css/main.css 
+2014-01-02 14:51:45     error sass/main.scss (Line 24 of sass/sections/_header.scss: Invalid CSS after "		height: 50px; } ": expected selector or at-rule, was "}")
+2014-01-02 14:51:45 overwrite css/main.css 
+2014-01-02 14:51:45     error sass/main.scss (Line 24 of sass/sections/_header.scss: Invalid CSS after "		height: 50px; } ": expected selector or at-rule, was "}")
+2014-01-02 14:51:45 identical css/main.css 
+2014-01-02 14:51:49     error sass/main.scss (Line 24 of sass/sections/_header.scss: Invalid CSS after "		height: 50px; } ": expected selector or at-rule, was "} }")
+2014-01-02 14:51:49 overwrite css/main.css 
+2014-01-02 14:51:49     error sass/main.scss (Line 24 of sass/sections/_header.scss: Invalid CSS after "		height: 50px; } ": expected selector or at-rule, was "} }")
+2014-01-02 14:51:49 identical css/main.css 
+2014-01-02 14:52:14     error sass/main.scss (Line 85 of sass/sections/_header.scss: Invalid CSS after "...') no-repeat; }": expected "}", was "")
+2014-01-02 14:52:14 overwrite css/main.css 
+2014-01-02 14:52:14     error sass/main.scss (Line 85 of sass/sections/_header.scss: Invalid CSS after "...') no-repeat; }": expected "}", was "")
+2014-01-02 14:52:14 identical css/main.css 
+2014-01-02 14:52:19 overwrite css/main.css 
+2014-01-02 14:52:31 overwrite css/main.css 
+2014-01-02 14:52:37 overwrite css/main.css 
+2014-01-02 14:52:43 overwrite css/main.css 
+2014-01-02 14:52:48 overwrite css/main.css 
+2014-01-02 14:54:05 overwrite css/main.css 
+2014-01-02 14:54:30 overwrite css/main.css 
+2014-01-02 14:54:49     error sass/main.scss (Line 31 of sass/sections/_header.scss: Invalid CSS after "...) no-repeat; } ": expected selector or at-rule, was "}")
+2014-01-02 14:54:49 overwrite css/main.css 
+2014-01-02 14:54:49     error sass/main.scss (Line 31 of sass/sections/_header.scss: Invalid CSS after "...) no-repeat; } ": expected selector or at-rule, was "}")
+2014-01-02 14:54:49 identical css/main.css 
+2014-01-02 14:54:53 overwrite css/main.css 
+2014-01-02 14:56:02 overwrite css/main.css 
+2014-01-02 14:56:06 overwrite css/main.css 
+2014-01-02 14:56:29 overwrite css/main.css 
+2014-01-02 14:56:33 identical css/main.css 
+2014-01-02 14:56:37 overwrite css/main.css 
+2014-01-02 14:56:45     error sass/main.scss (Line 13 of sass/sections/_header.scss: Invalid CSS after "	background": expected ";", was ": url('../image...")
+2014-01-02 14:56:45 overwrite css/main.css 
+2014-01-02 14:56:45     error sass/main.scss (Line 13 of sass/sections/_header.scss: Invalid CSS after "	background": expected ";", was ": url('../image...")
+2014-01-02 14:56:45 identical css/main.css 
+2014-01-02 14:56:49 overwrite css/main.css 
+2014-01-02 14:57:25     error sass/main.scss (Line 17 of sass/sections/_header.scss: Invalid CSS after "...in: 20px auto 0": expected ";", was "@include breakp...")
+2014-01-02 14:57:25 overwrite css/main.css 
+2014-01-02 14:57:25     error sass/main.scss (Line 17 of sass/sections/_header.scss: Invalid CSS after "...in: 20px auto 0": expected ";", was "@include breakp...")
+2014-01-02 14:57:25 identical css/main.css 
+2014-01-02 14:57:30 overwrite css/main.css 
+2014-01-02 14:57:38 overwrite css/main.css 
+2014-01-02 14:57:56 overwrite css/main.css 
+2014-01-02 14:58:11 overwrite css/main.css 
+2014-01-02 14:58:16 overwrite css/main.css 
+2014-01-02 14:58:22 overwrite css/main.css 
+2014-01-02 14:58:28 overwrite css/main.css 
+2014-01-02 14:58:35 overwrite css/main.css 
+2014-01-02 14:58:37 overwrite css/main.css 
+2014-01-02 14:58:41 overwrite css/main.css 
+2014-01-02 14:58:51 overwrite css/main.css 
+2014-01-02 14:58:57 overwrite css/main.css 
