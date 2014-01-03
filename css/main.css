@@ -1768,7 +1768,7 @@ header {
 /* line 38, ../sass/sections/_nav.scss */
 .nav-collapse a:hover, .nav-collapse a:active {
   color: white;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* line 42, ../sass/sections/_nav.scss */
@@ -1815,7 +1815,7 @@ a.nav-toggle {
 /* line 73, ../sass/sections/_nav.scss */
 a.nav-toggle:hover, a.nav-toggle:active {
   color: white;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* line 77, ../sass/sections/_nav.scss */
