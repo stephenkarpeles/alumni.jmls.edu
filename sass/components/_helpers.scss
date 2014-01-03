@@ -30,6 +30,10 @@ $base-spacing-unit  : .5em;
 .center { margin: 0 auto; }
 
 // Hidden
+.hide-above-bp2 {
+	@include breakpoint(bp2) {
+		display: none !important; } }
+
 .hide-above-bp3 {
 	@include breakpoint(bp3) {
 		display: none !important; } }
