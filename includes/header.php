@@ -76,8 +76,7 @@
 							<li class="hide-above-bp3">
 								<a href="">Login <span class="arrow">&#9654;</span></a> 
 								<a class="first-time-login" href="">First Time Login <span class="arrow">&#9654;</span></a>
-							</li>
-							
+							</li>							
 						</ul>				
 					</nav><!-- .nav -->					
 				</div><!-- .top-nav -->
