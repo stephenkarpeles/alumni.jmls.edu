@@ -150,7 +150,7 @@
 		background: $bright-red;
 		color: white;	}
 	@include breakpoint(bp2) {
-		padding: 8px 12px;
+		padding: 8px 10px;
 		font-size: $font-size-main;	}
 	@include breakpoint(bp3) {
 		padding: 16px 20px;
@@ -184,6 +184,11 @@
 .social { 
 	// Keep icons from wrapping. More info here: http://css-tricks.com/almanac/properties/l/letter-spacing/
 	letter-spacing: -4px;	}
+ 
+.social-home { 
+	display: none;
+	@include breakpoint(bp3) {
+		display: block;	} } 
 
 .social-sidebar { padding: 0 5px; }
 

@@ -30,11 +30,12 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					</ul>									
 				</div><!-- .slider -->
 
-			</div>
+			</div><!-- .grid-col -->
 
 			<div class="grid-col bp3-col-1-3">
 
 				<div class="grid-wrap">
+
 					<div class="grid-col bp2-col-1-3 bp3-col-1-1">
 						<a href="get-involved/"><div class="action-bar"><span class="action-bar-text">Get<span class="action-bar-break"><br></span> Involved</span><span class="action-bar-icon icon-info"></span></div></a>
 					</div>
@@ -46,16 +47,20 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					<div class="grid-col bp2-col-1-3 bp3-col-1-1">
 						<a href="#"><div class="action-bar"><span class="action-bar-text">Support<span class="action-bar-break"><br></span> John Marshall</span><span class="action-bar-icon icon-gift"></span></div></a>
 					</div>
-				</div>
+
+				</div><!-- .grid-wrap -->
 				
-				<div class="social">
+				<div class="social social-home">
 					<div class="social-icon"><a href="https://www.facebook.com/JMLSAlumni" title="Facebook" target="_blank"><img class="social-icon-img" src="images/icon-facebook-color.svg" alt="Facebook"></a></div>
 					<div class="social-icon"><a href="https://twitter.com/JMLSAlumni" title="Twitter" target="_blank"><img class="social-icon-img" src="images/icon-twitter-color.svg" alt="Twitter"></a></div>
 					<div class="social-icon"><a href="http://www.linkedin.com/groups?gid=121368&trk=myg_ugrp_ovr" title="LinkedIn" target="_blank"><img class="social-icon-img" src="images/icon-linkedin-color.svg" alt="LinkedIn"></a></div>
 					<div class="social-icon"><a href="http://www.youtube.com/jmlschicago" title="YouTube" target="_blank"><img class="social-icon-img" src="images/icon-youtube-color.svg" alt="YouTube"></a></div>
 					<div class="social-icon"><a href="http://www.flickr.com/photos/43883549@N08/" title="Flickr" target="_blank"><img class="social-icon-img" src="images/icon-flickr-color.svg" alt="Flickr"></a></div>
 				</div>
-			</div>
+
+				<div class="hide-above-bp3 mar-bot-small-alt"></div>
+
+			</div> <!-- .grid-col -->
 		
 	</div><!-- .grid-wrap -->		
 

@@ -2587,3 +2587,18 @@ Load paths:
 2014-01-03 13:40:29 overwrite css/main.css 
 2014-01-03 13:40:40 overwrite css/main.css 
 2014-01-03 13:41:18 identical css/main.css 
+2014-01-03 13:43:34 overwrite css/main.css 
+2014-01-03 13:43:35     error sass/main.scss (Line 189 of sass/components/_modules.scss: Invalid CSS after "...acing: -4px;	} ": expected selector or at-rule, was "}")
+2014-01-03 13:43:35 overwrite css/main.css 
+2014-01-03 13:43:35     error sass/main.scss (Line 189 of sass/components/_modules.scss: Invalid CSS after "...acing: -4px;	} ": expected selector or at-rule, was "}")
+2014-01-03 13:43:35 identical css/main.css 
+2014-01-03 13:43:40 overwrite css/main.css 
+2014-01-03 13:43:57 identical css/main.css 
+2014-01-03 13:44:39 overwrite css/main.css 
+2014-01-03 13:44:43 overwrite css/main.css 
+2014-01-03 13:44:53 overwrite css/main.css 
+2014-01-03 13:45:01 overwrite css/main.css 
+2014-01-03 13:45:07 overwrite css/main.css 
+2014-01-03 13:45:23 identical css/main.css 
+2014-01-03 13:53:49 overwrite css/main.css 
+2014-01-03 13:54:07 identical css/main.css 
