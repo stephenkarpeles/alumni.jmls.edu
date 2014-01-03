@@ -1144,14 +1144,45 @@ h4 {
   background: #bb0000;
   color: white;
 }
+@media (min-width: 600px) {
+  /* line 138, ../sass/components/_modules.scss */
+  .action-bar {
+    padding: 8px 12px;
+    font-size: 1em;
+  }
+}
+@media (min-width: 800px) {
+  /* line 138, ../sass/components/_modules.scss */
+  .action-bar {
+    padding: 16px 20px;
+    font-size: 1.17em;
+  }
+}
 
-/* line 153, ../sass/components/_modules.scss */
+/* line 159, ../sass/components/_modules.scss */
 .action-bar-text {
   position: relative;
   z-index: 1000;
 }
 
-/* line 157, ../sass/components/_modules.scss */
+/* line 163, ../sass/components/_modules.scss */
+.action-bar-break {
+  display: none;
+}
+@media (min-width: 600px) {
+  /* line 163, ../sass/components/_modules.scss */
+  .action-bar-break {
+    display: inline;
+  }
+}
+@media (min-width: 800px) {
+  /* line 163, ../sass/components/_modules.scss */
+  .action-bar-break {
+    display: none;
+  }
+}
+
+/* line 170, ../sass/components/_modules.scss */
 .action-bar-icon {
   display: block;
   float: right;
@@ -1165,24 +1196,24 @@ h4 {
   opacity: .15;
 }
 
-/* line 171, ../sass/components/_modules.scss */
+/* line 184, ../sass/components/_modules.scss */
 .social {
   letter-spacing: -4px;
 }
 
-/* line 175, ../sass/components/_modules.scss */
+/* line 188, ../sass/components/_modules.scss */
 .social-sidebar {
   padding: 0 5px;
 }
 
-/* line 177, ../sass/components/_modules.scss */
+/* line 190, ../sass/components/_modules.scss */
 .social-icon {
   display: inline-block;
   zoom: 1;
   width: 20%;
 }
 
-/* line 182, ../sass/components/_modules.scss */
+/* line 195, ../sass/components/_modules.scss */
 .social-icon-img {
   position: relative;
   bottom: 0;
@@ -1196,12 +1227,12 @@ h4 {
   -o-transition: ease-in-out 0.15s;
   transition: ease-in-out 0.15s;
 }
-/* line 191, ../sass/components/_modules.scss */
+/* line 204, ../sass/components/_modules.scss */
 .social-icon-img:hover {
   bottom: 3px;
 }
 
-/* line 194, ../sass/components/_modules.scss */
+/* line 207, ../sass/components/_modules.scss */
 .social-icon-img-small {
   position: relative;
   bottom: 0;
@@ -1215,7 +1246,7 @@ h4 {
   -o-transition: ease-in-out 0.15s;
   transition: ease-in-out 0.15s;
 }
-/* line 203, ../sass/components/_modules.scss */
+/* line 216, ../sass/components/_modules.scss */
 .social-icon-img-small:hover {
   bottom: 3px;
 }
