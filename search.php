@@ -109,6 +109,9 @@
 				  .gsc-selected-option {
 				  	color: #333333;
 				  }
+				  .gsc-selected-option-container {
+						min-width: 65px;
+				  }
 				  .gsc-result-info {
 				  	padding-left: 0;
 				  }
