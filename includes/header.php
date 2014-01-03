@@ -61,7 +61,7 @@
 				<div class="top-nav">
 					<div class="search-toggle">
 						<form action="http://localhost/alumni.jmls.edu/search.php" method="get">
-							<input type="search" name="q" value="Search" placeholder="Search">
+							<input type="search" name="q" value="">
 						</form>
 					</div>
 					<nav class="nav-collapse">					
@@ -73,6 +73,11 @@
 							<a href=""><li>Contact Us</li></a>
 							<a href=""><li>Give Online</li></a>
 							<a href=""><li>JMLS Home</li></a>
+							<li class="hide-above-bp3">
+								<a href="">Login <span class="arrow">&#9654;</span></a> 
+								<a class="first-time-login" href="">First Time Login <span class="arrow">&#9654;</span></a>
+							</li>
+							
 						</ul>				
 					</nav><!-- .nav -->					
 				</div><!-- .top-nav -->

@@ -88,7 +88,7 @@
 				  }
 				  .gsc-branding-text, .gsc-branding-img {
 				  	display: none;
-				  }
+
 				  .gcsc-branding-text {
 						color: #666666;
 						margin-bottom: 10px;

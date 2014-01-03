@@ -9,6 +9,7 @@
 		height: 50px;	} }
 
 .nav-collapse {
+  clear: both;
 	font-weight: 700;
 	font-size: $font-size-main;
 	color: white;			
@@ -76,6 +77,9 @@ a.nav-toggle {
 .no-svg a.nav-toggle {
   background: url('../images/icon-menu.png') no-repeat 0 4px; }
 
+.first-time-login {
+  padding-left: 5px; }
+
 @media screen and (min-width: $bp3) {
   .js .nav-collapse {
     position: relative; }
@@ -138,7 +142,7 @@ a.nav-toggle {
   cursor: pointer; }
 
 .search-toggle input[type=search]:hover {
-  background-color: #bbb; }
+  background-color: #800000; }
 
 .search-toggle input[type=search]:focus {
   background: url('../images/icon-search-large-gray.svg') no-repeat 5px center;

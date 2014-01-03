@@ -2512,3 +2512,36 @@ Load paths:
 2014-01-02 14:58:41 overwrite css/main.css 
 2014-01-02 14:58:51 overwrite css/main.css 
 2014-01-02 14:58:57 overwrite css/main.css 
+2014-01-03 10:28:17     error sass/main.scss (Line 34 of sass/components/_helpers.scss: Undefined mixin 'breakpoint'.)
+2014-01-03 10:28:17 overwrite css/main.css 
+2014-01-03 10:28:36     error sass/main.scss (Line 34 of sass/components/_helpers.scss: Undefined mixin 'breakpoint'.)
+2014-01-03 10:28:36 identical css/main.css 
+2014-01-03 10:29:03 overwrite css/main.css 
+2014-01-03 10:29:05 identical css/main.css 
+2014-01-03 10:34:06 overwrite css/main.css 
+2014-01-03 10:34:15 overwrite css/main.css 
+2014-01-03 10:34:24 overwrite css/main.css 
+2014-01-03 10:34:34 overwrite css/main.css 
+2014-01-03 10:34:42 overwrite css/main.css 
+2014-01-03 10:34:52 overwrite css/main.css 
+2014-01-03 10:34:56 identical css/main.css 
+2014-01-03 10:35:12 overwrite css/main.css 
+2014-01-03 10:35:16 overwrite css/main.css 
+2014-01-03 10:35:33 overwrite css/main.css 
+2014-01-03 10:35:49 overwrite css/main.css 
+2014-01-03 10:35:56 overwrite css/main.css 
+2014-01-03 10:36:08 overwrite css/main.css 
+2014-01-03 10:36:23 overwrite css/main.css 
+2014-01-03 10:37:33 overwrite css/main.css 
+2014-01-03 10:37:42 overwrite css/main.css 
+2014-01-03 10:37:48 overwrite css/main.css 
+2014-01-03 10:38:30 identical css/main.css 
+2014-01-03 10:38:57 overwrite css/main.css 
+2014-01-03 10:39:05 overwrite css/main.css 
+2014-01-03 10:39:14 overwrite css/main.css 
+2014-01-03 10:39:58 overwrite css/main.css 
+2014-01-03 10:40:07 overwrite css/main.css 
+2014-01-03 10:40:18 overwrite css/main.css 
+2014-01-03 10:41:58 overwrite css/main.css 
+2014-01-03 10:42:20 identical css/main.css 
+2014-01-03 10:50:43 overwrite css/main.css 
