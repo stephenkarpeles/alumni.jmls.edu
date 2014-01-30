@@ -109,6 +109,8 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 							</div>
 						</div>
 
+						<hr class="hide-above-bp2 mar-top-zero mar-bot-zero">
+
 					</div>
 
 					<div class="grid-col bp2-col-1-2">

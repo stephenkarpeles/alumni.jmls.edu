@@ -17,9 +17,9 @@
 				<!-- Main -->			
 				<article class="main">				
 					<h1 class="page-header">Tips &amp; Tools</h1>
-					<p class="featured-text"><em>Intro copy needed</em></p>
+					<p class="featured-text">John Marshall is here to support you, just as when you were a student. Explore the alumni resources below, and if you don&rsquo;t see what you&rsquo;re looking for, let us know.</p>
 
-					<div class="highlight">
+					<div class="highlight mar-top-large">
 						<div class="highlight-wrap">
 							<div class="highlight-unit">
 								<a href="../tips-and-tools/resources.php"><img src="../images/resources.jpg" alt="JMLS Resources"></a>

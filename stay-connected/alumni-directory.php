@@ -17,9 +17,21 @@
 				<!-- Main -->			
 				<article class="main">				
 					<h1 class="page-header">Alumni Directory</h1>
-					<p class="featured-text"><em>Call to action paragraph coming. This will describe why anyone should bother to update their information.</em></p>
-					<p>Update your address and practice information, search for an old friend, or find a referral. When you sign in, you can choose how much information will be shared with other alumni.</p>
-					<p><a href="#" class="bold">Visit Your Personal Record Now</a> (<em>link coming</em>)</p>
+					<p class="featured-text">The Online Alumni Directory makes networking&mdash;and reconnecting with friends&mdash;easy.</p>
+
+					<p>Receive access to search a database of more than 17,000 worldwide alumni. The directory is a great tool to help you make connections with alumni living in your city, working in your field or a to find and receive referrals. It's also the place to update your information.</p> 
+
+					<p>Moved? New job? Share your new information with us.</p>
+
+					<p>All John Marshall alumni can update their alumni record in the directory.</p>
+
+					<p>Need help signing in? Email <a href="mailto:alumni@jmls.edu" class="bold">alumni@jmls.edu</a> for first time log in or log in troubles.</p> 
+
+					<div class="btn btn-medium btn-red bold mar-top-smaller">Login Now</div>
+
+					<div class="mar-bot-medium"></div>
+
+					<div class="btn btn-medium btn-red bold">First Time Login</div>
 					
 				</article><!-- .main -->
 				

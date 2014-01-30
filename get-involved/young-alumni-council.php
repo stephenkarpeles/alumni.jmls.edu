@@ -17,8 +17,9 @@
 				<!-- Main -->			
 				<article class="main">				
 					<h1 class="page-header">Young Alumni Council</h1>
-					<p class="featured-text"><em>Intro Call to Action Language Coming</em></p>
+					<p class="featured-text">Serve on the Young Alumni Council</p>
 					<p>The Young Alumni Council (YAC) is for graduates who have been out of school for 10 years or less. Meetings and social/networking events are scheduled throughout the year. Additionally, YAC members get exclusive invitations to various law school and legal community events unavailable to older alumni.</p>
+					<p>The YAC Executive Committee gives more recent alumni the opportunity to show leadership ability and keep the YAC active and engaged with the law school and legal community. These members are committed to upholding the mission of the YAC in hopes of developing both professional and personal alumni relationships, as well as furthering the legal education and professional development of every alumni member.</p>
 					<p><a href="" class="bold">Join the Young Alumni Council Today</a> (<em>email and subject line coming</em>)</p>
 
 					<div class="grid-wrap mar-top-large">
