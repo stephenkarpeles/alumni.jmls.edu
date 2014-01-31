@@ -213,10 +213,18 @@
 	position: relative;	
 	bottom: 0;
   left: 50%;
-  margin-top: 11px;
-  margin-left: -17px; // Half of width
-  width: 34px;
+  margin-top: 12px;
+  margin-left: -18px; // Half of width
+  width: 36px;
   max-width: 100%;  
   @include transition(ease-in-out .15s);
   &:hover {
-  	bottom: 3px; } }
+  	bottom: 3px; }
+  @include breakpoint(bp-tiny) {
+  	margin-top: 12px;
+    margin-left: -19px; // Half of width
+    width: 38px; }
+  @include breakpoint(bp3) {
+  	margin-top: 11px;
+    margin-left: -17px; // Half of width
+    width: 34px; } }

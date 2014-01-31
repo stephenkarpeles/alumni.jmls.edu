@@ -66,6 +66,7 @@
 					</div>
 					<nav class="nav-collapse">					
 						<ul>
+							<a class="hide-above-bp3" href="http://localhost/alumni.jmls.edu/"><li>Home</li></a>
 							<a href="http://localhost/alumni.jmls.edu/get-involved/"><li>Get Involved</li></a>
 							<a href="http://localhost/alumni.jmls.edu/stay-connected/"><li>Stay Connected</li></a>
 							<a href="http://localhost/alumni.jmls.edu/tips-and-tools/"><li>Tips &amp; Tools</li></a>
