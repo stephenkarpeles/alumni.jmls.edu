@@ -14,6 +14,9 @@
 		<div class="grid-wrap">								
 			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
+			  <!-- Breadcrumbs -->		
+				<?php include('../includes/breadcrumbs.php'); ?>	
+
 				<!-- Main -->			
 				<article class="main">				
 					<h1 class="page-header">John Marshall Resources for Alumni</h1>

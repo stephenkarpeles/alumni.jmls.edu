@@ -1,0 +1,15 @@
+.crumbs {
+	margin: 0 0 .8em;
+	padding: 0;	
+	font-size: $font-size-smaller;
+	font-style: italic; 
+  li {  	
+	  display: inline;
+	  list-style-type: none; } }
+
+li.crumb-item:last-child a {
+	cursor: text;
+	color: $text-color; }
+
+li.crumb-item:last-child .crumb-tail {
+	display: none; }

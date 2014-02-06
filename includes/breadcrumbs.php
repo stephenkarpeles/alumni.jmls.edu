@@ -2,10 +2,11 @@
 	echo "<ul class='crumbs'>";
 	/* get array containing each directory name in the path */
 	$parts = explode("/", ($_SERVER['REQUEST_URI']));
-	echo "<li><a href='http://localhost/alumni.jmls.edu/''>Home</a></li>";
 	foreach ($parts as $key => $dir) {
 	switch ($dir) {
-	case "about": $label = "About Us"; break;	
+	/* list any manual changes to breadcrumb text below */
+	case "alumni.jmls.edu": $label = "Home"; break;	
+	case "resources.php": $label = "JMLS Resources"; break;	
 	/* if not in the exception list above,
 	use the directory name, capitalized */
 	default: $label = ucwords(str_replace(array(".php","and","-"),array("","&amp;"," "),$dir)); break;
@@ -15,7 +16,7 @@
 	for ($i = 1; $i <= $key; $i++)
 	{ $url .= $parts[$i] . "/"; }
 	if ($dir != "")
-	echo "<li>> <a href='/$url'>$label</a></li>";
+	echo "<li class='crumb-item'> <a href='/$url'>$label <span class='crumb-tail'>&nbsp;&raquo;&nbsp;</span></a></li>";
 	}
 	echo "</ul>";
 ?>
