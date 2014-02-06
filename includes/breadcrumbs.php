@@ -6,6 +6,7 @@
 	switch ($dir) {
 	/* list any manual changes to breadcrumb text below */
 	case "alumni.jmls.edu": $label = "Home"; break;	
+	case "hall-of-distinction.php": $label = "Hall of Distinction"; break;	
 	case "resources.php": $label = "JMLS Resources"; break;	
 	/* if not in the exception list above,
 	use the directory name, capitalized */
