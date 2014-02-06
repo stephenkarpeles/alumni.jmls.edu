@@ -15,7 +15,11 @@
 			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
 				<!-- Main -->			
-				<article class="main">				
+				<article class="main">		
+
+				  <!-- Breadcrumbs -->		
+				  <?php include('../includes/breadcrumbs.php'); ?>
+
 					<h1 class="page-header">Tips &amp; Tools</h1>
 					<p class="featured-text">John Marshall is here to support you, just as when you were a student. Explore the alumni resources below, and if you don&rsquo;t see what you&rsquo;re looking for, let us know.</p>
 

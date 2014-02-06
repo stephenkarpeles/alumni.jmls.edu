@@ -15,7 +15,12 @@
 			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
 				<!-- Main -->			
-				<article class="main">				
+				<article class="main">
+
+				  <!-- Breadcrumbs -->		
+				  <?php $pagetitle = "JMLS Resources";
+				  include('../includes/breadcrumbs.php'); ?>		
+
 					<h1 class="page-header">John Marshall Resources for Alumni</h1>
 					<p class="featured-text">The following services and resources are available to John Marshall alumni while they&rsquo;re on campus.</p>
 					<h3>Free LexisNexis &amp; Westlaw Access</h3>
