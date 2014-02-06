@@ -15,7 +15,11 @@
 			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
 				<!-- Main -->			
-				<article class="main">				
+				<article class="main">	
+
+				  <!-- Breadcrumbs -->		
+				  <?php include('../includes/breadcrumbs.php'); ?>	
+				  			
 					<h1 class="page-header">Alumni Events</h1>
 					<p class="featured-text">Throughout the year, the Office of Alumni Relations hosts events tailored specifically to the professional needs of our alumni.</p>
 					<h3>CLE Programs</h3>

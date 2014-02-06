@@ -15,7 +15,11 @@
 			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
 				<!-- Main -->			
-				<article class="main">				
+				<article class="main">
+
+				  <!-- Breadcrumbs -->		
+				  <?php include('../includes/breadcrumbs.php'); ?>		
+				  		
 					<h1 class="page-header">Young Alumni Council</h1>
 					<p class="featured-text">Serve on the Young Alumni Council</p>
 					<p>The Young Alumni Council (YAC) is for graduates who have been out of school for 10 years or less. Meetings and social/networking events are scheduled throughout the year. Additionally, YAC members get exclusive invitations to various law school and legal community events unavailable to older alumni.</p>

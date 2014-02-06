@@ -18,8 +18,7 @@
 				<article class="main">
 
 				  <!-- Breadcrumbs -->		
-				  <?php $pagetitle = "JMLS Resources";
-				  include('../includes/breadcrumbs.php'); ?>		
+				  <?php include('../includes/breadcrumbs.php'); ?>		
 
 					<h1 class="page-header">John Marshall Resources for Alumni</h1>
 					<p class="featured-text">The following services and resources are available to John Marshall alumni while they&rsquo;re on campus.</p>

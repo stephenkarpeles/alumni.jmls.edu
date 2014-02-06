@@ -15,7 +15,11 @@
 			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
 				<!-- Main -->			
-				<article class="main">				
+				<article class="main">		
+
+					<!-- Breadcrumbs -->		
+				  <?php include('../includes/breadcrumbs.php'); ?>	
+				  			
 					<h1 class="page-header">Hall of Distinction</h1>
 					<p><em>Photos of the Hall of Distinction (coming)</em></p>
 					<p>John Marshall&rsquo;s Hall of Distinction showcases photos of John Marshall alumni who have either ascended to the bench or are elected to public office. If you qualify, please send us a 5&rdquo; x 7&rdquo; black-and-white photo of yourself. Photos are framed quarterly.</p>

@@ -15,7 +15,11 @@
 			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
 				<!-- Main -->			
-				<article class="main">				
+				<article class="main">	
+							
+				  <!-- Breadcrumbs -->		
+				  <?php include('../includes/breadcrumbs.php'); ?>	
+
 					<h1 class="page-header">Alumni Association</h1>
 					<p class="featured-text">As a John Marshall grad, you are automatically a member of the John Marshall Alumni Association. [More content coming to explain value of the Alumni Association.]</p>
 					<p>The Alumni Association is its own independent, 501(c)(3) organization, which works in close collaboration with the Office of Alumni Relations. The Alumni Association is governed by a board of directors who direct all alumni activities that are independent of John Marshall.</p>

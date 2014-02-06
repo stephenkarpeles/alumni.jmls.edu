@@ -15,7 +15,11 @@
 			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
 				<!-- Main -->			
-				<article class="main">				
+				<article class="main">	
+				
+					<!-- Breadcrumbs -->		
+				  <?php include('../includes/breadcrumbs.php'); ?>	
+
 					<h1 class="page-header">Alumni Directory</h1>
 					<p class="featured-text">The Online Alumni Directory makes networking&mdash;and reconnecting with friends&mdash;easy.</p>
 

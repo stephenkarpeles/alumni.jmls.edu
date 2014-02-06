@@ -16,6 +16,10 @@
 
 				<!-- Main -->			
 				<article class="main">				
+
+					<!-- Breadcrumbs -->		
+				  <?php include('../includes/breadcrumbs.php'); ?>	
+				  
 					<h1 class="page-header">Alumni News</h1>
 					<p class="featured-text">Who&rsquo;s running for office? Who got promoted? Stay current on alumni news. <em>More description coming</em>.</p>
 					<h3>BriefCase</h3>

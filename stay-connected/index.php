@@ -15,7 +15,11 @@
 			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
 				<!-- Main -->			
-				<article class="main">				
+				<article class="main">		
+
+					<!-- Breadcrumbs -->		
+				  <?php include('../includes/breadcrumbs.php'); ?>	
+				  		
 					<h1 class="page-header">Stay Connected</h1>
 					<p class="featured-text">Whether it&rsquo;s been 2 years or 50, we hope you&rsquo;ll use this page to stay informed about what&rsquo;s happening now at The John Marshall Law School. Explore these resources&mdash;some you&rsquo;ll remember, others will be brand new!
 					<p class="featured-text">Reconnect and recapture your life as a law student while discovering the John Marshall of today. We&rsquo;re glad you&rsquo;re back.</p>
