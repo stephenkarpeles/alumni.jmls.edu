@@ -32,7 +32,7 @@
 					<a class="bold" href="">Read the Alumni Association Bylaws<em>(Document coming)</em></a></p>
 
 					<div class="grid-wrap mar-top-large">
-						<div class="grid-col col-2-3">
+						<div class="grid-col bp2-col-1-2 bp3-col-2-3">
 							<h3 class="mar-top-zero">Alumni Association Meetings &amp; Events</h3>
 							<p><em>Paragraph about general scope of meetings coming</em></p>
 							<p><strong>Alumni Association Annual Meeting<br>
@@ -52,7 +52,7 @@
 							March 12, 2014<br>
 							June 5, 2014 (<em>Annual Meeting</em>)
 						</div>
-						<div class="grid-col col-1-3">
+						<div class="grid-col bp2-col-1-2 bp3-col-1-3">
 							<div class="header-bar header-bar-gray">Alumni Meetings</div>
 							<div class="feature-box-color feature-box-gray">
 								 <p>Aligned to the right of the Meetings &amp; Events overview.</p>
