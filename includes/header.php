@@ -1,4 +1,8 @@
-<!doctype html>
+<?php
+	$siteroot = "http://localhost/alumni.jmls.edu";
+?>
+
+<!DOCTYPE html>
 <html class="no-js">
 	<head>
 	  <meta charset="utf-8">
@@ -15,7 +19,7 @@
 	  <meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- Stylesheets -->
-		<link rel="stylesheet" href="http://localhost/alumni.jmls.edu/css/main.css" media="screen" type="text/css">
+		<link rel="stylesheet" href="<?php echo $siteroot ?>/css/main.css" media="screen" type="text/css">
 		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic,700italic" type="text/css">
 
 		<!-- HTML5 Shiv -->
@@ -25,10 +29,10 @@
 
 		<!-- Scripts -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script src="http://localhost/alumni.jmls.edu/js/modernizr.custom.min.js"></script>			
-		<script src="http://localhost/alumni.jmls.edu/js/responsiveslides.min.js"></script>
-		<script src="http://localhost/alumni.jmls.edu/js/responsive-nav.min.js"></script>
-		<script src="http://localhost/alumni.jmls.edu/js/respond.min.js"></script>						
+		<script src="<?php echo $siteroot ?>/js/modernizr.custom.min.js"></script>			
+		<script src="<?php echo $siteroot ?>/js/responsiveslides.min.js"></script>
+		<script src="<?php echo $siteroot ?>/js/responsive-nav.min.js"></script>
+		<script src="<?php echo $siteroot ?>/js/respond.min.js"></script>						
 
 	</head>
 	<body>
@@ -37,7 +41,7 @@
 
 			<header>
 
-				<a class="logo" href="http://localhost/alumni.jmls.edu"></a>
+				<a class="logo" href="<?php echo $siteroot ?>"></a>
 
 				<div class="utilities">
 					<ul class="horizontal login">
@@ -46,7 +50,7 @@
 					</ul>
 
 					<div class="search-wrap">
-						<form action="http://localhost/alumni.jmls.edu/search.php" method="get">
+						<form action="<?php echo $siteroot ?>/search.php" method="get">
             	<input type="text" class="search-bar" name="q" value="Search" onfocus="this.value==this.defaultValue?this.value='':null" /> 
             	<input class="search-submit" type="submit" value="Search" />
             </form>
@@ -60,20 +64,20 @@
 			<div class="container">
 				<div class="top-nav">
 					<div class="search-toggle">
-						<form action="http://localhost/alumni.jmls.edu/search.php" method="get">
+						<form action="<?php echo $siteroot ?>/search.php" method="get">
 							<input type="search" name="q" value="">
 						</form>
 					</div>
 					<nav class="nav-collapse">					
 						<ul>
-							<a class="hide-above-bp3" href="http://localhost/alumni.jmls.edu/"><li>Home</li></a>
-							<a href="http://localhost/alumni.jmls.edu/get-involved/"><li>Get Involved</li></a>
-							<a href="http://localhost/alumni.jmls.edu/stay-connected/"><li>Stay Connected</li></a>
-							<a href="http://localhost/alumni.jmls.edu/tips-and-tools/"><li>Tips &amp; Tools</li></a>
+							<a class="hide-above-bp3" href="<?php echo $siteroot ?>"><li>Home</li></a>
+							<a href="<?php echo $siteroot ?>/get-involved/"><li>Get Involved</li></a>
+							<a href="<?php echo $siteroot ?>/stay-connected/"><li>Stay Connected</li></a>
+							<a href="<?php echo $siteroot ?>/tips-and-tools/"><li>Tips &amp; Tools</li></a>
 							<a href=""><li>Support John Marshall</li></a>
 							<a href=""><li>Contact Us</li></a>
-							<a href=""><li>Give Online</li></a>
-							<a href=""><li>JMLS Home</li></a>
+							<a href="http://www.jmls.edu/give" target="_blank"><li>Give Online</li></a>
+							<a href="http://www.jmls.edu/"><li>JMLS Home</li></a>
 							<li class="hide-above-bp3">
 								<a href="">Login <span class="arrow">&#9654;</span></a> 
 								<a class="first-time-login" href="">First Time Login <span class="arrow">&#9654;</span></a>

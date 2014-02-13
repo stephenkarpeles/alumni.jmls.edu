@@ -27,7 +27,7 @@
 					<p><a href="" class="bold">Join the Young Alumni Council Today</a> (<em>email and subject line coming</em>)</p>
 
 					<div class="grid-wrap mar-top-large">
-						<div class="grid-col col-2-3">
+						<div class="grid-col bp2-col-1-2 bp3-col-2-3">
 							<h3 class="mar-top-zero mar-bot-small-alt">Executive Board Offices &amp; Committees</h3>
 							<p><strong>Office of the President</strong><br>
 							The YAC President is the primary contact between YAC members and the law school. Among other things, responsibilities include overseeing YAC meetings, setting agendas, and working closely with the executive board and committee chairs.</p>
@@ -43,7 +43,7 @@
 							The Professional Development Committee organizes professional networking events, such as the Eggs &amp; Issues for Solo and Small Practice Firms.</p>
 						</div>
 
-						<div class="grid-col col-1-3">
+						<div class="grid-col bp2-col-1-2 bp3-col-1-3">
 							<div class="header-bar header-bar-gray">2013-2014 Executive Board</div>
 							<div class="feature-box-color feature-box-gray">
 								 <p>Matt Campobasso (&rsquo;06)<br>
