@@ -37,9 +37,6 @@
 					<p><strong>Facilities and technology support</strong><br>
 					Library, computer services, upgraded classrooms, and capital improvements.</p>
 					
-						
-									
-
 				</article><!-- .main -->
 				
 			</div><!-- .grid-col -->			
