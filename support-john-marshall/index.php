@@ -46,11 +46,11 @@
 								<div class="highlight-header"><a href="http://www.jmls.edu/give" target="_blank">Give Now</a></div>	
 							</div>
 							<div class="highlight-unit">
-								<a href="giving-opportunities.php"><img src="http://placehold.it/218x132" alt="Giving Opportunities"></a>
+								<a href="giving-opportunities/"><img src="http://placehold.it/218x132" alt="Giving Opportunities"></a>
 								<div class="highlight-header"><a href="giving-opportunities.php">Giving Opportunities</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="planned-giving.php" target="_blank"><img src="http://placehold.it/218x132" alt="Planned Giving"></a>
+								<a href="planned-giving.php"><img src="http://placehold.it/218x132" alt="Planned Giving"></a>
 								<div class="highlight-header"><a href="planned-giving.php">Planned Giving</a></div>
 							</div>
 							<div class="highlight-unit">

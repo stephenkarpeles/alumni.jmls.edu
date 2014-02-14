@@ -7,7 +7,7 @@
 ?>
 
 <!-- Header -->
-<?php include('../includes/header.php'); ?>
+<?php include('../../includes/header.php'); ?>
 
 	<!-- Begin Content -->
 	<section>
@@ -18,7 +18,7 @@
 				<article class="main">
 
 				  <!-- Breadcrumbs -->		
-				  <?php include('../includes/breadcrumbs.php'); ?>		
+				  <?php include('../../includes/breadcrumbs.php'); ?>		
 				  		
 					<h1 class="page-header">Establishing a Named Endowment</h1>					
 					<p class="featured-text">Gifts to the endowment are critical because they provide the financial security of permanent funding that provides:</p>
@@ -40,15 +40,15 @@
 						
 			<div class="grid-col bp3-col-1-4">
 				<!-- Sidebar Wrap Top -->
-				<?php include('../includes/sidebar/sidebar-wrap-top.php'); ?>	
+				<?php include('../../includes/sidebar/sidebar-wrap-top.php'); ?>	
 				<!-- Menu -->
-				<?php include('../includes/menus/support-john-marshall.php'); ?>
+				<?php include('../../includes/menus/support-john-marshall.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
-				<?php include('../includes/sidebar/sidebar-wrap-bottom-deans.php'); ?>					
+				<?php include('../../includes/sidebar/sidebar-wrap-bottom-deans.php'); ?>					
 			</div><!-- .grid-col -->			
 
 		</div><!-- .grid-wrap -->	
 	</section>
 
 <!-- Footer -->
-<?php include('../includes/footer.php'); ?>	
+<?php include('../../includes/footer.php'); ?>	
