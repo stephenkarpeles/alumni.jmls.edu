@@ -10,6 +10,7 @@
 	case "resources.php": $label = "JMLS Resources"; break;	
 	case "establishing-a-named-endowment.php": $label = "Establishing a Named Endowment"; break;
 	case "contribute-to-an-academic-program.php": $label = "Contribute to an Academic Program"; break;
+	case "memorials-gifts-in-tribute.php": $label = "Memorials and Gifts in Tribute"; break;
 	/* if not in the exception list above,
 	use the directory name, capitalized */
 	default: $label = ucwords(str_replace(array(".php","and","-"),array("","&amp;"," "),$dir)); break;

@@ -887,6 +887,11 @@ h4 {
   padding-bottom: 0;
 }
 
+/* line 35, ../sass/components/_lists.scss */
+.list-spaced-small li {
+  padding: 1px 0;
+}
+
 /* line 1, ../sass/components/_breadcrumbs.scss */
 .crumbs {
   margin: 0 0 .8em;

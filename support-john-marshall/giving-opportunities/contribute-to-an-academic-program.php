@@ -30,7 +30,22 @@
 					<p>Your gift will allow expansion of these and other valuable programs, bringing leading scholars and practitioners to the law school to interact with our students. For example, in just the past two years, the school has added nine outstanding new faculty members to their academic programs resources.</p>
 					<p>To learn more about an individual academic program, please click on one of the programs listed below:</p>
 
-					<p>[CONTENT HERE]</p>
+					<div class="grid-wrap">
+						<div class="grid-col col-1-1">
+							<ul class="mar-top-zero mar-bot-medium list-spaced-small">
+								<li><a href="http://www.jmls.edu/academics/advocacy-dispute/" target="_blank"><strong>Center for Advocacy &amp; Dispute Reslolution</strong></a></li>
+								<li><a href="http://www.jmls.edu/academics/taxeb/" target="_blank"><strong>Center for Tax Law &amp; Employee Benefits</strong></a></li>
+								<li><a href="http://www.jmls.edu/academics/it-privacy/" target="_blank"><strong>Center for Information Technology &amp; Privacy Law</strong></a></li>
+								<li><a href="http://www.jmls.edu/academics/ip/" target="_blank"><strong>Center for Intellectual Property Law</strong></a></li>
+								<li><a href="http://www.jmls.edu/academics/international/" target="_blank"><strong>Center for International Law</strong></a></li>            		
+								<li><a href="http://www.jmls.edu/academics/realestate/" target="_blank"><strong>Center for Real Estate Law</strong></a></li>
+								<li><a href="http://chineseip.jmls.edu/sites/en/" target="_blank"><strong>China IP Study Program</strong></a></li>
+								<li><a href="http://www.jmls.edu/fairhousing/" target="_blank"><strong>Fair Housing Legal Support Center &amp; Clinic</strong></a></li>
+								<li><a href="http://www.jmls.edu/global/switzerland-lucerne.php" target="_blank"><strong>Switzerland Exchange Program</strong></a></li>
+								<li><a href="http://www.jmls.edu/veterans/" target="_blank"><strong>Veterans Legal Support Center &amp; Clinic</strong></a></li>
+           		</ul>
+						</div>
+					</div>
 
 					<p>If you have any questions, please contact a John Marshall Law School Foundation staff member by calling 312.360.2663 or email <a href="mailto:development@jmls.edu"><strong>development@jmls.edu</strong></a>.</p>
 

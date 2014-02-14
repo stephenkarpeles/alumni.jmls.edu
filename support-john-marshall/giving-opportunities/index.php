@@ -28,9 +28,9 @@
 					John Marshall is the steward and beneficiary of many endowments that support our students. Donors may choose to contribute to these established endowments.</p>
 					<p><strong><a href="contribute-to-an-academic-program.php">Contribute to an Academic Program or Center for Excellence</a></strong><br>
 					The John Marshall Law School has established many Academic Programs and Center for Excellence which are leaders in their respective fields. Making a gift to one of these programs or centers supports these initiatives.</p>
-					<p><strong><a href="#opp-4">Memorials and Gifts in Tribute</a></strong><br>
+					<p><strong><a href="memorials-gifts-in-tribute.php">Memorials and Gifts in Tribute</a></strong><br>
 					A memorial gift to The John Marshall law School is a thoughtful way to honor the memory of a friend, colleague or loved one, express sympathy, or provide a tribute for some other special occasion.</p>
-					<p><strong><a href="#opp-5">Graduating Class Gift</a></strong><br>
+					<p><strong><a href="graduating-class-gift.php">Graduating Class Gift</a></strong><br>
 					Each graduating class has the opportunity to make a meaningful donation as a Class Gift to The John Marshall Law School.</p>
 					<p><strong><a href="#opp-6">Outright Gifts</a></strong><br>
 					The simplest, most common means of giving to The John Marshall Law School is to make a gift of cash, securities or personal property.</p>
