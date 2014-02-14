@@ -23,21 +23,17 @@
 					<h1 class="page-header">Support John Marshall</h1>
 					<p class="featured-text">The Office of Development works to maximize the benefits that our students and the law school receive from charitable donations and provides greater fiscal accountability and stewardship to our donors. We exist to provide the highest level of service and financial support while maintaining fiscal integrity.</p>
 
-					<div class="grid-wrap">
-						<div class="grid-col col-1-3 bp2-col-1-4">
-							<img class="mar-top-smaller" src="http://placehold.it/250x300" alt="Dean John E. Corkery">
-						</div>
-						<div class="grid-col col-2-3 bp2-col-3-4">
-							<h2 class="mar-top-zero">A Message from Dean John E. Corkery</h2>
-							<p>&ldquo;I would like to take a moment to thank you for your support. There is so much good work being done here at The John Marshall Law School. All of our greatest achievements are made possible by the unwavering support of our most loyal benefactors&mdash;our alumni and friends. In order to ensure the best possible education for our students, we are focusing on enhancing our facilities, academic programs and scholarships. I invite you to continue to play an important role in our rich legacy of diversity, innovation, and opportunity by making a gift today. I write a check to the law school every year and I ask you to consider doing the same. Your help is critical in order for our school to continue to surpass expectations.</p>
-							<p>I want to thank you for your support of The John Marshall Law School, and for the many ways in which that support is expressed, from meeting and networking with students at school events, to mentoring them, to hiring them and through giving to our law school.&rdquo;</p>
-							<p>Best Regards,</p>
-							<p>John E. Corkery<br>
-							<em>Dean, The John Marshall Law School</em></p>
-						</div>
+					<div class="mar-top-large">
+						<img class="dean-thumb" src="http://placehold.it/250x300" alt="Dean John E. Corkery">					
+						<h2 class="mar-top-zero">A Message from Dean John E. Corkery</h2>
+						<p>&ldquo;I would like to take a moment to thank you for your support. There is so much good work being done here at The John Marshall Law School. All of our greatest achievements are made possible by the unwavering support of our most loyal benefactors&mdash;our alumni and friends. In order to ensure the best possible education for our students, we are focusing on enhancing our facilities, academic programs and scholarships. I invite you to continue to play an important role in our rich legacy of diversity, innovation, and opportunity by making a gift today. I write a check to the law school every year and I ask you to consider doing the same. Your help is critical in order for our school to continue to surpass expectations.</p>
+						<p>I want to thank you for your support of The John Marshall Law School, and for the many ways in which that support is expressed, from meeting and networking with students at school events, to mentoring them, to hiring them and through giving to our law school.&rdquo;</p>
+						<p>Best Regards,</p>
+						<p>John E. Corkery<br>
+						<em>Dean, The John Marshall Law School</em></p>
 					</div>
 
-					<hr>
+					<hr class="mar-top-medium">
 
 					<div class="highlight mar-top-large">
 						<div class="highlight-wrap">

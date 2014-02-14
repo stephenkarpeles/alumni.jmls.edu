@@ -2707,3 +2707,73 @@ Load paths:
 2014-02-14 10:51:59 overwrite css/main.css 
 2014-02-14 10:52:32 overwrite css/main.css 
 2014-02-14 10:52:49 overwrite css/main.css 
+2014-02-14 10:59:46 overwrite css/main.css 
+2014-02-14 11:00:29     error sass/main.scss (Line 14: File to import not found or unreadable: components/images.
+Load paths:
+  C:/wamp/www/alumni.jmls.edu/sass
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.1/vendor/assets/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/susy-1.0.5/sass
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.1.5/scss
+  Compass::SpriteImporter
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/vendor/assets/stylesheets)
+2014-02-14 11:00:29 overwrite css/main.css 
+2014-02-14 11:00:29     error sass/main.scss (Line 14: File to import not found or unreadable: components/images.
+Load paths:
+  C:/wamp/www/alumni.jmls.edu/sass
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.1/vendor/assets/stylesheets
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/susy-1.0.5/sass
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.1.5/scss
+  Compass::SpriteImporter
+  C:/Users/rkarpel/Downloads/Applications/compass.app.windows.v1.26/vendor/assets/stylesheets)
+2014-02-14 11:00:29 identical css/main.css 
+2014-02-14 11:00:35 overwrite css/main.css 
+2014-02-14 11:00:39 identical css/main.css 
+2014-02-14 11:00:53 identical css/main.css 
+2014-02-14 11:01:15 overwrite css/main.css 
+2014-02-14 11:01:20 overwrite css/main.css 
+2014-02-14 11:01:29 overwrite css/main.css 
+2014-02-14 11:01:35 overwrite css/main.css 
+2014-02-14 11:01:58 overwrite css/main.css 
+2014-02-14 11:02:02 overwrite css/main.css 
+2014-02-14 11:02:18 overwrite css/main.css 
+2014-02-14 11:02:25 overwrite css/main.css 
+2014-02-14 11:02:30 overwrite css/main.css 
+2014-02-14 11:02:37 overwrite css/main.css 
+2014-02-14 11:02:41 identical css/main.css 
+2014-02-14 11:02:47 overwrite css/main.css 
+2014-02-14 11:02:58 overwrite css/main.css 
+2014-02-14 11:03:09 overwrite css/main.css 
+2014-02-14 11:03:53 overwrite css/main.css 
+2014-02-14 11:04:12 overwrite css/main.css 
+2014-02-14 11:04:28 overwrite css/main.css 
+2014-02-14 11:04:40 overwrite css/main.css 
+2014-02-14 11:04:42 identical css/main.css 
+2014-02-14 11:04:54 overwrite css/main.css 
+2014-02-14 11:05:01 overwrite css/main.css 
+2014-02-14 11:05:30 overwrite css/main.css 
+2014-02-14 11:05:35 overwrite css/main.css 
+2014-02-14 11:05:42 overwrite css/main.css 
+2014-02-14 11:05:57 overwrite css/main.css 
+2014-02-14 11:06:32 overwrite css/main.css 
+2014-02-14 11:06:44 overwrite css/main.css 
+2014-02-14 11:07:37 overwrite css/main.css 
+2014-02-14 11:08:11 identical css/main.css 
+2014-02-14 11:08:13 overwrite css/main.css 
+2014-02-14 11:08:21 overwrite css/main.css 
+2014-02-14 11:08:34 overwrite css/main.css 
+2014-02-14 11:08:38 overwrite css/main.css 
+2014-02-14 11:08:48 overwrite css/main.css 
+2014-02-14 11:08:57 overwrite css/main.css 
+2014-02-14 11:29:00 overwrite css/main.css 
+2014-02-14 11:29:14 overwrite css/main.css 
+2014-02-14 11:29:47 identical css/main.css 
