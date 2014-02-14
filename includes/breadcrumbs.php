@@ -8,8 +8,7 @@
 	case "alumni.jmls.edu": $label = "Home"; break;	
 	case "hall-of-distinction.php": $label = "Hall of Distinction"; break;	
 	case "resources.php": $label = "JMLS Resources"; break;	
-	case "establishing-a-named-endowment.php": $label = "Establishing a Named Endowment"; break;	
-	case "existing-named-endowment.php": $label = "Contribute to an Existing Named Endowment"; break;	
+	case "establishing-a-named-endowment.php": $label = "Establishing a Named Endowment"; break;
 	/* if not in the exception list above,
 	use the directory name, capitalized */
 	default: $label = ucwords(str_replace(array(".php","and","-"),array("","&amp;"," "),$dir)); break;

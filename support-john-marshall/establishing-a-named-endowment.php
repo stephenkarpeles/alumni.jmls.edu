@@ -23,7 +23,7 @@
 					<h1 class="page-header">Establishing a Named Endowment</h1>					
 					<p class="featured-text">Gifts to the endowment are critical because they provide the financial security of permanent funding that provides:</p>
 					<p><strong>Student support</strong><br>
-					Academic and need-based scholarships, bar exam preparation</p>
+					Academic and need-based scholarships, bar exam preparation.</p>
 					<p><strong>Faculty support</strong><br>
 					Faculty recruitment and development, endowed chairs, research and travel grants.</p>
 					<p><strong>Program support</strong><br>
