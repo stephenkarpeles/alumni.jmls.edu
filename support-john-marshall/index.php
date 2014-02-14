@@ -68,9 +68,9 @@
 				<!-- Sidebar Wrap Top -->
 				<?php include('../includes/sidebar/sidebar-wrap-top.php'); ?>	
 				<!-- Menu -->
-				<?php include('../includes/menus/stay-connected.php'); ?>
+				<?php include('../includes/menus/support-john-marshall.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
-				<?php include('../includes/sidebar/sidebar-wrap-bottom.php'); ?>								
+				<?php include('../includes/sidebar/sidebar-wrap-bottom-deans.php'); ?>								
 			</div><!-- .grid-col -->			
 
 		</div><!-- .grid-wrap -->	
