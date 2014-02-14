@@ -36,7 +36,6 @@
 
 	</head>
 	<body>
-		<a name="top"></a>
 
 		<div class="container">
 
