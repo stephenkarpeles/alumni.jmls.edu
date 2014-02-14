@@ -26,7 +26,7 @@
 					<div class="highlight mar-top-large">
 						<div class="highlight-wrap">
 							<div class="highlight-unit">
-								<a href="../tips-and-tools/resources.php"><img src="../images/resources.jpg" alt="JMLS Resources"></a>
+								<a href="resources.php"><img src="../images/resources.jpg" alt="JMLS Resources"></a>
 								<div class="highlight-header"><a href="../tips-and-tools/resources.php">JMLS Resources</a></div>
 							</div>
 							<div class="highlight-unit">
@@ -34,7 +34,7 @@
 								<div class="highlight-header"><a href="http://www.jmls.edu/career-services/alumni/" target="_blank">Career Services Office</a></div>	
 							</div>
 							<div class="highlight-unit">
-								<a href="../tips-and-tools/alumni-benefits.php"><img src="../images/alumni-benefits.jpg" alt="Alumni Benefits"></a>
+								<a href="alumni-benefits.php"><img src="../images/alumni-benefits.jpg" alt="Alumni Benefits"></a>
 								<div class="highlight-header"><a href="../tips-and-tools/alumni-benefits.php">Alumni Benefits</a></div>
 							</div>
 							<div class="highlight-unit">

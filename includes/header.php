@@ -74,7 +74,7 @@
 							<a href="<?php echo $siteroot ?>/get-involved/"><li>Get Involved</li></a>
 							<a href="<?php echo $siteroot ?>/stay-connected/"><li>Stay Connected</li></a>
 							<a href="<?php echo $siteroot ?>/tips-and-tools/"><li>Tips &amp; Tools</li></a>
-							<a href=""><li>Support John Marshall</li></a>
+							<a href="<?php echo $siteroot ?>/support-john-marshall/"><li>Support John Marshall</li></a>
 							<a href=""><li>Contact Us</li></a>
 							<a href="http://www.jmls.edu/give" target="_blank"><li>Give Online</li></a>
 							<a href="http://www.jmls.edu/"><li>JMLS Home</li></a>
