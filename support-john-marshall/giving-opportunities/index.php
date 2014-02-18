@@ -21,9 +21,8 @@
 				  <?php include('../../includes/breadcrumbs.php'); ?>		
 				  		
 					<h1 class="page-header">Giving Opportunities</h1>
-					<p class="featured-text">The John Marshall Law School is fortunate to have a strong financial endowment, which sustains the institution. Strong as this endowment is, however, it must be perpetually grown and nurtured to ensure that the law school&rsquo;s potential for great achievement is never limited by a lack of resources.</p>
-					<p><strong><a href="establishing-a-named-endowment.php">Establishing a Named Endowment</a></strong><br>
-					Establishing a named endowment is an excellent way of helping to ensure that the law school&rsquo;s potential for providing excellence in legal education is not limited by a lack of resources.</p>
+					<p class="featured-text">The John Marshall Law School is fortunate to have a strong financial endowment, which sustains the institution. Strong as this endowment is, however, it must be perpetually grown and nurtured to ensure that the law school&rsquo;s potential for great achievement is never limited by a lack of resources.</p>  
+						
 					<p><strong><a href="existing-named-endowments.php">Contribute to an Existing Named Endowment</a></strong><br>
 					John Marshall is the steward and beneficiary of many endowments that support our students. Donors may choose to contribute to these established endowments.</p>
 					<p><strong><a href="contribute-to-an-academic-program.php">Contribute to an Academic Program or Center for Excellence</a></strong><br>

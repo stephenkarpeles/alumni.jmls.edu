@@ -11,3 +11,7 @@
 		margin: .35em 1.5em 1.5em 0; }
 	@include breakpoint(bp3) {
 		margin: .35em 1.75em 1.75em 0; } }
+
+.profile-thumb {
+	max-height: 198px;	
+	max-width: 100%; }
