@@ -72,6 +72,13 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 
 					<div class="grid-wrap mar-top-medium">
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
+							<img class="profile-thumb" src="images/prihoda-lauren.jpg" alt="Lauren Prihoda">
+							<div class="profile-name">Lauren Prihoda</div>
+							<div class="profile-title">Director, Annual Giving</div>
+							<a href="mailto:lprihoda@jmls.edu">lprihoda@jmls.edu</a><br>
+							312.386.2871
+						</div>
+						<div class="grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
 							<img class="profile-thumb" src="images/schaal-maridonna.jpg" alt="Maridonna Schaal">
 							<div class="profile-name">Maridonna Schaal</div>
 							<div class="profile-title">Director, Development Services</div>
@@ -84,13 +91,6 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							<div class="profile-title">Grants Administrator</div>
 							<a href="mailto:jhamill@jmls.edu">jhamill@jmls.edu</a><br>
 							312.427.2737 ext. 318
-						</div>
-						<div class="grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
-							<img class="profile-thumb" src="images/prihoda-lauren.jpg" alt="Lauren Prihoda">
-							<div class="profile-name">Lauren Prihoda</div>
-							<div class="profile-title">Director, Annual Giving</div>
-							<a href="mailto:lprihoda@jmls.edu">lprihoda@jmls.edu</a><br>
-							312.386.2871
 						</div>
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
 							<img class="profile-thumb" src="images/beach-chris.jpg" alt="Chris Beach">
