@@ -37,7 +37,7 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 						</div>
 					</div>
 
-					<h2 class="mar-top-small mar-bot-small">Development Staff</h2>
+					<h2 class="mar-top-small-alt mar-bot-small">Development Staff</h2>
 
 					<div class="grid-wrap">
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
