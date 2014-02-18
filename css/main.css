@@ -1351,15 +1351,15 @@ li.crumb-item:last-child .crumb-tail {
 /* line 19, ../sass/components/_theme.scss */
 .profile-name {
   margin-top: .5em;
-  font-size: 1.3em;
+  font-size: 1.25em;
   font-weight: 700;
   line-height: 1.15;
 }
 
 /* line 25, ../sass/components/_theme.scss */
 .profile-title {
-  margin-top: .25em;
-  margin-bottom: .5em;
+  margin-top: .2em;
+  margin-bottom: .4em;
   font-style: italic;
   line-height: 1.2;
 }

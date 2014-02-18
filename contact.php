@@ -20,6 +20,25 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 
 					<h2 class="mar-bot-small">Alumni Relations Staff</h2>
 
+					<div class="grid-wrap">
+						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
+							<img class="profile-thumb" src="http://placehold.it/145x198" alt="Sherri Dzik">
+							<div class="profile-name">Sherri Dzik</div>
+							<div class="profile-title">Director</div>
+							<a href="mailto:sdzikh@jmls.edu">sdzik@jmls.edu</a><br>
+							312.427.2737 ext. 343
+							</p>							
+						</div>
+						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
+							<img class="profile-thumb" src="http://placehold.it/145x198" alt="Matt Steward">
+							<div class="profile-name">Matt Steward</div>
+							<div class="profile-title">Assistant Director</div>
+							<a href="mailto:msteward@jmls.edu">msteward@jmls.edu</a><br>
+							312.427.2737 ext. 351
+							</p>
+						</div>
+					</div>
+
 					<h2 class="mar-bot-small">Development Staff</h2>
 
 					<div class="grid-wrap">
@@ -63,8 +82,7 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							<div class="profile-name">Maridonna Schaal</div>
 							<div class="profile-title">Director, Development Services</div>
 							<a href="mailto:mschaal@jmls.edu">mschaal@jmls.edu</a><br>
-							312.360.2663
-							</p>							
+							312.360.2663							
 						</div>
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
 							<img class="profile-thumb" src="images/hamill-judith.jpg" alt="Judith Hamill">
@@ -72,7 +90,6 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							<div class="profile-title">Grants Administrator</div>
 							<a href="mailto:jhamill@jmls.edu">jhamill@jmls.edu</a><br>
 							312.427.2737 ext. 318
-							</p>
 						</div>
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
 							<img class="profile-thumb" src="images/prihoda-lauren.jpg" alt="Lauren Prihoda">
@@ -80,7 +97,6 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							<div class="profile-title">Director, Annual Giving</div>
 							<a href="mailto:lprihoda@jmls.edu">lprihoda@jmls.edu</a><br>
 							312.386.2871
-							</p>
 						</div>
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
 							<img class="profile-thumb" src="images/beach-chris.jpg" alt="Chris Beach">
@@ -88,7 +104,6 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							<div class="profile-title">Research Analyst</div>
 							<a href="mailto:cbeach@jmls.edu">cbeach@jmls.edu</a><br>
 							312.427.2737 ext. 640
-							</p>
 						</div>
 					</div>
 					
