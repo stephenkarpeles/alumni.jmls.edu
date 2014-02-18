@@ -25,32 +25,32 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 					<div class="grid-wrap">
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
 							<img class="profile-thumb" src="images/veach-katherine.jpg" alt="Katherine Veach">
-							<h3 class="mar-top-smaller">Katherine Veach</h3>
-							<p><em>Executive Director</em><br>
+							<div class="profile-name">Katherine Veach</div>
+							<div class="profile-title">Executive Director</div>
 							<a href="mailto:kveach@jmls.edu">kveach@jmls.edu</a><br>
 							312.427.2737 ext. 133
 							</p>							
 						</div>
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
 							<img class="profile-thumb" src="images/beach-bill.jpg" alt="Bill Beach">
-							<h3 class="mar-top-smaller">Bill Beach</h3>
-							<p><em>Director, JMLS Fundraising Campaign</em><br>
+							<div class="profile-name">Bill Beach</div>
+							<div class="profile-title">Director, JMLS Fundraising Campaign</div>
 							<a href="mailto:bbeach@jmls.edu">bbeach@jmls.edu</a><br>
 							312.360.2663
 							</p>
 						</div>
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
 							<img class="profile-thumb" src="images/fagrelius-erik.jpg" alt="Erik Farelius">
-							<h3 class="mar-top-smaller">Erik Fagrelius</h3>
-							<p><em>Director, Research, Grants &amp; Development Assessments</em><br>
+							<div class="profile-name">Erik Fagrelius</div>
+							<div class="profile-title">Director, Research, Grants &amp; Development Assessments</div>
 							<a href="mailto:efagrelius@jmls.edu">efagrelius@jmls.edu</a><br>
 							312.386.2869
 							</p>
 						</div>
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
 							<img class="profile-thumb" src="images/melichar-ernie.jpg" alt="Ernie Melichar">
-							<h3 class="mar-top-smaller">Ernie Melichar</h3>
-							<p><em>Director, Planned Giving</em><br>
+							<div class="profile-name">Ernie Melichar</div>
+							<div class="profile-title">Director, Planned Giving</div>
 							<a href="mailto:emelichar@jmls.edu">emelichar@jmls.edu</a><br>
 							312.427.2737 ext. 365
 							</p>
@@ -59,35 +59,35 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 
 					<div class="grid-wrap mar-top-medium">
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
-							<img class="profile-thumb" src="images/veach-katherine.jpg" alt="Katherine Veach">
-							<h3 class="mar-top-smaller">Katherine Veach</h3>
-							<p><em>Executive Director</em><br>
-							<a href="mailto:kveach@jmls.edu">kveach@jmls.edu</a><br>
-							312.427.2737 ext. 133
+							<img class="profile-thumb" src="images/schaal-maridonna.jpg" alt="Maridonna Schaal">
+							<div class="profile-name">Maridonna Schaal</div>
+							<div class="profile-title">Director, Development Services</div>
+							<a href="mailto:mschaal@jmls.edu">mschaal@jmls.edu</a><br>
+							312.360.2663
 							</p>							
 						</div>
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
-							<img class="profile-thumb" src="images/beach-bill.jpg" alt="Bill Beach">
-							<h3 class="mar-top-smaller">Bill Beach</h3>
-							<p><em>Director, JMLS Fundraising Campaign</em><br>
-							<a href="mailto:bbeach@jmls.edu">bbeach@jmls.edu</a><br>
-							312.360.2663
+							<img class="profile-thumb" src="images/hamill-judith.jpg" alt="Judith Hamill">
+							<div class="profile-name">Judith Hamill</div>
+							<div class="profile-title">Grants Administrator</div>
+							<a href="mailto:jhamill@jmls.edu">jhamill@jmls.edu</a><br>
+							312.427.2737 ext. 318
 							</p>
 						</div>
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
-							<img class="profile-thumb" src="images/fagrelius-erik.jpg" alt="Erik Farelius">
-							<h3 class="mar-top-smaller">Erik Fagrelius</h3>
-							<p><em>Director, Research, Grants &amp; Development Assessments</em><br>
-							<a href="mailto:efagrelius@jmls.edu">efagrelius@jmls.edu</a><br>
-							312.386.2869
+							<img class="profile-thumb" src="images/prihoda-lauren.jpg" alt="Lauren Prihoda">
+							<div class="profile-name">Lauren Prihoda</div>
+							<div class="profile-title">Director, Annual Giving</div>
+							<a href="mailto:lprihoda@jmls.edu">lprihoda@jmls.edu</a><br>
+							312.386.2871
 							</p>
 						</div>
 						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
-							<img class="profile-thumb" src="images/melichar-ernie.jpg" alt="Ernie Melichar">
-							<h3 class="mar-top-smaller">Ernie Melichar</h3>
-							<p><em>Director, Planned Giving</em><br>
-							<a href="mailto:emelichar@jmls.edu">emelichar@jmls.edu</a><br>
-							312.427.2737 ext. 365
+							<img class="profile-thumb" src="images/beach-chris.jpg" alt="Chris Beach">
+							<div class="profile-name">Chris Beach</div>
+							<div class="profile-title">Research Analyst</div>
+							<a href="mailto:cbeach@jmls.edu">cbeach@jmls.edu</a><br>
+							312.427.2737 ext. 640
 							</p>
 						</div>
 					</div>

@@ -1344,8 +1344,24 @@ li.crumb-item:last-child .crumb-tail {
 
 /* line 15, ../sass/components/_theme.scss */
 .profile-thumb {
-  max-height: 198px;
+  height: 198px;
   max-width: 100%;
+}
+
+/* line 19, ../sass/components/_theme.scss */
+.profile-name {
+  margin-top: .5em;
+  font-size: 1.3em;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+/* line 25, ../sass/components/_theme.scss */
+.profile-title {
+  margin-top: .25em;
+  margin-bottom: .5em;
+  font-style: italic;
+  line-height: 1.2;
 }
 
 /* line 6, ../sass/partials/_base.scss */
