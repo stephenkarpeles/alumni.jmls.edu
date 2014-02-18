@@ -1342,7 +1342,18 @@ li.crumb-item:last-child .crumb-tail {
   }
 }
 
-/* line 17, ../sass/components/_theme.scss */
+/* line 15, ../sass/components/_theme.scss */
+.profile-box-bp2 {
+  clear: left;
+}
+@media (min-width: 600px) {
+  /* line 15, ../sass/components/_theme.scss */
+  .profile-box-bp2 {
+    clear: none;
+  }
+}
+
+/* line 20, ../sass/components/_theme.scss */
 .profile-name {
   margin-top: .5em;
   font-size: 1.25em;
@@ -1350,7 +1361,7 @@ li.crumb-item:last-child .crumb-tail {
   line-height: 1.15;
 }
 
-/* line 23, ../sass/components/_theme.scss */
+/* line 26, ../sass/components/_theme.scss */
 .profile-title {
   margin-top: .2em;
   margin-bottom: .4em;

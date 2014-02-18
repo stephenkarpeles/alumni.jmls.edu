@@ -12,7 +12,10 @@
 	@include breakpoint(bp3) {
 		margin: .35em 1.75em 1.75em 0; } }
 
-.profile-thumb { }
+.profile-box-bp2 { 
+	clear: left;
+	@include breakpoint(bp2) { 
+	  clear: none; } }
 
 .profile-name {
 	margin-top: .5em;

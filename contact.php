@@ -21,7 +21,7 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 					<h2 class="mar-top-small mar-bot-small">Alumni Relations Staff</h2>
 
 					<div class="grid-wrap">
-						<div class="grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
+						<div class="profile-box-bp2 grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
 							<img class="profile-thumb" src="http://placehold.it/145x198" alt="Sherri Dzik">
 							<div class="profile-name">Sherri Dzik</div>
 							<div class="profile-title">Director</div>
@@ -40,7 +40,7 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 					<h2 class="mar-top-small-alt mar-bot-small">Development Staff</h2>
 
 					<div class="grid-wrap">
-						<div class="grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
+						<div class="profile-box-bp2 grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
 							<img class="profile-thumb" src="images/veach-katherine.jpg" alt="Katherine Veach">
 							<div class="profile-name">Katherine Veach</div>
 							<div class="profile-title">Executive Director</div>
@@ -54,7 +54,7 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							<a href="mailto:bbeach@jmls.edu">bbeach@jmls.edu</a><br>
 							312.360.2663
 						</div>
-						<div class="grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
+						<div class="profile-box-bp2 grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
 							<img class="profile-thumb" src="images/fagrelius-erik.jpg" alt="Erik Farelius">
 							<div class="profile-name">Erik Fagrelius</div>
 							<div class="profile-title">Director, Research, Grants &amp; Development Assessments</div>
@@ -71,14 +71,7 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 					</div>
 
 					<div class="grid-wrap mar-top-medium">
-						<div class="grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
-							<img class="profile-thumb" src="images/prihoda-lauren.jpg" alt="Lauren Prihoda">
-							<div class="profile-name">Lauren Prihoda</div>
-							<div class="profile-title">Director, Annual Giving</div>
-							<a href="mailto:lprihoda@jmls.edu">lprihoda@jmls.edu</a><br>
-							312.386.2871
-						</div>
-						<div class="grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
+						<div class="profile-box-bp2 grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
 							<img class="profile-thumb" src="images/schaal-maridonna.jpg" alt="Maridonna Schaal">
 							<div class="profile-name">Maridonna Schaal</div>
 							<div class="profile-title">Director, Development Services</div>
@@ -92,7 +85,14 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							<a href="mailto:jhamill@jmls.edu">jhamill@jmls.edu</a><br>
 							312.427.2737 ext. 318
 						</div>
-						<div class="grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
+						<div class="profile-box-bp2 grid-col bp1-col-1-2 bp2-col-1-4 mar-bot-medium text-center">
+							<img class="profile-thumb" src="images/prihoda-lauren.jpg" alt="Lauren Prihoda">
+							<div class="profile-name">Lauren Prihoda</div>
+							<div class="profile-title">Director, Annual Giving</div>
+							<a href="mailto:lprihoda@jmls.edu">lprihoda@jmls.edu</a><br>
+							312.386.2871
+						</div>
+						<div class="grid-col bp1-col-1-2 bp2-col-1-4 text-center">
 							<img class="profile-thumb" src="images/beach-chris.jpg" alt="Chris Beach">
 							<div class="profile-name">Chris Beach</div>
 							<div class="profile-title">Research Analyst</div>
