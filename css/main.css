@@ -1342,13 +1342,7 @@ li.crumb-item:last-child .crumb-tail {
   }
 }
 
-/* line 15, ../sass/components/_theme.scss */
-.profile-thumb {
-  height: 198px;
-  max-width: 100%;
-}
-
-/* line 19, ../sass/components/_theme.scss */
+/* line 17, ../sass/components/_theme.scss */
 .profile-name {
   margin-top: .5em;
   font-size: 1.25em;
@@ -1356,7 +1350,7 @@ li.crumb-item:last-child .crumb-tail {
   line-height: 1.15;
 }
 
-/* line 25, ../sass/components/_theme.scss */
+/* line 23, ../sass/components/_theme.scss */
 .profile-title {
   margin-top: .2em;
   margin-bottom: .4em;
