@@ -7,7 +7,8 @@
 			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
 				<!-- Main -->			
-				<article class="main">				
+				<article class="main">	
+
 					<h1 class="page-header">Search</h1>
 
 					<!-- Google Custom Search -->

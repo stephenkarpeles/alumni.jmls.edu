@@ -14,7 +14,11 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 			<div class="grid-col bp3-col-3-4 pull-right-above-bp1">	
 
 				<!-- Main -->			
-				<article class="main">				
+				<article class="main">	
+
+				  <!-- Breadcrumbs -->		
+				  <?php include('includes/breadcrumbs.php'); ?>
+
 					<h1 class="page-header">Contact Us</h1>
 					<p class="featured-text">Some content will go here introducing the contact section, and perhaps some of the people below, or what the best way is for people to get in touch.</p>
 
@@ -100,7 +104,6 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							312.427.2737 ext. 640
 						</div>
 					</div>
-					
 
 				</article><!-- .main -->
 
