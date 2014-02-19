@@ -41,11 +41,11 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					</div>
 					
 					<div class="grid-col bp2-col-1-3 bp3-col-1-1">
-						<a href="stay-connected"><div class="action-bar"><span class="action-bar-text">Stay<span class="action-bar-break"><br></span> Connected</span><span class="action-bar-icon icon-globe"></span></div></a>
+						<a href="stay-connected/"><div class="action-bar"><span class="action-bar-text">Stay<span class="action-bar-break"><br></span> Connected</span><span class="action-bar-icon icon-globe"></span></div></a>
 					</div>
 
 					<div class="grid-col bp2-col-1-3 bp3-col-1-1">
-						<a href="#"><div class="action-bar"><span class="action-bar-text">Support<span class="action-bar-break"><br></span> John Marshall</span><span class="action-bar-icon icon-gift"></span></div></a>
+						<a href="support-john-marshall/"><div class="action-bar"><span class="action-bar-text">Support<span class="action-bar-break"><br></span> John Marshall</span><span class="action-bar-icon icon-gift"></span></div></a>
 					</div>
 
 				</div><!-- .grid-wrap -->
