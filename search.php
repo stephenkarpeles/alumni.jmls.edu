@@ -229,7 +229,7 @@
 				<!-- Sidebar Wrap Top -->
 				<?php include('includes/sidebar/sidebar-wrap-top.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
-				<?php include('includes/sidebar/sidebar-wrap-bottom.php'); ?>					
+				<?php include('includes/sidebar/sidebar-wrap-bottom-alt.php'); ?>					
 			</div><!-- .grid-col -->						
 
 		</div><!-- .grid-wrap -->	
