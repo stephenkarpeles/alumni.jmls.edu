@@ -38,23 +38,23 @@
 					<div class="highlight mar-top-large">
 						<div class="highlight-wrap">
 							<div class="highlight-unit">
-								<a href="why-give.php"><img src="http://placehold.it/218x132" alt="Why Give?"></a>
+								<a href="why-give.php"><img src="../images/students.jpg" alt="Why Give?"></a>
 								<div class="highlight-header"><a href="why-give.php">Why Give</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="http://www.jmls.edu/give" target="_blank"><img src="http://placehold.it/218x132" alt="Career Services Office"></a>
+								<a href="http://www.jmls.edu/give" target="_blank"><img src="../images/window.jpg" alt="Give Now"></a>
 								<div class="highlight-header"><a href="http://www.jmls.edu/give" target="_blank">Give Now</a></div>	
 							</div>
 							<div class="highlight-unit">
-								<a href="giving-opportunities/"><img src="http://placehold.it/218x132" alt="Giving Opportunities"></a>
+								<a href="giving-opportunities/"><img src="../images/jmls-building.jpg" alt="Giving Opportunities"></a>
 								<div class="highlight-header"><a href="giving-opportunities.php">Giving Opportunities</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="planned-giving.php"><img src="http://placehold.it/218x132" alt="Planned Giving"></a>
+								<a href="giving-opportunities/planned-giving.php"><img src="../images/schedule-pen.jpg" alt="Planned Giving"></a>
 								<div class="highlight-header"><a href="planned-giving.php">Planned Giving</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="faqs.php"><img src="http://placehold.it/218x132" alt="Frequently Asked Questions"></a>
+								<a href="faqs.php"><img src="../images/faq.jpg" alt="Frequently Asked Questions"></a>
 								<div class="highlight-header"><a href="faqs.php">Frequently Asked Questions</a></div>
 							</div>
 						</div>
