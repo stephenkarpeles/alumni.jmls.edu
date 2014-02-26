@@ -6,7 +6,7 @@
 			<li><a href="<?php echo $siteroot ?>/support-john-marshall/why-give.php">Why Give</a></li>
 			<li><a href="http://www.jmls.edu/give" target="_blank">Give Now</a></li>
 			<li><a href="<?php echo $siteroot ?>/support-john-marshall/giving-opportunities/">Giving Opportunities</a></li>
-			<li><a href="<?php echo $siteroot ?>/support-john-marshall/planned-giving.php">Planned Giving</a></li>
+			<li><a href="<?php echo $siteroot ?>/support-john-marshall/giving-opportunities/planned-giving.php">Planned Giving</a></li>
 			<li><a href="<?php echo $siteroot ?>/support-john-marshall/faqs.php">Frequently Asked Questions</a></li>
 		</ul>
 	</div>
