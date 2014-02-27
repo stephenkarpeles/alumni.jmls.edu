@@ -1401,7 +1401,7 @@ li.crumb-item:last-child .crumb-tail {
 .accordion-header {
   padding: 12px 15px;
   border-top: 1px solid #cacaca;
-  background: #f4f4f4;
+  background: whitesmoke;
   font-weight: 700;
   color: #aa0000;
   cursor: pointer;
