@@ -596,7 +596,7 @@ table {
   }
 }
 
-/* line 30, ../sass/components/_colors.scss */
+/* line 31, ../sass/components/_colors.scss */
 .red {
   color: #aa0000;
 }
@@ -1399,9 +1399,9 @@ li.crumb-item:last-child .crumb-tail {
 
 /* line 19, ../sass/components/_accordion.scss */
 .accordion-header {
-  padding: 11px 15px;
+  padding: 12px 15px;
   border-top: 1px solid #cacaca;
-  background: #f0f0f0;
+  background: #f4f4f4;
   font-weight: 700;
   color: #aa0000;
   cursor: pointer;
