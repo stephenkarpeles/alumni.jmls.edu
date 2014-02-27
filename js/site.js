@@ -3,3 +3,16 @@ if(!Modernizr.svg) {
     return $(this).attr('src').replace('.svg', '.png');
   });
 }
+
+// Accordion Script
+$('.accordion-expand').click(function() {
+  $('.accordion-content').removeClass('hide-accordion').addClass('show-accordion');
+});
+
+$('.accordion-collapse').click(function() {
+  $('.accordion-content').removeClass('show-accordion').addClass('hide-accordion');
+});
+
+$('.accordion-header').click(function() {
+  $(this).next().removeClass('hide-accordion').toggleClass('show-accordion');
+});

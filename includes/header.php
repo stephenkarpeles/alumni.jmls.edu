@@ -29,10 +29,10 @@
 
 		<!-- Scripts -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script src="<?php echo $siteroot ?>/js/modernizr.custom.min.js"></script>			
+		<script src="<?php echo $siteroot ?>/js/modernizr.custom.min.js"></script>				
 		<script src="<?php echo $siteroot ?>/js/responsiveslides.min.js"></script>
 		<script src="<?php echo $siteroot ?>/js/responsive-nav.min.js"></script>
-		<script src="<?php echo $siteroot ?>/js/respond.min.js"></script>						
+		<script src="<?php echo $siteroot ?>/js/respond.min.js"></script>	
 
 	</head>
 	<body>
