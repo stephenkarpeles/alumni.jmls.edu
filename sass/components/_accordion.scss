@@ -1,18 +1,23 @@
 .accordion {
 	border-bottom: 1px solid $lighter-gray; }
 
+.accordion-view {
+	margin-bottom: 20px;
+	font-size: $font-size-smaller; }
+
 .accordion-expand,
 .accordion-collapse {
+	color: $main-red;
   cursor: pointer; }
 
-ol.accordion-list {
+.accordion-list {
 	margin: 0;
 	padding: 0;
 	li {
 		margin-left: 20px; } } 
 
 .accordion-header {	
-  padding: 10px 15px;
+  padding: 11px 15px;
   border-top: 1px solid $lighter-gray; 
   background: $lightest-gray;  
   font-weight: 700;
@@ -25,7 +30,7 @@ ol.accordion-list {
  	float: left;
  	margin-right: 10px; }
 
-.accordion-headline {
+.accordion-header-text {
 	overflow: hidden; }
 
 .accordion-content { 

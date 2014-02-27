@@ -1374,60 +1374,67 @@ li.crumb-item:last-child .crumb-tail {
   border-bottom: 1px solid #cacaca;
 }
 
-/* line 5, ../sass/components/_accordion.scss */
+/* line 4, ../sass/components/_accordion.scss */
+.accordion-view {
+  margin-bottom: 20px;
+  font-size: 0.9em;
+}
+
+/* line 9, ../sass/components/_accordion.scss */
 .accordion-expand,
 .accordion-collapse {
+  color: #aa0000;
   cursor: pointer;
 }
 
-/* line 8, ../sass/components/_accordion.scss */
-ol.accordion-list {
+/* line 13, ../sass/components/_accordion.scss */
+.accordion-list {
   margin: 0;
   padding: 0;
 }
-/* line 11, ../sass/components/_accordion.scss */
-ol.accordion-list li {
+/* line 16, ../sass/components/_accordion.scss */
+.accordion-list li {
   margin-left: 20px;
 }
 
-/* line 14, ../sass/components/_accordion.scss */
+/* line 19, ../sass/components/_accordion.scss */
 .accordion-header {
-  padding: 10px 15px;
+  padding: 11px 15px;
   border-top: 1px solid #cacaca;
   background: #f0f0f0;
   font-weight: 700;
   color: #aa0000;
   cursor: pointer;
 }
-/* line 21, ../sass/components/_accordion.scss */
+/* line 26, ../sass/components/_accordion.scss */
 .accordion-header:hover {
   color: #333333;
 }
 
-/* line 24, ../sass/components/_accordion.scss */
+/* line 29, ../sass/components/_accordion.scss */
 .accordion-number {
   float: left;
   margin-right: 10px;
 }
 
-/* line 28, ../sass/components/_accordion.scss */
-.accordion-headline {
+/* line 33, ../sass/components/_accordion.scss */
+.accordion-header-text {
   overflow: hidden;
 }
 
-/* line 31, ../sass/components/_accordion.scss */
+/* line 36, ../sass/components/_accordion.scss */
 .accordion-content {
   display: none;
   padding: 20px 15px 10px;
   border-top: 1px solid #cacaca;
 }
 
-/* line 36, ../sass/components/_accordion.scss */
+/* line 41, ../sass/components/_accordion.scss */
 .show-accordion {
   display: block;
 }
 
-/* line 37, ../sass/components/_accordion.scss */
+/* line 42, ../sass/components/_accordion.scss */
 .hide-accordion {
   display: none;
 }
