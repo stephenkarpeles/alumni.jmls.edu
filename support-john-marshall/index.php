@@ -54,8 +54,8 @@
 								<div class="highlight-header"><a href="planned-giving.php">Planned Giving</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="faqs.php"><img src="../images/faq.jpg" alt="Frequently Asked Questions"></a>
-								<div class="highlight-header"><a href="faqs.php">Frequently Asked Questions</a></div>
+								<a href="faq.php"><img src="../images/faq.jpg" alt="Frequently Asked Questions"></a>
+								<div class="highlight-header"><a href="faq.php">Frequently Asked Questions</a></div>
 							</div>
 						</div>
 					</div>	

@@ -7,6 +7,7 @@
 	@include box-sizing(border-box); }
 
 body {
+  background: white;
 	font-family: $font-stack;
 	font-size: 100%;
 	color: $text-color; }

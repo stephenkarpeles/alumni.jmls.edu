@@ -1450,18 +1450,19 @@ li.crumb-item:last-child .crumb-tail {
 
 /* line 9, ../sass/partials/_base.scss */
 body {
+  background: white;
   font-family: "Source Sans Pro", "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
   font-size: 100%;
   color: #333333;
 }
 
-/* line 14, ../sass/partials/_base.scss */
+/* line 15, ../sass/partials/_base.scss */
 p {
   margin: 0 0 1.25em;
   line-height: 1.4;
 }
 
-/* line 18, ../sass/partials/_base.scss */
+/* line 19, ../sass/partials/_base.scss */
 a {
   color: #aa0000;
   text-decoration: none;
@@ -1471,17 +1472,17 @@ a {
   -o-transition: all ease-in-out 0.15s;
   transition: all ease-in-out 0.15s;
 }
-/* line 22, ../sass/partials/_base.scss */
+/* line 23, ../sass/partials/_base.scss */
 a:hover {
   color: #333333;
 }
 
-/* line 25, ../sass/partials/_base.scss */
+/* line 26, ../sass/partials/_base.scss */
 img {
   max-width: 100%;
 }
 
-/* line 28, ../sass/partials/_base.scss */
+/* line 29, ../sass/partials/_base.scss */
 hr {
   display: block;
   height: 1px;
@@ -2304,4 +2305,17 @@ footer li {
   margin-bottom: .5em;
   font-size: 1.1em;
   font-weight: 700;
+}
+
+/* line 22, ../sass/sections/_footer.scss */
+.top-link {
+  padding-bottom: 20px;
+  font-weight: 700;
+  font-size: 0.9em;
+}
+@media (min-width: 600px) {
+  /* line 22, ../sass/sections/_footer.scss */
+  .top-link {
+    display: none;
+  }
 }

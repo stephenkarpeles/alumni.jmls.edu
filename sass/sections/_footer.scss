@@ -18,3 +18,10 @@ footer {
 	margin-bottom: .5em;
 	font-size: $font-size-epsilon;
 	font-weight: 700; }
+
+.top-link {
+	padding-bottom: 20px;
+	font-weight: 700;
+	font-size: $font-size-smaller;
+	@include breakpoint(bp2) {
+		display: none; } }

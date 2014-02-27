@@ -2,6 +2,7 @@
 
 		<footer>
 			<div class="container">
+			
 				<div class="grid-wrap">
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
 						<div class="footer-headline">Get Involved</div>
@@ -44,6 +45,11 @@
 						</ul>
 					</div>
 				</div><!-- .grid-wrap -->
+
+				<div class="top-link">
+					<a href="#top">Back to Top <span class="top-link-arrow">&#9650;</span></a>
+				</div>
+
 			</div><!-- .container -->
 		</footer><!-- .footer -->
 
