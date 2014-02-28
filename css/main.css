@@ -1424,19 +1424,22 @@ li.crumb-item:last-child .crumb-tail {
 
 /* line 36, ../sass/components/_accordion.scss */
 .accordion-content {
-  display: none;
   padding: 20px 15px 10px;
   border-top: 1px solid #cacaca;
 }
 
-/* line 41, ../sass/components/_accordion.scss */
-.show-accordion {
-  display: block;
-}
-
-/* line 42, ../sass/components/_accordion.scss */
-.hide-accordion {
-  display: none;
+/* line 40, ../sass/components/_accordion.scss */
+.visually-hidden {
+  /* More accessible way to hide content. 
+     Read more here: http://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/ */
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
 }
 
 /* line 6, ../sass/partials/_base.scss */

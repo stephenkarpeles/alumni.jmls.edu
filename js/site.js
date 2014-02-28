@@ -7,13 +7,13 @@ if(!Modernizr.svg) {
 
 // Accordion Script
 $('.accordion-expand').click(function() {
-  $('.accordion-content').removeClass('hide-accordion').addClass('show-accordion');
+  $('.accordion-content').removeClass('visually-hidden');
 });
 
 $('.accordion-collapse').click(function() {
-  $('.accordion-content').removeClass('show-accordion').addClass('hide-accordion');
+  $('.accordion-content').addClass('visually-hidden');
 });
 
 $('.accordion-header').click(function() {
-  $(this).next().removeClass('hide-accordion').toggleClass('show-accordion');
+  $(this).next().toggleClass('visually-hidden');
 });

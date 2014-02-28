@@ -26,7 +26,7 @@
   &:hover {
   	color: $text-color;	} }
 
- .accordion-number {
+.accordion-number {
  	float: left;
  	margin-right: 10px; }
 
@@ -34,9 +34,14 @@
 	overflow: hidden; }
 
 .accordion-content { 
-  display: none;
   padding: 20px 15px 10px;
   border-top: 1px solid $lighter-gray; }
 
-.show-accordion { display: block; }
-.hide-accordion { display: none; }
+.visually-hidden { 
+/* More accessible way to hide content. 
+   Read more here: http://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/ */
+  position: absolute; 
+  overflow: hidden; 
+  clip: rect(0 0 0 0); 
+  height: 1px; width: 1px; 
+  margin: -1px; padding: 0; border: 0; }

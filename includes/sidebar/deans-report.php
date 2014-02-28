@@ -5,7 +5,7 @@
 			A blurb about the current issue and a short call to action perhaps.
 		</div>
 		<div class="feature-box-col feature-box-col-1-2 text-center">	
-			<a href="http://deansreport.jmls.edu/"><img class="mar-bot-smallest box-shadow-1" src="http://localhost/alumni.jmls.edu/images/deans-report-cover.jpg" alt="Annual Report of the Dean 2013"></a>													
+			<a href="http://deansreport.jmls.edu/"><img class="mar-bot-smallest box-shadow-1" src="<?php echo $siteroot ?>/images/deans-report-cover.jpg" alt="Annual Report of the Dean 2013"></a>													
 			<div>
 				<a href="#" class="btn btn-small btn-red bold">Read Issue</a>
 			</div>
