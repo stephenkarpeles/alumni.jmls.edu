@@ -1,9 +1,8 @@
 <!-- Meta Info -->
 <?php
 // Remove commented out marks before each line you wish to edit, and place content between quote marks.
-// $tpTitle="";
+$tpTitle="Outright Gifts | The John Marshall Law School - Office of Alumni Relations &amp; Development";
 // $pgDesc="";
-// $pgKeywords="";
 ?>
 
 <!-- Header -->

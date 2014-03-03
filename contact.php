@@ -1,8 +1,7 @@
 <!-- Meta content goes below. Write content between quote marks. -->
 <?php
-$tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
+$tpTitle="Contact Us | The John Marshall Law School - Office of Alumni Relations &amp; Development";
 // $pgDesc="";
-// $pgKeywords="";
 ?>
 
 <!-- Header -->

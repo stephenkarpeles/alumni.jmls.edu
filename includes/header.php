@@ -13,8 +13,6 @@
     else { echo 'The John Marshall Law School | Office of Alumni Relations &amp; Development '; } ?></title>
 		<meta name="description" content="<?php if(isset($pgDesc)) { echo $pgDesc; }
     else { echo ''; } ?>"></meta>
-		<meta name="keywords" content="<?php if(isset($pgKeywords)) { echo $pgKeywords; }
-    else { echo ''; } ?>"></meta>
 
 	  <meta name="viewport" content="width=device-width, initial-scale=1">
 
