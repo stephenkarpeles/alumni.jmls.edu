@@ -24,7 +24,7 @@ $tpTitle="Get Quoted | The John Marshall Law School - Office of Alumni Relations
 					<p>Complete the form below to add your name to the list. (<em>Form coming.</em>)</p>					
 
 					<div class="grid-wrap">
-						<div class="grid-col col-3-4">
+						<div class="grid-col bp3-col-3-4">
 						<div class="header-bar header-bar-gray">Form Name</div>
 							<div class="feature-box-color feature-box-gray">
 								<p>[Name]<br>

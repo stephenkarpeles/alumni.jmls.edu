@@ -4,11 +4,11 @@
 
    1.0 - Normalize.css
    2.0 - Base
-   3.0 - Layout
+   3.0 - Grid
+   4.0 - Layout
           - Header
           - Footer
-          - Navigation
-   4.0 - Grid
+          - Navigation   
    5.0 - Typography
    6.0 - Theme
           - Modules
@@ -414,9 +414,213 @@ hr {
   padding: 0;
 }
 
+/* ==========================================================================
+   3.0 - Grid
+   ========================================================================== */
+
+/* Setup grids with base class */
+.grid-wrap {
+  margin-left: -2em;
+  overflow: hidden;
+  clear: both;
+}
+
+.grid-col {
+  float: left;
+  padding-left: 2em;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.large-gutter           { margin-left: -4em; }
+.large-gutter .grid-col { padding-left: 4em; }
+.half-gutter            { margin-left: -1em; }
+.half-gutter .grid-col  { padding-left: 1em; }
+.no-gutter              { margin-left: 0; }
+.no-gutter .grid-col    { padding-left: 0; }
+.reset-gutter           { margin-left: -2em; }
+.reset-gutter .grid-col { padding-left: 2em; }
+
+ul.grid-wrap,
+ol.grid-wrap {
+  padding-left: 0;
+  list-style: none;
+}
+
+li.grid-col {
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
+.col-1-1,
+.col-set-1-1 .grid-col {
+  width: 100%;
+}
+
+.col-1-2,
+.col-set-1-2 .grid-col {
+  width: 50%;
+}
+
+.col-1-3,
+.col-set-1-3 .grid-col {
+  width: 33.333%;
+}
+
+.col-1-4,
+.col-set-1-4 .grid-col {
+  width: 25%;
+}
+
+.col-2-3 {
+  width: 66.666%;
+}
+
+.col-3-4 {
+  width: 75%;
+}
+
+/* --------------------------------------------------------------------------.
+   Breakpoint Tiny (.bp-tiny)
+   -------------------------------------------------------------------------- */
+
+@media only screen and (min-width: 360px) {
+  .bp-tiny-col-1-1,
+  .bp-tiny-col-set-1-1 .grid-col {
+    width: 100%;
+  }
+
+  .bp-tiny-col-1-2,
+  .bp-tiny-col-set-1-2 .grid-col {
+    width: 50%;
+  }
+
+  .bp-tiny-col-1-3,
+  .bp-tiny-col-set-1-3 .grid-col {
+    width: 33.333%;
+  }
+
+  .bp-tiny-col-1-4,
+  .bp-tiny-col-set-1-4 .grid-col {
+    width: 25%;
+  }
+
+  .bp-tiny-col-2-3 {
+    width: 66.666%;
+  }
+
+  .bp-tiny-col-3-4 {
+    width: 75%;
+  }
+}
+
+/* -------------------------------------------------------------------------- 
+   Breakpoint 1 (.bp1)
+   -------------------------------------------------------------------------- */
+
+@media only screen and (min-width: 480px) {
+  .bp1-col-1-1,
+  .bp1-col-set-1-1 .grid-col {
+    width: 100%;
+  }
+
+  .bp1-col-1-2,
+  .bp1-col-set-1-2 .grid-col {
+    width: 50%;
+  }
+
+  .bp1-col-1-3,
+  .bp1-col-set-1-3 .grid-col {
+    width: 33.333%;
+  }
+
+  .bp1-col-1-4,
+  .bp1-col-set-1-4 .grid-col {
+    width: 25%;
+  }
+
+  .bp1-col-2-3 {
+    width: 66.666%;
+  }
+
+  .bp1-col-3-4 {
+    width: 75%;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Breakpoint 2 (.bp2)
+   -------------------------------------------------------------------------- */
+
+@media only screen and (min-width: 600px) {
+  .bp2-col-1-1,
+  .bp2-col-set-1-1 .grid-col {
+    width: 100%;
+  }
+
+  .bp2-col-1-2,
+  .bp2-col-set-1-2 .grid-col {
+    width: 50%;
+  }
+
+  .bp2-col-1-3,
+  .bp2-col-set-1-3 .grid-col {
+    width: 33.333%;
+  }
+
+  .bp2-col-1-4,
+  .bp2-col-set-1-4 .grid-col {
+    width: 25%;
+  }
+
+  .bp2-col-2-3 {
+    width: 66.666%;
+  }
+
+  .bp2-col-3-4 {
+    width: 75%;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Breakpoint 3 (.bp3)
+   -------------------------------------------------------------------------- */
+
+@media only screen and (min-width: 800px) {
+  .bp3-col-1-1,
+  .bp3-col-set-1-1 .grid-col {
+    width: 100%;
+  }
+
+  .bp3-col-1-2,
+  .bp3-col-set-1-2 .grid-col {
+    width: 50%;
+  }
+
+  .bp3-col-1-3,
+  .bp3-col-set-1-3 .grid-col {
+    width: 33.333%;
+  }
+
+  .bp3-col-1-4,
+  .bp3-col-set-1-4 .grid-col {
+    width: 25%;
+  }
+
+  .bp3-col-2-3 {
+    width: 66.666%;
+  }
+
+  .bp3-col-3-4 {
+    width: 75%;
+  }
+}
+
 
 /* ==========================================================================
-   3.0 - Layout
+   4.0 - Layout
    ========================================================================== */
 
 .container {
@@ -828,211 +1032,6 @@ a.nav-toggle:hover, a.nav-toggle:active {
 
 .no-svg .search-toggle input[type=search]:focus {
   background: url("../images/icon-search-large-gray.png") no-repeat 5px center;
-}
-
-
-/* ==========================================================================
-   4.0 - Grid
-   ========================================================================== */
-
-/* Setup grids with base class */
-.grid-wrap {
-  margin-left: -2em;
-  overflow: hidden;
-  clear: both;
-}
-
-.grid-col {
-  float: left;
-  padding-left: 2em;
-  width: 100%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-.large-gutter           { margin-left: -4em; }
-.large-gutter .grid-col { padding-left: 4em; }
-.half-gutter            { margin-left: -1em; }
-.half-gutter .grid-col  { padding-left: 1em; }
-.no-gutter              { margin-left: 0; }
-.no-gutter .grid-col    { padding-left: 0; }
-.reset-gutter           { margin-left: -2em; }
-.reset-gutter .grid-col { padding-left: 2em; }
-
-ul.grid-wrap,
-ol.grid-wrap {
-  padding-left: 0;
-  list-style: none;
-}
-
-li.grid-col {
-  margin-left: 0;
-  margin-bottom: 0;
-}
-
-.col-1-1,
-.col-set-1-1 .grid-col {
-  width: 100%;
-}
-
-.col-1-2,
-.col-set-1-2 .grid-col {
-  width: 50%;
-}
-
-.col-1-3,
-.col-set-1-3 .grid-col {
-  width: 33.333%;
-}
-
-.col-1-4,
-.col-set-1-4 .grid-col {
-  width: 25%;
-}
-
-.col-2-3 {
-  width: 66.666%;
-}
-
-.col-3-4 {
-  width: 75%;
-}
-
-/* --------------------------------------------------------------------------.
-   Breakpoint Tiny (.bp-tiny)
-   -------------------------------------------------------------------------- */
-
-@media only screen and (min-width: 360px) {
-  .bp-tiny-col-1-1,
-  .bp-tiny-col-set-1-1 .grid-col {
-    width: 100%;
-  }
-
-  .bp-tiny-col-1-2,
-  .bp-tiny-col-set-1-2 .grid-col {
-    width: 50%;
-  }
-
-  .bp-tiny-col-1-3,
-  .bp-tiny-col-set-1-3 .grid-col {
-    width: 33.333%;
-  }
-
-  .bp-tiny-col-1-4,
-  .bp-tiny-col-set-1-4 .grid-col {
-    width: 25%;
-  }
-
-  .bp-tiny-col-2-3 {
-    width: 66.666%;
-  }
-
-  .bp-tiny-col-3-4 {
-    width: 75%;
-  }
-}
-
-/* -------------------------------------------------------------------------- 
-   Breakpoint 1 (.bp1)
-   -------------------------------------------------------------------------- */
-
-@media only screen and (min-width: 480px) {
-  .bp1-col-1-1,
-  .bp1-col-set-1-1 .grid-col {
-    width: 100%;
-  }
-
-  .bp1-col-1-2,
-  .bp1-col-set-1-2 .grid-col {
-    width: 50%;
-  }
-
-  .bp1-col-1-3,
-  .bp1-col-set-1-3 .grid-col {
-    width: 33.333%;
-  }
-
-  .bp1-col-1-4,
-  .bp1-col-set-1-4 .grid-col {
-    width: 25%;
-  }
-
-  .bp1-col-2-3 {
-    width: 66.666%;
-  }
-
-  .bp1-col-3-4 {
-    width: 75%;
-  }
-}
-
-/* --------------------------------------------------------------------------
-   Breakpoint 2 (.bp2)
-   -------------------------------------------------------------------------- */
-
-@media only screen and (min-width: 600px) {
-  .bp2-col-1-1,
-  .bp2-col-set-1-1 .grid-col {
-    width: 100%;
-  }
-
-  .bp2-col-1-2,
-  .bp2-col-set-1-2 .grid-col {
-    width: 50%;
-  }
-
-  .bp2-col-1-3,
-  .bp2-col-set-1-3 .grid-col {
-    width: 33.333%;
-  }
-
-  .bp2-col-1-4,
-  .bp2-col-set-1-4 .grid-col {
-    width: 25%;
-  }
-
-  .bp2-col-2-3 {
-    width: 66.666%;
-  }
-
-  .bp2-col-3-4 {
-    width: 75%;
-  }
-}
-
-/* --------------------------------------------------------------------------
-   Breakpoint 3 (.bp3)
-   -------------------------------------------------------------------------- */
-
-@media only screen and (min-width: 800px) {
-  .bp3-col-1-1,
-  .bp3-col-set-1-1 .grid-col {
-    width: 100%;
-  }
-
-  .bp3-col-1-2,
-  .bp3-col-set-1-2 .grid-col {
-    width: 50%;
-  }
-
-  .bp3-col-1-3,
-  .bp3-col-set-1-3 .grid-col {
-    width: 33.333%;
-  }
-
-  .bp3-col-1-4,
-  .bp3-col-set-1-4 .grid-col {
-    width: 25%;
-  }
-
-  .bp3-col-2-3 {
-    width: 66.666%;
-  }
-
-  .bp3-col-3-4 {
-    width: 75%;
-  }
 }
 
 
