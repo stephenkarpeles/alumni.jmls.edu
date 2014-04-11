@@ -572,8 +572,8 @@ header {
   width: 14px;
   margin-right: 10px;
   margin-top: 4px;
-  text-indent: -9999px;
   /* Push 'Search' text off screen */
+  text-indent: -9999px;  
   border: none;
   color: #555555;
 }
@@ -656,6 +656,7 @@ footer li {
     text-align: center;
   }
 }
+
 .nav-collapse ul {
   margin: 10px 0 0 0;
   padding: 0;
@@ -667,6 +668,7 @@ footer li {
     margin: 0;
   }
 }
+
 .nav-collapse li {
   width: 100%;
   display: block;
@@ -754,6 +756,7 @@ a.nav-toggle:hover, a.nav-toggle:active {
     display: none;
   }
 }
+
 .search-toggle {
   float: right;
   margin-top: -4px;
@@ -1265,6 +1268,7 @@ h4 {
   display: inline-block;
   vertical-align: top;
 }
+
 .feature-box-col:first-child {
   padding-right: 2%;
 }
@@ -1571,6 +1575,7 @@ h4 {
   -moz-box-shadow: #cacaca 2px 2px 0;
   box-shadow: #cacaca 2px 2px 0;
 }
+
 .btn-white:hover {
   color: #333333;
 }
@@ -1724,11 +1729,12 @@ li.crumb-item:last-child .crumb-tail {
 .accordion-header {
   padding: 12px 15px;
   border-top: 1px solid #cacaca;
-  background: whitesmoke;
+  background: #f5f5f5;
   font-weight: 700;
   color: #aa0000;
   cursor: pointer;
 }
+
 .accordion-header:hover {
   color: #333333;
 }
@@ -1956,6 +1962,10 @@ a.caption-link:hover, a.caption-link:active {
     display: none !important;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Helper Styles
+   -------------------------------------------------------------------------- */
 
 .red {
   color: #aa0000;
