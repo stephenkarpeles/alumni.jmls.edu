@@ -33,8 +33,8 @@ $tpTitle="Get Involved | The John Marshall Law School - Office of Alumni Relatio
 								<div class="highlight-header"><a href="alumni-events.php">Alumni Events</a></div>	
 							</div>
 							<div class="highlight-unit">
-								<a href="alumni-association.php"><img src="../images/alumni-association.png" alt="Alumni Association"></a>
-								<div class="highlight-header"><a href="alumni-association.php">Alumni Association</a></div>
+								<a href="alumni-association/"><img src="../images/alumni-association.png" alt="Alumni Association"></a>
+								<div class="highlight-header"><a href="alumni-association/">Alumni Association</a></div>
 							</div>
 							<div class="highlight-unit">
 								<a href="young-alumni-council.php"><img src="../images/young-alumni-council.jpg" alt="Young Alumni Council"></a>

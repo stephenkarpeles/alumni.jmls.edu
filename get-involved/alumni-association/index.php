@@ -6,7 +6,7 @@ $tpTitle="Alumni Association | The John Marshall Law School - Office of Alumni R
 ?>
 
 <!-- Header -->
-<?php include('../includes/header.php'); ?>
+<?php include('../../includes/header.php'); ?>
 
 	<!-- Begin Content -->
 	<section>
@@ -17,7 +17,7 @@ $tpTitle="Alumni Association | The John Marshall Law School - Office of Alumni R
 				<article class="main">	
 							
 				  <!-- Breadcrumbs -->		
-				  <?php include('../includes/breadcrumbs.php'); ?>	
+				  <?php include('../../includes/breadcrumbs.php'); ?>	
 
 					<h1 class="page-header">Alumni Association</h1>
 					<p class="featured-text">As a John Marshall grad, you are automatically a member of the John Marshall Alumni Association. [More content coming to explain value of the Alumni Association.]</p>
@@ -66,15 +66,15 @@ $tpTitle="Alumni Association | The John Marshall Law School - Office of Alumni R
 						
 			<div class="grid-col bp3-col-1-4">
 				<!-- Sidebar Wrap Top -->
-				<?php include('../includes/sidebar/sidebar-wrap-top.php'); ?>	
+				<?php include('../../includes/sidebar/sidebar-wrap-top.php'); ?>	
 				<!-- Menu -->
-				<?php include('../includes/menus/get-involved.php'); ?>
+				<?php include('../../includes/menus/get-involved.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
-				<?php include('../includes/sidebar/sidebar-wrap-bottom.php'); ?>					
+				<?php include('../../includes/sidebar/sidebar-wrap-bottom.php'); ?>					
 			</div><!-- .grid-col -->			
 
 		</div><!-- .grid-wrap -->	
 	</section>
 
 <!-- Footer -->
-<?php include('../includes/footer.php'); ?>	
+<?php include('../../includes/footer.php'); ?>	
