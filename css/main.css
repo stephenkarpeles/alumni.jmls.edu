@@ -1979,6 +1979,13 @@ footer li {
   font-weight: 700;
 }
 
+.footer-info {
+  margin-top: -.5em;
+  padding: 15px 0;
+  border-top: 1px solid #f0f0f0;
+  font-size: .85em;
+}
+
 .top-link {
   padding-bottom: 20px;
   font-weight: 700;

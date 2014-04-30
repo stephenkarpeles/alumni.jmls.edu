@@ -19,6 +19,12 @@ footer {
 	font-size: $font-size-epsilon;
 	font-weight: 700; }
 
+.footer-info {
+	margin-top: -.5em;
+	padding: 15px 0;
+	border-top: 1px solid $lightest-gray;
+	font-size: .85em; }
+
 .top-link {
 	padding-bottom: 20px;
 	font-weight: 700;

@@ -7,21 +7,21 @@
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
 						<div class="footer-headline">Get Involved</div>
 						<ul class="no-list-style">
-							<li><a href="">Young Alumni Council</a></li>
-							<li><a href="">Alumni Association</a></li>
-							<li><a href="">Mentoring Program</a></li>
-							<li><a href="">Alumni Meetings &amp; Events</a></li>
-							<li><a href="">Volunteer Opportunities</a></li>
+						  <li><a href="<?php echo $siteroot ?>/get-involved/volunteer-opportunities.php">Volunteer Opportunities</a></li>
+						  <li><a href="<?php echo $siteroot ?>/get-involved/alumni-events.php">Alumni Events</a></li>
+						  <li><a href="<?php echo $siteroot ?>/get-involved/alumni-association/">Alumni Association</a></li>
+							<li><a href="<?php echo $siteroot ?>/get-involved/young-alumni-council.php">Young Alumni Council</a></li>
+							<li><a href="<?php echo $siteroot ?>/get-involved/get-quoted.php">Get Quoted</a></li>							
 						</ul>
 					</div>
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
 						<div class="footer-headline">Stay Connected</div>
 						<ul class="no-list-style">
-							<li><a href="">Alumni Reunions</a></li>
-							<li><a href="">Alumni Directory</a></li>
-							<li><a href="">Alumni News</a></li>
-							<li><a href="">Social Media</a></li>
-							<li><a href="">Briefcase</a></li>
+							<li><a href="<?php echo $siteroot ?>/stay-connected/alumni-news.php">Alumni News</a></li>
+							<li><a href="http://www.jmls.edu/alumni-reunion/" target="_blank">Alumni Reunions</a></li>
+							<li><a href="<?php echo $siteroot ?>/">Alumni Directory</a></li>
+							<li><a href="<?php echo $siteroot ?>/stay-connected/hall-of-distinction.php">Hall of Distinction</a></li>
+							<li><a href="<?php echo $siteroot ?>/">Briefcase</a></li>
 						</ul>
 					</div>
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
@@ -45,6 +45,10 @@
 						</ul>
 					</div>
 				</div><!-- .grid-wrap -->
+
+				<div class="footer-info">
+					The John Marshall Law School&nbsp;&nbsp;/&nbsp;&nbsp;315 S Plymouth Ct., Chicago, IL 60604&nbsp;&nbsp;/&nbsp;&nbsp;321.427.2737&nbsp;&nbsp;/&nbsp;&nbsp;alumni@jmls.edu
+				</div>
 
 				<div class="top-link">
 					<a href="#top">Back to Top <span class="top-link-arrow">&#9650;</span></a>
