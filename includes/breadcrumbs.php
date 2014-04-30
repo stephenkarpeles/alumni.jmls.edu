@@ -7,6 +7,7 @@
 	/* list any manual changes to breadcrumb text below */
 	case "alumni.jmls.edu": $label = "Home"; break;	
 	case "hall-of-distinction.php": $label = "Hall of Distinction"; break;	
+	case "board-of-directors.php": $label = "Board of Directors"; break;	
 	case "resources.php": $label = "JMLS Resources"; break;	
 	case "establishing-a-named-endowment.php": $label = "Establishing a Named Endowment"; break;
 	case "contribute-to-an-academic-program.php": $label = "Contribute to an Academic Program"; break;

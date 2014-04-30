@@ -25,7 +25,7 @@ $tpTitle="Alumni Association | The John Marshall Law School - Office of Alumni R
 					<p>Board members pay annual dues and participate in approximately five meetings a year and plan events such as the Alumni Association&rsquo;s signature event, the Freedom Award and Distinguished Service Awards Luncheon. Board members are selected on an annual basis by other board members.</p>
 					<h3>Members, Officers &amp; Committees</h3>
 					<p>The Alumni Association is currently made up of 62 active and 13 emeriti members.<br>
-					<a href="http://alumni.jmls.edu/s/395/index.aspx?sid=395&gid=1&verbiagebuilder=1&pgid=480" class="bold">View a Full List of Board Members</a></p>
+					<a href="board-of-directors.php" class="bold">View a Full List of Board Members</a></p>
 					<h3>Alumni Association Bylaws</h3>
 					<p>All Alumni Association Board Members must adhere to the rules and regulations set forth in the bylaws.<br>
 					<a class="bold" href="">Read the Alumni Association Bylaws<em>(Document coming)</em></a></p>
