@@ -47,9 +47,7 @@
 				</div><!-- .grid-wrap -->
 
 				<div class="footer-info">
-					<ul class="footer-info-list">
 						&copy; <?php echo date("Y") ?> The John Marshall Law School<span class="footer-info-separator">&#9642;</span>315 S Plymouth Court, Chicago, IL 60604<span class="footer-info-separator">&#9642;</span>321.427.2737<span class="footer-info-separator">&#9642;</span><a href="mailto:alumni@jmls.edu">alumni@jmls.edu</a>
-					</ul>
 				</div>
 
 				<div class="top-link">

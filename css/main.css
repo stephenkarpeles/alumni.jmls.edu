@@ -1980,29 +1980,11 @@ footer li {
 }
 
 .footer-info {
+  font-weight: 300;
   margin-top: -.5em;
   padding: 15px 0;
-  border-top: 1px solid #c00000;
-  font-size: .85em;
-}
-
-.footer-info-list {
-  margin: 0;
-  padding: 0;
-}
-@media (min-width: 800px) {
-  .footer-info-list {
-    text-align: left;
-  }
-}
-.footer-info-list li {
-  list-style-type: none;
-}
-@media (min-width: 800px) {
-  .footer-info-list li {
-    display: inline;
-    padding: 0 3% 0 0;
-  }
+  border-top: 2px solid #b41714;
+  font-size: .9em;
 }
 
 .footer-info-separator {
