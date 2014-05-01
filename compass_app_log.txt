@@ -3059,3 +3059,54 @@ Load paths:
 2014-04-30 16:41:20 identical css/main.css 
 2014-04-30 16:42:29 overwrite css/main.css 
 2014-04-30 16:42:36 overwrite css/main.css 
+2014-05-01 10:20:00 overwrite css/main.css 
+2014-05-01 10:20:08 overwrite css/main.css 
+2014-05-01 10:20:31 overwrite css/main.css 
+2014-05-01 10:21:03 overwrite css/main.css 
+2014-05-01 10:21:16 overwrite css/main.css 
+2014-05-01 10:21:33 overwrite css/main.css 
+2014-05-01 10:25:37 overwrite css/main.css 
+2014-05-01 10:26:14 overwrite css/main.css 
+2014-05-01 10:26:31 overwrite css/main.css 
+2014-05-01 10:28:35 overwrite css/main.css 
+2014-05-01 10:31:29 overwrite css/main.css 
+2014-05-01 10:31:52 overwrite css/main.css 
+2014-05-01 10:32:52 identical css/main.css 
+2014-05-01 10:32:54 identical css/main.css 
+2014-05-01 10:33:34 identical css/main.css 
+2014-05-01 10:33:52 identical css/main.css 
+2014-05-01 10:34:11 identical css/main.css 
+2014-05-01 10:34:11 identical css/main.css 
+2014-05-01 10:34:12 identical css/main.css 
+2014-05-01 10:34:30     error sass/main.scss (Line 33 of sass/sections/_footer.scss: Invalid CSS after "...play: inline; }": expected selector or at-rule, was "}")
+2014-05-01 10:34:30 overwrite css/main.css 
+2014-05-01 10:34:30     error sass/main.scss (Line 33 of sass/sections/_footer.scss: Invalid CSS after "...play: inline; }": expected selector or at-rule, was "}")
+2014-05-01 10:34:30 identical css/main.css 
+2014-05-01 10:34:35 overwrite css/main.css 
+2014-05-01 10:34:40 identical css/main.css 
+2014-05-01 10:34:51 overwrite css/main.css 
+2014-05-01 10:34:54 identical css/main.css 
+2014-05-01 10:35:03 overwrite css/main.css 
+2014-05-01 10:35:11 overwrite css/main.css 
+2014-05-01 10:35:18 overwrite css/main.css 
+2014-05-01 10:35:24 overwrite css/main.css 
+2014-05-01 10:35:32 overwrite css/main.css 
+2014-05-01 10:35:59 overwrite css/main.css 
+2014-05-01 10:36:15 overwrite css/main.css 
+2014-05-01 10:36:22 overwrite css/main.css 
+2014-05-01 10:36:50 identical css/main.css 
+2014-05-01 10:38:45     error sass/main.scss (Line 43 of sass/sections/_footer.scss: Invalid CSS after "...play: none; } }": expected "}", was "")
+2014-05-01 10:38:45 overwrite css/main.css 
+2014-05-01 10:38:45     error sass/main.scss (Line 43 of sass/sections/_footer.scss: Invalid CSS after "...play: none; } }": expected "}", was "")
+2014-05-01 10:38:45 identical css/main.css 
+2014-05-01 10:38:50 overwrite css/main.css 
+2014-05-01 10:39:19 overwrite css/main.css 
+2014-05-01 10:39:36 overwrite css/main.css 
+2014-05-01 10:42:02 overwrite css/main.css 
+2014-05-01 10:42:05 identical css/main.css 
+2014-05-01 10:42:36 overwrite css/main.css 
+2014-05-01 10:43:01 overwrite css/main.css 
+2014-05-01 10:43:06 identical css/main.css 
+2014-05-01 10:43:26 overwrite css/main.css 
+2014-05-01 10:43:32 overwrite css/main.css 
+2014-05-01 10:43:51 overwrite css/main.css 

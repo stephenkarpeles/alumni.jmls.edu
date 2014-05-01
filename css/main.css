@@ -1982,8 +1982,36 @@ footer li {
 .footer-info {
   margin-top: -.5em;
   padding: 15px 0;
-  border-top: 1px solid #f0f0f0;
-  font-size: .85em;
+  border-top: 1px solid #900;
+  font-size: .9em;
+}
+
+.footer-info-list {
+  margin: 0;
+  padding: 0;
+}
+@media (min-width: 800px) {
+  .footer-info-list {
+    text-align: left;
+  }
+}
+.footer-info-list li {
+  list-style-type: none;
+}
+@media (min-width: 800px) {
+  .footer-info-list li {
+    display: inline;
+    padding: 0 3% 0 0;
+  }
+}
+
+.footer-info-separator {
+  display: none;
+}
+@media (min-width: 800px) {
+  .footer-info-separator {
+    display: inline;
+  }
 }
 
 .top-link {

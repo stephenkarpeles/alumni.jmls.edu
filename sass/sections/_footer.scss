@@ -22,8 +22,24 @@ footer {
 .footer-info {
 	margin-top: -.5em;
 	padding: 15px 0;
-	border-top: 1px solid $lightest-gray;
-	font-size: .85em; }
+	border-top: 1px solid #900;
+	font-size: .9em; }
+
+.footer-info-list {	
+	margin: 0;
+	padding: 0;	
+	@include breakpoint(bp3) {
+		text-align: left; }
+	li {		
+		list-style-type: none;
+		@include breakpoint(bp3) {
+			display: inline;
+			padding: 0 3% 0 0; } } }
+
+.footer-info-separator {
+	display: none; 
+	@include breakpoint(bp3) {
+		display: inline; } }
 
 .top-link {
 	padding-bottom: 20px;
