@@ -3186,3 +3186,28 @@ Load paths:
 2014-05-01 11:27:26 overwrite css/main.css 
 2014-05-01 11:27:38 overwrite css/main.css 
 2014-05-01 11:27:47 overwrite css/main.css 
+2014-05-01 11:35:21     error sass/main.scss (Line 32 of sass/sections/_footer.scss: Invalid CSS after "...ay: inline; } }": expected selector or at-rule, was "}")
+2014-05-01 11:35:21 overwrite css/main.css 
+2014-05-01 11:35:21     error sass/main.scss (Line 32 of sass/sections/_footer.scss: Invalid CSS after "...ay: inline; } }": expected selector or at-rule, was "}")
+2014-05-01 11:35:21 identical css/main.css 
+2014-05-01 11:35:26 overwrite css/main.css 
+2014-05-01 11:37:04 overwrite css/main.css 
+2014-05-01 11:37:10 overwrite css/main.css 
+2014-05-01 11:37:16 overwrite css/main.css 
+2014-05-01 11:37:42 overwrite css/main.css 
+2014-05-01 11:38:01 overwrite css/main.css 
+2014-05-01 11:38:16 overwrite css/main.css 
+2014-05-01 11:38:18 identical css/main.css 
+2014-05-01 11:38:18 identical css/main.css 
+2014-05-01 11:38:19 identical css/main.css 
+2014-05-01 11:39:17 overwrite css/main.css 
+2014-05-01 11:40:16 identical css/main.css 
+2014-05-01 11:40:27 identical css/main.css 
+2014-05-01 11:40:31 overwrite css/main.css 
+2014-05-01 11:40:33 identical css/main.css 
+2014-05-01 11:41:08 overwrite css/main.css 
+2014-05-01 11:41:20 overwrite css/main.css 
+2014-05-01 11:41:33 overwrite css/main.css 
+2014-05-01 11:42:54 overwrite css/main.css 
+2014-05-01 11:44:12 overwrite css/main.css 
+2014-05-01 11:44:21 overwrite css/main.css 

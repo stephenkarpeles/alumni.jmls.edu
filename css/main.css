@@ -1987,20 +1987,34 @@ footer li {
   font-size: .9em;
 }
 
+@media (min-width: 800px) {
+  .footer-info-item {
+    display: inline;
+  }
+}
+
 .footer-info-separator {
   display: none;
 }
 @media (min-width: 800px) {
   .footer-info-separator {
-    padding: 0 8px;
+    padding: 0 7px;
+    display: inline;
+  }
+}
+
+.footer-hidden-char {
+  display: none;
+}
+@media (min-width: 800px) {
+  .footer-hidden-char {
     display: inline;
   }
 }
 
 .top-link {
-  padding-bottom: 20px;
+  padding: 5px 0 20px 0;
   font-weight: 700;
-  font-size: 0.9em;
 }
 @media (min-width: 600px) {
   .top-link {

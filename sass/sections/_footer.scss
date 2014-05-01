@@ -24,17 +24,25 @@ footer {
 	margin-top: -.5em;
 	padding: 15px 0;
 	border-top: 2px solid #b41714;
-	font-size: .9em; }
+  font-size: .9em; } 
+
+.footer-info-item {
+	@include breakpoint(bp3) {
+		display: inline; } }
 
 .footer-info-separator {
 	display: none; 
 	@include breakpoint(bp3) {
-		padding: 0 8px;
+		padding: 0 7px;
+		display: inline; } }
+
+.footer-hidden-char {
+	display: none;
+	@include breakpoint(bp3) {
 		display: inline; } }
 
 .top-link {
-	padding-bottom: 20px;
+	padding: 5px 0 20px 0;
 	font-weight: 700;
-	font-size: $font-size-smaller;
 	@include breakpoint(bp2) {
 		display: none; } }

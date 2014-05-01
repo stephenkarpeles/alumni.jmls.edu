@@ -47,7 +47,21 @@
 				</div><!-- .grid-wrap -->
 
 				<div class="footer-info">
-						&copy; <?php echo date("Y") ?> The John Marshall Law School<span class="footer-info-separator">&#9642;</span>315 S Plymouth Court, Chicago, IL 60604<span class="footer-info-separator">&#9642;</span>321.427.2737<span class="footer-info-separator">&#9642;</span><a href="mailto:alumni@jmls.edu">alumni@jmls.edu</a>
+				  <div class="footer-info-item">
+						<span class="footer-hidden-char">&copy; <?php echo date("Y") ?>&nbsp;</span>The John Marshall Law School <span class="footer-info-separator">&#9642;</span>
+					</div>
+					<div class="footer-info-item">
+						315 S Plymouth Court<span class="footer-hidden-char">,</span> 
+						<div class="footer-info-item">
+							Chicago, IL 60604 <span class="footer-info-separator">&#9642;</span>
+						</div>
+					</div>
+					<div class="footer-info-item">
+						321.427.2737 <span class="footer-info-separator">&#9642;</span>
+					</div>
+					<div class="footer-info-item">
+						<a href="mailto:alumni@jmls.edu">alumni@jmls.edu</a>
+					</div>
 				</div>
 
 				<div class="top-link">
