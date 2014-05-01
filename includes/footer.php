@@ -25,23 +25,24 @@
 						</ul>
 					</div>
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
-						<div class="footer-headline">Support John Marshall</div>
+						<div class="footer-headline">Tips &amp; Tools</div>
 						<ul class="no-list-style">
-							<li><a href="">Giving to John Marshall</a></li>
-							<li><a href="">Honor Roll of Donors</a></li>
-							<li><a href="">Current Initiatives</a></li>
-							<li><a href="">Transformative Stories</a></li>
-							<li><a href="">Contact Us</a></li>
+							<li><a href="<?php echo $siteroot ?>/tips-and-tools/resources.php">JMLS Resources</a></li>
+							<li><a href="http://www.jmls.edu/career-services/alumni/" target="_blank">Career Services Office</a></li>
+							<li>
+							/tips-and-tools/alumni-benefits.php">Alumni Benefits</a></li>
+							<li><a href="http://www.jmls.edu/aap/" target="_blank">Alumni Advantage Program</a></li>
+							<li><a href="http://edegrees.jmls.edu/" target="_blank">Distance Education</a></li>
 						</ul>
 					</div>
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
-						<div class="footer-headline">Get In Touch</div>
+						<div class="footer-headline">Support John Marshall</div>
 						<ul class="no-list-style">
-							<li>The John Marshall Law School</li>
-							<li>315 S Plymouth Ct</li>
-							<li>Chicago, IL 60604</li>
-							<li>321.427.2737</li>
-							<li><a href="mailto:alumni@jmls.edu">alumni@jmls.edu</a></li>
+							<li><a href="<?php echo $siteroot ?>/support-john-marshall/why-give.php">Why Give</a></li>
+							<li><a href="http://www.jmls.edu/give" target="_blank">Give Now</a></li>
+							<li><a href="<?php echo $siteroot ?>/support-john-marshall/giving-opportunities/">Giving Opportunities</a></li>
+							<li><a href="<?php echo $siteroot ?>/support-john-marshall/giving-opportunities/planned-giving.php">Planned Giving</a></li>
+							<li><a href="<?php echo $siteroot ?>/support-john-marshall/faq.php">Frequently Asked Questions</a></li>
 						</ul>
 					</div>
 				</div><!-- .grid-wrap -->
