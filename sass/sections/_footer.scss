@@ -22,8 +22,8 @@ footer {
 .footer-info {
 	margin-top: -.5em;
 	padding: 15px 0;
-	border-top: 1px solid #900;
-	font-size: .9em; }
+	border-top: 1px solid #c00000;
+	font-size: .85em; }
 
 .footer-info-list {	
 	margin: 0;
@@ -39,6 +39,7 @@ footer {
 .footer-info-separator {
 	display: none; 
 	@include breakpoint(bp3) {
+		padding: 0 8px;
 		display: inline; } }
 
 .top-link {
