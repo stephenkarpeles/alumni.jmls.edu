@@ -1998,7 +1998,7 @@ footer li {
 }
 @media (min-width: 800px) {
   .footer-info-separator {
-    padding: 0 7px;
+    padding: 0 5px;
     display: inline;
   }
 }
@@ -2016,7 +2016,7 @@ footer li {
   padding: 5px 0 20px 0;
   font-weight: 700;
 }
-@media (min-width: 600px) {
+@media (min-width: 800px) {
   .top-link {
     display: none;
   }
