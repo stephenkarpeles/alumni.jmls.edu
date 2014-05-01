@@ -20,7 +20,7 @@ $tpTitle="Alumni Benefits | The John Marshall Law School - Office of Alumni Rela
 				<article class="main">				
 					<h1 class="page-header">Alumni Benefits</h1>
 					<h3>Club Quarters Hotel Discount</h3>
-					<p>The John Marshall Law School has a membership with Club Quarters hotel chain. This membership allows alumni and friends of John Marshall to reserve a room at any of the Club Quarters in the U.S. and in London for a substantially lower rate than other area hotels. Club Quarters is a full-service, member-only hotel. <a href="http://www.clubquarters.com/" class="bold">Visit their website</a> for more information. To enter their website or reserve a room, you must have a password. Our password is <strong>JOHN MARSHALL LAW SCHOOL</strong>. Please contact <a href="mailto:sdzik@jmls.edu" class="bold">Sherri Dzik</a> with any questions about the membership.</p>
+					<p>The John Marshall Law School has a membership with Club Quarters hotel chain. This membership allows alumni and friends of John Marshall to reserve a room at any of the Club Quarters in the U.S. and in London for a substantially lower rate than other area hotels. Club Quarters is a full-service, member-only hotel. <a href="http://www.clubquarters.com/" class="bold" target="_blank">Visit their website</a> for more information. To enter their website or reserve a room, you must have a password. Our password is <strong>JOHN MARSHALL LAW SCHOOL</strong>. Please contact <a href="mailto:sdzik@jmls.edu" class="bold">Sherri Dzik</a> with any questions about the membership.</p>
 				</article><!-- .main -->
 				
 			</div><!-- .grid-col -->			
