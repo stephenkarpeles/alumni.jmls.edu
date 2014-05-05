@@ -43,19 +43,16 @@ $tpTitle="Alumni Association | The John Marshall Law School - Office of Alumni R
 							<p>
 								<a href="" class="bold">Download a Nominating Form and Instructions (PDF)</a><br>
 								<a href="" class="bold">View Last Year&rsquo;s Freedom Award Details (PDF coming)</a>
-							</p>
-							<h3>2013-2014 Alumni Board Meetings</h3>
-							October 3, 2013<br>
-							November 6, 2013<br>
-							January 8, 2014<br>
-							March 12, 2014<br>
-							June 5, 2014 (<em>Annual Meeting</em>)
+							</p>							
 						</div>
 						<div class="grid-col bp2-col-1-2 bp3-col-1-3">
-							<div class="header-bar header-bar-gray">Alumni Meetings</div>
+							<div class="header-bar header-bar-gray">2013-2014 Alumni Board Meetings</div>
 							<div class="feature-box-color feature-box-gray">
-								 <p>Aligned to the right of the Meetings &amp; Events overview.</p>
-								 <p>More content can be placed here, and talk about other things and so on.</p>
+								<p>October 3, 2013<br>
+								November 6, 2013<br>
+								January 8, 2014<br>
+								March 12, 2014<br>
+								June 5, 2014 (<em>Annual Meeting</em>)</p>
 							</div>
 						</div>
 					</div><!-- .grid-wrap -->					
