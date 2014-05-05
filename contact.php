@@ -1,7 +1,8 @@
 <!-- Meta content goes below. Write content between quote marks. -->
 <?php
-$tpTitle="Contact Us | The John Marshall Law School - Office of Alumni Relations &amp; Development";
+$tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 // $pgDesc="";
+// $pgKeywords="";
 ?>
 
 <!-- Header -->
@@ -24,6 +25,13 @@ $tpTitle="Contact Us | The John Marshall Law School - Office of Alumni Relations
 					<h2 class="mar-top-small mar-bot-medium">Alumni Relations &amp; Development Staff</h2>
 
 					<div class="grid-wrap">
+					  <div class="grid-col bp1-col-1-3 mar-bot-large text-center">
+							<img class="profile-thumb" src="images/beach-bill.jpg" alt="Bill Beach">
+							<div class="profile-name">Bill Beach</div>
+							<div class="profile-title">Director, JMLS Fundraising Campaign</div>
+							<a href="mailto:bbeach@jmls.edu">bbeach@jmls.edu</a><br>
+							312.360.2663
+						</div>
 						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
 							<img class="profile-thumb" src="images/veach-katherine.jpg" alt="Katherine Veach">
 							<div class="profile-name">Katherine Veach</div>
@@ -32,16 +40,9 @@ $tpTitle="Contact Us | The John Marshall Law School - Office of Alumni Relations
 							312.427.2737 ext. 133							
 						</div>
 						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
-							<img class="profile-thumb" src="images/beach-bill.jpg" alt="Bill Beach">
-							<div class="profile-name">Bill Beach</div>
-							<div class="profile-title">Director, JMLS Fundraising Campaign</div>
-							<a href="mailto:bbeach@jmls.edu">bbeach@jmls.edu</a><br>
-							312.360.2663
-						</div>
-						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
 							<img class="profile-thumb" src="http://placehold.it/145x198" alt="Sherri Dzik">
 							<div class="profile-name">Sherri Dzik</div>
-							<div class="profile-title">Director</div>
+							<div class="profile-title">Director, Alumni Relations</div>
 							<a href="mailto:sdzikh@jmls.edu">sdzik@jmls.edu</a><br>
 							312.427.2737 ext. 343							
 						</div>						
@@ -74,7 +75,7 @@ $tpTitle="Contact Us | The John Marshall Law School - Office of Alumni Relations
 						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
 							<img class="profile-thumb" src="http://placehold.it/145x198" alt="Matt Steward">
 							<div class="profile-name">Matt Steward</div>
-							<div class="profile-title">Assistant Director</div>
+							<div class="profile-title">Assistant Director, Alumni Relations</div>
 							<a href="mailto:msteward@jmls.edu">msteward@jmls.edu</a><br>
 							312.427.2737 ext. 351
 						</div>
