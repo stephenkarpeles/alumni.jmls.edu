@@ -21,7 +21,7 @@ $tpTitle="Get Quoted | The John Marshall Law School - Office of Alumni Relations
 				  		
 					<h1 class="page-header">Get Quoted</h1>
 					<p class="featured-text">Join our bench of legal experts. Members of the media often contact John Marshall&rsquo;s Office of Public Affairs seeking an expert to comment on a current issue. These topics and areas of law range from intellectual property law to taxation, human rights to constitutional law.</p>
-					<p>Complete the form below to add your name to the list. (<em>Form coming.</em>)</p>					
+					<p><strong>Complete the form below to add your name to the list.</strong> (<em>Form coming.</em>)</p>					
 
 					<div class="grid-wrap">
 						<div class="grid-col bp3-col-3-4">
@@ -33,7 +33,7 @@ $tpTitle="Get Quoted | The John Marshall Law School - Office of Alumni Relations
 								[Company]<br>
 								[Email]<br>
 								[Dropdown with Areas of Law] (List of areas coming)<br>
-								Recipient: ckraly@jmls.edu</p>
+								Recipients: ckraly@jmls.edu, sdzik@jmls.edu</p>
 							</div>
 						</div>
 					</div>

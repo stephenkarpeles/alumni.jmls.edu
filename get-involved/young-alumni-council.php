@@ -53,7 +53,7 @@ $tpTitle="Young Alumni Council | The John Marshall Law School - Office of Alumni
 								 <em>Secretary</em></p>
 								 <p>Lauren Tobiason (&rsquo;08)<br>
 								 <em>Chair, Social Committee</em></p>
-								 <p>Stephanie Greenberg (’&rsquo;10)<br>
+								 <p>Stephanie Greenberg (&rsquo;10)<br>
 								 <em>Chair, Philanthropy Committee</em></p>
 								 <p>Nicole Renchen (&rsquo;10)<br>
 								 <em>Chair, Professional Development Committee</em></p>
