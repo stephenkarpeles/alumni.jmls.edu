@@ -32,7 +32,11 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 					<h3>John Marshall News</h3>
 					<p><em>News feed from news.jmls.edu, ideally embedded like on the JMLS homepage with a link to the site for more headlines.</em></p>
 					<h3>Photo Gallery</h3>
-					<p><em>Embed alumni Flickr gallery (http://www.flickr.com/photos/43883549@N08/sets/)</em></p>
+					<p>
+
+          	<object width="500" height="375"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F43883549%40N08%2Fshow%2F&page_show_back_url=%2Fphotos%2F43883549%40N08%2F&user_id=43883549@N08&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F43883549%40N08%2Fshow%2F&page_show_back_url=%2Fphotos%2F43883549%40N08%2F&user_id=43883549@N08&jump_to=" width="500" height="375"></embed></object>
+
+					</p>
 					
 				</article><!-- .main -->
 				
