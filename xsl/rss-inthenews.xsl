@@ -5,7 +5,7 @@
 <xsl:for-each select="//*[local-name()='item']">
 
 <!-- The last number sets how many articles to bring in.-->
-<xsl:if test="position() &lt; 4">
+<xsl:if test="position() &lt; 5">
 
 	<!-- News Item -->
 	<div class="media-box">
@@ -33,7 +33,6 @@
 
 					</xsl:choose>	
 				</a>
-				<p class="subtext"><xsl:value-of select="*[local-name()='pubDate']"/></p>
 			</div>
 		</div>
 	</div>
