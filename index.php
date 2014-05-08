@@ -226,7 +226,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 
 					<div class="module">				
 
-						<!-- News Item -->
+						<!-- News Item 
 						<div class="media-box">
 							<div class="media">							
 								<div class="media-content">
@@ -236,7 +236,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 							</div>
 						</div>
 
-						<!-- News Item -->
+						<!-- News Item 
 						<div class="media-box">
 							<div class="media">							
 								<div class="media-content">
@@ -246,7 +246,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 							</div>
 						</div>
 
-						<!-- News Item -->
+						<!-- News Item 
 						<div class="media-box">
 							<div class="media">							
 								<div class="media-content">
@@ -255,6 +255,10 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 								</div>
 							</div>
 						</div>
+
+						-->
+
+						<?php include('includes/getrss-wpinthenews.php'); ?>
 
 						<p class="subtext bold italic"><a href="">View all news &raquo;</a></p>
 
