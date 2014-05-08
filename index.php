@@ -224,45 +224,12 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<span class="bold">Latest News</span>
 					</div>	
 
-					<div class="module">				
-
-						<!-- News Item 
-						<div class="media-box">
-							<div class="media">							
-								<div class="media-content">
-									<a class="bold" href="">Students and Faculty Come Together to Celebrate a Lifetime of Achievement</a>
-									<div class="subtext">March 19, 2014</div>
-								</div>
-							</div>
-						</div>
-
-						<!-- News Item 
-						<div class="media-box">
-							<div class="media">							
-								<div class="media-content">
-									<a class="bold" href="">Justice Scalia Set to Speak at Spring Graduate Commencement</a>
-									<div class="subtext">February 12, 2014</div>
-								</div>
-							</div>
-						</div>
-
-						<!-- News Item 
-						<div class="media-box">
-							<div class="media">							
-								<div class="media-content">
-									<a class="bold" href="">Investors Consider Repurchasing Another Education Center on Jackson Blvd</a>
-									<div class="subtext">December 8, 2013</div>
-								</div>
-							</div>
-						</div>
-
-						-->
-
+					<div class="module">	
+					  <!-- Pull in RSS Feed -->	
 						<?php include('includes/getrss-wpinthenews.php'); ?>
-
-						<p class="subtext bold italic"><a href="">View all news &raquo;</a></p>
-
+						<p class="subtext bold italic"><a href="http://news.jmls.edu/">View all news &raquo;</a></p>
 					</div><!-- .module -->
+
 				</div><!-- .grid-col -->
 			</div><!-- .grid-wrap -->
 						

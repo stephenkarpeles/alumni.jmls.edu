@@ -28,11 +28,12 @@
 
 					<!-- If the title is less than the maxTitleLength amount, don't shorten -->
 					<xsl:otherwise>
-					<xsl:value-of select="*[local-name()='title']" disable-output-escaping="yes"/>
+						<xsl:value-of select="*[local-name()='title']" disable-output-escaping="yes"/>
 					</xsl:otherwise>
 
 					</xsl:choose>	
 				</a>
+				<p class="subtext"><xsl:value-of select="*[local-name()='pubDate']"/></p>
 			</div>
 		</div>
 	</div>
