@@ -57,7 +57,7 @@
 						</div>
 					</div>
 					<div class="footer-info-item">
-						321.427.2737 <span class="footer-info-separator">&#9642;</span>
+						312.427.2737 <span class="footer-info-separator">&#9642;</span>
 					</div>
 					<div class="footer-info-item">
 						<a href="mailto:alumni@jmls.edu">alumni@jmls.edu</a>
