@@ -32,19 +32,19 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 					<h3>John Marshall News</h3>
 					<p><em>News feed from news.jmls.edu, ideally embedded like on the JMLS homepage with a link to the site for more headlines.</em></p>
 					<h3>Photo Gallery</h3>
-					<p> <a href="https://www.flickr.com/photos/43883549@N08/sets/" target="_blank" class="bold">View Gallery Online &raquo;</a></p>
+					<p> <a href="https://www.flickr.com/photos/43883549@N08/sets/" target="_blank" class="bold">View All Images &raquo;</a></p>
 					<div class="grid-wrap">
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-1.jpg" alt="">
 						</div>
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-2.jpg" alt="">
 						</div>
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-3.jpg" alt="">
 						</div>
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-4.jpg" alt="">							
 						</div>
 					</div>
 					<div class="grid-wrap">
