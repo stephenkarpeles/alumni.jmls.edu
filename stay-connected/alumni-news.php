@@ -32,7 +32,7 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 					<h3>John Marshall News</h3>
 					<p><em>News feed from news.jmls.edu, ideally embedded like on the JMLS homepage with a link to the site for more headlines.</em></p>
 					<h3>Photo Gallery</h3>
-					<p> <a href="https://www.flickr.com/photos/43883549@N08/sets/" target="_blank" class="bold">View All Images &raquo;</a></p>
+					<p> <a href="https://www.flickr.com/photos/43883549@N08/sets/" target="_blank" class="bold">View Gallery on Flickr &raquo;</a></p>
 					<div class="grid-wrap">
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
 							<img src="../images/gallery-1.jpg" alt="">
@@ -49,30 +49,30 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 					</div>
 					<div class="grid-wrap">
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-5.jpg" alt="">
 						</div>
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-6.jpg" alt="">
 						</div>
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-7.jpg" alt="">
 						</div>
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-8.jpg" alt="">
 						</div>
 					</div>
 					<div class="grid-wrap">
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-9.jpg" alt="">
 						</div>
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-10.jpg" alt="">
 						</div>
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-11.jpg" alt="">
 						</div>
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
-							<img src="http://placehold.it/300x200" alt="">
+							<img src="../images/gallery-12.jpg" alt="">
 						</div>
 					</div>
 
