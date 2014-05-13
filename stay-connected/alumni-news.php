@@ -22,8 +22,7 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 					<h1 class="page-header">Alumni News</h1>
 					<p class="featured-text">Who&rsquo;s running for office? Who got promoted? Stay current on alumni news. <em>More description coming</em>.</p>
 					<h3>BriefCase</h3>
-					<p>Written specifically for John Marshall alumni, <em>BriefCase</em> highlights alumni accomplishments and offers updates on John Marshall&rsquo;s development initiatives.</p>
-					<p><a class="bold" href="http://news.jmls.edu/briefcase/">Read BriefCase Online</a> (<em>old issues need to be added by PR)</em></p>
+					<p>Written specifically for John Marshall alumni, <em>BriefCase</em> highlights alumni accomplishments and offers updates on John Marshall&rsquo;s development initiatives. <a class="bold" href="http://news.jmls.edu/briefcase/">Read BriefCase Online</a>.</p>
 					<p><strong>Want to be in the next issue?</strong><br>
 					Send your new job, new baby, honor, recognition, or marriage news to <a href="mailto:alumni@jmls.edu" class="bold">alumni@jmls.edu</a>. Don&rsquo;t forget to include a picture!</p>
 					<h3>Alumni Newsletter</h3>
