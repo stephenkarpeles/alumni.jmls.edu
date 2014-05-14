@@ -1,4 +1,3 @@
-<!-- Meta content goes below. Write content between quote marks. -->
 <?php
 $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall Law School";
 // $pgDesc="";
@@ -212,6 +211,8 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 								</div>
 							</div>
 						</div>
+
+						<?php include($jmlsroot . "/_include/upcoming_news.inc"); ?>
 						
 						<p class="subtext bold italic"><a href="">View all events &raquo;</a></p>
 
