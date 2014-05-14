@@ -164,7 +164,8 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 
 					<div class="module">	
 
-						<!-- Event -->
+						<!-- Old styling for Events section 
+
 						<div class="media-box">
 							<div class="media">
 								<div href="" class="graphic">
@@ -180,7 +181,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 							</div>
 						</div>
 
-						<!-- Event -->
+						
 						<div class="media-box">
 							<div class="media">
 								<div href="" class="graphic">
@@ -196,7 +197,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 							</div>
 						</div>
 
-						<!-- Event -->						
+											
 						<div class="media-box">
 							<div class="media">
 								<div href="" class="graphic">
@@ -212,9 +213,11 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 							</div>
 						</div>
 
+						-->
+
 						<?php include($jmlsroot . "/_include/upcoming_news.inc"); ?>
 						
-						<p class="subtext bold italic"><a href="">View all events &raquo;</a></p>
+						<p class="subtext bold italic"><a href="http://events.jmls.edu/registration/">View all events &raquo;</a></p>
 
 					</div><!-- .module -->
 				</div><!-- .grid-col -->
