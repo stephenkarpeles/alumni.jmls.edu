@@ -232,14 +232,15 @@
 // Events section on homepage
 
 .fpEvent {
-	background: url('../images/icon-calendar.svg') 0 14px no-repeat;
+	background: url('../images/icon-calendar.svg') 0 13px no-repeat;
 	padding: 11px 0 20px;
 	border-top: 1px solid #cacaca;
 	&:first-child {
 		border-top: none;	}
 	p {
-		margin: 0 0 0 60px;
+		margin: 2px 0 0 58px;
+		line-height: 1.2;
 		font-weight: bold; } }
 
 .fpEventDate {
-	margin-left: 60px; }
+	margin-left: 58px; }
