@@ -1133,15 +1133,20 @@ li.crumb-item:last-child .crumb-tail {
 }
 
 .fpEvent {
-  padding: 11px 0;
+  background: url("../images/icon-calendar.svg") 0 14px no-repeat;
+  padding: 11px 0 20px;
   border-top: 1px solid #cacaca;
 }
 .fpEvent:first-child {
   border-top: none;
 }
 .fpEvent p {
-  margin-bottom: 0;
+  margin: 0 0 0 60px;
   font-weight: bold;
+}
+
+.fpEventDate {
+  margin-left: 60px;
 }
 
 .dean-thumb {
