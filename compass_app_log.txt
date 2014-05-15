@@ -3234,3 +3234,9 @@ Load paths:
 2014-05-15 13:36:22 overwrite css/main.css 
 2014-05-15 13:36:39 overwrite css/main.css 
 2014-05-15 13:38:58 overwrite css/main.css 
+2014-05-15 14:12:07     error sass/main.scss (Line 249 of sass/components/_modules.scss: Invalid CSS after "...13px no-repeat;": expected "}", was "")
+2014-05-15 14:12:07 overwrite css/main.css 
+2014-05-15 14:12:08     error sass/main.scss (Line 249 of sass/components/_modules.scss: Invalid CSS after "...13px no-repeat;": expected "}", was "")
+2014-05-15 14:12:08 identical css/main.css 
+2014-05-15 14:12:11 overwrite css/main.css 
+2014-05-15 14:12:21 overwrite css/main.css 

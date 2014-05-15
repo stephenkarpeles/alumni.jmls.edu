@@ -1146,6 +1146,11 @@ li.crumb-item:last-child .crumb-tail {
   font-weight: bold;
 }
 
+/* SVG Fallback for non-supportive browsers */
+.no-svg .fpEvent {
+  background: url("../images/icon-calendar.png") 0 13px no-repeat;
+}
+
 .fpEventDate {
   margin-left: 58px;
 }

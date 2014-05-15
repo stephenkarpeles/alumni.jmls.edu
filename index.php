@@ -197,8 +197,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 							</div>
 						</div>
 
-						-->	
-											
+																	
 						<div class="media-box">
 							<div class="media">
 								<div href="" class="graphic">
@@ -213,6 +212,8 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 								</div>
 							</div>
 						</div>
+
+						-->	
 
 						<?php include($jmlsroot . "/_include/upcoming_news.inc"); ?>
 						
