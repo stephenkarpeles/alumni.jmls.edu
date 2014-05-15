@@ -1,7 +1,11 @@
 <div class="module">
 	<div class="header-bar header-bar-gold">Upcoming Events</div>
+
+	<div class="feature-box">
+		<?php include($jmlsroot . "/_include/upcoming_news.inc"); ?>
+	</div>
 	
-	<!-- Event -->
+	<!-- Event 
 	<div class="media-box media-box-tall">
 		<div class="feature-box">
 			<div class="media">
@@ -19,7 +23,7 @@
 		</div>
 	</div>
 
-	<!-- Event -->
+	
 	<div class="media-box media-box-tall">
 		<div class="feature-box">
 			<div class="media">
@@ -37,7 +41,7 @@
 		</div>
 	</div>
 
-	<!-- Event -->
+	
 	<div class="media-box media-box-tall">
 		<div class="feature-box">
 			<div class="media">
@@ -55,8 +59,10 @@
 		</div>
 	</div>
 
+	-->
+
 	<div class="feature-box">
-		<p class="subtext bold italic"><a href="">View all events &raquo;</a></p>
+		<p class="subtext bold italic"><a href="http://events.jmls.edu/registration/">View all events &raquo;</a></p>
 	</div>
 				
 </div><!-- .module -->
