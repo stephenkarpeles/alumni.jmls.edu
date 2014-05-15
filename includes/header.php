@@ -27,7 +27,7 @@
 
 		<!-- HTML5 Shiv -->
 		<!--[if lt IE 9]>
-			<script src="http://localhost/alumni.jmls.edu/js/html5shiv.js"></script>
+			<script src="<?php echo $siteroot ?>/js/html5shiv.js"></script>
 		<![endif]-->
 
 		<!-- Scripts -->
