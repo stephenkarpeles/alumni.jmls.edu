@@ -35,8 +35,9 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 							<p><strong>Not receiving the alumni newsletter?</strong><br><a href="#" class="bold">Sign Up for Alumni News</a> <em>(Interface details coming)</em></p>
 						</div>
 						<div class="grid-col bp3-col-1-3 mar-bot-medium">
-							<h3 class="mar-top-zero">John Marshall News</h3>
-							<p><em>News feed from news.jmls.edu, ideally embedded like on the JMLS homepage with a link to the site for more headlines.</em></p>
+							<h3 class="mar-top-zero mar-bot-smaller">John Marshall News</h3>
+							<?php include('../includes/getrss-wpinthenews.php'); ?>				
+							<p class="subtext bold italic mar-bot-zero"><a href="http://news.jmls.edu/">View all news &raquo;</a></p>
 						</div>
 					</div>					
 					
