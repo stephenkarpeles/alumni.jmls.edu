@@ -1275,6 +1275,12 @@ li.crumb-item:last-child .crumb-tail {
 
 .form-label-top {
   font-weight: 700;
+  line-height: 1.6;
+}
+
+.form-label-left {
+  font-weight: 700;
+  float: left;
 }
 
 .form-sub-label {
@@ -1285,6 +1291,16 @@ li.crumb-item:last-child .crumb-tail {
 .pledge-form #id_4 {
   float: left;
   margin-right: 20px;
+}
+
+.pledge-form #id_6 {
+  clear: both;
+  float: left;
+  margin-right: 20px;
+}
+
+.pledge-form #id_8 {
+  clear: both;
 }
 
 *,

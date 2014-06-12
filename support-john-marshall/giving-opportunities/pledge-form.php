@@ -25,7 +25,7 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 
 					<!-- Start Form -->
 
-					<div class="pledge-form">		
+					<div class="pledge-form">	
 
 						<form class="jotform-form" action="http://submit.jotform.us/submit/41616494900152/" method="post" name="form_41616494900152" id="41616494900152" accept-charset="utf-8">
 						  <input type="hidden" name="formID" value="41616494900152" />
@@ -54,10 +54,10 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						          </select>
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_7">
-						        <label class="form-label-left" id="label_7" for="input_7"> Year </label>
-						        <div id="cid_7" class="form-input">
-						          <input type="number" class="form-number-input  form-textbox" id="input_7" name="q7_year" style="width:60px" size="5" value="" data-type="input-number" />
+						      <li class="form-line" id="id_23">
+						        <label class="form-label-left" id="label_23" for="input_23"> Year </label>
+						        <div id="cid_23" class="form-input">
+						          <input type="text" class=" form-textbox" data-type="input-textbox" id="input_23" name="q23_year" size="10" value="" />
 						        </div>
 						      </li>
 						      <li class="form-line" id="id_8">

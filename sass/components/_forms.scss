@@ -6,7 +6,12 @@
 	margin-bottom: 12px; }
 
 .form-label-top { 
-	font-weight: 700; }
+	font-weight: 700;
+	line-height: $line-height-highest; }
+
+.form-label-left {
+	font-weight: 700;
+	float: left; }
 
 .form-sub-label {
 	display: block;
@@ -16,3 +21,11 @@
 .pledge-form #id_4 {
 	float: left;
 	margin-right: 20px; }
+
+.pledge-form #id_6 {
+	clear: both;
+	float: left;
+	margin-right: 20px; }
+
+.pledge-form #id_8 {
+	clear: both; }
