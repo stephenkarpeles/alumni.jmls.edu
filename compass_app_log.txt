@@ -3274,3 +3274,58 @@ Load paths:
 2014-06-12 14:28:19 overwrite css/main.css 
 2014-06-12 14:28:33 overwrite css/main.css 
 2014-06-12 14:28:44 overwrite css/main.css 
+2014-06-12 14:35:38 overwrite css/main.css 
+2014-06-12 14:35:55 overwrite css/main.css 
+2014-06-12 14:37:36 overwrite css/main.css 
+2014-06-12 14:38:16 overwrite css/main.css 
+2014-06-12 14:38:32 overwrite css/main.css 
+2014-06-12 14:38:37 overwrite css/main.css 
+2014-06-12 14:38:47 overwrite css/main.css 
+2014-06-12 14:38:54 overwrite css/main.css 
+2014-06-12 14:39:44 overwrite css/main.css 
+2014-06-12 14:40:10 overwrite css/main.css 
+2014-06-12 14:40:14 identical css/main.css 
+2014-06-12 14:40:22 overwrite css/main.css 
+2014-06-12 14:40:27 overwrite css/main.css 
+2014-06-12 14:41:04 overwrite css/main.css 
+2014-06-12 14:41:08 identical css/main.css 
+2014-06-12 14:42:29 overwrite css/main.css 
+2014-06-12 14:48:52 overwrite css/main.css 
+2014-06-12 14:49:00 overwrite css/main.css 
+2014-06-12 14:50:27 overwrite css/main.css 
+2014-06-12 14:52:05 overwrite css/main.css 
+2014-06-12 14:52:07 overwrite css/main.css 
+2014-06-12 14:53:20 overwrite css/main.css 
+2014-06-12 14:56:35 overwrite css/main.css 
+2014-06-12 14:56:42     error sass/main.scss (Line 43 of sass/components/_forms.scss: Invalid CSS after "	border-top": expected ";", was ": 1px solid $li...")
+2014-06-12 14:56:42 overwrite css/main.css 
+2014-06-12 14:56:43     error sass/main.scss (Line 43 of sass/components/_forms.scss: Invalid CSS after "	border-top": expected ";", was ": 1px solid $li...")
+2014-06-12 14:56:43 identical css/main.css 
+2014-06-12 14:56:48 overwrite css/main.css 
+2014-06-12 14:56:56     error sass/main.scss (Line 43 of sass/components/_forms.scss: Invalid CSS after "	padding-top": expected ";", was ": 20px;")
+2014-06-12 14:56:56 overwrite css/main.css 
+2014-06-12 14:56:57     error sass/main.scss (Line 43 of sass/components/_forms.scss: Invalid CSS after "	padding-top": expected ";", was ": 20px;")
+2014-06-12 14:56:57 identical css/main.css 
+2014-06-12 14:56:59 overwrite css/main.css 
+2014-06-12 14:57:09 overwrite css/main.css 
+2014-06-12 14:57:16 overwrite css/main.css 
+2014-06-12 14:57:21 overwrite css/main.css 
+2014-06-12 14:57:44 overwrite css/main.css 
+2014-06-12 14:57:53 overwrite css/main.css 
+2014-06-12 14:58:00 overwrite css/main.css 
+2014-06-12 14:58:07 overwrite css/main.css 
+2014-06-12 14:58:14 overwrite css/main.css 
+2014-06-12 14:59:36 overwrite css/main.css 
+2014-06-12 14:59:39 overwrite css/main.css 
+2014-06-12 14:59:49     error sass/main.scss (Line 50 of sass/components/_forms.scss: Invalid CSS after "...lighter-gray; }": expected "}", was "")
+2014-06-12 14:59:49 overwrite css/main.css 
+2014-06-12 14:59:50     error sass/main.scss (Line 50 of sass/components/_forms.scss: Invalid CSS after "...lighter-gray; }": expected "}", was "")
+2014-06-12 14:59:50 identical css/main.css 
+2014-06-12 14:59:53 overwrite css/main.css 
+2014-06-12 15:00:11 overwrite css/main.css 
+2014-06-12 15:00:24 overwrite css/main.css 
+2014-06-12 15:00:45 overwrite css/main.css 
+2014-06-12 15:02:01 overwrite css/main.css 
+2014-06-12 15:02:09 identical css/main.css 
+2014-06-12 15:02:18 identical css/main.css 
+2014-06-12 15:02:38 overwrite css/main.css 

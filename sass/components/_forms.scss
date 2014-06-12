@@ -9,15 +9,31 @@
 	font-weight: 700;
 	line-height: $line-height-highest; }
 
-.form-label-left {
-	font-weight: 700;
-	float: left; }
-
 .form-sub-label {
 	display: block;
 	font-size: $font-size-smallest; }
 
 // Pledge Form Styles
+.pledge-form {
+	background: $light-gray;
+	padding: 20px 30px; }
+
+.pledge-form input[type="text"],
+.pledge-form input[type="email"],
+.pledge-form textarea, 
+.pledge-form select {
+	border: 1px solid $lighter-gray; }
+
+.pledge-form input[type="text"],
+.pledge-form input[type="email"] {
+	height: 28px; }
+
+.pledge-form select {
+	min-height: 28px; }
+
+.pledge-form .form-address-table select { 
+	width: 150px; }
+
 .pledge-form #id_4 {
 	float: left;
 	margin-right: 20px; }
@@ -28,4 +44,15 @@
 	margin-right: 20px; }
 
 .pledge-form #id_8 {
+	clear: both;
+	float: left;
+	width: 48%; }
+
+.pledge-form #id_9 {
 	clear: both; }
+
+.pledge-form #id_11,
+.pledge-form #id_19 {
+	margin-top: 25px;
+	padding-top: 15px;
+	border-top: 1px solid $lighter-gray; }

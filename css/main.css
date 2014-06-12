@@ -1278,14 +1278,34 @@ li.crumb-item:last-child .crumb-tail {
   line-height: 1.6;
 }
 
-.form-label-left {
-  font-weight: 700;
-  float: left;
-}
-
 .form-sub-label {
   display: block;
   font-size: 0.8em;
+}
+
+.pledge-form {
+  background: #e7e7e7;
+  padding: 20px 30px;
+}
+
+.pledge-form input[type="text"],
+.pledge-form input[type="email"],
+.pledge-form textarea,
+.pledge-form select {
+  border: 1px solid #cacaca;
+}
+
+.pledge-form input[type="text"],
+.pledge-form input[type="email"] {
+  height: 28px;
+}
+
+.pledge-form select {
+  min-height: 28px;
+}
+
+.pledge-form .form-address-table select {
+  width: 150px;
 }
 
 .pledge-form #id_4 {
@@ -1301,6 +1321,19 @@ li.crumb-item:last-child .crumb-tail {
 
 .pledge-form #id_8 {
   clear: both;
+  float: left;
+  width: 48%;
+}
+
+.pledge-form #id_9 {
+  clear: both;
+}
+
+.pledge-form #id_11,
+.pledge-form #id_19 {
+  margin-top: 25px;
+  padding-top: 15px;
+  border-top: 1px solid #cacaca;
 }
 
 *,

@@ -40,17 +40,7 @@
 		<!-- Form Scripts -->
 		<script src="http://max.jotfor.ms/static/prototype.forms.js" type="text/javascript"></script>
 		<script src="http://max.jotfor.ms/static/jotform.forms.js?3.2.2227" type="text/javascript"></script>
-		<script src="http://max.jotfor.ms/js/vendor/math-processor.js?v=3.2.2227" type="text/javascript"></script>
-		<script type="text/javascript">
-		   JotForm.setCalculations([{"resultField":22,"operands":"12,13,14","readOnly":true,"showBeforeInput":false,"equation":"[{12}/({13}*{14})]","decimalPlaces":"2","newCalculationType":true,"insertAsText":false,"showEmptyDecimals":false,"ignoreHiddenFields":false}]);</script>
-		<script type="text/javascript">
-		   JotForm.init(function(){
-		      $('input_7').hint('ex: 1985');
-		      $('input_12').hint('ex: 100');
-		      JotForm.setCalculationValues("0|1|2|4", 13);
-		      JotForm.setCalculationValues("0|1|2|3", 14);
-		   });
-		</script>
+		<script src="http://max.jotfor.ms/js/vendor/math-processor.js?v=3.2.2227" type="text/javascript"></script>		
 
 	</head>
 	<body>
