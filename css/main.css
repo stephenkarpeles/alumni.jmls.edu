@@ -1264,6 +1264,29 @@ li.crumb-item:last-child .crumb-tail {
   border: 0;
 }
 
+.form-section {
+  padding: 0;
+  list-style-type: none;
+}
+
+.form-line {
+  margin-bottom: 12px;
+}
+
+.form-label-top {
+  font-weight: 700;
+}
+
+.form-sub-label {
+  display: block;
+  font-size: 0.8em;
+}
+
+.pledge-form #id_4 {
+  float: left;
+  margin-right: 20px;
+}
+
 *,
 *:after,
 *:before {
