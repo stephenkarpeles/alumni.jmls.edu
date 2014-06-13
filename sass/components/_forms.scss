@@ -46,9 +46,27 @@
 .pledge-form #id_8 {
 	clear: both;
 	float: left;
-	width: 48%; }
+	width: 46%; }
+
+.pledge-form .form-address-line {
+	width: 100%; }
+
+.pledge-form .form-address-city,
+.pledge-form .form-address-state {
+	width: 50%; }
 
 .pledge-form #id_9 {
+	float: left;
+	margin-left: 40px; }
+
+.pledge-form #input_9 { 
+	width: 100%; }
+
+.pledge-form #id_25 {
+	float: left;
+	margin-left: 40px; }
+
+.pledge-form #id_11 {
 	clear: both; }
 
 .pledge-form #id_11,

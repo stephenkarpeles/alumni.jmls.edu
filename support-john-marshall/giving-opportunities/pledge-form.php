@@ -31,22 +31,22 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						  <input type="hidden" name="formID" value="41616494900152" />
 						  <div class="form-all">
 						    <ul class="form-section">
-						      <li class="form-line" id="id_4">
+						      <li class="form-line form-line-column" id="id_4">
 						        <label class="form-label-top" id="label_4" for="input_4"> First Name </label>
 						        <div id="cid_4" class="form-input-wide">
 						          <input type="text" class=" form-textbox" data-type="input-textbox" id="input_4" name="q4_firstName" size="20" value="" />
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_5">
+						      <li class="form-line form-line-column" id="id_5">
 						        <label class="form-label-top" id="label_5" for="input_5"> Last Name </label>
 						        <div id="cid_5" class="form-input-wide">
 						          <input type="text" class=" form-textbox" data-type="input-textbox" id="input_5" name="q5_lastName" size="20" value="" />
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_6">
+						      <li class="form-line form-line-column form-line-column-clear" id="id_6">
 						        <label class="form-label-top" id="label_6" for="input_6"> Graduating Class of </label>
 						        <div id="cid_6" class="form-input-wide">
-						          <select class="form-dropdown" style="width:150px" id="input_6" name="q6_graduatingClass">
+						          <select class="form-dropdown" style="width:150px" id="input_6" name="q6_graduatingClass6">
 						            <option value="">  </option>
 						            <option value="January"> January </option>
 						            <option value="May"> May </option>
@@ -60,7 +60,7 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						          <input type="text" class=" form-textbox" data-type="input-textbox" id="input_23" name="q23_year" size="10" value="" />
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_8">
+						      <li class="form-line form-line-column" id="id_8">
 						        <label class="form-label-top" id="label_8" for="input_8"> Address </label>
 						        <div id="cid_8" class="form-input-wide">
 						          <table summary="" class="form-address-table" border="0" cellpadding="0" cellspacing="0">
@@ -357,16 +357,16 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						          </table>
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_9">
+						      <li class="form-line form-line-column" id="id_9">
 						        <label class="form-label-top" id="label_9" for="input_9"> E-Mail </label>
 						        <div id="cid_9" class="form-input-wide">
-						          <input type="email" class=" form-textbox validate[Email]" id="input_9" name="q9_email9" size="40" value="" />
+						          <input type="email" class=" form-textbox validate[Email]" id="input_9" name="q9_email9" size="30" value="" />
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_21">
-						        <label class="form-label-top" id="label_21" for="input_21"> Phone: </label>
-						        <div id="cid_21" class="form-input-wide">
-						          <input type="number" class="form-number-input  form-textbox" id="input_21" name="q21_phone" style="width:260px" size="30" value="" data-type="input-number" />
+						      <li class="form-line form-line-column" id="id_25">
+						        <label class="form-label-top" id="label_25" for="input_25"> Phone </label>
+						        <div id="cid_25" class="form-input-wide">
+						          <input type="text" class=" form-textbox" data-type="input-textbox" id="input_25" name="q25_phone25" size="30" value="" />
 						        </div>
 						      </li>
 						      <li class="form-line" id="id_11">
@@ -376,16 +376,13 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						          </div>
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_12">
-						        <label class="form-label-top" id="label_12" for="input_12"> How much would you like to pledge? </label>
-						        <div id="cid_12" class="form-input-wide">
-						          <span class="form-sub-label-container">
-						            <input type="number" class="form-number-input  form-textbox" id="input_12" name="q12_howMuch" style="width:60px" size="5" value="" data-type="input-number" />
-						            <label class="form-sub-label" for="input_12"> Please provide dollar amount </label>
-						          </span>
+						      <li class="form-line form-line-column" id="id_24">
+						        <label class="form-label-top" id="label_24" for="input_24"> How much would you like to pledge? </label>
+						        <div id="cid_24" class="form-input-wide">
+						          <input type="text" class=" form-textbox" data-type="input-textbox" id="input_24" name="q24_howMuch" size="20" value="" />
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_13">
+						      <li class="form-line form-line-column form-line-column-clear" id="id_13">
 						        <label class="form-label-top" id="label_13" for="input_13"> How often would you like to pay? </label>
 						        <div id="cid_13" class="form-input-wide">
 						          <select class="form-dropdown" style="width:150px" id="input_13" name="q13_howOften">
@@ -396,8 +393,8 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						          </select>
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_14">
-						        <label class="form-label-left" id="label_14" for="input_14"> over </label>
+						      <li class="form-line form-line-column form-line-column-clear" id="id_14">
+						        <label class="form-label-left" id="label_14" for="input_14"> Over </label>
 						        <div id="cid_14" class="form-input">
 						          <select class="form-dropdown" style="width:150px" id="input_14" name="q14_over">
 						            <option value="">  </option>
@@ -407,17 +404,17 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						          </select>
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_22">
+						      <li class="form-line form-line-column form-line-column-clear" id="id_22">
 						        <label class="form-label-top" id="label_22" for="input_22"> Each payment would be: </label>
 						        <div id="cid_22" class="form-input-wide">
-						          <input type="text" class="form-textbox" data-type="input-textbox" id="input_22" name="q22_eachPayment22" value="" size="20" />
+						          <input type="text" class="form-textbox" data-type="input-textbox" id="input_22" name="q22_eachPayment" value="" size="20" />
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_16">
+						      <li class="form-line form-line-column" id="id_16">
 						        <label class="form-label-top" id="label_16" for="input_16"> My pledge is to help support the: </label>
 						        <div id="cid_16" class="form-input-wide">
 						          <span class="form-sub-label-container">
-						            <select class="form-list" style="width:400px" id="input_16" name="q16_myPledge[]" size="8" multiple="multiple">
+						            <select class="form-list" style="width:400px" id="input_16" name="q16_myPledge16[]" size="8" multiple="multiple">
 						              <option value=""> Please select one or more of the following: </option>
 						              <option value="Annual Fund"> Annual Fund </option>
 						              <option value="Center for Advocacy &amp; Dispute Resolution"> Center for Advocacy &amp; Dispute Resolution </option>
@@ -456,7 +453,7 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						        <div id="cid_20" class="form-input-wide">
 						          <select class="form-dropdown" style="width:150px" id="input_20" name="q20_pleaseSend20">
 						            <option value="">  </option>
-						            <option selected="selected" value="Annually"> Annually </option>
+						            <option value="Annually"> Annually </option>
 						            <option value="Semiannually"> Semiannually </option>
 						            <option value="Quarterly"> Quarterly </option>
 						          </select>
