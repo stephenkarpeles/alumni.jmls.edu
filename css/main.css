@@ -1266,6 +1266,7 @@ li.crumb-item:last-child .crumb-tail {
 
 .form-section {
   padding: 0;
+  margin: 0;
   list-style-type: none;
 }
 
@@ -1292,6 +1293,7 @@ li.crumb-item:last-child .crumb-tail {
 .pledge-form input[type="email"],
 .pledge-form textarea,
 .pledge-form select {
+  padding-left: 5px;
   border: 1px solid #cacaca;
 }
 
@@ -1322,30 +1324,30 @@ li.crumb-item:last-child .crumb-tail {
 .pledge-form #id_8 {
   clear: both;
   float: left;
-  width: 46%;
+  width: 310px;
+  margin-right: 40px;
 }
 
 .pledge-form .form-address-line {
-  width: 100%;
+  width: 310px;
 }
 
 .pledge-form .form-address-city,
 .pledge-form .form-address-state {
-  width: 50%;
+  width: 144px;
 }
 
 .pledge-form #id_9 {
   float: left;
-  margin-left: 40px;
 }
 
-.pledge-form #input_9 {
-  width: 100%;
+.pledge-form #input_9,
+.pledge-form #input_25 {
+  width: 310px;
 }
 
 .pledge-form #id_25 {
   float: left;
-  margin-left: 40px;
 }
 
 .pledge-form #id_11 {
