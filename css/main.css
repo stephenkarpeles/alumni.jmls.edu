@@ -1293,7 +1293,7 @@ li.crumb-item:last-child .crumb-tail {
 .pledge-form input[type="email"],
 .pledge-form textarea,
 .pledge-form select {
-  padding-left: 5px;
+  padding-left: 4px;
   border: 1px solid #cacaca;
 }
 
@@ -1318,7 +1318,7 @@ li.crumb-item:last-child .crumb-tail {
 .pledge-form #id_6 {
   clear: both;
   float: left;
-  margin-right: 20px;
+  margin-right: 15px;
 }
 
 .pledge-form #id_8 {
@@ -1337,9 +1337,12 @@ li.crumb-item:last-child .crumb-tail {
 }
 
 .pledge-form .form-address-city,
-.pledge-form .form-address-state,
-.pledge-form .form-address-postal {
+.pledge-form .form-address-state {
   width: 144px;
+}
+
+.pledge-form .form-address-postal {
+  width: 95px;
 }
 
 .pledge-form .form-address-city {
@@ -1368,6 +1371,41 @@ li.crumb-item:last-child .crumb-tail {
   margin-top: 25px;
   padding-top: 15px;
   border-top: 1px solid #cacaca;
+}
+
+.pledge-form #id_23 {
+  margin-top: 37px;
+}
+
+.pledge-form #label_23 {
+  float: left;
+  padding-top: 3px;
+  margin-right: 6px;
+}
+
+.pledge-form #id_13 {
+  float: left;
+}
+
+.pledge-form #id_13 select {
+  position: relative;
+  z-index: 500;
+}
+
+.pledge-form #id_14 {
+  position: relative;
+  left: -65px;
+  margin-top: 37px;
+}
+
+.pledge-form #label_14 {
+  float: left;
+  padding-top: 3px;
+  margin-right: 6px;
+}
+
+.pledge-form #id_22 {
+  clear: both;
 }
 
 *,
