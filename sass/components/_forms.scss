@@ -34,7 +34,7 @@
 	min-height: 28px; }
 
 .pledge-form .form-address-table select { 
-	width: 150px; }
+	width: 144px; }
 
 .pledge-form #id_4 {
 	float: left;
@@ -51,12 +51,19 @@
 	width: 310px;
 	margin-right: 40px; }
 
+.pledge-form #id_8 .form-sub-label {
+	margin: 1px 0 6px; }
+
 .pledge-form .form-address-line {
 	width: 310px; }
 
 .pledge-form .form-address-city,
-.pledge-form .form-address-state {
+.pledge-form .form-address-state,
+.pledge-form .form-address-postal {
 	width: 144px; }
+
+.pledge-form .form-address-city {
+	margin-right: 22px; }
 
 .pledge-form #id_9 {
 	float: left; }
