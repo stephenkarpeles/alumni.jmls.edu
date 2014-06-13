@@ -140,3 +140,6 @@
 		@include box-shadow(white 0 0 0);
 	&:focus, &:visited {
 		outline: 0 !important; } } }	
+
+.pledge-form button {
+	outline: 0 !important; }

@@ -1447,6 +1447,10 @@ li.crumb-item:last-child .crumb-tail {
   outline: 0 !important;
 }
 
+.pledge-form button {
+  outline: 0 !important;
+}
+
 *,
 *:after,
 *:before {
