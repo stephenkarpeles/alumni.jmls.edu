@@ -394,15 +394,25 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						        </div>
 						      </li>
 						      <li class="form-line" id="id_24">
-						        <label class="form-label-top" id="label_24" for="input_24"> How much would you like to pledge? </label>
+						        <label class="form-label-top" id="label_24" for="input_24">
+						          How much would you like to pledge?
+						          <span class="form-required">
+						            *
+						          </span>
+						        </label>
 						        <div id="cid_24" class="form-input-wide">
-						          <input type="text" class=" form-textbox" data-type="input-textbox" id="input_24" name="q24_howMuch24" size="20" value="" />
+						          <input type="text" class=" form-textbox validate[required]" data-type="input-textbox" id="input_24" name="q24_howMuch24" size="20" value="" />
 						        </div>
 						      </li>
 						      <li class="form-line" id="id_13">
-						        <label class="form-label-top" id="label_13" for="input_13"> How often would you like to pay? </label>
+						        <label class="form-label-top" id="label_13" for="input_13">
+						          How often would you like to pay?
+						          <span class="form-required">
+						            *
+						          </span>
+						        </label>
 						        <div id="cid_13" class="form-input-wide">
-						          <select class="form-dropdown" style="width:150px" id="input_13" name="q13_howOften13">
+						          <select class="form-dropdown validate[required]" style="width:150px" id="input_13" name="q13_howOften13">
 						            <option value="">  </option>
 						            <option selected="selected" value="Annually"> Annually </option>
 						            <option value="Semiannually"> Semiannually </option>
@@ -427,11 +437,16 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						          <input type="text" class="form-textbox" data-type="input-textbox" id="input_22" name="q22_eachPayment" value="0" size="20" />
 						        </div>
 						      </li>
-						      <li class="form-line form-line-column" id="id_16">
-						        <label class="form-label-top" id="label_16" for="input_16"> My pledge is to help support the: </label>
+						      <li class="form-line" id="id_16">
+						        <label class="form-label-top" id="label_16" for="input_16">
+						          My pledge is to help support the:
+						          <span class="form-required">
+						            *
+						          </span>
+						        </label>
 						        <div id="cid_16" class="form-input-wide">
 						          <span class="form-sub-label-container">
-						            <select class="form-list" style="width:400px" id="input_16" name="q16_myPledge16[]" size="8" multiple="multiple">
+						            <select class="form-list validate[required]" style="width:400px" id="input_16" name="q16_myPledge16[]" size="8" multiple="multiple">
 						              <option value=""> Please select one or more of the following: </option>
 						              <option value="Annual Fund"> Annual Fund </option>
 						              <option value="Center for Advocacy &amp; Dispute Resolution"> Center for Advocacy &amp; Dispute Resolution </option>
@@ -449,7 +464,16 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						              <option value="Veterans Legal Center &amp; Clinic"> Veterans Legal Center &amp; Clinic </option>
 						              <option value="Other"> Other </option>
 						            </select>
-						            <label class="form-sub-label" for="input_16"> To select multiple, hold the Ctrl key while you click </label>
+						            <label class="form-sub-label" for="input_16">
+						              <b>
+						                To select multiple
+						              </b>
+						              , hold the
+						              <b>
+						                Ctrl
+						              </b>
+						              key while you click
+						            </label>
 						          </span>
 						        </div>
 						      </li>

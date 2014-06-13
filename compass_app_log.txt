@@ -3461,3 +3461,27 @@ Load paths:
 2014-06-13 14:11:29 overwrite css/main.css 
 2014-06-13 14:11:33 overwrite css/main.css 
 2014-06-13 14:12:44 overwrite css/main.css 
+2014-06-13 14:29:05 overwrite css/main.css 
+2014-06-13 14:29:13 overwrite css/main.css 
+2014-06-13 14:37:34     error sass/main.scss (Line 151 of sass/components/_forms.scss: Invalid CSS after "...0 !important; }": expected "}", was "")
+2014-06-13 14:37:34 overwrite css/main.css 
+2014-06-13 14:37:34     error sass/main.scss (Line 151 of sass/components/_forms.scss: Invalid CSS after "...0 !important; }": expected "}", was "")
+2014-06-13 14:37:34 identical css/main.css 
+2014-06-13 14:37:37 overwrite css/main.css 
+2014-06-13 14:38:02 overwrite css/main.css 
+2014-06-13 14:38:30 overwrite css/main.css 
+2014-06-13 14:38:43 overwrite css/main.css 
+2014-06-13 14:38:51 overwrite css/main.css 
+2014-06-13 14:40:17 overwrite css/main.css 
+2014-06-13 14:40:23 overwrite css/main.css 
+2014-06-13 14:40:32 overwrite css/main.css 
+2014-06-13 14:40:44 overwrite css/main.css 
+2014-06-13 14:41:19 overwrite css/main.css 
+2014-06-13 14:41:28 overwrite css/main.css 
+2014-06-13 14:41:36 overwrite css/main.css 
+2014-06-13 14:41:43 overwrite css/main.css 
+2014-06-13 14:42:01 overwrite css/main.css 
+2014-06-13 14:42:13     error sass/main.scss (Line 123 of sass/components/_forms.scss: Undefined variable: "$dark".)
+2014-06-13 14:42:13 overwrite css/main.css 
+2014-06-13 14:42:23 overwrite css/main.css 
+2014-06-13 14:42:37 overwrite css/main.css 

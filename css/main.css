@@ -1394,7 +1394,7 @@ li.crumb-item:last-child .crumb-tail {
 
 .pledge-form #id_14 {
   position: relative;
-  left: -65px;
+  left: -75px;
   margin-top: 37px;
 }
 
@@ -1410,6 +1410,12 @@ li.crumb-item:last-child .crumb-tail {
 
 .pledge-form .form-list option:nth-child(2n+1) {
   background: whitesmoke;
+}
+
+.pledge-form #cid_16 .form-sub-label {
+  padding-left: 4px;
+  margin-top: 3px;
+  margin-bottom: 10px;
 }
 
 .pledge-form .form-submit-button {
