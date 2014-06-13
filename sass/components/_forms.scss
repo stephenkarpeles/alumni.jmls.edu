@@ -114,3 +114,29 @@
 .pledge-form #id_22 { 
 	clear: both; }
 
+.pledge-form .form-list option:nth-child(2n+1){
+	background: $super-light-gray; }
+
+.pledge-form .form-submit-button {
+	position: relative;
+	margin-top: 15px;
+	padding: .25em 1em .35em; 
+	background: $main-red; 
+	color: white;
+	border: none;
+	line-height: $line-height-low;		
+	font-size: $font-size-main;	
+	font-weight: 700;
+	@include border-radius(5px);
+	@include box-shadow($lighter-gray-alt 2px 2px 0);
+	&:hover {
+		background: lighten($main-red, 5%);
+		color: white; }
+	&:active {
+		bottom: -2px;
+		right: -2px;
+		outline: 0 !important;
+		// Hide box shadow on click to create "depressed" look
+		@include box-shadow(white 0 0 0);
+	&:focus, &:visited {
+		outline: 0 !important; } } }	

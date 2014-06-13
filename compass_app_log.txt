@@ -3424,3 +3424,37 @@ Load paths:
 2014-06-13 10:54:50 overwrite css/main.css 
 2014-06-13 10:55:00 overwrite css/main.css 
 2014-06-13 10:55:07 overwrite css/main.css 
+2014-06-13 13:02:57 overwrite css/main.css 
+2014-06-13 13:03:06 identical css/main.css 
+2014-06-13 13:03:27 overwrite css/main.css 
+2014-06-13 13:45:56 overwrite css/main.css 
+2014-06-13 13:46:02 overwrite css/main.css 
+2014-06-13 13:46:34 overwrite css/main.css 
+2014-06-13 13:47:20 overwrite css/main.css 
+2014-06-13 13:47:26 overwrite css/main.css 
+2014-06-13 13:49:17 overwrite css/main.css 
+2014-06-13 13:49:32 overwrite css/main.css 
+2014-06-13 13:50:11 overwrite css/main.css 
+2014-06-13 13:50:45     error sass/main.scss (Line 132 of sass/components/_forms.scss: Invalid CSS after "...or: white;	} }	": expected "}", was "")
+2014-06-13 13:50:45 overwrite css/main.css 
+2014-06-13 13:50:45     error sass/main.scss (Line 132 of sass/components/_forms.scss: Invalid CSS after "...or: white;	} }	": expected "}", was "")
+2014-06-13 13:50:45 identical css/main.css 
+2014-06-13 13:51:06 overwrite css/main.css 
+2014-06-13 13:51:51 overwrite css/main.css 
+2014-06-13 13:52:03 overwrite css/main.css 
+2014-06-13 13:53:04 overwrite css/main.css 
+2014-06-13 13:53:54 overwrite css/main.css 
+2014-06-13 13:54:01 overwrite css/main.css 
+2014-06-13 13:54:17 overwrite css/main.css 
+2014-06-13 13:57:35 overwrite css/main.css 
+2014-06-13 13:57:40 identical css/main.css 
+2014-06-13 13:58:45 overwrite css/main.css 
+2014-06-13 13:58:59 identical css/main.css 
+2014-06-13 13:59:01 overwrite css/main.css 
+2014-06-13 13:59:27 overwrite css/main.css 
+2014-06-13 14:00:44 overwrite css/main.css 
+2014-06-13 14:01:07 overwrite css/main.css 
+2014-06-13 14:02:06 overwrite css/main.css 
+2014-06-13 14:02:43 overwrite css/main.css 
+2014-06-13 14:02:54 overwrite css/main.css 
+2014-06-13 14:03:12 identical css/main.css 
