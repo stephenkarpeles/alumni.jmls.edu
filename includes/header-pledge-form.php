@@ -39,18 +39,17 @@
 
 		<!-- Form Scripts -->
 		<script src="http://max.jotfor.ms/static/prototype.forms.js" type="text/javascript"></script>
-		<script src="http://max.jotfor.ms/static/jotform.forms.js?3.2.2227" type="text/javascript"></script>
-		<script src="http://max.jotfor.ms/js/vendor/math-processor.js?v=3.2.2227" type="text/javascript"></script>	
+		<script src="http://max.jotfor.ms/static/jotform.forms.js?3.2.2243" type="text/javascript"></script>
+		<script src="http://max.jotfor.ms/js/vendor/math-processor.js?v=3.2.2243" type="text/javascript"></script>
 		<script type="text/javascript">
-   JotForm.setCalculations([{"decimalPlaces":"2","equation":"[{24}/({13}*{14})]","ignoreHiddenFields":"","insertAsText":"","newCalculationType":"1","operands":"24,13,14","readOnly":"1","resultField":"22","showBeforeInput":"","showEmptyDecimals":""}]);</script>
+		   JotForm.setCalculations([{"resultField":28,"operands":"26,13,14","readOnly":true,"showBeforeInput":false,"equation":"[{26}/({13}*{14})]","decimalPlaces":"2","newCalculationType":true,"insertAsText":false,"showEmptyDecimals":false,"ignoreHiddenFields":false}]);</script>
 		<script type="text/javascript">
 		   JotForm.init(function(){
-		      $('input_24').hint('ex: 100');
 		      JotForm.setCalculationValues("Click to edit", 6);
 		      JotForm.setCalculationValues("0|1|2|4", 13);
 		      JotForm.setCalculationValues("0|3|2|1", 14);
 		   });
-		</script>	
+		</script>
 
 	</head>
 	<body>

@@ -1408,13 +1408,16 @@ li.crumb-item:last-child .crumb-tail {
   clear: both;
 }
 
-.pledge-form #cid_22:before,
-.pledge-form #cid_24:before {
+.pledge-form #input_28 {
+  color: #1463a1;
+}
+
+.pledge-form #cid_28:before,
+.pledge-form #cid_26:before {
   content: '\0024';
 }
 
-.pledge-form #cid_22:after,
-.pledge-form #cid_24:after {
+.pledge-form #cid_26:after {
   content: '.00';
 }
 

@@ -393,15 +393,10 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						          </div>
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_24">
-						        <label class="form-label-top" id="label_24" for="input_24">
-						          How much would you like to pledge?
-						          <span class="form-required">
-						            *
-						          </span>
-						        </label>
-						        <div id="cid_24" class="form-input-wide">
-						          <input type="text" class=" form-textbox validate[required]" data-type="input-textbox" id="input_24" name="q24_howMuch24" size="8" value="" />
+						      <li class="form-line" id="id_26">
+						        <label class="form-label-top" id="label_26" for="input_26"> How much would like to pledge? </label>
+						        <div id="cid_26" class="form-input-wide">
+						          <input type="text" class=" form-textbox" data-type="input-textbox" id="input_26" name="q26_howMuch" size="8" value="" />
 						        </div>
 						      </li>
 						      <li class="form-line" id="id_13">
@@ -431,10 +426,10 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						          </select>
 						        </div>
 						      </li>
-						      <li class="form-line" id="id_22">
-						        <label class="form-label-top" id="label_22" for="input_22"> Each payment would be: </label>
-						        <div id="cid_22" class="form-input-wide">
-						          <input type="text" class="form-textbox" data-type="input-textbox" id="input_22" name="q22_eachPayment" value="" size="8" />
+						      <li class="form-line" id="id_28">
+						        <label class="form-label-top" id="label_28" for="input_28"> Each payment would be: </label>
+						        <div id="cid_28" class="form-input-wide">
+						          <input type="text" class="form-textbox" data-type="input-textbox" id="input_28" name="q28_eachPayment28" value="" size="8" />
 						        </div>
 						      </li>
 						      <li class="form-line" id="id_16">
