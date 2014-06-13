@@ -401,7 +401,7 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						          </span>
 						        </label>
 						        <div id="cid_24" class="form-input-wide">
-						          <input type="text" class=" form-textbox validate[required]" data-type="input-textbox" id="input_24" name="q24_howMuch24" size="20" value="" />
+						          <input type="text" class=" form-textbox validate[required]" data-type="input-textbox" id="input_24" name="q24_howMuch24" size="8" value="" />
 						        </div>
 						      </li>
 						      <li class="form-line" id="id_13">
@@ -434,7 +434,7 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						      <li class="form-line" id="id_22">
 						        <label class="form-label-top" id="label_22" for="input_22"> Each payment would be: </label>
 						        <div id="cid_22" class="form-input-wide">
-						          <input type="text" class="form-textbox" data-type="input-textbox" id="input_22" name="q22_eachPayment" value="0" size="20" />
+						          <input type="text" class="form-textbox" data-type="input-textbox" id="input_22" name="q22_eachPayment" value="" size="8" />
 						        </div>
 						      </li>
 						      <li class="form-line" id="id_16">
@@ -466,9 +466,9 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						            </select>
 						            <label class="form-sub-label" for="input_16">
 						              <b>
-						                To select multiple
+						                To select multiple,
 						              </b>
-						              , hold the
+						              hold the
 						              <b>
 						                Ctrl
 						              </b>

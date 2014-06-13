@@ -3485,3 +3485,22 @@ Load paths:
 2014-06-13 14:42:13 overwrite css/main.css 
 2014-06-13 14:42:23 overwrite css/main.css 
 2014-06-13 14:42:37 overwrite css/main.css 
+2014-06-13 14:45:58 overwrite css/main.css 
+2014-06-13 14:46:06 overwrite css/main.css 
+2014-06-13 14:47:52     error sass/main.scss (Line 119 of sass/components/_forms.scss: Invalid CSS after "  	content: ": expected expression (e.g. 1px, bold), was "$; } }")
+2014-06-13 14:47:52 overwrite css/main.css 
+2014-06-13 14:47:52     error sass/main.scss (Line 119 of sass/components/_forms.scss: Invalid CSS after "  	content: ": expected expression (e.g. 1px, bold), was "$; } }")
+2014-06-13 14:47:52 identical css/main.css 
+2014-06-13 14:47:57 overwrite css/main.css 
+2014-06-13 14:48:00 identical css/main.css 
+2014-06-13 14:49:24 identical css/main.css 
+2014-06-13 14:53:21 overwrite css/main.css 
+2014-06-13 14:53:42 overwrite css/main.css 
+2014-06-13 14:54:01 overwrite css/main.css 
+2014-06-13 14:54:29 overwrite css/main.css 
+2014-06-13 14:54:36 overwrite css/main.css 
+2014-06-13 14:55:06 overwrite css/main.css 
+2014-06-13 14:55:12 overwrite css/main.css 
+2014-06-13 14:55:33 overwrite css/main.css 
+2014-06-13 14:55:36 overwrite css/main.css 
+2014-06-13 14:56:08 overwrite css/main.css 

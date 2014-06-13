@@ -114,6 +114,14 @@
 .pledge-form #id_22 { 
 	clear: both; }
 
+.pledge-form #cid_22:before, 
+.pledge-form #cid_24:before {
+  	content: '\0024'; }
+
+.pledge-form #cid_22:after, 
+.pledge-form #cid_24:after {
+  	content: '.00'; }
+
 .pledge-form .form-list option:nth-child(2n+1){
 	background: $super-light-gray; }
 
