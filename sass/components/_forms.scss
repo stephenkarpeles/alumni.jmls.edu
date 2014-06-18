@@ -139,7 +139,9 @@
 		  content: '\00a0'; } } }
 
 .pledge-form #id_13 { 
-	float: left; }
+	float: none;
+	@include breakpoint(bp2) {
+	  float: left; } }
 
 .pledge-form #id_13 select {
 	position: relative;
@@ -147,13 +149,27 @@
 
 .pledge-form #id_14 { 
 	position: relative;
-	left: -75px;
-	margin-top: 37px; }
+	left: 0;
+	@include breakpoint(bp2) {
+	  left: -75px;
+	  margin-top: 37px; } }
 
 .pledge-form #label_14 {
-	float: left;
-	padding-top: 3px;
-	margin-right: 6px; }
+	float: none;
+	font-weight: 700;
+	&:first-letter {
+		text-transform: uppercase !important; }
+	&:after {
+		content: '\00a0the course of:';	}	
+	@include breakpoint(bp2) {
+	  float: left;
+	  padding-top: 3px;
+	  margin-right: 6px;
+	  font-weight: 400;
+	  &:first-letter {
+		  text-transform: uppercase !important; }
+	  &:after {
+		  content: ''; } } }
 
 .pledge-form #cid_16 select {	
 	width: 100% !important;
@@ -161,6 +177,9 @@
 	  width: 400px !important; } }
 
 .pledge-form #id_22 { 
+	clear: both; }
+
+.pledge-form #id_28 {
 	clear: both; }
 
 .pledge-form #input_28 {

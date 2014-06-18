@@ -420,8 +420,8 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						          </select>
 						        </div>
 						      </li>
-						      <li class="form-line form-line-column form-line-column-clear" id="id_14">
-						        <label class="form-label form-label-left" id="label_14" for="input_14"> over </label>
+						      <li class="form-line" id="id_14">
+						        <label class="form-label form-label-left" id="label_14" for="input_14"> Over </label>
 						        <div id="cid_14" class="form-input">
 						          <select class="form-dropdown" style="width:150px" id="input_14" name="q14_over">
 						            <option value="">  </option>

@@ -3651,3 +3651,54 @@ Load paths:
 2014-06-18 11:38:51 overwrite css/main.css 
 2014-06-18 11:38:54 identical css/main.css 
 2014-06-18 11:39:10 identical css/main.css 
+2014-06-18 11:39:32 identical css/main.css 
+2014-06-18 11:46:42 overwrite css/main.css 
+2014-06-18 11:57:29     error sass/main.scss (Line 214 of sass/components/_forms.scss: Invalid CSS after "...0 !important; }": expected "}", was "")
+2014-06-18 11:57:29 overwrite css/main.css 
+2014-06-18 11:57:29     error sass/main.scss (Line 214 of sass/components/_forms.scss: Invalid CSS after "...0 !important; }": expected "}", was "")
+2014-06-18 11:57:29 identical css/main.css 
+2014-06-18 11:57:34 overwrite css/main.css 
+2014-06-18 11:58:14     error sass/main.scss (Line 216 of sass/components/_forms.scss: Invalid CSS after "...0 !important; }": expected "}", was "")
+2014-06-18 11:58:14 overwrite css/main.css 
+2014-06-18 11:58:14     error sass/main.scss (Line 216 of sass/components/_forms.scss: Invalid CSS after "...0 !important; }": expected "}", was "")
+2014-06-18 11:58:14 identical css/main.css 
+2014-06-18 11:58:18 overwrite css/main.css 
+2014-06-18 11:58:48 identical css/main.css 
+2014-06-18 11:59:14 overwrite css/main.css 
+2014-06-18 11:59:44     error sass/main.scss (Line 219 of sass/components/_forms.scss: Invalid CSS after "...0 !important; }": expected "}", was "")
+2014-06-18 11:59:44 overwrite css/main.css 
+2014-06-18 11:59:44     error sass/main.scss (Line 219 of sass/components/_forms.scss: Invalid CSS after "...0 !important; }": expected "}", was "")
+2014-06-18 11:59:44 identical css/main.css 
+2014-06-18 11:59:50 overwrite css/main.css 
+2014-06-18 12:01:23 overwrite css/main.css 
+2014-06-18 12:01:46 overwrite css/main.css 
+2014-06-18 12:01:56 identical css/main.css 
+2014-06-18 12:02:02 identical css/main.css 
+2014-06-18 12:02:08 overwrite css/main.css 
+2014-06-18 12:02:18 identical css/main.css 
+2014-06-18 12:02:43 overwrite css/main.css 
+2014-06-18 12:02:51 identical css/main.css 
+2014-06-18 12:02:56 overwrite css/main.css 
+2014-06-18 12:02:59 identical css/main.css 
+2014-06-18 12:03:18     error sass/main.scss (Line 224 of sass/components/_forms.scss: Invalid CSS after "...0 !important; }": expected "}", was "")
+2014-06-18 12:03:18 overwrite css/main.css 
+2014-06-18 12:03:18     error sass/main.scss (Line 224 of sass/components/_forms.scss: Invalid CSS after "...0 !important; }": expected "}", was "")
+2014-06-18 12:03:18 identical css/main.css 
+2014-06-18 12:03:23 overwrite css/main.css 
+2014-06-18 12:03:26 overwrite css/main.css 
+2014-06-18 12:04:21 overwrite css/main.css 
+2014-06-18 12:04:24 identical css/main.css 
+2014-06-18 12:04:42 identical css/main.css 
+2014-06-18 12:05:29 overwrite css/main.css 
+2014-06-18 12:05:48 overwrite css/main.css 
+2014-06-18 12:05:53 identical css/main.css 
+2014-06-18 12:06:12 identical css/main.css 
+2014-06-18 12:06:17 overwrite css/main.css 
+2014-06-18 12:06:19 overwrite css/main.css 
+2014-06-18 12:06:27 overwrite css/main.css 
+2014-06-18 12:06:32 identical css/main.css 
+2014-06-18 12:06:37 overwrite css/main.css 
+2014-06-18 12:06:46 identical css/main.css 
+2014-06-18 12:06:48 identical css/main.css 
+2014-06-18 12:06:50 identical css/main.css 
+2014-06-18 12:07:24 overwrite css/main.css 
