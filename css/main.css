@@ -1286,7 +1286,12 @@ li.crumb-item:last-child .crumb-tail {
 
 .pledge-form {
   background: #e7e7e7;
-  padding: 20px 30px;
+  padding: 20px 20px;
+}
+@media (min-width: 800px) {
+  .pledge-form {
+    padding: 20px 30px;
+  }
 }
 
 .pledge-form input[type="text"],
@@ -1311,8 +1316,12 @@ li.crumb-item:last-child .crumb-tail {
 }
 
 .pledge-form #id_4 {
-  float: left;
   margin-right: 20px;
+}
+@media (min-width: 600px) {
+  .pledge-form #id_4 {
+    float: left;
+  }
 }
 
 .pledge-form #id_6 {
@@ -1323,9 +1332,13 @@ li.crumb-item:last-child .crumb-tail {
 
 .pledge-form #id_8 {
   clear: both;
-  float: left;
   width: 310px;
   margin-right: 40px;
+}
+@media (min-width: 800px) {
+  .pledge-form #id_8 {
+    float: left;
+  }
 }
 
 .pledge-form #id_8 .form-sub-label {
@@ -1350,7 +1363,12 @@ li.crumb-item:last-child .crumb-tail {
 }
 
 .pledge-form #id_9 {
-  float: left;
+  float: none;
+}
+@media (min-width: 800px) {
+  .pledge-form #id_9 {
+    float: left;
+  }
 }
 
 .pledge-form #input_9,
@@ -1359,14 +1377,31 @@ li.crumb-item:last-child .crumb-tail {
 }
 
 .pledge-form #id_25 {
-  float: left;
+  float: none;
+  clear: both;
+}
+@media (min-width: 800px) {
+  .pledge-form #id_25 {
+    float: left;
+    clear: none;
+  }
 }
 
 .pledge-form #id_11 {
   clear: both;
 }
 
-.pledge-form #id_11,
+.pledge-form #id_11 {
+  margin-top: 25px;
+  padding-top: 15px;
+  border-top: 1px solid #cacaca;
+}
+@media (min-width: 800px) {
+  .pledge-form #id_11 {
+    margin-top: 25px;
+  }
+}
+
 .pledge-form #id_19 {
   margin-top: 25px;
   padding-top: 15px;

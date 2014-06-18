@@ -21,7 +21,7 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 				  		
 					<h1 class="page-header">Make a Pledge to Support John Marshall</h1>					
 					<p class="featured-text">A pledge is an excellent demonstration of your committment to helping John Marshall advance its mission of providing access and opportunity. Your pledge allows you to choose what specific initiative you would like to support, for how long, and at what dollar amount.</p> 
-					<p><strong>To make a pledge, please complete the form below.</strong> Once your information has been submitted, we will [MORE CONTENT NEEDS TO GO HERE TO EXPLAIN WHAT HAPPENS AFTER THEY SUBMIT THE FORM]</p>		
+					<p><strong>To make a pledge, please complete the form below.</strong> Once you submit the form, we will contact you to confirm your details and receive your payment information.</p>	
 
 					<!-- Start Form -->
 

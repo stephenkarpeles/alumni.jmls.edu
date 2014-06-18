@@ -17,7 +17,9 @@
 // Pledge Form Styles
 .pledge-form {
 	background: $light-gray;
-	padding: 20px 30px; }
+	padding: 20px 20px;
+	@include breakpoint(bp3) {
+	padding: 20px 30px; } }
 
 .pledge-form input[type="text"],
 .pledge-form input[type="email"],
@@ -37,8 +39,9 @@
 	width: 144px; }
 
 .pledge-form #id_4 {
-	float: left;
-	margin-right: 20px; }
+	margin-right: 20px;
+	@include breakpoint(bp2) {
+	float: left; } }
 
 .pledge-form #id_6 {
 	clear: both;
@@ -46,10 +49,11 @@
 	margin-right: 15px; }
 
 .pledge-form #id_8 {
-	clear: both;
-	float: left;
+	clear: both;	
 	width: 310px;
-	margin-right: 40px; }
+	margin-right: 40px;
+	@include breakpoint(bp3) {
+	  float: left; } }
 
 .pledge-form #id_8 .form-sub-label {
 	margin: 1px 0 6px; }
@@ -68,19 +72,31 @@
 	margin-right: 22px; }
 
 .pledge-form #id_9 {
-	float: left; }
+	float: none;
+	@include breakpoint(bp3) {
+	float: left; } }
 
 .pledge-form #input_9,  
 .pledge-form #input_25 { 
 	width: 310px; }
 
 .pledge-form #id_25 {
-	float: left; }
+	float: none;
+	clear: both; 
+	@include breakpoint(bp3) {
+	float: left;
+	clear: none; } }
 
 .pledge-form #id_11 {
 	clear: both; }
 
-.pledge-form #id_11,
+.pledge-form #id_11 {
+	margin-top: 25px;
+	padding-top: 15px;
+	border-top: 1px solid $lighter-gray; 
+	@include breakpoint(bp3) {
+	margin-top: 25px;	} }
+
 .pledge-form #id_19 {
 	margin-top: 25px;
 	padding-top: 15px;
