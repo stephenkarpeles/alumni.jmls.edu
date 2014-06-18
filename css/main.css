@@ -1325,19 +1325,27 @@ li.crumb-item:last-child .crumb-tail {
 }
 
 .pledge-form #id_6 {
-  clear: both;
-  float: left;
-  margin-right: 15px;
+  clear: none;
+  float: none;
+}
+@media (min-width: 600px) {
+  .pledge-form #id_6 {
+    clear: both;
+    float: left;
+    margin-right: 12px;
+  }
 }
 
 .pledge-form #id_8 {
   clear: both;
-  width: 310px;
-  margin-right: 40px;
+  width: 100%;
+  margin-right: 0;
 }
 @media (min-width: 800px) {
   .pledge-form #id_8 {
     float: left;
+    width: 310px;
+    margin-right: 40px;
   }
 }
 
@@ -1346,16 +1354,43 @@ li.crumb-item:last-child .crumb-tail {
 }
 
 .pledge-form .form-address-line {
-  width: 310px;
+  width: 100%;
+}
+@media (min-width: 600px) {
+  .pledge-form .form-address-line {
+    width: 310px;
+  }
 }
 
 .pledge-form .form-address-city,
-.pledge-form .form-address-state {
-  width: 144px;
+.pledge-form .form-address-postal {
+  width: 90%;
+}
+@media (min-width: 600px) {
+  .pledge-form .form-address-city,
+  .pledge-form .form-address-postal {
+    width: 144px;
+  }
+}
+
+.pledge-form #input_8_state,
+.pledge-form #input_8_country {
+  width: 100%;
+}
+@media (min-width: 600px) {
+  .pledge-form #input_8_state,
+  .pledge-form #input_8_country {
+    width: 144px;
+  }
 }
 
 .pledge-form .form-address-postal {
-  width: 95px;
+  width: 90%;
+}
+@media (min-width: 600px) {
+  .pledge-form .form-address-postal {
+    width: 95px;
+  }
 }
 
 .pledge-form .form-address-city {
@@ -1373,7 +1408,13 @@ li.crumb-item:last-child .crumb-tail {
 
 .pledge-form #input_9,
 .pledge-form #input_25 {
-  width: 310px;
+  width: 100%;
+}
+@media (min-width: 600px) {
+  .pledge-form #input_9,
+  .pledge-form #input_25 {
+    width: 310px;
+  }
 }
 
 .pledge-form #id_25 {
@@ -1408,14 +1449,29 @@ li.crumb-item:last-child .crumb-tail {
   border-top: 1px solid #cacaca;
 }
 
-.pledge-form #id_23 {
-  margin-top: 37px;
+@media (min-width: 600px) {
+  .pledge-form #id_23 {
+    margin-top: 37px;
+  }
 }
 
 .pledge-form #label_23 {
-  float: left;
-  padding-top: 3px;
-  margin-right: 6px;
+  float: none;
+  font-weight: 700;
+}
+.pledge-form #label_23:before {
+  content: 'Graduation\00a0';
+}
+@media (min-width: 600px) {
+  .pledge-form #label_23 {
+    float: left;
+    padding-top: 3px;
+    margin-right: 6px;
+    font-weight: 400;
+  }
+  .pledge-form #label_23:before {
+    content: '\00a0';
+  }
 }
 
 .pledge-form #id_13 {
@@ -1437,6 +1493,15 @@ li.crumb-item:last-child .crumb-tail {
   float: left;
   padding-top: 3px;
   margin-right: 6px;
+}
+
+.pledge-form #cid_16 select {
+  width: 100% !important;
+}
+@media (min-width: 800px) {
+  .pledge-form #cid_16 select {
+    width: 400px !important;
+  }
 }
 
 .pledge-form #id_22 {

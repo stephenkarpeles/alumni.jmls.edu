@@ -44,29 +44,46 @@
 	float: left; } }
 
 .pledge-form #id_6 {
-	clear: both;
-	float: left;
-	margin-right: 15px; }
+  clear: none;
+  float: none;
+	@include breakpoint(bp2) {
+	  clear: both;
+	  float: left;
+	  margin-right: 12px; } }
 
 .pledge-form #id_8 {
 	clear: both;	
-	width: 310px;
-	margin-right: 40px;
+	width: 100%;
+	margin-right: 0;
 	@include breakpoint(bp3) {
-	  float: left; } }
+	  float: left;
+	  width: 310px;
+	  margin-right: 40px; } }
 
 .pledge-form #id_8 .form-sub-label {
 	margin: 1px 0 6px; }
 
 .pledge-form .form-address-line {
-	width: 310px; }
+	width: 100%;
+	@include breakpoint(bp2) {
+	  width: 310px; } }
 
 .pledge-form .form-address-city,
-.pledge-form .form-address-state {
-	width: 144px; }
+.pledge-form .form-address-postal {
+	width: 90%;
+	@include breakpoint(bp2) {
+	  width: 144px; } }
+
+.pledge-form #input_8_state,
+.pledge-form #input_8_country {
+	width: 100%;
+	@include breakpoint(bp2) {
+		width: 144px; } }
 
 .pledge-form .form-address-postal {
-	width: 95px; } 
+	width: 90%;
+	@include breakpoint(bp2) {
+	  width: 95px; } }
 
 .pledge-form .form-address-city {
 	margin-right: 22px; }
@@ -78,14 +95,16 @@
 
 .pledge-form #input_9,  
 .pledge-form #input_25 { 
-	width: 310px; }
+	width: 100%;
+	@include breakpoint(bp2) {
+		width: 310px; }	}
 
 .pledge-form #id_25 {
 	float: none;
 	clear: both; 
 	@include breakpoint(bp3) {
-	float: left;
-	clear: none; } }
+		float: left;
+		clear: none; } }
 
 .pledge-form #id_11 {
 	clear: both; }
@@ -103,12 +122,21 @@
 	border-top: 1px solid $lighter-gray; }
 
 .pledge-form #id_23 { 
-	margin-top: 37px; }
+	@include breakpoint(bp2) {
+	  margin-top: 37px; } }
 
 .pledge-form #label_23 {
-	float: left;
-	padding-top: 3px;
-	margin-right: 6px; }
+	float: none; 
+	font-weight: 700;
+	&:before {
+		content: 'Graduation\00a0'; }
+	@include breakpoint(bp2) {
+	  float: left;
+	  padding-top: 3px;
+	  margin-right: 6px;
+	  font-weight: 400;
+	  &:before {
+		  content: '\00a0'; } } }
 
 .pledge-form #id_13 { 
 	float: left; }
@@ -126,6 +154,11 @@
 	float: left;
 	padding-top: 3px;
 	margin-right: 6px; }
+
+.pledge-form #cid_16 select {	
+	width: 100% !important;
+	@include breakpoint(bp3) {
+	  width: 400px !important; } }
 
 .pledge-form #id_22 { 
 	clear: both; }
