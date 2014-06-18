@@ -480,13 +480,13 @@ $tpTitle="Make a Pledge to Support John Marshall | The John Marshall Law School 
 						      <li class="form-line" id="id_17">
 						        <label class="form-label form-label-top" id="label_17" for="input_17"> If other, please describe what your pledge will support: </label>
 						        <div id="cid_17" class="form-input-wide">
-						          <textarea id="input_17" class="form-textarea" name="q17_ifOther" cols="40" rows="6"></textarea>
+						          <textarea id="input_17" class="form-textarea" name="q17_ifOther" cols="" rows="6"></textarea>
 						        </div>
 						      </li>
 						      <li class="form-line" id="id_19">
 						        <label class="form-label form-label-top" id="label_19" for="input_19"> Comments: </label>
 						        <div id="cid_19" class="form-input-wide">
-						          <textarea id="input_19" class="form-textarea" name="q19_comments" cols="40" rows="6"></textarea>
+						          <textarea id="input_19" class="form-textarea" name="q19_comments" cols="" rows="6"></textarea>
 						        </div>
 						      </li>
 						      <li class="form-line" id="id_20">

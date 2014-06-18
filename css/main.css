@@ -1296,7 +1296,6 @@ li.crumb-item:last-child .crumb-tail {
 
 .pledge-form input[type="text"],
 .pledge-form input[type="email"],
-.pledge-form textarea,
 .pledge-form select {
   padding-left: 4px;
   border: 1px solid #cacaca;
@@ -1305,6 +1304,17 @@ li.crumb-item:last-child .crumb-tail {
 .pledge-form input[type="text"],
 .pledge-form input[type="email"] {
   height: 28px;
+}
+
+.pledge-form textarea {
+  width: 100%;
+  padding-left: 4px;
+  border: 1px solid #cacaca;
+}
+@media (min-width: 600px) {
+  .pledge-form textarea {
+    width: 310px;
+  }
 }
 
 .pledge-form select {
@@ -1491,6 +1501,7 @@ li.crumb-item:last-child .crumb-tail {
 .pledge-form #id_14 {
   position: relative;
   left: 0;
+  margin-top: 0;
 }
 @media (min-width: 600px) {
   .pledge-form #id_14 {
@@ -1503,9 +1514,6 @@ li.crumb-item:last-child .crumb-tail {
   float: none;
   font-weight: 700;
 }
-.pledge-form #label_14:first-letter {
-  text-transform: uppercase !important;
-}
 .pledge-form #label_14:after {
   content: '\00a0the course of:';
 }
@@ -1515,9 +1523,6 @@ li.crumb-item:last-child .crumb-tail {
     padding-top: 3px;
     margin-right: 6px;
     font-weight: 400;
-  }
-  .pledge-form #label_14:first-letter {
-    text-transform: uppercase !important;
   }
   .pledge-form #label_14:after {
     content: '';
