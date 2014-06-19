@@ -1,3 +1,5 @@
+// General Form Styles
+
 .form-section {
 	padding: 0;
 	margin: 0;
@@ -14,8 +16,9 @@
 	display: block;
 	font-size: $font-size-smallest; }
 
-// Pledge Form Styles
-.pledge-form {
+// Specific Form Styles
+.pledge-form,
+.get-quoted-form {
 	background: $light-gray;
 	padding: 20px 20px;
 	@include breakpoint(bp3) {
@@ -23,12 +26,17 @@
 
 .pledge-form input[type="text"],
 .pledge-form input[type="email"], 
-.pledge-form select {
+.pledge-form select,
+.get-quoted-form input[type="text"],
+.get-quoted-form input[type="email"], 
+.get-quoted-form select {
 	padding-left: 4px;
 	border: 1px solid $lighter-gray; }
 
 .pledge-form input[type="text"],
-.pledge-form input[type="email"] {
+.pledge-form input[type="email"],
+.get-quoted-form input[type="text"],
+.get-quoted-form input[type="email"] {
 	height: 28px; }
 
 .pledge-form textarea {
@@ -196,7 +204,8 @@
 .pledge-form #cid_26:after {
   	content: '.00'; }
 
-.pledge-form .form-list option:nth-child(2n+1){
+.pledge-form .form-list option:nth-child(2n+1), 
+.get-quoted-form .form-list option:nth-child(2n+1) {
 	background: $super-light-gray; }
 
 .pledge-form #cid_16 .form-sub-label { 
@@ -204,7 +213,8 @@
 	margin-top: 3px;
 	margin-bottom: 10px; }
 
-.pledge-form .form-submit-button {
+.pledge-form .form-submit-button, 
+.get-quoted-form .form-submit-button {
 	position: relative;
 	margin-top: 15px;
 	padding: .25em 1em .35em; 
@@ -230,3 +240,26 @@
 
 .pledge-form button {
 	outline: 0 !important; }
+
+// Get Quoted Form 
+.get-quoted-form textarea {
+	width: 100%;
+	padding-left: 4px;
+	border: 1px solid $lighter-gray;
+	@include breakpoint(bp2) {
+		width: 360px; } }
+
+.get-quoted-form #cid_10 .form-sub-label {
+	padding-left: 4px;
+	margin-top: 3px; }
+
+.get-quoted-form input[type="text"],
+.get-quoted-form input[type="email"] {
+	width: 100%;
+	@include breakpoint(bp2) {
+	  width: 235px; } }
+
+.get-quoted-form #cid_10 select {
+	width: 100%;
+	@include breakpoint(bp2) {
+	  width: 360px; } }
