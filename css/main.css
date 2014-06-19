@@ -1342,7 +1342,7 @@ li.crumb-item:last-child .crumb-tail {
   .pledge-form #id_6 {
     clear: both;
     float: left;
-    margin-right: 12px;
+    margin-right: 13px;
   }
 }
 
@@ -1459,6 +1459,9 @@ li.crumb-item:last-child .crumb-tail {
   border-top: 1px solid #cacaca;
 }
 
+.pledge-form #id_23 {
+  margin-top: 0;
+}
 @media (min-width: 600px) {
   .pledge-form #id_23 {
     margin-top: 37px;
@@ -1470,7 +1473,7 @@ li.crumb-item:last-child .crumb-tail {
   font-weight: 700;
 }
 .pledge-form #label_23:before {
-  content: 'Graduation\00a0';
+  content: 'Graduation';
 }
 @media (min-width: 600px) {
   .pledge-form #label_23 {
@@ -1515,17 +1518,17 @@ li.crumb-item:last-child .crumb-tail {
   font-weight: 700;
 }
 .pledge-form #label_14:after {
-  content: '\00a0the course of:';
+  content: 'the course of:';
 }
 @media (min-width: 600px) {
   .pledge-form #label_14 {
     float: left;
     padding-top: 3px;
-    margin-right: 6px;
+    margin-right: 2px;
     font-weight: 400;
   }
   .pledge-form #label_14:after {
-    content: '';
+    content: '\00a0';
   }
 }
 
