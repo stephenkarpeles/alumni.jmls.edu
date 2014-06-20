@@ -1,7 +1,7 @@
 <!-- Meta Info -->
 <?php
 // Remove commented out marks before each line you wish to edit, and place content between quote marks.
-$tpTitle="Get Quoted Form Thank You | The John Marshall Law School - Office of Alumni Relations &amp; Development";
+$tpTitle="Alumni Newsletter Form Thank You | The John Marshall Law School - Office of Alumni Relations &amp; Development";
 // $pgDesc="";
 ?>
 
@@ -19,9 +19,9 @@ $tpTitle="Get Quoted Form Thank You | The John Marshall Law School - Office of A
 				  <!-- Breadcrumbs -->		
 				  <?php include('../includes/breadcrumbs.php'); ?>		
 				  		
-					<h1 class="page-header">Thank you for submitting your information!</h1>					
-					<p class="featured-text">Your area(s) of expertise will be added to a database maintained by The Office of Public Affairs.</p>
-					<p class="featured-text">Should the media contact the law school looking for experts in a specific area of law, you may be contacted by The Office of Public Affairs to speak with a reporter or another member of the media.</p>
+					<h1 class="page-header">Thank you for signing up!</h1>					
+					<p class="featured-text">Your email address will be added to our list, and you'll begin receiving our newsletters going forward.</p>
+					<p class="featured-text">Should you wish to unsubscribe at any point, simply click the "unsubscribe" link at the bottom of the emails.</p>
 					<p class="featured-text">Thank you once again!</p>
 
 					<div class="mar-bot-medium"></div>

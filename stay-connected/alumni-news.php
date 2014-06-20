@@ -6,7 +6,7 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 ?>
 
 <!-- Header -->
-<?php include('../includes/header.php'); ?>
+<?php include('../includes/header-alumni-news-form.php'); ?>
 
 	<!-- Begin Content -->
 	<section>
@@ -32,7 +32,53 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 						<div class="grid-col bp3-col-1-3 mar-bot-medium">
 							<h3 class="mar-top-zero">Alumni Newsletter</h3>
 							<p><em>Description coming</em></p>
-							<p><strong>Not receiving the alumni newsletter?</strong><br><a href="#" class="bold">Sign Up for Alumni News</a> <em>(Interface details coming)</em></p>
+							<p><strong>Not receiving the alumni newsletter?</strong></p>
+
+							<!-- Start Form -->
+							<div style="font-size: 1em; line-height: 1.3;" class="header-bar header-bar-gray">Sign up below:</div>
+
+							<div class="alumni-newsletter-form">								
+							
+								<form class="jotform-form" action="http://submit.jotform.us/submit/41704843724152/" method="post" name="form_41704843724152" id="41704843724152" accept-charset="utf-8">
+								  <input type="hidden" name="formID" value="41704843724152" />
+								  <div class="form-all">
+								    <ul class="form-section">
+								      <li class="form-line" id="id_1">
+								        <label class="form-label form-label-top" id="label_1" for="input_1"> Name </label>
+								        <div id="cid_1" class="form-input-wide">
+								          <input type="text" class=" form-textbox" data-type="input-textbox" id="input_1" name="q1_name" size="20" value="" />
+								        </div>
+								      </li>
+								      <li class="form-line" id="id_3">
+								        <label class="form-label form-label-top" id="label_3" for="input_3"> E-mail Address </label>
+								        <div id="cid_3" class="form-input-wide">
+								          <input type="text" class=" form-textbox" data-type="input-textbox" id="input_3" name="q3_emailAddress" size="20" value="" />
+								        </div>
+								      </li>
+								      <li class="form-line" id="id_2">
+								        <div id="cid_2" class="form-input-wide">
+								          <div style="text-align:left" class="form-buttons-wrapper">
+								            <button id="input_2" type="submit" class="form-submit-button">
+								              Subscribe
+								            </button>
+								          </div>
+								        </div>
+								      </li>
+								      <li style="display:none">
+								        Should be Empty:
+								        <input type="text" name="website" value="" />
+								      </li>
+								    </ul>
+								  </div>
+								  <input type="hidden" id="simple_spc" name="simple_spc" value="41704843724152" />
+								  <script type="text/javascript">
+								  document.getElementById("si" + "mple" + "_spc").value = "41704843724152-41704843724152";
+								  </script>
+								</form>
+
+							</div>
+							<!-- End Form -->
+
 						</div>
 						<div class="grid-col bp3-col-1-3 mar-bot-medium">
 							<h3 class="mar-top-zero mar-bot-smaller">John Marshall News</h3>

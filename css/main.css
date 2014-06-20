@@ -1301,7 +1301,10 @@ li.crumb-item:last-child .crumb-tail {
 .pledge-form select,
 .get-quoted-form input[type="text"],
 .get-quoted-form input[type="email"],
-.get-quoted-form select {
+.get-quoted-form select,
+.alumni-newsletter-form input[type="text"],
+.alumni-newsletter-form input[type="email"],
+.alumni-newsletter-form select {
   padding-left: 4px;
   border: 1px solid #cacaca;
 }
@@ -1581,7 +1584,8 @@ li.crumb-item:last-child .crumb-tail {
 }
 
 .pledge-form .form-submit-button,
-.get-quoted-form .form-submit-button {
+.get-quoted-form .form-submit-button,
+.alumni-newsletter-form .form-submit-button {
   position: relative;
   margin-top: 15px;
   padding: .25em 1em .35em;
@@ -1601,12 +1605,14 @@ li.crumb-item:last-child .crumb-tail {
   box-shadow: #bebebe 2px 2px 0;
 }
 .pledge-form .form-submit-button:hover,
-.get-quoted-form .form-submit-button:hover {
+.get-quoted-form .form-submit-button:hover,
+.alumni-newsletter-form .form-submit-button:hover {
   background: #c30000;
   color: white;
 }
 .pledge-form .form-submit-button:active,
-.get-quoted-form .form-submit-button:active {
+.get-quoted-form .form-submit-button:active,
+.alumni-newsletter-form .form-submit-button:active {
   bottom: -2px;
   right: -2px;
   outline: 0 !important;
@@ -1616,8 +1622,15 @@ li.crumb-item:last-child .crumb-tail {
 }
 .pledge-form .form-submit-button:active:focus, .pledge-form .form-submit-button:active:visited,
 .get-quoted-form .form-submit-button:active:focus,
-.get-quoted-form .form-submit-button:active:visited {
+.get-quoted-form .form-submit-button:active:visited,
+.alumni-newsletter-form .form-submit-button:active:focus,
+.alumni-newsletter-form .form-submit-button:active:visited {
   outline: 0 !important;
+}
+
+.alumni-newsletter-form .form-submit-button {
+  margin-top: 5px;
+  margin-bottom: 0;
 }
 
 .pledge-form button {
@@ -1657,6 +1670,23 @@ li.crumb-item:last-child .crumb-tail {
 @media (min-width: 600px) {
   .get-quoted-form #cid_10 select {
     width: 360px;
+  }
+}
+
+.alumni-newsletter-form {
+  padding: 10px 20px;
+  background: #e7e7e7;
+}
+
+.alumni-newsletter-form input[type="text"],
+.alumni-newsletter-form input[type="email"] {
+  width: 100%;
+  height: 25px;
+}
+@media (min-width: 480px) {
+  .alumni-newsletter-form input[type="text"],
+  .alumni-newsletter-form input[type="email"] {
+    width: 180px;
   }
 }
 

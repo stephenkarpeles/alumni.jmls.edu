@@ -29,7 +29,10 @@
 .pledge-form select,
 .get-quoted-form input[type="text"],
 .get-quoted-form input[type="email"], 
-.get-quoted-form select {
+.get-quoted-form select,
+.alumni-newsletter-form input[type="text"],
+.alumni-newsletter-form input[type="email"], 
+.alumni-newsletter-form select, {
 	padding-left: 4px;
 	border: 1px solid $lighter-gray; }
 
@@ -214,7 +217,8 @@
 	margin-bottom: 10px; }
 
 .pledge-form .form-submit-button, 
-.get-quoted-form .form-submit-button {
+.get-quoted-form .form-submit-button,
+.alumni-newsletter-form .form-submit-button {
 	position: relative;
 	margin-top: 15px;
 	padding: .25em 1em .35em; 
@@ -237,6 +241,10 @@
 		@include box-shadow(white 0 0 0);
 	&:focus, &:visited {
 		outline: 0 !important; } } }	
+
+.alumni-newsletter-form .form-submit-button {
+	margin-top: 5px;
+	margin-bottom: 0; }
 
 .pledge-form button {
 	outline: 0 !important; }
@@ -263,3 +271,16 @@
 	width: 100%;
 	@include breakpoint(bp2) {
 	  width: 360px; } }
+
+// Alumni News Form {
+
+.alumni-newsletter-form {
+	padding: 10px 20px;
+	background: $light-gray; }
+
+.alumni-newsletter-form input[type="text"],
+.alumni-newsletter-form input[type="email"] {
+	width: 100%;
+	height: 25px;	
+  @include breakpoint(bp1) {
+  	width: 180px; } }
