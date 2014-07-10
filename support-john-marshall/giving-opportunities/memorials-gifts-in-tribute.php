@@ -43,4 +43,4 @@ $tpTitle="Memorials &amp; Gifts in Tribute | The John Marshall Law School - Offi
 	</section>
 
 <!-- Footer -->
-<?php include('../../includes/footer.php'); ?>	
+<?php include('../../includes/footer.php'); ?>
