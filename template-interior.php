@@ -1,4 +1,4 @@
-<?php include('includes/header.php'); ?>
+<?php include('includes/header.inc'); ?>
 
 	<!-- Begin Content -->
 	<section>
@@ -7,9 +7,6 @@
 
 				<!-- Main -->			
 				<article class="main">	
-
-				  <!-- Breadcrumbs -->		
-				  <?php include('includes/breadcrumbs.php'); ?>
 
 					<h1 class="page-header">Main Headline</h1>
 					<p class="featured-text">Lorem ipsum dolor sit amet, cu has dicta fabellas, noluisse neglegentur instructior eos eu. Pro te error virtute euripidis, pro at fugit praesent, vis agam legere ut.</p>
@@ -28,13 +25,11 @@
 						
 			<div class="grid-col bp3-col-1-4">
 				<!-- Sidebar Wrap Top -->
-				<?php include('includes/sidebar/sidebar-wrap-top.php'); ?>
-				<!-- Sidebar Wrap Bottom -->
-				<?php include('includes/sidebar/sidebar-wrap-bottom-alt.php'); ?>					
+				<?php include('includes/sidebar/sidebar.inc'); ?>					
 			</div><!-- .grid-col -->						
 
 		</div><!-- .grid-wrap -->	
 	</section>
 
 <!-- Footer -->
-<?php include('includes/footer.php'); ?>	
+<?php include('includes/footer.inc'); ?>	

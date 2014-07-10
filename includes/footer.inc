@@ -5,7 +5,7 @@
 			
 				<div class="grid-wrap">
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
-						<div class="footer-headline">Get Involved</div>
+						<div class="footer-headline"><a href="http://test.jmls.edu/testalumni/get-involved/">Get Involved</a></div>
 						<ul class="no-list-style">
 						  <li><a href="http://test.jmls.edu/testalumni/get-involved/volunteer-opportunities.php">Volunteer Opportunities</a></li>
 						  <li><a href="http://test.jmls.edu/testalumni/get-involved/alumni-events.php">Alumni Events</a></li>
@@ -15,7 +15,7 @@
 						</ul>
 					</div>
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
-						<div class="footer-headline">Stay Connected</div>
+						<div class="footer-headline"><a href="http://test.jmls.edu/testalumni/stay-connected/">Stay Connected</a></div>
 						<ul class="no-list-style">
 							<li><a href="http://test.jmls.edu/testalumni/stay-connected/alumni-news.php">Alumni News</a></li>
 							<li><a href="http://www.jmls.edu/alumni-reunion/" target="_blank">Alumni Reunions</a></li>
@@ -25,7 +25,7 @@
 						</ul>
 					</div>
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
-						<div class="footer-headline">Tips &amp; Tools</div>
+						<div class="footer-headline"><a href="http://test.jmls.edu/testalumni/tips-and-tools/">Tips &amp; Tools</a></div>
 						<ul class="no-list-style">
 							<li><a href="http://test.jmls.edu/testalumni/tips-and-tools/resources.php">JMLS Resources</a></li>
 							<li><a href="http://www.jmls.edu/career-services/alumni/" target="_blank">Career Services Office</a></li>
@@ -35,7 +35,7 @@
 						</ul>
 					</div>
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
-						<div class="footer-headline">Support John Marshall</div>
+						<div class="footer-headline"><a href="http://test.jmls.edu/testalumni/support-john-marshall/">Support John Marshall</a></div>
 						<ul class="no-list-style">
 							<li><a href="http://test.jmls.edu/testalumni/support-john-marshall/why-give.php">Why Give</a></li>
 							<li><a href="http://www.jmls.edu/give" target="_blank">Give Now</a></li>

@@ -47,7 +47,7 @@
 		<div class="grid-col bp2-col-1-2 bp3-col-1-1">
 			<div class="module">
 				<div class="header-bar header-bar-gold">Contact Us</div>
-				  <div class="feature-box feature-box-color feature-box-gold">
+				  <div class="feature-box feature-box-color feature-box-gold line-height-main-alt">
 						315 S Plymouth Court<br>
 						Chicago, IL 60604<br>
 						312.427.2737<br>

@@ -5,7 +5,7 @@
 			
 				<div class="grid-wrap">
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
-						<div class="footer-headline">Get Involved</div>
+						<div class="footer-headline"><a href="<?php echo $siteroot ?>/get-involved/">Get Involved</a></div>
 						<ul class="no-list-style">
 						  <li><a href="<?php echo $siteroot ?>/get-involved/volunteer-opportunities.php">Volunteer Opportunities</a></li>
 						  <li><a href="<?php echo $siteroot ?>/get-involved/alumni-events.php">Alumni Events</a></li>
@@ -15,7 +15,7 @@
 						</ul>
 					</div>
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
-						<div class="footer-headline">Stay Connected</div>
+						<div class="footer-headline"><a href="<?php echo $siteroot ?>/stay-connected/">Stay Connected</a></div>
 						<ul class="no-list-style">
 							<li><a href="<?php echo $siteroot ?>/stay-connected/alumni-news.php">Alumni News</a></li>
 							<li><a href="http://www.jmls.edu/alumni-reunion/" target="_blank">Alumni Reunions</a></li>
@@ -25,7 +25,7 @@
 						</ul>
 					</div>
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
-						<div class="footer-headline">Tips &amp; Tools</div>
+						<div class="footer-headline"><a href="<?php echo $siteroot ?>/tips-and-tools/">Tips &amp; Tools</a></div>
 						<ul class="no-list-style">
 							<li><a href="<?php echo $siteroot ?>/tips-and-tools/resources.php">JMLS Resources</a></li>
 							<li><a href="http://www.jmls.edu/career-services/alumni/" target="_blank">Career Services Office</a></li>
@@ -35,7 +35,7 @@
 						</ul>
 					</div>
 					<div class="module grid-col bp1-col-1-2 bp3-col-1-4">
-						<div class="footer-headline">Support John Marshall</div>
+						<div class="footer-headline"><a href="<?php echo $siteroot ?>/support-john-marshall/">Support John Marshall</a></div>
 						<ul class="no-list-style">
 							<li><a href="<?php echo $siteroot ?>/support-john-marshall/why-give.php">Why Give</a></li>
 							<li><a href="http://www.jmls.edu/give" target="_blank">Give Now</a></li>
