@@ -26,6 +26,7 @@ $line-height-highest  : 1.6;
 $line-height-higher   : 1.5;
 $line-height-high   	: 1.45;
 $line-height-main   	: 1.4;
+$line-height-main-alt	: 1.35;
 $line-height-low-alt  : 1.3;
 $line-height-low    	: 1.235;
 $line-height-lower  	: 1.2;
@@ -69,6 +70,8 @@ h4 {
 
 .text-center { text-align: center; }
 .text-right  { text-align: right; }
+
+.line-height-main-alt { line-height: $line-height-main-alt; }
 
 // Style H1 on interior pages
 .page-header {
