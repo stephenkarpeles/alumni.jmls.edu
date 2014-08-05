@@ -15,6 +15,7 @@
 	case "gifts-of-appreciated-securities.php": $label = "Gifts of Appreciated Securities"; break;
 	case "contact.php": $label = "Contact Us"; break;
 	case "faq.php": $label = "FAQs"; break;
+	case "404.php": $label = "Page Not Found"; break;
 	/* if not in the exception list above,
 	use the directory name, capitalized */
 	default: $label = ucwords(str_replace(array(".php","and","-"),array("","&amp;"," "),$dir)); break;
