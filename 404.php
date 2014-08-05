@@ -1,6 +1,6 @@
 <!-- Meta content goes below. Write content between quote marks. -->
 <?php
-$tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
+$tpTitle="Page Not Found | The Office of Alumni Relations &amp; Development";
 // $pgDesc="";
 // $pgKeywords="";
 ?>
