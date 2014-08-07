@@ -873,6 +873,10 @@ li.crumb-item:last-child .crumb-tail {
   padding: 11px 16px 0;
 }
 
+.feature-box-color p:last-child {
+  margin-bottom: .5em;
+}
+
 .feature-box-gray {
   background: #e7e7e7;
 }

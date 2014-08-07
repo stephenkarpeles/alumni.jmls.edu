@@ -33,7 +33,7 @@ $tpTitle="Alumni Association | The John Marshall Law School - Office of Alumni R
 					<div class="module callout-box">
 						<div class="header-bar header-bar-gray">2013-2014 Alumni Board Meetings</div>
 						<div class="feature-box-color feature-box-gray">
-							<p class="mar-bot-smaller">October 3, 2013<br>
+							<p>October 3, 2013<br>
 							November 6, 2013<br>
 							January 8, 2014<br>
 							March 12, 2014<br>

@@ -49,6 +49,9 @@
 .feature-box-color	   { padding: 11px 16px 14px; }
 .feature-box-no-color  { padding: 11px 16px 0; } // Same padding-top as .feature-box 
 
+.feature-box-color p:last-child {
+	margin-bottom: .5em; }
+
 .feature-box-gray { background: $light-gray; }
 .feature-box-gold { background: $tan; }
 
