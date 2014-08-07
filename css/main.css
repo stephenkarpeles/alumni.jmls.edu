@@ -907,6 +907,24 @@ li.crumb-item:last-child .crumb-tail {
   margin-top: -2em;
 }
 
+.callout-box {
+  float: none;
+  width: 100%;
+  margin-bottom: 1.5em;
+}
+@media (min-width: 600px) {
+  .callout-box {
+    float: right;
+    width: 50%;
+    margin-left: 2em;
+  }
+}
+@media (min-width: 800px) {
+  .callout-box {
+    width: 40%;
+  }
+}
+
 .highlight {
   text-align: center;
 }

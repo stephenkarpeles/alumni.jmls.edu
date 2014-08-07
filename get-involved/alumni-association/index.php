@@ -28,37 +28,34 @@ $tpTitle="Alumni Association | The John Marshall Law School - Office of Alumni R
 					<a href="board-of-directors.php" class="bold">View a Full List of Board Members</a></p>
 					<h3>Alumni Association Bylaws</h3>
 					<p>All Alumni Association Board Members must adhere to the rules and regulations set forth in the bylaws.<br>
-					<a class="bold" href="">Read the Alumni Association Bylaws<em>(Document coming)</em></a></p>
+					<a class="bold" href="">Read the Alumni Association Bylaws<em>(Document coming)</em></a></p>	
 
-					<div class="grid-wrap mar-top-large">
-						<div class="grid-col bp2-col-1-2 bp3-col-2-3">
-							<h3 class="mar-top-zero">Alumni Association Meetings &amp; Events</h3>
-							<p><em>Paragraph about general scope of meetings coming</em></p>
-							<p><strong>Alumni Association Annual Meeting<br>
-							June 14, 2014 | 5-7 p.m.</strong></p>
-							<p>The final Alumni Association meeting of the year includes the swearing in of the new alumni board officers and members. All alumni are invited to attend. Food and drinks will be served.</p>
-							<h3>Freedom Award/Distinguished Service Awards (DSA) Luncheon</h3>
-							<!-- Enter date of next awards luncheon below when we know it - e.g. May 9, 2014 
-							<p><strong><em>Month DD, YYYY</em></strong></p>
-							-->
-							<p>The Freedom Award/DSA Awards Luncheon is the Alumni Association&rsquo;s major annual fundraiser. Each year, the Alumni Association selects one distinguished individual to receive the Freedom Award. Recipients of the award have made outstanding contributions to freedom in today&rsquo;s society. Those honored with a Distinguished Service Award have made outstanding contribution to a career field or personal endeavor. Monies raised at this event are used to fund scholarships for current John Marshall students.</p>
-							<p>
-								<a href="" class="bold">Download a Nominating Form and Instructions (PDF)</a><br>
-								<a href="" class="bold">View Last Year&rsquo;s Freedom Award Details (PDF coming)</a>
-							</p>							
+					<div class="module callout-box">
+						<div class="header-bar header-bar-gray">2013-2014 Alumni Board Meetings</div>
+						<div class="feature-box-color feature-box-gray">
+							<p class="mar-bot-smaller">October 3, 2013<br>
+							November 6, 2013<br>
+							January 8, 2014<br>
+							March 12, 2014<br>
+							June 5, 2014 (<em>Annual Meeting</em>)</p>
 						</div>
-						<div class="grid-col bp2-col-1-2 bp3-col-1-3">
-							<div class="header-bar header-bar-gray">2013-2014 Alumni Board Meetings</div>
-							<div class="feature-box-color feature-box-gray">
-								<p>October 3, 2013<br>
-								November 6, 2013<br>
-								January 8, 2014<br>
-								March 12, 2014<br>
-								June 5, 2014 (<em>Annual Meeting</em>)</p>
-							</div>
-						</div>
-					</div><!-- .grid-wrap -->					
+					</div><!-- .module -->
 
+					<h3 class="mar-top-zero">Alumni Association Meetings &amp; Events</h3>
+					<p><em>Paragraph about general scope of meetings coming</em></p>
+					<p><strong>Alumni Association Annual Meeting<br>
+					June 14, 2014 | 5-7 p.m.</strong></p>
+					<p>The final Alumni Association meeting of the year includes the swearing in of the new alumni board officers and members. All alumni are invited to attend. Food and drinks will be served.</p>
+					<h3>Freedom Award/Distinguished Service Awards (DSA) Luncheon</h3>
+					<!-- Enter date of next awards luncheon below when we know it - e.g. May 9, 2014 
+					<p><strong><em>Month DD, YYYY</em></strong></p>
+					-->
+					<p>The Freedom Award/DSA Awards Luncheon is the Alumni Association&rsquo;s major annual fundraiser. Each year, the Alumni Association selects one distinguished individual to receive the Freedom Award. Recipients of the award have made outstanding contributions to freedom in today&rsquo;s society. Those honored with a Distinguished Service Award have made outstanding contribution to a career field or personal endeavor. Monies raised at this event are used to fund scholarships for current John Marshall students.</p>
+					<p>
+						<a href="" class="bold">Download a Nominating Form and Instructions (PDF)</a><br>
+						<a href="" class="bold">View Last Year&rsquo;s Freedom Award Details (PDF coming)</a>
+					</p>
+						
 				</article><!-- .main -->
 				
 			</div><!-- .grid-col -->			

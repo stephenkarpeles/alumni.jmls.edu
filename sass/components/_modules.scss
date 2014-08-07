@@ -4,7 +4,6 @@
 	margin-bottom: $base-spacing-unit*4; }
 
 // Media Object - More info here: http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/
-
 .media-box {
 	padding: 11px 0;
 	border-top: 1px solid $lighter-gray;
@@ -67,6 +66,20 @@
 	position: relative;	
 	z-index: 200;
 	margin-top: -2em; }
+
+
+// Callout Box
+.callout-box {
+	float: none;
+	width: 100%;
+	margin-bottom: 1.5em;
+	@include breakpoint(bp2) { 
+    float: right;
+    width: 50%;
+		margin-left: 2em; }
+	@include breakpoint(bp3) { 
+    width: 40%; } }
+
 
 // Highlight Module 
 .highlight {
@@ -230,7 +243,6 @@
     width: 34px; } }
 
 // Events section on homepage
-
 .fpEvent {
 	background: url('../images/icon-calendar.svg') 0 13px no-repeat;
 	padding: 11px 0 20px;
