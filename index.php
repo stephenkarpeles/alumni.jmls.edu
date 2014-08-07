@@ -65,7 +65,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 
 	<div class="grid-wrap">
 		<div class="grid-col bp3-col-2-3">
-			<div class="header-bar header-bar-gray beta">Current Projects</div>
+			<div class="header-bar header-bar-gray beta">Initiatives</div>
 			<div class="module feature-box feature-box-gray">
 					
 				<div class="grid-wrap">
@@ -75,11 +75,11 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<!-- Project -->
 						<div class="media-box">
 							<div class="media">
-								<a href="" class="graphic">
+								<a href="initiatives/YYYYY.php" class="graphic">
 									<img src="images/project-1.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="">Dean&rsquo;s Initiative to Start Renovating State Street Building</a>
+									<a class="bold" href="initiatives/academic-programs.php">Academic Programs</a>
 								</div>
 							</div>
 						</div>
@@ -87,11 +87,11 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<!-- Project -->
 						<div class="media-box">
 							<div class="media">
-								<a href="" class="graphic">
+								<a href="initiatives/clinical-experiences.php" class="graphic">
 									<img src="images/project-2.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="">Justice Scalia Speaks at Graduate Commencement</a>
+									<a class="bold" href="initiatives/clinical-experiences.php">Clinical Experiences</a>
 								</div>
 							</div>
 						</div>
@@ -99,11 +99,11 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<!-- Project -->
 						<div class="media-box">
 							<div class="media">
-								<a href="" class="graphic">
-									<img src="images/project-3.jpg" alt="">
+								<a href="initiatives/signature-events.php" class="graphic">
+									<img src="images/project-4.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="">Increasing Awning Size on All Overhangs, Schoolwide</a>
+									<a class="bold" href="initiatives/signature-events.php">Signature Events</a>
 								</div>
 							</div>
 						</div>
@@ -117,11 +117,11 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<!-- Project -->
 						<div class="media-box">
 							<div class="media">
-								<a href="" class="graphic">
-									<img src="images/project-4.jpg" alt="">
+								<a href="initiatives/scholarships.php" class="graphic">
+									<img src="images/project-5.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="">Veterans Legal Support Center &amp; Clinic Begins Expansion for 2014</a>
+									<a class="bold" href="initiatives/scholarships.php">Scholarships</a>
 								</div>
 							</div>
 						</div>
@@ -129,11 +129,11 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<!-- Project -->
 						<div class="media-box">
 							<div class="media">
-								<a href="" class="graphic">
-									<img src="images/project-5.jpg" alt="">
+								<a href="initiatives/our-campus.php" class="graphic">
+									<img src="images/project-3.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="">Career Services Office to Start Student Projects</a>
+									<a class="bold" href="initiatives/our-campus.php">Our Campus</a>
 								</div>
 							</div>	
 						</div>				
@@ -141,11 +141,11 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<!-- Project -->
 						<div class="media-box">
 							<div class="media">
-								<a href="" class="graphic">
+								<a href="initiatives/annual-fund.php" class="graphic">
 									<img src="images/project-6.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="">Classroom Technology Getting a Makeover</a>
+									<a class="bold" href="initiatives/annual-fund.php">The Annual Fund</a>
 								</div>
 							</div>
 						</div>
