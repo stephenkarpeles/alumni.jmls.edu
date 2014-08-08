@@ -24,8 +24,13 @@ $tpTitle="Transforming Lives Through Clinical Experiences | The Office of Alumni
 					<p>John Marshall is the first school in the Midwest, and one of the few in the nation, to require clinical experience for graduation. This requirement builds upon the wide range of skills students learn in our #2-ranked Lawyering Skills Program.</p>
 
 					<div class="module callout-box">
-						<div class="header-bar header-bar-gray">Did You Know?</div>
-						<div class="feature-box-color feature-box-gray"><p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p></div>
+						<div class="header-bar header-bar-red">Did You Know?</div>
+						<div class="feature-box-color feature-box-gray">
+						  <div class="position-front">
+								<p>John Marshall serves over <strong>3,568 veterans</strong> every year through the Veterans Legal Support Clinic.</p>
+							</div>
+							<div class="icon-question position-middle"></div>
+						</div>
 					</div>
 
 					<p>Clinical and externship experiences hone students' abilities to perform essential lawyering skills prior to graduation, offer them an assessment of necessary competencies, and help to ensure that our students graduate with the knowledge, skills, and experience employers demand most.</p>

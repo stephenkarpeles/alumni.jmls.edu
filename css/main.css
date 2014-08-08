@@ -513,6 +513,21 @@ table {
   margin: 0 auto;
 }
 
+.position-front {
+  position: relative;
+  z-index: 2000;
+}
+
+.position-middle {
+  position: relative;
+  z-index: 0;
+}
+
+.position-back {
+  position: relative;
+  z-index: -2000;
+}
+
 @media (min-width: 600px) {
   .hide-above-bp2 {
     display: none !important;
@@ -1226,6 +1241,30 @@ li.crumb-item:last-child .crumb-tail {
   margin-bottom: .4em;
   font-style: italic;
   line-height: 1.2;
+}
+
+.icon-question {
+  position: absolute;
+  bottom: -7px;
+  right: -6px;
+  width: 60px;
+  height: 60px;
+  background: url("../images/icon-question.svg") no-repeat;
+  /* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  /* IE 5-7 */
+  filter: alpha(opacity=50);
+  /* Netscape */
+  -moz-opacity: 0.5;
+  /* Safari 1.x */
+  -khtml-opacity: 0.5;
+  /* Good browsers */
+  opacity: 0.5;
+}
+
+/* SVG Fallback for non-supportive browsers */
+.no-svg .icon-question {
+  background: url("../images/icon-question.png") no-repeat;
 }
 
 .accordion {

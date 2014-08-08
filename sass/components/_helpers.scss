@@ -29,6 +29,11 @@ $base-spacing-unit  : .5em;
 // Align
 .center { margin: 0 auto; }
 
+// Z-Index Positions 
+.position-front  { position:relative; z-index: 2000;  }
+.position-middle { position:relative; z-index: 0;     }
+.position-back   { position:relative; z-index: -2000; }
+
 // Hidden
 .hide-above-bp2 {
 	@include breakpoint(bp2) {
