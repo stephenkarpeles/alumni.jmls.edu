@@ -9,6 +9,12 @@ $font-stack:
 	Arial, 
 	sans-serif;
 
+$serif-stack:
+  Georgia,
+  'Times New Roman',
+  'Times',
+  serif; 
+
 // Font Sizes
 $font-size-main     	: 1em;
 $font-size-small 			: .95em; 
@@ -37,6 +43,7 @@ $line-height-lowest 	: 1.1;
 .bold   { font-weight: 700; }
 .italic { font-style: italic; }
 .upcase { text-transform: uppercase; }
+.serif  { font-family: $serif-stack; }
 
 h1 { 
 	font-size: $font-size-alpha; 

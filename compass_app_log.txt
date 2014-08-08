@@ -3874,3 +3874,59 @@ Load paths:
 2014-08-08 11:28:44 identical css/main.css 
 2014-08-08 11:29:21 overwrite css/main.css 
 2014-08-08 11:29:43 overwrite css/main.css 
+2014-08-08 11:31:00 overwrite css/main.css 
+2014-08-08 11:31:26 overwrite css/main.css 
+2014-08-08 11:31:51 identical css/main.css 
+2014-08-08 11:33:17 overwrite css/main.css 
+2014-08-08 11:34:33 identical css/main.css 
+2014-08-08 11:35:53 overwrite css/main.css 
+2014-08-08 11:36:04 overwrite css/main.css 
+2014-08-08 11:36:47 overwrite css/main.css 
+2014-08-08 11:37:07 overwrite css/main.css 
+2014-08-08 11:37:19 overwrite css/main.css 
+2014-08-08 15:36:41 overwrite css/main.css 
+2014-08-08 15:36:51 overwrite css/main.css 
+2014-08-08 15:36:56 overwrite css/main.css 
+2014-08-08 15:38:14 overwrite css/main.css 
+2014-08-08 15:38:24 overwrite css/main.css 
+2014-08-08 15:38:27 identical css/main.css 
+2014-08-08 15:38:35 overwrite css/main.css 
+2014-08-08 15:38:42 overwrite css/main.css 
+2014-08-08 15:38:49 overwrite css/main.css 
+2014-08-08 15:38:57 overwrite css/main.css 
+2014-08-08 15:39:04 overwrite css/main.css 
+2014-08-08 15:39:17 identical css/main.css 
+2014-08-08 15:39:45 identical css/main.css 
+2014-08-08 15:39:48 overwrite css/main.css 
+2014-08-08 15:40:41 identical css/main.css 
+2014-08-08 15:41:09     error sass/main.scss (Line 36 of sass/components/_theme.scss: Undefined variable: "$red".)
+2014-08-08 15:41:09 overwrite css/main.css 
+2014-08-08 15:41:11     error sass/main.scss (Line 36 of sass/components/_theme.scss: Undefined variable: "$red".)
+2014-08-08 15:41:11 identical css/main.css 
+2014-08-08 15:41:24 overwrite css/main.css 
+2014-08-08 15:41:32 overwrite css/main.css 
+2014-08-08 15:41:35 overwrite css/main.css 
+2014-08-08 15:41:41 overwrite css/main.css 
+2014-08-08 15:41:47 overwrite css/main.css 
+2014-08-08 15:41:54 overwrite css/main.css 
+2014-08-08 15:42:02 overwrite css/main.css 
+2014-08-08 15:42:08 overwrite css/main.css 
+2014-08-08 15:42:17 overwrite css/main.css 
+2014-08-08 15:43:59     error sass/main.scss (Line 84 of sass/components/_typography.scss: Invalid CSS after "	font-family:": expected expression (e.g. 1px, bold), was "}")
+2014-08-08 15:43:59 overwrite css/main.css 
+2014-08-08 15:43:59     error sass/main.scss (Line 84 of sass/components/_typography.scss: Invalid CSS after "	font-family:": expected expression (e.g. 1px, bold), was "}")
+2014-08-08 15:43:59 identical css/main.css 
+2014-08-08 15:44:04     error sass/main.scss (Line 84 of sass/components/_typography.scss: Invalid CSS after "	font-family:": expected expression (e.g. 1px, bold), was "}")
+2014-08-08 15:44:04 identical css/main.css 
+2014-08-08 15:44:04     error sass/main.scss (Line 84 of sass/components/_typography.scss: Invalid CSS after "	font-family:": expected expression (e.g. 1px, bold), was "}")
+2014-08-08 15:44:04 identical css/main.css 
+2014-08-08 15:44:14 overwrite css/main.css 
+2014-08-08 15:44:33 identical css/main.css 
+2014-08-08 15:44:59 overwrite css/main.css 
+2014-08-08 15:45:03 overwrite css/main.css 
+2014-08-08 15:45:10 overwrite css/main.css 
+2014-08-08 15:45:12 identical css/main.css 
+2014-08-08 15:46:34 identical css/main.css 
+2014-08-08 15:51:07 overwrite css/main.css 
+2014-08-08 15:51:55 overwrite css/main.css 
+2014-08-08 15:52:09 overwrite css/main.css 

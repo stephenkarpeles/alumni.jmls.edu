@@ -562,6 +562,10 @@ table {
   text-transform: uppercase;
 }
 
+.serif {
+  font-family: Georgia, "Times New Roman", "Times", serif;
+}
+
 h1 {
   font-size: 2.15em;
   line-height: 1.1;
@@ -1243,10 +1247,20 @@ li.crumb-item:last-child .crumb-tail {
   line-height: 1.2;
 }
 
+.dyk-arrow {
+  float: left;
+  margin-right: 7px;
+  color: #aa0000;
+}
+
+.dyk-content {
+  overflow: hidden;
+}
+
 .icon-question {
   position: absolute;
-  bottom: -7px;
-  right: -6px;
+  bottom: -5px;
+  right: -5px;
   width: 60px;
   height: 60px;
   background: url("../images/icon-question.svg") no-repeat;

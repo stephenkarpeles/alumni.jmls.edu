@@ -29,10 +29,21 @@
 	font-style: italic;
 	line-height: $line-height-lower; }
 
+
+// 'Did You Know?' Styles
+
+.dyk-arrow {
+	float: left;
+	margin-right: 7px;
+  color: $main-red; }
+
+.dyk-content {
+	overflow: hidden; }
+
 .icon-question {
 	position: absolute;
-	bottom: -7px;
-	right: -6px;
+	bottom: -5px;
+	right: -5px;
 	width: 60px;
 	height: 60px;
 	background: url('../images/icon-question.svg') no-repeat;
