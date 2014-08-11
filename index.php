@@ -15,15 +15,15 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 				<div class="module slider">
 					<ul class="rslides no-list-style">
 					  <li>
-					  	<a href="get-involved/"><img src="images/hero-students.jpg" alt=""></a> 
+					  	<a href="get-involved/"><img src="images/hero-students.jpg" alt="Get Involved at John Marshall"></a> 
 					  	<p class="caption"><strong>Get Involved.</strong> Improve your alma mater and the opportunities of our students. <a class="caption-link" href="get-involved/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
-					  	<a href="stay-connected/"><img src="images/hero-1.jpg" alt=""></a>
+					  	<a href="stay-connected/"><img src="images/hero-1.jpg" alt="Stay Connected at John Marshall"></a>
 					  	<p class="caption"><strong>Stay Connected.</strong> Network with friends and other alumni, and discover the John Marshall of today. <a class="caption-link" href="stay-connected/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
-					  	<a href="support-john-marshall/"><img src="images/hero-class.jpg" alt=""></a>
+					  	<a href="support-john-marshall/"><img src="images/hero-class.jpg" alt="Support John Marshall"></a>
 					  	<p class="caption"><strong>Support John Marshall.</strong> Help transform the lives of tomorrow's graduates with your support. <a class="caption-link" href="support-john-marshall/">Learn More &raquo;</a></p>
 					  </li>					  
 					</ul>									
@@ -76,7 +76,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<div class="media-box">
 							<div class="media">
 								<a href="initiatives/YYYYY.php" class="graphic">
-									<img class="home-thumb" src="images/thumb-niedwiecki.jpg" alt="">
+									<img class="home-thumb" src="images/thumb-niedwiecki.jpg" alt="Academic Programs">
 								</a>
 								<div class="media-content">
 									<a class="bold" href="initiatives/academic-programs.php">Academic Programs and More Information That Would Go Here</a>
@@ -88,7 +88,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<div class="media-box">
 							<div class="media">
 								<a href="initiatives/clinical-experiences.php" class="graphic">
-									<img src="images/project-2.jpg" alt="">
+									<img class="home-thumb" src="images/thumb-vlsc-clinic.jpg" alt="Clinical Experiences">
 								</a>
 								<div class="media-content">
 									<a class="bold" href="initiatives/clinical-experiences.php">Clinical Experiences and Additional Content About Them Probably</a>
@@ -130,7 +130,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<div class="media-box">
 							<div class="media">
 								<a href="initiatives/our-campus.php" class="graphic">
-									<img src="images/project-3.jpg" alt="">
+									<img class="home-thumb" src="images/thumb-state-building.jpg" alt="Our Campus">
 								</a>
 								<div class="media-content">
 									<a class="bold" href="initiatives/our-campus.php">Our Campus and Other Exciting Endeavors</a>
