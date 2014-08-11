@@ -20,7 +20,6 @@ $tpTitle="Hall of Distinction | The John Marshall Law School - Office of Alumni 
 				  <?php include('../includes/breadcrumbs.php'); ?>	
 				  			
 					<h1 class="page-header">Hall of Distinction</h1>
-					<p><em>Photos of the Hall of Distinction (coming)</em></p>
 					<p>John Marshall&rsquo;s Hall of Distinction showcases photos of John Marshall alumni who have either ascended to the bench or are elected to public office. If you qualify, please send us a 5&rdquo; x 7&rdquo; black-and-white photo of yourself. Photos are framed quarterly.</p>
 					<p>Send photos to:</p>
 					<p><strong>Sherri Dzik</strong><br>
@@ -28,7 +27,7 @@ $tpTitle="Hall of Distinction | The John Marshall Law School - Office of Alumni 
 					The John Marshall Law School<br>
 					315 S Plymouth Court<br>
 					Chicago, IL 60604<br>
-					sdzik@jmls.edu
+					<a href="mailto:sdzik@jmls.edu"><strong>sdzik@jmls.edu</strong></a>
 					</p>
 					
 				</article><!-- .main -->
