@@ -79,7 +79,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 									<img src="images/project-1.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/academic-programs.php">Academic Programs</a>
+									<a class="bold" href="initiatives/academic-programs.php">Academic Programs and More Information That Would Go Here</a>
 								</div>
 							</div>
 						</div>
@@ -91,7 +91,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 									<img src="images/project-2.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/clinical-experiences.php">Clinical Experiences</a>
+									<a class="bold" href="initiatives/clinical-experiences.php">Clinical Experiences and Additional Content About Them Probably</a>
 								</div>
 							</div>
 						</div>
@@ -103,7 +103,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 									<img src="images/project-4.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/signature-events.php">Signature Events</a>
+									<a class="bold" href="initiatives/signature-events.php">Signature Events Are One Way to Talk About Nothing</a>
 								</div>
 							</div>
 						</div>
@@ -121,7 +121,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 									<img src="images/project-5.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/scholarships.php">Scholarships</a>
+									<a class="bold" href="initiatives/scholarships.php">Scholarships Section Is What This Is and Such and Such</a>
 								</div>
 							</div>
 						</div>
@@ -133,7 +133,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 									<img src="images/project-3.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/our-campus.php">Our Campus</a>
+									<a class="bold" href="initiatives/our-campus.php">Our Campus and Other Exciting Endeavors</a>
 								</div>
 							</div>	
 						</div>				
@@ -145,7 +145,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 									<img src="images/project-6.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/annual-fund.php">The Annual Fund</a>
+									<a class="bold" href="initiatives/annual-fund.php">The Annual Fund is Beyond Amazing Times Five Trillion</a>
 								</div>
 							</div>
 						</div>
@@ -250,11 +250,11 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 
 							<div class="feature-box-col feature-box-col-3-5">
 								<ul class="no-list-style list-space-small">
-									<li><span class="red arrow arrow-push-right">&#9654;</span> Dean&rsquo;s Letter</li>
-									<li><span class="red arrow arrow-push-right">&#9654;</span> Annual Highlights</li>
-									<li><span class="red arrow arrow-push-right">&#9654;</span> Student Stories</li>
-									<li><span class="red arrow arrow-push-right">&#9654;</span> Honor Roll</li>
-									<li><span class="red arrow arrow-push-right">&#9654;</span> Much more!</li>
+									<li><span class="feat-arrow up-1">&#9654;</span><span class="feat-arrow-content">Dean&rsquo;s Letter</span></li>
+									<li><span class="feat-arrow up-1">&#9654;</span><span class="feat-arrow-content">Annual Highlights</span></li>
+									<li><span class="feat-arrow up-1">&#9654;</span><span class="feat-arrow-content">Student Stories</span></li>
+									<li><span class="feat-arrow up-1">&#9654;</span><span class="feat-arrow-content">Honor Roll</span></li>
+									<li><span class="feat-arrow up-1">&#9654;</span><span class="feat-arrow-content">Much more!</span></li>
 								</ul>			
 							</div>
 

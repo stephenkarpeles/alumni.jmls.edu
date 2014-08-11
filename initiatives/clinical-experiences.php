@@ -27,8 +27,8 @@ $tpTitle="Transforming Lives Through Clinical Experiences | The Office of Alumni
 						<div class="header-bar header-bar-red">Did You Know?</div>
 						<div class="feature-box-color feature-box-gray">
 						  <div class="position-front">
-						    <span class="dyk-arrow">&#9654;</span>
-								<p class="dyk-content">John Marshall serves over <span class="red serif gamma">3,568</span> veterans every year through the Veterans Legal Support Clinic.</p>
+						    <span class="feat-arrow">&#9654;</span>
+								<p class="feat-arrow-content">John Marshall serves over <span class="red serif gamma">3,568</span> veterans every year through the Veterans Legal Support Clinic.</p>
 							</div>
 							<div class="icon-question position-middle"></div>
 						</div>

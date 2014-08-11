@@ -34,6 +34,11 @@ $base-spacing-unit  : .5em;
 .position-middle { position:relative; z-index: 0;     }
 .position-back   { position:relative; z-index: -2000; }
 
+// Positioning Helpers
+.up-1 {
+	position: relative;
+	top: -1px; }
+
 // Hidden
 .hide-above-bp2 {
 	@include breakpoint(bp2) {

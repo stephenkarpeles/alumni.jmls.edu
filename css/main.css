@@ -528,6 +528,11 @@ table {
   z-index: -2000;
 }
 
+.up-1 {
+  position: relative;
+  top: -1px;
+}
+
 @media (min-width: 600px) {
   .hide-above-bp2 {
     display: none !important;
@@ -1247,13 +1252,13 @@ li.crumb-item:last-child .crumb-tail {
   line-height: 1.2;
 }
 
-.dyk-arrow {
+.feat-arrow {
   float: left;
   margin-right: 7px;
   color: #aa0000;
 }
 
-.dyk-content {
+.feat-arrow-content {
   overflow: hidden;
 }
 
