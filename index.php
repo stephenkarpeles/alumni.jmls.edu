@@ -15,16 +15,16 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 				<div class="module slider">
 					<ul class="rslides no-list-style">
 					  <li>
-					  	<img src="images/hero-1.jpg" alt="">
-					  	<p class="caption">Alumni Gather at the Annual Meeting to share stories and celebrate. The event saw over 200 attendees, and it was sweet. <a class="caption-link" href="">Read More &raquo;</a></p>
+					  	<a href="get-involved/"><img src="images/hero-1.jpg" alt=""></a> 
+					  	<p class="caption"><strong>Get Involved.</strong> Improve your alma mater and the opportunities of our students. <a class="caption-link" href="get-involved/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
-					  	<img src="http://placehold.it/675x285/ccc" alt="">
-					  	<p class="caption">This is another caption that wraps two lines and is about the same size as the first one, but a little bit different and bigger. <a class="caption-link" href="">Read More &raquo;</a></p>
+					  	<a href="stay-connected/"><img src="http://placehold.it/675x285/ccc" alt=""></a>
+					  	<p class="caption"><strong>Stay Connected.</strong> Network with friends and other alumni, and discover the John Marshall of today. <a class="caption-link" href="stay-connected/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
-					  	<img src="http://placehold.it/675x285/aaa" alt="">
-					  	<p class="caption">A third caption, just like this one is all about something related to the school and super important and cool and whatever else. <a class="caption-link" href="">Read More &raquo;</a></p>
+					  	<a href="support-john-marshall/"><img src="http://placehold.it/675x285/aaa" alt=""></a>
+					  	<p class="caption"><strong>Support John Marshall.</strong> Help transform the lives of tomorrow's graduates with your support. <a class="caption-link" href="support-john-marshall/">Learn More &raquo;</a></p>
 					  </li>					  
 					</ul>									
 				</div><!-- .slider -->
