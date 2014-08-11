@@ -1,8 +1,9 @@
 <!-- Meta Info -->
 <?php
 // Remove commented out marks before each line you wish to edit, and place content between quote marks.
-$tpTitle="Volunteer Opportunities | The John Marshall Law School - Office of Alumni Relations &amp; Development";
+// $tpTitle="";
 // $pgDesc="";
+// $pgKeywords="";
 ?>
 
 <!-- Header -->
@@ -21,7 +22,7 @@ $tpTitle="Volunteer Opportunities | The John Marshall Law School - Office of Alu
 					<h1 class="page-header">Volunteer Opportunities</h1>
 					<p class="featured-text">Whether you want to mentor a student, coach a moot court team, speak on a career services panel, or attend the Student/Alumni Exchange, a few hours of time can have a transformative effect on tomorrow&rsquo;s graduates.</p>
 					<h3>Student/Alumni Mentor Program</h3>
-					<p>Mentor a John Marshall student. Each year the Office of Alumni Relations teams up with the Career Services Office to pair students with alumni. It all begins with a mentor/mentee kick-off event and we ask that alums meet with their student three more times throughout the spring semester. <a class="bold" href="http://www.jmls.edu/alumni-development/mentor-forms/alumni-mentor-form.php">Sign up to be a mentor</a>.</p>
+					<p>Mentor a John Marshall student. Each year the Office of Alumni Relations teams up with the Career Services Office to pair students with alumni. It all begins with a mentor/mentee kick-off event and we ask that alums meet with their student three more times throughout the spring semester. To sign up to be a mentor, please <a class="bold" href="../pdf/JMLS-Alumni-Mentor-Program-Brochure.pdf">complete our Alumni Mentor form</a>.</p>
 					<h3>Student/Alumni Exchange </h3>
 					<p>Network with students at the Student/Alumni Exchange. Students are advised that this is a networking reception, not a job fair.</p>
 					<h3>Speak on a Career Services Panel</h3>
