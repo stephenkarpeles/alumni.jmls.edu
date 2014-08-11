@@ -12,6 +12,10 @@
 	@include breakpoint(bp3) {
 		margin: .35em 1.75em 1.75em 0; } }
 
+.home-thumb {
+	width: 84px;
+	height: 56px; }
+
 .profile-box-bp2 { 
 	clear: left;
 	@include breakpoint(bp2) { 

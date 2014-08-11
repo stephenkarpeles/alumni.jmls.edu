@@ -65,7 +65,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 
 	<div class="grid-wrap">
 		<div class="grid-col bp3-col-2-3">
-			<div class="header-bar header-bar-gray beta">Initiatives</div>
+			<div class="header-bar header-bar-gray beta">Current Initiatives</div>
 			<div class="module feature-box feature-box-gray">
 					
 				<div class="grid-wrap">
@@ -76,7 +76,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<div class="media-box">
 							<div class="media">
 								<a href="initiatives/YYYYY.php" class="graphic">
-									<img src="images/project-1.jpg" alt="">
+									<img class="home-thumb" src="images/thumb-niedwiecki.jpg" alt="">
 								</a>
 								<div class="media-content">
 									<a class="bold" href="initiatives/academic-programs.php">Academic Programs and More Information That Would Go Here</a>

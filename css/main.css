@@ -1229,6 +1229,11 @@ li.crumb-item:last-child .crumb-tail {
   }
 }
 
+.home-thumb {
+  width: 84px;
+  height: 56px;
+}
+
 .profile-box-bp2 {
   clear: left;
 }
