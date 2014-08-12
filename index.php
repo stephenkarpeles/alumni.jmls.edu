@@ -15,7 +15,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 				<div class="module slider">
 					<ul class="rslides no-list-style">
 					  <li>
-					  	<a href="get-involved/"><img src="images/hero-students.jpg" alt="Get Involved at John Marshall"></a> 
+					  	<a href="get-involved/"><img src="images/hero-exchange.jpg" alt="Get Involved at John Marshall"></a> 
 					  	<p class="caption"><strong>Get Involved.</strong> Improve your alma mater and the opportunities of our students. <a class="caption-link" href="get-involved/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
@@ -65,7 +65,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 
 	<div class="grid-wrap">
 		<div class="grid-col bp3-col-2-3">
-			<div class="header-bar header-bar-gray beta">Current Initiatives</div>
+			<div class="header-bar header-bar-gray beta">Transforming Lives Through These Initiatives</div>
 			<div class="module feature-box feature-box-gray">
 					
 				<div class="grid-wrap">
@@ -227,6 +227,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					<div class="header-bar header-bar-basic">
 						<span class="bold">Latest News</span>
 					</div>	
+
 
 					<div class="module">	
 					  <!-- Pull in RSS Feed -->	
