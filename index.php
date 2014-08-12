@@ -16,15 +16,15 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					<ul class="rslides no-list-style">
 					  <li>
 					  	<a href="get-involved/"><img src="images/hero-exchange.jpg" alt="Get Involved at John Marshall"></a> 
-					  	<p class="caption"><strong>Get Involved.</strong> Improve your alma mater and the opportunities of our students. <a class="caption-link" href="get-involved/">Learn More &raquo;</a></p>
+					  	<p class="caption"><span class="caption-title">Get Involved</span><br>Improve your alma mater and the opportunities of our students.<br><a class="caption-link" href="get-involved/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
 					  	<a href="stay-connected/"><img src="images/hero-1.jpg" alt="Stay Connected at John Marshall"></a>
-					  	<p class="caption"><strong>Stay Connected.</strong> Network with friends and other alumni, and discover the John Marshall of today. <a class="caption-link" href="stay-connected/">Learn More &raquo;</a></p>
+					  	<p class="caption"><span class="caption-title">Stay Connected</span><br>Network with friends and other alumni, and discover the John Marshall of today.<br><a class="caption-link" href="stay-connected/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
 					  	<a href="support-john-marshall/"><img src="images/hero-class.jpg" alt="Support John Marshall"></a>
-					  	<p class="caption"><strong>Support John Marshall.</strong> Help transform the lives of tomorrow's graduates with your support. <a class="caption-link" href="support-john-marshall/">Learn More &raquo;</a></p>
+					  	<p class="caption"><span class="caption-title">Support John Marshall</span><br>Help transform the lives of tomorrow's graduates with your support.<br><a class="caption-link" href="support-john-marshall/">Learn More &raquo;</a></p>
 					  </li>					  
 					</ul>									
 				</div><!-- .slider -->

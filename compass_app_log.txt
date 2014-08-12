@@ -3933,3 +3933,34 @@ Load paths:
 2014-08-11 13:31:26 overwrite css/main.css 
 2014-08-11 13:38:00 overwrite css/main.css 
 2014-08-11 16:13:21 overwrite css/main.css 
+2014-08-12 16:28:41 overwrite css/main.css 
+2014-08-12 16:28:47 identical css/main.css 
+2014-08-12 16:29:12 overwrite css/main.css 
+2014-08-12 16:30:28 identical css/main.css 
+2014-08-12 16:30:34 identical css/main.css 
+2014-08-12 16:30:47 overwrite css/main.css 
+2014-08-12 16:36:14 overwrite css/main.css 
+2014-08-12 16:36:21 overwrite css/main.css 
+2014-08-12 16:36:32 overwrite css/main.css 
+2014-08-12 16:41:40     error sass/main.scss (Line 88 of sass/sections/_slider.scss: Invalid CSS after "  line-height:": expected expression (e.g. 1px, bold), was "&:hover, &:acti...")
+2014-08-12 16:41:40 overwrite css/main.css 
+2014-08-12 16:41:40     error sass/main.scss (Line 88 of sass/sections/_slider.scss: Invalid CSS after "  line-height:": expected expression (e.g. 1px, bold), was "&:hover, &:acti...")
+2014-08-12 16:41:40 identical css/main.css 
+2014-08-12 16:41:49 overwrite css/main.css 
+2014-08-12 16:42:07 overwrite css/main.css 
+2014-08-12 16:43:28 overwrite css/main.css 
+2014-08-12 16:43:56 overwrite css/main.css 
+2014-08-12 16:44:33 overwrite css/main.css 
+2014-08-12 16:46:23 overwrite css/main.css 
+2014-08-12 16:46:58 overwrite css/main.css 
+2014-08-12 16:47:16 overwrite css/main.css 
+2014-08-12 16:47:28 overwrite css/main.css 
+2014-08-12 16:49:03 overwrite css/main.css 
+2014-08-12 16:49:13 overwrite css/main.css 
+2014-08-12 16:49:29 overwrite css/main.css 
+2014-08-12 16:49:54 overwrite css/main.css 
+2014-08-12 16:50:04 overwrite css/main.css 
+2014-08-12 16:50:11 overwrite css/main.css 
+2014-08-12 16:50:21 overwrite css/main.css 
+2014-08-12 16:50:28 identical css/main.css 
+2014-08-12 16:50:38 identical css/main.css 

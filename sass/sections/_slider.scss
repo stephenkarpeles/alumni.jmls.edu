@@ -59,7 +59,7 @@
   position: static;
   z-index: 2;
   font-size: $font-size-main;
-  line-height: $line-height-low-alt;
+  line-height: 1.25;
   text-shadow: none;
   color: #fff;
   background: #111;
@@ -80,8 +80,11 @@
     background: #111;
     background: rgba(0,0,0, .9); } }
 
+.caption-title {
+  font-size: 1.1em;
+  font-weight: 700; }
+
 a.caption-link {
-  margin-left: 2px;
   color: $bright-red;
   font-weight: 700;
   &:hover, &:active {

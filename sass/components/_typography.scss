@@ -17,6 +17,7 @@ $serif-stack:
 
 // Font Sizes
 $font-size-main     	: 1em;
+$font-size-small-alt	: .975em;
 $font-size-small 			: .95em; 
 $font-size-smaller  	: .9em; 
 $font-size-smallest 	: .8em;  
@@ -71,9 +72,10 @@ h4 {
 .delta 		{ font-size: $font-size-delta;   line-height: $line-height-lowest; }
 .epsilon 	{ font-size: $font-size-epsilon; line-height: $line-height-lowest; }
 
-.text-small    { font-size: $font-size-small; }
-.text-smaller  { font-size: $font-size-smaller; }
-.text-smallest { font-size: $font-size-smallest; }
+.text-small-alt { font-size: $font-size-small-alt; }
+.text-small     { font-size: $font-size-small; }
+.text-smaller   { font-size: $font-size-smaller; }
+.text-smallest  { font-size: $font-size-smallest; }
 
 .text-center { text-align: center; }
 .text-right  { text-align: right; }
