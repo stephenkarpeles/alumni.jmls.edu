@@ -2461,7 +2461,7 @@ a.nav-toggle:hover, a.nav-toggle:active {
   position: static;
   z-index: 2;
   font-size: 1em;
-  line-height: 1.25;
+  line-height: 1.2;
   text-shadow: none;
   color: #fff;
   background: #111;
@@ -2469,7 +2469,7 @@ a.nav-toggle:hover, a.nav-toggle:active {
   left: 0;
   right: 0;
   bottom: 0;
-  padding: 10px 25% 10px 20px;
+  padding: 9px 25% 10px 20px;
   margin: 0;
   max-width: none;
 }
@@ -2479,7 +2479,7 @@ a.nav-toggle:hover, a.nav-toggle:active {
     left: 0;
     right: 0;
     bottom: 0;
-    padding: 10px 20% 10px 20px;
+    padding: 9px 20% 9px 20px;
     background: #111;
     background: rgba(0, 0, 0, 0.9);
   }

@@ -19,8 +19,8 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					  	<p class="caption"><span class="caption-title">Get Involved</span><br>Improve your alma mater and the opportunities of our students.<br><a class="caption-link" href="get-involved/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
-					  	<a href="stay-connected/"><img src="images/hero-1.jpg" alt="Stay Connected at John Marshall"></a>
-					  	<p class="caption"><span class="caption-title">Stay Connected</span><br>Network with friends and other alumni, and discover the John Marshall of today.<br><a class="caption-link" href="stay-connected/">Learn More &raquo;</a></p>
+					  	<a href="stay-connected/"><img src="images/hero-reunion.jpg" alt="Stay Connected at John Marshall"></a>
+					  	<p class="caption"><span class="caption-title">Stay Connected</span><br>Network with friends and other alumni, and discover the JMLS of today.<br><a class="caption-link" href="stay-connected/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
 					  	<a href="support-john-marshall/"><img src="images/hero-class.jpg" alt="Support John Marshall"></a>
@@ -100,7 +100,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<div class="media-box">
 							<div class="media">
 								<a href="initiatives/signature-events.php" class="graphic">
-									<img src="images/project-4.jpg" alt="">
+									<img class="home-thumb" src="images/project-4.jpg" alt="">
 								</a>
 								<div class="media-content">
 									<a class="bold" href="initiatives/signature-events.php">Signature Events Are One Way to Talk About Nothing</a>
@@ -118,7 +118,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<div class="media-box">
 							<div class="media">
 								<a href="initiatives/scholarships.php" class="graphic">
-									<img src="images/project-5.jpg" alt="">
+									<img class="home-thumb" src="images/thumb-scholarship.jpg" alt="">
 								</a>
 								<div class="media-content">
 									<a class="bold" href="initiatives/scholarships.php">Scholarships Section Is What This Is and Such and Such</a>
@@ -142,7 +142,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<div class="media-box">
 							<div class="media">
 								<a href="initiatives/annual-fund.php" class="graphic">
-									<img src="images/project-6.jpg" alt="">
+									<img class="home-thumb" src="images/project-6.jpg" alt="">
 								</a>
 								<div class="media-content">
 									<a class="bold" href="initiatives/annual-fund.php">The Annual Fund is Beyond Amazing Times Five Trillion</a>
