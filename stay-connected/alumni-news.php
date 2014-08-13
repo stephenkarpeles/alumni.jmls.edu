@@ -22,20 +22,18 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 					<h1 class="page-header">Alumni News</h1>
 					<p class="featured-text">Who&rsquo;s running for office? Who got promoted? Stay current on alumni news. <em>More description coming</em>.</p>
 
-					<div class="grid-wrap">
-						<div class="grid-col bp3-col-1-3 mar-bot-medium">
-							<h3 class="mar-top-zero">BriefCase</h3>
-							<p>Written specifically for John Marshall alumni, <em>BriefCase</em> highlights alumni accomplishments and offers updates on John Marshall&rsquo;s development initiatives.<br><a class="bold" href="http://news.jmls.edu/briefcase/">Read BriefCase Online</a></p>
-							<p><strong>Want to be in the next issue?</strong><br>
+					<div class="grid-wrap mar-bot-medium">
+						<div class="grid-col bp1-col-1-2 bp2-col-2-3 mar-bot-small-alt">
+							<h3 class="mar-top-zero">Alumni Newsletter</h3>
+							<p><strong>Description coming</strong> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+							<p><strong>Have news to share?</strong><br>
 							Send your new job, new baby, honor, recognition, or marriage news to <a href="mailto:alumni@jmls.edu" class="bold">alumni@jmls.edu</a>. Don&rsquo;t forget to include a picture!</p>
 						</div>
-						<div class="grid-col bp3-col-1-3 mar-bot-medium">
-							<h3 class="mar-top-zero">Alumni Newsletter</h3>
-							<p><em>Description coming</em></p>
-							<p><strong>Not receiving the alumni newsletter?</strong></p>
+
+						<div class="grid-col bp1-col-1-2 bp2-col-1-3 mar-bot-medium">
 
 							<!-- Start Form -->
-							<div style="font-size: 1em; line-height: 1.3;" class="header-bar header-bar-gray">Sign up below:</div>
+							<div style="font-size: 1em; line-height: 1.3;" class="header-bar header-bar-gray">Sign up for newsletter:</div>
 
 							<div class="alumni-newsletter-form">								
 							
@@ -80,12 +78,14 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 							<!-- End Form -->
 
 						</div>
-						<div class="grid-col bp3-col-1-3 mar-bot-medium">
-							<h3 class="mar-top-zero mar-bot-smaller">John Marshall News</h3>
-							<?php include('../includes/getrss-wpinthenews.php'); ?>				
-							<p class="subtext bold italic mar-bot-zero"><a href="http://news.jmls.edu/">View all news &raquo;</a></p>
-						</div>
-					</div>					
+
+					</div><!-- .grid-wrap -->
+
+					<div class="feature-box-color-alt feature-box-gray mar-bot-large">					
+						<h3 class="mar-top-zero mar-bot-smaller">John Marshall News</h3>
+						<?php include('../includes/getrss-wpinthenews.php'); ?>				
+						<p class="subtext bold italic mar-bot-zero"><a href="http://news.jmls.edu/">View all news &raquo;</a></p>	
+					</div>
 					
 					<h3 class="mar-top-zero">Photo Gallery</h3>
 					<p> <a href="https://www.flickr.com/photos/43883549@N08/sets/" target="_blank" class="bold">View Gallery on Flickr &raquo;</a></p>

@@ -897,6 +897,10 @@ li.crumb-item:last-child .crumb-tail {
   padding: 11px 16px 14px;
 }
 
+.feature-box-color-alt {
+  padding: 13px 22px 15px;
+}
+
 .feature-box-no-color {
   padding: 11px 16px 0;
 }
@@ -1775,12 +1779,6 @@ li.crumb-item:last-child .crumb-tail {
 .alumni-newsletter-form input[type="email"] {
   width: 100%;
   height: 25px;
-}
-@media (min-width: 480px) {
-  .alumni-newsletter-form input[type="text"],
-  .alumni-newsletter-form input[type="email"] {
-    width: 180px;
-  }
 }
 
 *,
