@@ -20,7 +20,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					  </li>					  
 					  <li>
 					  	<a href="stay-connected/"><img src="images/hero-reunion.jpg" alt="Stay Connected at John Marshall"></a>
-					  	<p class="caption"><span class="caption-title">Stay Connected</span><br>Network with friends and other alumni, and discover the JMLS of today.<br><a class="caption-link" href="stay-connected/">Learn More &raquo;</a></p>
+					  	<p class="caption"><span class="caption-title">Stay Connected</span><br>Network with other alumni, and discover the John Marshall of today.<br><a class="caption-link" href="stay-connected/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
 					  	<a href="support-john-marshall/"><img src="images/hero-class.jpg" alt="Support John Marshall"></a>
@@ -79,7 +79,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 									<img class="home-thumb" src="images/thumb-niedwiecki.jpg" alt="Academic Programs">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/academic-programs.php">Academic Programs and More Information That Would Go Here</a>
+									<a href="initiatives/academic-programs.php"><strong>Academic Programs</strong><br><span class="text-small">Improve Our Students' Academic Opportunities</span></a>
 								</div>
 							</div>
 						</div>
@@ -91,7 +91,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 									<img class="home-thumb" src="images/thumb-vlsc-clinic.jpg" alt="Clinical Experiences">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/clinical-experiences.php">Clinical Experiences and Additional Content About Them Probably</a>
+									<a href="initiatives/clinical-experiences.php"><strong>Clinical Experiences</strong><br><span class="text-small">Support Student Experience-Based Learning</span></a>
 								</div>
 							</div>
 						</div>
@@ -103,7 +103,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 									<img class="home-thumb" src="images/project-4.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/signature-events.php">Signature Events Are One Way to Talk About Nothing</a>
+									<a href="initiatives/signature-events.php"><strong>Signature Events</strong><br><span class="text-small">Underwrite the Discussions that Impact Our Profession</span></a>
 								</div>
 							</div>
 						</div>
@@ -121,7 +121,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 									<img class="home-thumb" src="images/thumb-scholarship.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/scholarships.php">Scholarships Section Is What This Is and Such and Such</a>
+									<a href="initiatives/scholarships.php"><strong>Scholarships</strong><br><span class="text-small">Provide Students in Need with Financial Assistance</span></a>
 								</div>
 							</div>
 						</div>
@@ -133,7 +133,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 									<img class="home-thumb" src="images/thumb-state-building.jpg" alt="Our Campus">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/our-campus.php">Our Campus and Other Exciting Endeavors</a>
+									<a href="initiatives/our-campus.php"><strong>Campus Improvements</strong><br><span class="text-small">Leave Your Mark on the New John Marshall</span></a>
 								</div>
 							</div>	
 						</div>				
@@ -142,10 +142,11 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<div class="media-box">
 							<div class="media">
 								<a href="initiatives/annual-fund.php" class="graphic">
-									<img class="home-thumb" src="images/project-6.jpg" alt="">
+									<img class="home-thumb" src="images/thumb-logo
+									.jpg" alt="">
 								</a>
 								<div class="media-content">
-									<a class="bold" href="initiatives/annual-fund.php">The Annual Fund is Beyond Amazing Times Five Trillion</a>
+									<a href="initiatives/annual-fund.php"><strong>The Annual Fund</strong><br><span class="text-small">Join the 1899 Society of Donors</span></a>
 								</div>
 							</div>
 						</div>
