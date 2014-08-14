@@ -57,29 +57,29 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							312.360.2663							
 						</div>
 						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
-							<img class="profile-thumb" src="images/steward-matt.jpg" alt="Matt Steward">
-							<div class="profile-name">Matt Steward</div>
-							<div class="profile-title">Assistant Director, Alumni Relations</div>
-							<a href="mailto:msteward@jmls.edu">msteward@jmls.edu</a><br>
-							312.427.2737 ext. 351
-						</div>
-						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
-							<img class="profile-thumb" src="images/hamill-judith.jpg" alt="Judith Hamill">
-							<div class="profile-name">Judith Hamill</div>
-							<div class="profile-title">Grants Administrator</div>
-							<a href="mailto:jhamill@jmls.edu">jhamill@jmls.edu</a><br>
-							312.427.2737 ext. 318
-						</div>
-					</div>
-
-					<div class="grid-wrap">						
-						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
 							<img class="profile-thumb" src="images/prihoda-lauren.jpg" alt="Lauren Prihoda">
 							<div class="profile-name">Lauren Prihoda</div>
 							<div class="profile-title">Director, Annual Giving</div>
 							<a href="mailto:lprihoda@jmls.edu">lprihoda@jmls.edu</a><br>
 							312.386.2871
 						</div>
+						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
+							<img class="profile-thumb" src="images/steward-matt.jpg" alt="Matt Steward">
+							<div class="profile-name">Matt Steward</div>
+							<div class="profile-title">Assistant Director, Alumni Relations</div>
+							<a href="mailto:msteward@jmls.edu">msteward@jmls.edu</a><br>
+							312.427.2737 ext. 351
+						</div>
+					</div>
+
+					<div class="grid-wrap">
+						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
+							<img class="profile-thumb" src="images/hamill-judith.jpg" alt="Judith Hamill">
+							<div class="profile-name">Judith Hamill</div>
+							<div class="profile-title">Grants Administrator</div>
+							<a href="mailto:jhamill@jmls.edu">jhamill@jmls.edu</a><br>
+							312.427.2737 ext. 318
+						</div>						
 						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
 							<img class="profile-thumb" src="images/beach-chris.jpg" alt="Chris Beach">
 							<div class="profile-name">Chris Beach</div>
