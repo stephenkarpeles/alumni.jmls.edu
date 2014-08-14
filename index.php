@@ -19,7 +19,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					  	<p class="caption"><span class="caption-title">Get Involved</span><br>Volunteer, mentor, and enhance the John Marshall community.<br><a class="caption-link" href="get-involved/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
-					  	<a href="stay-connected/"><img src="images/hero-reunion.jpg" alt="Stay Connected at John Marshall"></a>
+					  	<a href="stay-connected/"><img src="images/hero-exchange-2.jpg" alt="Stay Connected at John Marshall"></a>
 					  	<p class="caption"><span class="caption-title">Stay Connected</span><br>Network with other alumni, and discover the John Marshall of today.<br><a class="caption-link" href="stay-connected/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>

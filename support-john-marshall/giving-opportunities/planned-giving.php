@@ -27,6 +27,7 @@ $tpTitle="Planned Giving | The John Marshall Law School - Office of Alumni Relat
 					<p>There are many ways of making a planned gift, and our staff members are very pleased to help you. Please call or email us at our contact information below, and thank you for your support of The John Marshall Law School.</p>
 					<p><strong>Lauren Prihoda</strong><br>
 					<em>Director, Annual Giving</em><br>
+					
 					<a href="mailto:lprihoda@jmls.edu"><strong>lprihoda@jmls.edu</strong></a><br>
 					312.427.2737 ext. 871</p>
 
