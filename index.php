@@ -23,7 +23,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					  	<p class="caption"><span class="caption-title">Stay Connected</span><br>Network with other alumni, and discover the John Marshall of today.<br><a class="caption-link" href="stay-connected/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
-					  	<a href="support-john-marshall/"><img src="images/hero-class.jpg" alt="Support John Marshall"></a>
+					  	<a href="support-john-marshall/"><img src="images/hero-donors.jpg" alt="Support John Marshall"></a>
 					  	<p class="caption"><span class="caption-title">Support John Marshall</span><br>Help transform the lives of tomorrow's graduates with your support.<br><a class="caption-link" href="support-john-marshall/">Learn More &raquo;</a></p>
 					  </li>					  
 					</ul>									
@@ -100,7 +100,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<div class="media-box">
 							<div class="media">
 								<a href="initiatives/signature-events.php" class="graphic">
-									<img class="home-thumb" src="images/project-4.jpg" alt="">
+									<img class="home-thumb" src="images/thumb-braun.jpg" alt="Signature Events">
 								</a>
 								<div class="media-content">
 									<a href="initiatives/signature-events.php"><strong>Signature Events</strong><br><span class="text-small">Underwrite the Discussions that Impact Our Profession</span></a>
