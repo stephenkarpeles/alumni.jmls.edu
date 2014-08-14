@@ -35,6 +35,8 @@ $tpTitle="Transforming Lives Through Academic Programs | The Office of Alumni Re
 			<div class="grid-col bp3-col-1-4">
 				<!-- Sidebar Wrap Top -->
 				<?php include('../includes/sidebar/sidebar-wrap-top.php'); ?>
+				<!-- Menu -->
+				<?php include('../includes/menus/initiatives.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
 				<?php include('../includes/sidebar/sidebar-wrap-bottom-alt.php'); ?>					
 			</div><!-- .grid-col -->						

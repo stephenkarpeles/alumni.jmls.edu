@@ -32,6 +32,8 @@ $tpTitle="Signature Events Transforms Lives | The Office of Alumni Relations &am
 			<div class="grid-col bp3-col-1-4">
 				<!-- Sidebar Wrap Top -->
 				<?php include('../includes/sidebar/sidebar-wrap-top.php'); ?>
+				<!-- Menu -->
+				<?php include('../includes/menus/initiatives.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
 				<?php include('../includes/sidebar/sidebar-wrap-bottom-alt.php'); ?>					
 			</div><!-- .grid-col -->						

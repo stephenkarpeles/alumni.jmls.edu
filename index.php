@@ -129,11 +129,11 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<!-- Project -->
 						<div class="media-box">
 							<div class="media">
-								<a href="initiatives/our-campus.php" class="graphic">
+								<a href="initiatives/campus-improvements.php" class="graphic">
 									<img class="home-thumb" src="images/thumb-state-building.jpg" alt="Our Campus">
 								</a>
 								<div class="media-content">
-									<a href="initiatives/our-campus.php"><strong>Campus Improvements</strong><br><span class="text-small">Leave Your Mark on the New John Marshall</span></a>
+									<a href="initiatives/campus-improvements.php"><strong>Campus Improvements</strong><br><span class="text-small">Leave Your Mark on the New John Marshall</span></a>
 								</div>
 							</div>	
 						</div>				

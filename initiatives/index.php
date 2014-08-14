@@ -25,28 +25,28 @@ $tpTitle="Current Initiatives | The John Marshall Law School - Office of Alumni 
 					<div class="highlight mar-top-large">
 						<div class="highlight-wrap">
 							<div class="highlight-unit">
-								<a href="resources.php"><img src="../images/resources.jpg" alt="JMLS Resources"></a>
-								<div class="highlight-header"><a href="../tips-and-tools/resources.php">Academic Programs</a></div>
+								<a href="academic-programs.php"><img src="http://placehold.it/320x194" alt="Academic Programs"></a>
+								<div class="highlight-header"><a href="academic-programs.php">Academic Programs</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="http://www.jmls.edu/career-services/alumni/" target="_blank"><img src="../images/career-services.jpg" alt="Career Services Office"></a>
-								<div class="highlight-header"><a href="http://www.jmls.edu/career-services/alumni/" target="_blank">Career Services Office</a></div>	
+								<a href="scholarships.php"><img src="http://placehold.it/320x194" alt="Scholarships"></a>
+								<div class="highlight-header"><a href="scholarships.php">Scholarships</a></div>	
 							</div>
 							<div class="highlight-unit">
-								<a href="alumni-benefits.php"><img src="../images/alumni-benefits.jpg" alt="Alumni Benefits"></a>
-								<div class="highlight-header"><a href="../tips-and-tools/alumni-benefits.php">Alumni Benefits</a></div>
+								<a href="clinical-experiences.php"><img src="http://placehold.it/320x194" alt="Clinical Experiences"></a>
+								<div class="highlight-header"><a href="clinical-experiences.php">Clinical Experiences</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="http://www.jmls.edu/aap/" target="_blank"><img src="../images/alumni-advantage.jpg" alt="Alumni Advantage Program"></a>
-								<div class="highlight-header"><a href="http://www.jmls.edu/aap/" target="_blank">Alumni Advantage Program</a></div>
+								<a href="campus-improvements.php"><img src="http://placehold.it/320x194" alt="Campus Improvements"></a>
+								<div class="highlight-header"><a href="campus-improvements.php">Campus Improvements</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="http://edegrees.jmls.edu" target="_blank"><img src="../images/distance-education.jpg" alt="Distance Education"></a>
-								<div class="highlight-header"><a href="http://edegrees.jmls.edu" target="_blank">Distance Education</a></div>
+								<a href="signature-events.php"><img src="http://placehold.it/320x194" alt="Signature Events"></a>
+								<div class="highlight-header"><a href="signature-events.php">Signature Events</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="http://edegrees.jmls.edu" target="_blank"><img src="../images/distance-education.jpg" alt="Distance Education"></a>
-								<div class="highlight-header"><a href="http://edegrees.jmls.edu" target="_blank">Distance Education</a></div>
+								<a href="annual-fund.php"><img src="http://placehold.it/320x194" alt="The Annual Fund"></a>
+								<div class="highlight-header"><a href="annual-fund.php">The Annual Fund</a></div>
 							</div>
 						</div>
 					</div>	
