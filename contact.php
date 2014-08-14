@@ -20,7 +20,7 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 				  <?php include('includes/breadcrumbs.php'); ?>
 
 					<h1 class="page-header">Contact Us</h1>
-					<p class="featured-text">Some content will go here introducing the contact section, and perhaps some of the people below, or what the best way is for people to get in touch.</p>
+					<p class="featured-text">[Some content will go here introducing the contact section, and perhaps some of the people below, or what the best way is for people to get in touch.]</p>
 
 					<h2 class="mar-top-small mar-bot-medium">Alumni Relations &amp; Development Staff</h2>
 
@@ -33,38 +33,22 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							312.360.2663
 						</div>
 						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
-							<img class="profile-thumb" src="images/veach-katherine.jpg" alt="Katherine Veach">
-							<div class="profile-name">Katherine Veach</div>
-							<div class="profile-title">Executive Director</div>
-							<a href="mailto:kveach@jmls.edu">kveach@jmls.edu</a><br>
-							312.427.2737 ext. 133							
-						</div>
-						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
-							<img class="profile-thumb" src="http://placehold.it/145x198" alt="Sherri Dzik">
+							<img class="profile-thumb" src="images/dzik-sherri.jpg" alt="Sherri Dzik">
 							<div class="profile-name">Sherri Dzik</div>
 							<div class="profile-title">Director, Alumni Relations</div>
 							<a href="mailto:sdzikh@jmls.edu">sdzik@jmls.edu</a><br>
 							312.427.2737 ext. 343							
-						</div>						
-						<!--
-						<div class="grid-col bp1-col-1-3 text-center">
-							<img class="profile-thumb" src="images/melichar-ernie.jpg" alt="Ernie Melichar">
-							<div class="profile-name">Ernie Melichar</div>
-							<div class="profile-title">Director, Planned Giving</div>
-							<a href="mailto:emelichar@jmls.edu">emelichar@jmls.edu</a><br>
-							312.427.2737 ext. 365
 						</div>
-						-->
-					</div>
-
-					<div class="grid-wrap">
-					  <div class="grid-col bp1-col-1-3 mar-bot-large text-center">
+						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
 							<img class="profile-thumb" src="images/fagrelius-erik.jpg" alt="Erik Farelius">
 							<div class="profile-name">Erik Fagrelius</div>
 							<div class="profile-title">Director, Research, Grants &amp; Development Assessments</div>
 							<a href="mailto:efagrelius@jmls.edu">efagrelius@jmls.edu</a><br>
 							312.386.2869
 						</div>
+					</div>
+
+					<div class="grid-wrap">
 						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
 							<img class="profile-thumb" src="images/schaal-maridonna.jpg" alt="Maridonna Schaal">
 							<div class="profile-name">Maridonna Schaal</div>
@@ -73,15 +57,12 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							312.360.2663							
 						</div>
 						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
-							<img class="profile-thumb" src="http://placehold.it/145x198" alt="Matt Steward">
+							<img class="profile-thumb" src="images/steward-matt.jpg" alt="Matt Steward">
 							<div class="profile-name">Matt Steward</div>
 							<div class="profile-title">Assistant Director, Alumni Relations</div>
 							<a href="mailto:msteward@jmls.edu">msteward@jmls.edu</a><br>
 							312.427.2737 ext. 351
 						</div>
-					</div>
-
-					<div class="grid-wrap">
 						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
 							<img class="profile-thumb" src="images/hamill-judith.jpg" alt="Judith Hamill">
 							<div class="profile-name">Judith Hamill</div>
@@ -89,6 +70,9 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 							<a href="mailto:jhamill@jmls.edu">jhamill@jmls.edu</a><br>
 							312.427.2737 ext. 318
 						</div>
+					</div>
+
+					<div class="grid-wrap">						
 						<div class="grid-col bp1-col-1-3 mar-bot-large text-center">
 							<img class="profile-thumb" src="images/prihoda-lauren.jpg" alt="Lauren Prihoda">
 							<div class="profile-name">Lauren Prihoda</div>
