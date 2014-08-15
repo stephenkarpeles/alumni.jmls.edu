@@ -2382,16 +2382,36 @@ a.nav-toggle:hover, a.nav-toggle:active {
   background: url("../images/icon-search-large-gray.png") no-repeat 5px center;
 }
 
-li#Logout,
-li#MyAccount,
-li#MyProfile,
-li#MyCommunities,
-li#MyPhotos,
-li#MyClassNotes {
-  position: relative;
-  top: -2px;
-  font-size: .9em;
-  padding-left: 2px;
+.nav-collapse li a {
+  display: block;
+  padding: 10px 0;
+  border-bottom: 1px solid white;
+  font-size: 0.9em;
+  font-weight: 400;
+}
+.nav-collapse li a:first-child {
+  padding: 0 0 10px;
+}
+.nav-collapse li a:last-child {
+  border-bottom: none;
+}
+
+.nav-collapse li a .arrow {
+  display: none;
+}
+
+@media (min-width: 800px) {
+  li#Logout,
+  li#MyAccount,
+  li#MyProfile,
+  li#MyCommunities,
+  li#MyPhotos,
+  li#MyClassNotes {
+    position: relative;
+    top: -2px;
+    font-size: .9em;
+    padding-left: 2px;
+  }
 }
 
 li#Logout .arrow,
@@ -2403,13 +2423,15 @@ li#MyClassNotes .arrow {
   display: none;
 }
 
-li#Logout a:after,
-li#MyAccount a:after,
-li#MyProfile a:after,
-li#MyCommunities a:after,
-li#MyPhotos a:after {
-  content: '\25AA';
-  margin-left: 2px;
+@media (min-width: 800px) {
+  li#Logout a:after,
+  li#MyAccount a:after,
+  li#MyProfile a:after,
+  li#MyCommunities a:after,
+  li#MyPhotos a:after {
+    content: '\25AA';
+    margin-left: 2px;
+  }
 }
 
 .slider {

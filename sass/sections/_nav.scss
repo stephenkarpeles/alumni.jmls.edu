@@ -154,23 +154,38 @@ a.nav-toggle {
 
 
 // Styles for Logged in Users
+.nav-collapse li a {
+  display: block;
+  padding: 10px 0;
+  border-bottom: 1px solid white;
+  font-size: $font-size-smaller;
+  font-weight: 400;
+  &:first-child {
+    padding: 0 0 10px; }
+  &:last-child {
+    border-bottom: none; } }
+
+.nav-collapse li a .arrow {
+  display: none; }
+
 li#Logout,
 li#MyAccount,
 li#MyProfile,
 li#MyCommunities,
 li#MyPhotos,
 li#MyClassNotes {
-  position: relative;
-  top: -2px;
-  font-size: .9em;
-  padding-left: 2px; }
+  @include breakpoint(bp3) { 
+    position: relative;
+    top: -2px;
+    font-size: .9em;
+    padding-left: 2px; } }
 
 li#Logout .arrow,
 li#MyAccount .arrow,
 li#MyProfile .arrow,
 li#MyCommunities .arrow,
 li#MyPhotos .arrow,
-li#MyClassNotes .arrow { 
+li#MyClassNotes .arrow {  
   display: none; }
 
 li#Logout a:after,
@@ -178,5 +193,6 @@ li#MyAccount a:after,
 li#MyProfile a:after,
 li#MyCommunities a:after,
 li#MyPhotos a:after {
-  content: '\25AA'; 
-  margin-left: 2px; }
+  @include breakpoint(bp3) { 
+    content: '\25AA'; 
+    margin-left: 2px; } }
