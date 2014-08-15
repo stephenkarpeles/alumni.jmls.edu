@@ -75,6 +75,7 @@
 // Callout Box
 .callout-box {
 	float: none;
+	clear: both;
 	width: 100%;
 	margin-bottom: 1.5em;
 	@include breakpoint(bp2) { 

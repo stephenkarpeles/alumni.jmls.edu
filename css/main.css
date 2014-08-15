@@ -945,6 +945,7 @@ li.crumb-item:last-child .crumb-tail {
 
 .callout-box {
   float: none;
+  clear: both;
   width: 100%;
   margin-bottom: 1.5em;
 }
