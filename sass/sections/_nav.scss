@@ -1,5 +1,4 @@
 // Responsive Nav (responsive-nav.js 1.0.23 by @viljamis)
-
 .nav-container {
   clear: both;
 	min-height: 50px;
@@ -88,12 +87,10 @@ a.nav-toggle {
     max-height: none; }
 
   .nav-toggle {
-    display: none; } 
-}
+    display: none; } }
 
 
 // Search below breakpoint 3
-
 .search-toggle {
   float: right;  
   margin-top: -4px;
@@ -154,3 +151,32 @@ a.nav-toggle {
 
 .no-svg .search-toggle input[type=search]:focus {
   background: url('../images/icon-search-large-gray.png') no-repeat 5px center; }
+
+
+// Styles for Logged in Users
+li#Logout,
+li#MyAccount,
+li#MyProfile,
+li#MyCommunities,
+li#MyPhotos,
+li#MyClassNotes {
+  position: relative;
+  top: -2px;
+  font-size: .9em;
+  padding-left: 2px; }
+
+li#Logout .arrow,
+li#MyAccount .arrow,
+li#MyProfile .arrow,
+li#MyCommunities .arrow,
+li#MyPhotos .arrow,
+li#MyClassNotes .arrow { 
+  display: none; }
+
+li#Logout a:after,
+li#MyAccount a:after,
+li#MyProfile a:after,
+li#MyCommunities a:after,
+li#MyPhotos a:after {
+  content: '\25AA'; 
+  margin-left: 2px; }

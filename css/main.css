@@ -2382,6 +2382,36 @@ a.nav-toggle:hover, a.nav-toggle:active {
   background: url("../images/icon-search-large-gray.png") no-repeat 5px center;
 }
 
+li#Logout,
+li#MyAccount,
+li#MyProfile,
+li#MyCommunities,
+li#MyPhotos,
+li#MyClassNotes {
+  position: relative;
+  top: -2px;
+  font-size: .9em;
+  padding-left: 2px;
+}
+
+li#Logout .arrow,
+li#MyAccount .arrow,
+li#MyProfile .arrow,
+li#MyCommunities .arrow,
+li#MyPhotos .arrow,
+li#MyClassNotes .arrow {
+  display: none;
+}
+
+li#Logout a:after,
+li#MyAccount a:after,
+li#MyProfile a:after,
+li#MyCommunities a:after,
+li#MyPhotos a:after {
+  content: '\25AA';
+  margin-left: 2px;
+}
+
 .slider {
   position: relative;
 }
