@@ -47,7 +47,7 @@
   zoom: 1; }
 
 .nav-collapse.opened {
-  max-height: 9999px; }
+  max-height: 9999px !important; }
 
 .top-nav {
 	padding: 14px 0 10px; }
@@ -163,6 +163,7 @@ a.nav-toggle {
   &:first-child {
     padding: 0 0 10px; }
   &:last-child {
+    padding: 10px 0 0;
     border-bottom: none; } }
 
 .nav-collapse li a .arrow {

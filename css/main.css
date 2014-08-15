@@ -2258,7 +2258,7 @@ header {
 }
 
 .nav-collapse.opened {
-  max-height: 9999px;
+  max-height: 9999px !important;
 }
 
 .top-nav {
@@ -2393,6 +2393,7 @@ a.nav-toggle:hover, a.nav-toggle:active {
   padding: 0 0 10px;
 }
 .nav-collapse li a:last-child {
+  padding: 10px 0 0;
   border-bottom: none;
 }
 
