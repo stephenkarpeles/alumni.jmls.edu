@@ -25,19 +25,19 @@ $tpTitle="Current Initiatives | The John Marshall Law School - Office of Alumni 
 					<div class="highlight mar-top-large">
 						<div class="highlight-wrap">
 							<div class="highlight-unit">
-								<a href="academic-programs.php"><img src="http://placehold.it/320x194" alt="Academic Programs"></a>
+								<a href="academic-programs.php"><img src="../images/featured-niedwiecki.jpg" alt="Academic Programs"></a>
 								<div class="highlight-header"><a href="academic-programs.php">Academic Programs</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="scholarships.php"><img src="http://placehold.it/320x194" alt="Scholarships"></a>
+								<a href="scholarships.php"><img src="../images/featured-scholarships.jpg" alt="Scholarships"></a>
 								<div class="highlight-header"><a href="scholarships.php">Scholarships</a></div>	
 							</div>
 							<div class="highlight-unit">
-								<a href="clinical-experiences.php"><img src="http://placehold.it/320x194" alt="Clinical Experiences"></a>
+								<a href="clinical-experiences.php"><img src="../images/featured-clinic.jpg" alt="Clinical Experiences"></a>
 								<div class="highlight-header"><a href="clinical-experiences.php">Clinical Experiences</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="campus-improvements.php"><img src="http://placehold.it/320x194" alt="Campus Improvements"></a>
+								<a href="campus-improvements.php"><img src="../images/featured-building.jpg" alt="Campus Improvements"></a>
 								<div class="highlight-header"><a href="campus-improvements.php">Campus Improvements</a></div>
 							</div>
 							<div class="highlight-unit">
