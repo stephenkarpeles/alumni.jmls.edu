@@ -19,8 +19,8 @@ $tpTitle="Alumni Association | The John Marshall Law School - Office of Alumni R
 				  <!-- Breadcrumbs -->		
 				  <?php include('../../includes/breadcrumbs.php'); ?>	
 
-					<h1 class="page-header">Alumni Association</h1>
-					<p class="featured-text">As a John Marshall grad, you are automatically a member of the John Marshall Alumni Association. [More content coming to explain value of the Alumni Association.]</p>
+					<h1 class="page-header">The John Marshall Law School Alumni Association</h1>
+					<p class="featured-text">As a graduate of The John Marshall Law School, you are automatically a member of the Alumni Association. The Association's mission is to advance and promote the common interests of The John Marshall Law School and the alumni, students and friends of the Law School. </p>
 					<p>The Alumni Association is its own independent, 501(c)(3) organization, which works in close collaboration with the Office of Alumni Relations. The Alumni Association is governed by a board of directors who direct all alumni activities that are independent of John Marshall.</p>
 					<p>Board members pay annual dues and participate in approximately five meetings a year and plan events such as the Alumni Association&rsquo;s signature event, the Freedom Award and Distinguished Service Awards Luncheon. Board members are selected on an annual basis by other board members.</p>
 					<h3>Members, Officers &amp; Committees</h3>
