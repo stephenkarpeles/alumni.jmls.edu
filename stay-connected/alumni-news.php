@@ -25,7 +25,7 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 					<div class="grid-wrap mar-bot-medium">
 						<div class="grid-col bp1-col-1-2 bp2-col-2-3 mar-bot-small-alt">
 							<h3 class="mar-top-zero">Alumni Newsletter</h3>
-							<p>Sharing John Marshall news with you is just as important as you sharing your news with us! Monthly we send our e-newsletter in one compact, easy-to-read format so you can stay on top of events and opportunities to grow and expand your professional skills and network.  We encourage you to share your achievements, acknowledgements and changes with us.</p>
+							<p>Sharing John Marshall news with you is just as important to us as you sharing your news with us! Each month we send our e-newsletter in one compact, easy-to-read format, so you can stay on top of events and opportunities to grow and expand your professional skills and network. We encourage you to share your achievements, acknowledgements, and changes with us.</p>
 							<p><strong>Have news to share?</strong><br>
 							Send your new job, new baby, honor, recognition, or marriage news to <a href="mailto:alumni@jmls.edu" class="bold">alumni@jmls.edu</a>. Don&rsquo;t forget to include a picture!</p>
 						</div>
