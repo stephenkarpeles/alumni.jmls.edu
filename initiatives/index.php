@@ -20,7 +20,9 @@ $tpTitle="Current Initiatives | The John Marshall Law School - Office of Alumni 
 				  <?php include('../includes/breadcrumbs.php'); ?>
 
 					<h1 class="page-header">Current Initiatives</h1>
+					<!--
 					<p class="featured-text">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas sit amet quam egestas semper mi vitae est. Mauris placerat eleifend leo tempor sit.</p>
+					-->
 
 					<div class="highlight mar-top-large">
 						<div class="highlight-wrap">
