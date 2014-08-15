@@ -25,35 +25,35 @@ $tpTitle="Board of Directors | The John Marshall Law School - Office of Alumni R
 
 					<div class="grid-wrap">
 						<div class="grid-col bp2-col-1-2 mar-bot-small">
-							Regina A. Scannicchio, '88<br>
+							Natosha Cuyler-Sherman, '05<br>
 							<em>President</em>					
 						</div>
 						<div class="grid-col bp2-col-1-2 mar-bot-small">
-							Natosha Cuyler-Sherman, '05<br>
+							Daniel A. Cotter, '95<br>
 							<em>First Vice President</em>					
 						</div>
 						<div class="grid-col bp2-col-1-2 mar-bot-small">
-							Daniel A. Cotter, '95<br>
+							Karie J. Valentino, '96<br>
   						<em>Second Vice President</em>					
 						</div>
 						<div class="grid-col bp2-col-1-2 mar-bot-small">
-						  Karie J. Valentino, '96<br>
+						  Jennifer P. Irmen, '04<br>
 							<em>Third Vice President</em>					
 						</div>
 						<div class="grid-col bp2-col-1-2 mar-bot-small">
-						  Jennifer P. Irmen, '04<br>
+						  Donald T. Rubin, '80<br>
 							<em>Treasurer</em>					
 						</div>
 						<div class="grid-col bp2-col-1-2 mar-bot-small">
-						  Kevin M. Hull, '00<br>
+						  Christopher Cali, '09<br>
 							<em>Assistant Treasurer</em>					
 						</div>
 						<div class="grid-col bp2-col-1-2 mar-bot-small">
-						  Christopher Cali, '09<br>
+						  Katherine E. Linehan, '05<br>
 							<em>Secretary</em>					
 						</div>
 						<div class="grid-col bp2-col-1-2 mar-bot-small">
-						  Michael V. Favia, '82<br>
+						  Hon. Regina Scannicchio, '88<br>
 							<em>Immediate Past President</em>					
 						</div>
 					</div><!-- .grid-wrap -->
@@ -86,46 +86,46 @@ $tpTitle="Board of Directors | The John Marshall Law School - Office of Alumni R
 							  <p class="mar-bot-smallest">Sharon X. Aguilera, '05 </p>
 								<p class="mar-bot-smallest">Howard H. Ankin, '93</p>
 								<p class="mar-bot-smallest">Cory J. Aronovitz, '93</p>
-								<p class="mar-bot-smallest">John N. Augustine, '02</p>
-								<p class="mar-bot-smallest">Robert N. Beaulieu, '78</p>
 								<p class="mar-bot-smallest">Mark E. Becker, '82</p>
+								<p class="mar-bot-smallest">James L. Borkman, '10</p>
 								<p class="mar-bot-smallest">Amy I. Boyer, '02</p>
 								<p class="mar-bot-smallest">Daniel M. Breen, '09</p>
 								<p class="mar-bot-smallest">Daniel T. Calandriello III '11</p>
 								<p class="mar-bot-smallest">Anthony F. Calzaretta '94</p>
 								<p class="mar-bot-smallest">Hon. Joseph M. Cataldo, '92</p>
 								<p class="mar-bot-smallest">Richard M. Colombik, '80</p>
+								<p class="mar-bot-smallest">Sandra Crawford, '89</p>
+								<p class="mar-bot-smallest">Hon. Anna Demacopoulos, '85</p>
 								<p class="mar-bot-smallest">Hon. John T. Doody, Jr. '74</p>
 								<p class="mar-bot-smallest">Tiffany E. Elking '10</p>
 								<p class="mar-bot-smallest">Karen A. Enright '92</p>
 								<p class="mar-bot-smallest">Hon. Timothy C. Evans, '69</p>
+								<p class="mar-bot-smallest">Michael V. Favia, '82</p>
 								<p class="mar-bot-smallest">Stephen Florentino '75</p>
 								<p class="mar-bot-smallest">Bary L. Gassman, '96</p>
+								<p class="mar-bot-smallest">Jeremy L. Geller, '02</p>
 								<p class="mar-bot-smallest">Mauro Glorioso, '97</p>
 								<p class="mar-bot-smallest">James B. Goldberg '98</p>
 								<p class="mar-bot-smallest">Hon. Russell W. Hartigan, '75</p>
-								<p class="mar-bot-smallest">Michael Hennessy, '64</p>
-								<p class="mar-bot-smallest">John F. Hiltz III '06</p>
-								<p class="mar-bot-smallest">Hon. Thomas E. Hoffman, '71</p>
-								<p class="mar-bot-smallest">Gregory R. James, Jr., '88</p>
-								<p class="mar-bot-smallest">Matthew Kellam '10</p>
-								<p class="mar-bot-smallest">Todd P. Klein '01</p>
+								<p class="mar-bot-smallest">Michael J. Hennessy, '64</p>
+								<p class="mar-bot-smallest">John F. Hiltz III '06</p>							
 							</div>
 							<div class="grid-col bp2-col-1-2">
+							  <p class="mar-bot-smallest">Hon. Thomas E. Hoffman, '71</p>
+							  <p class="mar-bot-smallest">Gregory R. James, Jr., '88</p>
+							  <p class="mar-bot-smallest">Matthew P. Kellam '10</p>
+								<p class="mar-bot-smallest">Todd P. Klein '01</p>
 								<p class="mar-bot-smallest">Hon. Lambros J. Kutrubis '73</p>
 								<p class="mar-bot-smallest">Norman J. Lasko '67</p>
 								<p class="mar-bot-smallest">John R. Lee '73</p>
-								<p class="mar-bot-smallest">Katherine E. Linehan '05</p>
+								<p class="mar-bot-smallest">Michael L. Lodermeier, '99</p>
 								<p class="mar-bot-smallest">Philip F. Maher, '70</p>
-								<p class="mar-bot-smallest">Hon. Blanche M. Manning, '67</p>
-								<p class="mar-bot-smallest">David Martay, '97</p>
 								<p class="mar-bot-smallest">Ann L. Melichar, '03/'05</p>
 								<p class="mar-bot-smallest">Jill P. O'Brien, '89</p>
 								<p class="mar-bot-smallest">Hon. Angela M. Petrone '84</p>
 								<p class="mar-bot-smallest">Hon. James P. Pieczonka '83</p>
 								<p class="mar-bot-smallest">David M. Rafferty, '00</p>
 								<p class="mar-bot-smallest">W. Brandon Rogers '10</p>
-								<p class="mar-bot-smallest">Donald T. Rubin, '80</p>
 								<p class="mar-bot-smallest">Carolina Y. Sales, '05/'10</p>
 								<p class="mar-bot-smallest">Michael J. Salvi '84 </p>
 								<p class="mar-bot-smallest">Jennifer B. Sexton '05</p>
@@ -137,7 +137,6 @@ $tpTitle="Board of Directors | The John Marshall Law School - Office of Alumni R
 								<p class="mar-bot-smallest">Gordon K. Walton '94</p>
 								<p class="mar-bot-smallest">Vincent T. Winters '07</p>
 								<p class="mar-bot-smallest">Michael A. Yashar, '95</p>
-								<p class="mar-bot-smallest">William Yu, '96</p>
 							</div>
 						</div><!-- .grid-wrap -->
 
