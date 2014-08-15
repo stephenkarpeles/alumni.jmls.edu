@@ -20,7 +20,7 @@ $tpTitle="Current Initiatives | The John Marshall Law School - Office of Alumni 
 				  <?php include('../includes/breadcrumbs.php'); ?>
 
 					<h1 class="page-header">Current Initiatives</h1>
-					<p class="featured-text">John Marshall is here to support you, just as when you were a student. Explore the alumni resources below, and if you don&rsquo;t see what you&rsquo;re looking for, let us know.</p>
+					<p class="featured-text">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas sit amet quam egestas semper mi vitae est. Mauris placerat eleifend leo tempor sit.</p>
 
 					<div class="highlight mar-top-large">
 						<div class="highlight-wrap">
@@ -41,11 +41,11 @@ $tpTitle="Current Initiatives | The John Marshall Law School - Office of Alumni 
 								<div class="highlight-header"><a href="campus-improvements.php">Campus Improvements</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="signature-events.php"><img src="http://placehold.it/320x194" alt="Signature Events"></a>
+								<a href="signature-events.php"><img src="../images/featured-braun.jpg" alt="Signature Events"></a>
 								<div class="highlight-header"><a href="signature-events.php">Signature Events</a></div>
 							</div>
 							<div class="highlight-unit">
-								<a href="annual-fund.php"><img src="http://placehold.it/320x194" alt="The Annual Fund"></a>
+								<a href="annual-fund.php"><img src="../images/featured-exterior.jpg" alt="The Annual Fund"></a>
 								<div class="highlight-header"><a href="annual-fund.php">The Annual Fund</a></div>
 							</div>
 						</div>
