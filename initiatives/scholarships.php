@@ -25,6 +25,10 @@ $tpTitle="Scholarships Transforms Lives | The Office of Alumni Relations &amp; D
 					<p>Borrowing to pay for law school limits our graduates' career paths to those with salaries sufficient to pay off student loans. As a result, graduates shy away from public interest-sector positions, leaving a gaping hole in a practice area that provides a valuable service to our communities. In order for our graduates to realize their dreams without the straitjacket of loan repayment, we need to increase the number and amount of our scholarships.</p>
 					<p>Scholarship support also helps our students have time for honors programs, student organizations, and giving back to the community through pro bono activities that can be very difficult or impossible to engage in while working long hours during law school. In order for our students to distinguish themselves and draw on the full spectrum of law school offerings, we need to increase the number and amount of our scholarships.</p>
 					<p>Along with scholarship support, other student-related investments, such as internships and bar preparation courses enable you to have a direct and transformational impact on the lives of our students.</p>
+
+					<a href="http://www.jmls.edu/give" target="_blank">
+						<div class="btn btn-medium btn-red bold mar-top-small-alt">Give Now</div>
+					</a>
 					
 				</article><!-- .main -->
 

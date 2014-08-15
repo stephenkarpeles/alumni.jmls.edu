@@ -25,6 +25,10 @@ $tpTitle="Our Campus Transforms Lives | The Office of Alumni Relations &amp; Dev
 					<p>It is easy to see the power of transformation at the corner of State St. and Jackson Boulevard. The building at 19 W. Jackson, along with our new Student Commons and entrance on State Street, as well as the state-of-the-art Arthur J. Goldberg Memorial Courtroom, reflect the law school's commitment to our students, our academic programs, our alumni, the city of Chicago, and the future of legal education.</p>
 					<p>In addition to restoring an historic building, we were the first law school in the Midwest to design space to accommodate the needs of veterans struggling with PTSD. Our new Community Legal Clinics facility is getting well-deserved recognition for this innovative design, including a Chicago Vision Award from the Urban Land Institute.</p>
 
+					<a href="http://www.jmls.edu/give" target="_blank">
+						<div class="btn btn-medium btn-red bold mar-top-small-alt">Give Now</div>
+					</a>
+
 				</article><!-- .main -->
 
 			</div><!-- .grid-col -->			

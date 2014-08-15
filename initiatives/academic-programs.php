@@ -19,8 +19,6 @@ $tpTitle="Transforming Lives Through Academic Programs | The Office of Alumni Re
 				  <!-- Breadcrumbs -->		
 				  <?php include('../includes/breadcrumbs.php'); ?>
 
-				  <img class="mar-bot-small-alt" src="../images/banner-niedwiecki.jpg" alt="">
-
 					<h1 class="page-header">Transforming Lives Through Academic Programs</h1>
 					<p class="featured-text">By supporting John Marshall's academic programs, our students continue to benefit from enhanced nationally ranked and recognized programs, leaving them not only better equipped to contribute to the legal profession, but to make an impact in their community.</p>
 					<h3>Relevant, Challenging Programs</h3>
@@ -29,6 +27,10 @@ $tpTitle="Transforming Lives Through Academic Programs | The Office of Alumni Re
 					<h3>Recruiting Excellent Teachers</h3>
 					<p>And just as the school competes to recruit the best students, it must also compete to recruit the best faculty. We must provide the resources and support to allow our professors to grow in their fields of specialization.</p>
 					<p>In order to build and maintain a highly qualified, diverse and influential faculty of excellent teachers and scholars, and to provide them with the needed support to succeed, John Marshall is committed to ensuring that all members of our faculty are excellent teachers.</p>
+
+					<a href="http://www.jmls.edu/give" target="_blank">
+						<div class="btn btn-medium btn-red bold mar-top-small-alt">Give Now</div>
+					</a>
 
 				</article><!-- .main -->
 

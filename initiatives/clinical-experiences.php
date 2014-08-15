@@ -38,6 +38,10 @@ $tpTitle="Transforming Lives Through Clinical Experiences | The Office of Alumni
 					<p>These practical experiences have a profound effect on the student attorney as they deepen their understanding of the relationship between the law school doctrine and real-world client environments. Students learn in our clinics, while becoming advocates in our community.</p>
 					<p>To earn the required credit hours, students choose from eight clinical opportunities, including: Business Enterprise Law Clinic, Domestic Violence Clinic, Fair Housing Legal Clinic, Institute for Conflict Resolution, International Human Rights Clinic, IP Patent Clinic, Pro Bono Clinic, and Veterans Legal Support Clinic.</p>
 
+					<a href="http://www.jmls.edu/give" target="_blank">
+						<div class="btn btn-medium btn-red bold mar-top-small-alt">Give Now</div>
+					</a>
+
 				</article><!-- .main -->
 
 			</div><!-- .grid-col -->			

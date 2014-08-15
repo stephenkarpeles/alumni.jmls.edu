@@ -35,6 +35,10 @@ $tpTitle="Why Give | The John Marshall Law School - Office of Alumni Relations &
 					Honors programs, clinics, externships, moot court and trial advocacy programs, and student life activities.</p>
 					<p><strong>Facilities and technology support</strong><br>
 					Library, computer services, upgraded classrooms, and capital improvements.</p>
+
+					<a href="http://www.jmls.edu/give" target="_blank">
+						<div class="btn btn-medium btn-red bold mar-top-small">Give Now</div>
+					</a>
 					
 				</article><!-- .main -->
 				

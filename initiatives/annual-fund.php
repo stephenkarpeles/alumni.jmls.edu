@@ -25,6 +25,10 @@ $tpTitle="The Annual Fund Transforms Lives | The Office of Alumni Relations &amp
 					<p>The Annual Fund enables us to take advantage of unexpected opportunities and to meet new challenges throughout the year. In fact, a $100 gift to the Annual Fund contributes as much to the law school's annual budget as a $2,000 endowed fund.</p>
 					<p>Approximately 50% of our students receive law school grants and scholarships&mdash;funds that annual gifts help provide.</p>
 					<p>Annual giving is so important that John Marshall created a giving society to honor its most loyal Annual Fund donors. Donors who have supported the Annual Fund for five or more consecutive years are recognized as members of the 1899 Society.  Consistent giving is the cornerstone of the Annual Fund's success.</p>
+
+					<a href="http://www.jmls.edu/give" target="_blank">
+						<div class="btn btn-medium btn-red bold mar-top-small-alt">Give Now</div>
+					</a>
 					
 				</article><!-- .main -->
 

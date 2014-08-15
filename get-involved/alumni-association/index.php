@@ -31,7 +31,7 @@ $tpTitle="Alumni Association | The John Marshall Law School - Office of Alumni R
 					<a class="bold" href="../../pdf/alumni-association-bylaws.pdf">Read the Alumni Association bylaws</a></p>	
 
 					<div class="module callout-box">
-						<div class="header-bar header-bar-gray">2014-2015 Alumni Board Meetings</div>
+						<div class="header-bar header-bar-gray">2014-2015 Alumni Association Meetings &amp; Events</div>
 						<div class="feature-box-color feature-box-gray">
 							<p>August 27, 2013<br>
 							September 3, 2013<br>

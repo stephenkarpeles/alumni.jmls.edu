@@ -24,6 +24,10 @@ $tpTitle="Signature Events Transforms Lives | The Office of Alumni Relations &am
 					<p>Our Signature Events bring leading scholars, judges, and practicing attorneys to John Marshall to discuss emerging issues in the law.  They keep lawmakers and future attorneys abreast of important legal developments, while helping to develop ground-breaking topics and issues, and providing a framework to not only study, but to shape the law.</p>
 					<p>Our Signature Events offer sponsorship and exhibitor opportunities throughout the year.  It is a consolidated effort to seek underwriting support for events and programs for John Marshall, and partnership is an excellent way for you to have exclusive access to our community, receive premier recognition benefits, and better distinguish your firm or company with our students, alumni, and legal professionals around the globe.</p>
 					<p>We understand that you want to maximize the return on your investment, and that participation is a vital part of your firm's marketing program. We work with you to customize options that best fit your needs and help to increase your visibility through on-site signage, advertising, and promotional recognition.</p>
+
+					<a href="http://www.jmls.edu/give" target="_blank">
+						<div class="btn btn-medium btn-red bold mar-top-small-alt">Give Now</div>
+					</a>
 					
 				</article><!-- .main -->
 
