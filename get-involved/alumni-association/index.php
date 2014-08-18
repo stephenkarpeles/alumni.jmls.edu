@@ -75,8 +75,10 @@ $tpTitle="Alumni Association | The John Marshall Law School - Office of Alumni R
 					-->
 					<p>The Freedom Award/DSA Awards Luncheon is the Alumni Association&rsquo;s major annual fundraiser. Each year, the Alumni Association selects one distinguished individual to receive the Freedom Award. Recipients of the award have made outstanding contributions to freedom in today&rsquo;s society. Those honored with a Distinguished Service Award have made outstanding contribution to a career field or personal endeavor. Monies raised at this event are used to fund scholarships for current John Marshall students.</p>
 					<p>
+						<!--
 						<a href="" class="bold">Download a Nominating Form and Instructions (PDF)</a><br>
-						<a href="" class="bold">View Last Year&rsquo;s Freedom Award Details (PDF coming)</a>
+						-->
+						<a href="../../pdf/freedom-award-recipients.pdf" class="bold">View Last Year&rsquo;s Freedom Award Details (PDF)</a>
 					</p>
 						
 				</article><!-- .main -->
