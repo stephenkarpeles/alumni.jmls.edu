@@ -20,7 +20,9 @@ $tpTitle="Contact Us | The Office of Alumni Relations &amp; Development";
 				  <?php include('includes/breadcrumbs.php'); ?>
 
 					<h1 class="page-header">Contact Us</h1>
-					<p class="featured-text">[Some content will go here introducing the contact section, and perhaps some of the people below, or what the best way is for people to get in touch.]</p>
+					<p>For general inquiries and information regarding the Office of Alumni Affairs, please email <a href="mailto:alumni@jmls.edu">alumni@jmls.edu</a>.</p>
+					<p>To support any of John Marshall's key initiatives, contact the Office of Development at <a href="mailto:development@jmls.edu">development@jmls.edu</a>.</p>
+					<p>To contact a specific staff member in the Office of Alumni Relations &amp; Development, please use the contact information below.</p>
 
 					<h2 class="mar-top-small mar-bot-medium">Alumni Relations &amp; Development Staff</h2>
 
