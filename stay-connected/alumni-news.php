@@ -20,14 +20,14 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 				  <?php include('../includes/breadcrumbs.php'); ?>	
 				  
 					<h1 class="page-header">Alumni News</h1>
-					<p class="featured-text">Who&rsquo;s running for office? Who got promoted? Stay current on alumni news. <em>More description coming</em>.</p>
+					<p class="featured-text">Staying informed about JMLS is easy and convenient. We send a monthly email newsletter to all alumni, and a monthly email newsletter to Young Alumni Council members. We also produce and distribute a bi-annual mailed publication called <a href="http://news.jmls.edu/briefcase/"><strong style="font-weight: 400;">Briefcase</strong></a>, and we continually update our John Marshall news feed below.</p>
 
 					<div class="grid-wrap mar-bot-medium">
 						<div class="grid-col bp1-col-1-2 bp2-col-2-3 mar-bot-small-alt">
 							<h3 class="mar-top-zero">Alumni Newsletter</h3>
 							<p>Sharing John Marshall news with you is just as important to us as you sharing your news with us! Each month we send our e-newsletter in one compact, easy-to-read format, so you can stay on top of events and opportunities to grow and expand your professional skills and network. We encourage you to share your achievements, acknowledgements, and changes with us.</p>
 							<p><strong>Have news to share?</strong><br>
-							Send your new job, new baby, honor, recognition, or marriage news to <a href="mailto:alumni@jmls.edu" class="bold">alumni@jmls.edu</a>. Don&rsquo;t forget to include a picture!</p>
+							Send your new job, new baby, honor, recognition, or marriage news to <a href="mailto:alumni@jmls.edu" class="bold">alumni@jmls.edu</a>. Don&rsquo;t forget to include a picture! Submissions are published in the ClassNotes section of the bi-annual Briefcase publication.</p>
 						</div>
 
 						<div class="grid-col bp1-col-1-2 bp2-col-1-3 mar-bot-medium">
