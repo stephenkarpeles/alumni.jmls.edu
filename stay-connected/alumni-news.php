@@ -20,7 +20,7 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 				  <?php include('../includes/breadcrumbs.php'); ?>	
 				  
 					<h1 class="page-header">Alumni News</h1>
-					<p class="featured-text">Staying informed about JMLS is easy and convenient. We send a monthly email newsletter to all alumni, and a monthly email newsletter to Young Alumni Council members. We also produce and distribute a bi-annual mailed publication called <a href="http://news.jmls.edu/briefcase/"><strong style="font-weight: 400;">Briefcase</strong></a>, and we continually update our John Marshall news feed below.</p>
+					<p class="featured-text">Staying informed about JMLS is easy and convenient. We send a monthly email newsletter to all alumni, and a monthly email newsletter to Young Alumni Council members. We also produce and distribute a bi-annual mailed publication called <a href="http://news.jmls.edu/briefcase/"><span class="normal-weight">Briefcase</span></a>, and we continually update our John Marshall news feed below.</p>
 
 					<div class="grid-wrap mar-bot-medium">
 						<div class="grid-col bp1-col-1-2 bp2-col-2-3 mar-bot-small-alt">
@@ -81,15 +81,18 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 
 					</div><!-- .grid-wrap -->
 
-					<div class="grid-wrap">
-						<div class="grid-col bp2-col-1-2 bp3-col-2-3">
+					
+
+				
+						
 							<div class="feature-box-color-alt feature-box-gray mar-bot-large">					
 								<h3 class="mar-top-zero mar-bot-smaller">John Marshall News</h3>
 								<?php include('../includes/getrss-wpinthenews.php'); ?>				
 								<p class="subtext bold italic mar-bot-zero"><a href="http://news.jmls.edu/">View all news &raquo;</a></p>	
 							</div>
-					  </div><!-- .grid-col -->
+					  
 
+					  <!--
 					  <div class="grid-col bp2-col-1-2 bp3-col-1-3">
 							<div class="module">
 								<div class="header-bar header-bar-gray">Briefcase</div>
@@ -105,9 +108,17 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 									</div>						
 								</div>
 							</div>
-						</div><!-- .grid-col -->
 
-					</div><!-- .grid-wrap -->
+							<div class="module">
+								<div class="header-bar header-bar-gray">Young Alumni Council</div>
+								<div class="feature-box-color feature-box-gray text-small">
+									Learn more about the Young Alumni Council				
+								</div>
+							</div>
+						</div>
+						-->
+
+					
 					
 					<h3 class="mar-top-zero">Photo Gallery</h3>
 					<p> <a href="https://www.flickr.com/photos/43883549@N08/sets/" target="_blank" class="bold">View Gallery on Flickr &raquo;</a></p>
