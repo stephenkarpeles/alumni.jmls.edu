@@ -38,10 +38,12 @@
 
 .feat-arrow {
 	float: left;
+	display: block;
 	margin-right: 7px;
   color: $main-red; }
 
 .feat-arrow-content {
+	display: block;
 	overflow: hidden; }
 
 .icon-question {

@@ -1272,11 +1272,13 @@ li.crumb-item:last-child .crumb-tail {
 
 .feat-arrow {
   float: left;
+  display: block;
   margin-right: 7px;
   color: #aa0000;
 }
 
 .feat-arrow-content {
+  display: block;
   overflow: hidden;
 }
 

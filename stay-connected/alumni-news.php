@@ -20,14 +20,14 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 				  <?php include('../includes/breadcrumbs.php'); ?>	
 				  
 					<h1 class="page-header">Alumni News</h1>
-					<p class="featured-text">Staying informed about JMLS is easy and convenient. We send a monthly email newsletter to all alumni, and a monthly email newsletter to Young Alumni Council members. We also produce and distribute a bi-annual mailed publication called <a href="http://news.jmls.edu/briefcase/"><span class="normal-weight">Briefcase</span></a>, and we continually update our John Marshall news feed below.</p>
+					<p class="featured-text">Staying informed about John Marshall is easy and convenient. We send a monthly email newsletter to all alumni, and a monthly email newsletter to Young Alumni Council members. We also produce and distribute a bi-annual mailed publication called <a href="http://news.jmls.edu/briefcase/"><span class="normal-weight">Briefcase</span></a>, and we continually update our John Marshall news feed below.</p>
 
-					<div class="grid-wrap mar-bot-medium">
-						<div class="grid-col bp1-col-1-2 bp2-col-2-3 mar-bot-small-alt">
+					<div class="grid-wrap mar-bot-zero">
+						<div class="grid-col bp1-col-1-2 bp2-col-2-3 mar-bot-zero">
 							<h3 class="mar-top-zero">Alumni Newsletter</h3>
-							<p>Sharing John Marshall news with you is just as important to us as you sharing your news with us! Each month we send our e-newsletter in one compact, easy-to-read format, so you can stay on top of events and opportunities to grow and expand your professional skills and network. We encourage you to share your achievements, acknowledgements, and changes with us.</p>
+							<p>Each month we send our e-newsletter in one compact, easy-to-read format, so you can stay on top of events and opportunities to grow and expand your professional skills and network. We encourage you to share your achievements, acknowledgements, and changes with us.</p>
 							<p><strong>Have news to share?</strong><br>
-							Send your new job, new baby, honor, recognition, or marriage news to <a href="mailto:alumni@jmls.edu" class="bold">alumni@jmls.edu</a>. Don&rsquo;t forget to include a picture! Submissions are published in the ClassNotes section of the bi-annual Briefcase publication.</p>
+							Sharing John Marshall news with you is just as important to us as you sharing your news with us! Send your new job, new baby, honor, recognition, or marriage news to <a href="mailto:alumni@jmls.edu" class="bold">alumni@jmls.edu</a>. Don&rsquo;t forget to include a picture! Submissions are published in the ClassNotes section of the bi-annual Briefcase publication.</p>
 						</div>
 
 						<div class="grid-col bp1-col-1-2 bp2-col-1-3 mar-bot-medium">
@@ -77,50 +77,32 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 							</div>
 							<!-- End Form -->
 
-						</div>
+						</div><!-- .grid-col -->
+					</div><!-- .grid-wrap -->		
 
-					</div><!-- .grid-wrap -->
-
-					
-
-				
-						
+					<div class="grid-wrap mar-top-large">	
+						<div class="grid-col bp2-col-1-2 bp3-col-2-3">
 							<div class="feature-box-color-alt feature-box-gray mar-bot-large">					
 								<h3 class="mar-top-zero mar-bot-smaller">John Marshall News</h3>
 								<?php include('../includes/getrss-wpinthenews.php'); ?>				
 								<p class="subtext bold italic mar-bot-zero"><a href="http://news.jmls.edu/">View all news &raquo;</a></p>	
 							</div>
-					  
+						</div><!-- .grid-col -->
 
-					  <!--
-					  <div class="grid-col bp2-col-1-2 bp3-col-1-3">
-							<div class="module">
-								<div class="header-bar header-bar-gray">Briefcase</div>
-								<div class="feature-box-color feature-box-gray text-small">
-									<div class="feature-box-col feature-box-col-1-2 text-small">		
-										Alumni achievements, news, and JMLS development updates.
-									</div>
-									<div class="feature-box-col feature-box-col-1-2 feature-box-col-raised text-center">	
-										<a href="http://news.jmls.edu/briefcase/" target="_blank"><img class="mar-bot-smallest box-shadow-1" src="<?php echo $siteroot ?>/images/briefcase-cover.jpg" alt="Briefcase | The John Marshall Law School"></a>													
-										<div>
-											<a href="http://news.jmls.edu/briefcase/" target="_blank" class="btn btn-small btn-red bold">Read Now</a>
-										</div>
-									</div>						
+						<div class="grid-col bp2-col-1-2 bp3-col-1-3">
+						  <div class="module">
+								<div class="header-bar header-bar-gray">Stay Informed</div>
+								<div class="feature-box-color feature-box-gray">
+									<ul class="no-list-style list-space-small">
+										<li><span class="feat-arrow up-1">&#9654;</span><span class="feat-arrow-content"><a href="http://news.jmls.edu/briefcase/"><strong>Read Briefcase</strong></a>, our bi-annual publication.</span></li>
+										<li class="mar-top-smallest"><span class="feat-arrow up-1">&#9654;</span><span class="feat-arrow-content">Learn more about the <a href="../get-involved/young-alumni-council.php"><strong>Young Alumni Council</strong></a> and how you can get involved.</span></li>
+									</ul>
 								</div>
 							</div>
+						</div><!-- .grid-col -->
+					</div><!-- .grid-wrap -->	
 
-							<div class="module">
-								<div class="header-bar header-bar-gray">Young Alumni Council</div>
-								<div class="feature-box-color feature-box-gray text-small">
-									Learn more about the Young Alumni Council				
-								</div>
-							</div>
-						</div>
-						-->
-
-					
-					
-					<h3 class="mar-top-zero">Photo Gallery</h3>
+					<h3 class="mar-top-small-alt">Photo Gallery</h3>
 					<p> <a href="https://www.flickr.com/photos/43883549@N08/sets/" target="_blank" class="bold">View Gallery on Flickr &raquo;</a></p>
 					<div class="grid-wrap">
 						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">

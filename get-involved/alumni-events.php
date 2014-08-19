@@ -28,6 +28,52 @@ $tpTitle="Alumni Events | The John Marshall Law School - Office of Alumni Relati
 					<h3>Alumni Networking Events &amp; Receptions</h3>
 					<p>Attending alumni receptions allows you a chance to socialize, reminisce, network, and hear about what is going on at your alma mater. Receptions are held throughout the Chicago area and occasionally in various cities around the country.</p>
 					<p>Check back often as we will update this page as events are added and dates are confirmed. As always, make sure that we have your current contact information so that you will receive your invitation.</p>
+
+					<h3>Photo Gallery</h3>
+					<p> <a href="https://www.flickr.com/photos/43883549@N08/sets/" target="_blank" class="bold">View Gallery on Flickr &raquo;</a></p>
+					<div class="grid-wrap">
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-1.jpg" alt="">
+						</div>
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-2.jpg" alt="">
+						</div>
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-3.jpg" alt="">
+						</div>
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-4.jpg" alt="">							
+						</div>
+					</div>
+					<div class="grid-wrap">
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-5.jpg" alt="">
+						</div>
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-6.jpg" alt="">
+						</div>
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-7.jpg" alt="">
+						</div>
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-8.jpg" alt="">
+						</div>
+					</div>
+					<div class="grid-wrap">
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-9.jpg" alt="">
+						</div>
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-10.jpg" alt="">
+						</div>
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-11.jpg" alt="">
+						</div>
+						<div class="grid-col col-1-2 bp2-col-1-4 mar-bot-medium">
+							<img src="../images/gallery-12.jpg" alt="">
+						</div>
+					</div>
+
 				</article><!-- .main -->
 				
 			</div><!-- .grid-col -->			
