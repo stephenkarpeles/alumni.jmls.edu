@@ -275,10 +275,10 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					<div class="module">
 						<div class="header-bar header-bar-gray">Online Directory</div>
 						<div class="feature-box-color feature-box-gray text-center">
-							<a class="btn btn-medium btn-white bold">Alumni Login</a>
+							<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40" class="btn btn-medium btn-white bold">Alumni Login</a>
 							<div class="subtext-alt">For alumni who have their login ID</div>	
 							<div class="mar-bot-small-alt"></div>						
-							<a class="btn btn-medium btn-white bold">Alumni Registration</a>
+							<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46" class="btn btn-medium btn-white bold">Alumni Registration</a>
 							<div class="subtext-alt">For alumni who need a login ID</div>							
 						</div>			
 					</div>

@@ -188,9 +188,6 @@ $tpTitle="Get Quoted | The John Marshall Law School - Office of Alumni Relations
 								  document.getElementById("si" + "mple" + "_spc").value = "41694275880162-41694275880162";
 								  </script>
 								</form>
-								
-
-								Recipients: ckraly@jmls.edu, sdzik@jmls.edu
 
 							</div>
 							

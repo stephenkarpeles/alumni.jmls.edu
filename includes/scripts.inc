@@ -6,4 +6,4 @@
 </script>
 
 <!-- Replace SVG with PNG fallback for certain browsers -->
-<script src="http://test.jmls.edu/testalumni/js/site.js"></script>	
+<script src="http://alumni.jmls.edu/js/site.js"></script>	
