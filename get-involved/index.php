@@ -6,7 +6,7 @@ $tpTitle="Get Involved | The John Marshall Law School - Office of Alumni Relatio
 ?>
 
 <!-- Header -->
-<?php include(SITE_ROOT . '/includes/header.php'); ?>
+<?php include('../includes/header.php'); ?>
 
 	<!-- Begin Content -->
 	<section>
@@ -54,15 +54,15 @@ $tpTitle="Get Involved | The John Marshall Law School - Office of Alumni Relatio
 						
 			<div class="grid-col bp3-col-1-4">				
 				<!-- Sidebar Wrap Top -->
-				<?php include(SITE_ROOT . '/includes/sidebar/sidebar-wrap-top.php'); ?>	
+				<?php include('../includes/sidebar/sidebar-wrap-top.php'); ?>	
 				<!-- Menu -->
-				<?php include(SITE_ROOT . '/includes/menus/get-involved.php'); ?>
+				<?php include('../includes/menus/get-involved.php'); ?>
 				<!-- Sidebar Wrap Bottom -->
-				<?php include(SITE_ROOT . '/includes/sidebar/sidebar-wrap-bottom.php'); ?>				
+				<?php include('../includes/sidebar/sidebar-wrap-bottom.php'); ?>				
 			</div><!-- .grid-col -->			
 
 		</div><!-- .grid-wrap -->	
 	</section>
 
 <!-- Footer -->
-<?php include(SITE_ROOT . '/includes/footer.php'); ?>	
+<?php include('../includes/footer.php'); ?>	
