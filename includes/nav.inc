@@ -13,8 +13,8 @@
 					<a href="http://www.jmls.edu/give" target="_blank"><li>Give Online</li></a>
 					<a href="http://www.jmls.edu/"><li>JMLS Home</li></a>
 					<li class="hide-above-bp3">
-						<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40">Login <span class="arrow">&#9654;</span></a> 
-						<a class="first-time-login" href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46">First Time Login <span class="arrow">&#9654;</span></a>
+						<a href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40">Login <span class="arrow">&#9654;</span></a> 
+						<a class="first-time-login" href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46">First Time Login <span class="arrow">&#9654;</span></a>
 					</li>							
 				</ul>				
 			</nav><!-- .nav -->					
