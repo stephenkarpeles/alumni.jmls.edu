@@ -1,6 +1,6 @@
 <?php
   // set a siteroot for php includes, etc
-	$siteroot = "http://localhost/alumni.jmls.edu";
+	$siteroot = "http://alumni.jmls.edu";
 
 	// root for pulling files from www.jmls.edu domain 
 	$server_name = 'www.jmls.edu';
@@ -48,8 +48,8 @@
 
 				<div class="utilities">
 					<ul class="horizontal login">
-						<li><a href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40">Login <span class="arrow">&#9654;</span></a></li>
-						<li><a href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46">First Time Login <span class="arrow">&#9654;</a></li>
+						<li><a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40">Login <span class="arrow">&#9654;</span></a></li>
+						<li><a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46">First Time Login <span class="arrow">&#9654;</a></li>
 					</ul>
 
 					<div class="search-wrap">
