@@ -32,3 +32,15 @@
 2014-08-22 10:27:28 overwrite css/main.css 
 2014-08-22 10:33:55 overwrite css/main.css 
 2014-08-22 10:34:13 overwrite css/main.css 
+2014-08-22 12:24:32 overwrite css/main.css 
+2014-08-22 12:24:36     error sass/main.scss (Line 86 of sass/components/_typography.scss: Undefined variable: "$low".)
+2014-08-22 12:24:36 overwrite css/main.css 
+2014-08-22 12:24:44 overwrite css/main.css 
+2014-08-22 12:24:52 identical css/main.css 
+2014-08-22 12:25:09 identical css/main.css 
+2014-08-22 12:25:11 identical css/main.css 
+2014-08-22 12:31:02 overwrite css/main.css 
+2014-08-22 12:31:58 overwrite css/main.css 
+2014-08-22 12:47:53 overwrite css/main.css 
+2014-08-22 12:47:59 overwrite css/main.css 
+2014-08-22 12:48:00 identical css/main.css 

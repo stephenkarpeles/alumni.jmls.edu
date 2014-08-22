@@ -652,6 +652,10 @@ h4 {
   line-height: 1.35;
 }
 
+.line-height-low {
+  line-height: 1.235;
+}
+
 .page-header {
   padding-bottom: .25em;
   border-bottom: 1px solid #cacaca;
@@ -976,6 +980,25 @@ li.crumb-item:last-child .crumb-tail {
 }
 @media (min-width: 800px) {
   .callout-box {
+    width: 40%;
+  }
+}
+
+.callout-box-left {
+  float: none;
+  clear: both;
+  width: 100%;
+  margin-bottom: 1.5em;
+}
+@media (min-width: 600px) {
+  .callout-box-left {
+    float: left;
+    width: 50%;
+    margin-right: 2em;
+  }
+}
+@media (min-width: 800px) {
+  .callout-box-left {
     width: 40%;
   }
 }
