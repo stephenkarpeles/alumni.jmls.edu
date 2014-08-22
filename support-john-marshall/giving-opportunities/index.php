@@ -19,7 +19,14 @@ $tpTitle="Giving Opportunities | The John Marshall Law School - Office of Alumni
 				  <!-- Breadcrumbs -->		
 				  <?php include('../../includes/breadcrumbs.php'); ?>		
 				  		
-					<h1 class="page-header">Giving Opportunities</h1>
+					<h1 class="page-header">
+						Giving Opportunities
+						<span class="btn-in-header">
+							<a href="http://www.jmls.edu/give" target="_blank">
+								<div class="btn btn-medium btn-red bold mar-top-small">Give Now</div>
+							</a>
+						</span>
+					</h1>
 					<p class="featured-text">The John Marshall Law School is fortunate to have a strong financial endowment, which sustains the institution. Strong as this endowment is, however, it must be perpetually grown and nurtured to ensure that the law school&rsquo;s potential for great achievement is never limited by a lack of resources.</p>  
 						
 					<p><strong><a href="existing-named-endowments.php">Contribute to an Existing Named Endowment</a></strong><br>

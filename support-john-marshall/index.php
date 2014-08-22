@@ -19,7 +19,14 @@ $tpTitle="Support John Marshall | The John Marshall Law School - Office of Alumn
 					<!-- Breadcrumbs -->		
 				  <?php include('../includes/breadcrumbs.php'); ?>	
 				  		
-					<h1 class="page-header">Support John Marshall</h1>
+					<h1 class="page-header">
+						Support John Marshall
+						<span class="btn-in-header">
+							<a href="http://www.jmls.edu/give" target="_blank">
+								<div class="btn btn-medium btn-red bold mar-top-small">Give Now</div>
+							</a>
+						</span>
+					</h1>					
 					<p class="featured-text">The Office of Development works to maximize the benefits that our students and the law school receive from charitable donations and provides greater fiscal accountability and stewardship to our donors. We exist to provide the highest level of service and financial support while maintaining fiscal integrity.</p>
 
 					<div class="mar-top-large">
@@ -30,6 +37,13 @@ $tpTitle="Support John Marshall | The John Marshall Law School - Office of Alumn
 						<p>Best Regards,</p>
 						<p>John E. Corkery<br>
 						<em>Dean, The John Marshall Law School</em></p>
+
+						<div class="hide-above-bp2">
+							<a href="http://www.jmls.edu/give" target="_blank">
+								<div class="btn btn-medium btn-red bold mar-top-small">Give Now</div>
+							</a>
+						</div>
+						
 					</div>
 
 					<hr class="mar-top-medium">

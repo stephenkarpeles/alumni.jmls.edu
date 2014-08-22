@@ -1,6 +1,6 @@
 <?php
   // set a siteroot for php includes, etc
-	$siteroot = "http://alumni.jmls.edu";
+	$siteroot = "http://localhost/alumni.jmls.edu";
 
 	// root for pulling files from www.jmls.edu domain 
 	$server_name = 'www.jmls.edu';
