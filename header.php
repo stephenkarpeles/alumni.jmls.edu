@@ -37,20 +37,6 @@
 		<script src="<?php echo $siteroot ?>/js/responsive-nav.min.js"></script>
 		<script src="<?php echo $siteroot ?>/js/respond.min.js"></script>	
 
-		<!-- Form Scripts -->
-		<script src="http://max.jotfor.ms/static/prototype.forms.js" type="text/javascript"></script>
-		<script src="http://max.jotfor.ms/static/jotform.forms.js?3.2.2243" type="text/javascript"></script>
-		<script src="http://max.jotfor.ms/js/vendor/math-processor.js?v=3.2.2243" type="text/javascript"></script>
-		<script type="text/javascript">
-		   JotForm.setCalculations([{"resultField":28,"operands":"26,13,14","readOnly":true,"showBeforeInput":false,"equation":"[{26}/({13}*{14})]","decimalPlaces":"2","newCalculationType":true,"insertAsText":false,"showEmptyDecimals":false,"ignoreHiddenFields":false}]);</script>
-		<script type="text/javascript">
-		   JotForm.init(function(){
-		      JotForm.setCalculationValues("Click to edit", 6);
-		      JotForm.setCalculationValues("0|1|2|4", 13);
-		      JotForm.setCalculationValues("0|3|2|1", 14);
-		   });
-		</script>
-
 	</head>
 	<body>
 
@@ -62,12 +48,8 @@
 
 				<div class="utilities">
 					<ul class="horizontal login">
-						<!-- REMOVE THIS COMMENT WHEN IMODULES LOGIN ISSUE IS FIXED
-
-						<li><a href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40">Login <span class="arrow">&#9654;</span></a></li>
-						<li><a href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46">First Time Login <span class="arrow">&#9654;</a></li>
-						
-						END OF COMMENTED OUT IMODULES ISSUE -->
+						<li><a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40">Login <span class="arrow">&#9654;</span></a></li>
+						<li><a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46">First Time Login <span class="arrow">&#9654;</a></li>
 					</ul>
 
 					<div class="search-wrap">
@@ -100,8 +82,8 @@
 							<a href="http://www.jmls.edu/give" target="_blank"><li>Give Online</li></a>
 							<a href="http://www.jmls.edu/"><li>JMLS Home</li></a>
 							<li class="hide-above-bp3">
-								<a href="">Login <span class="arrow">&#9654;</span></a> 
-								<a class="first-time-login" href="">First Time Login <span class="arrow">&#9654;</span></a>
+								<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40">Login <span class="arrow">&#9654;</span></a> 
+								<a class="first-time-login" href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46">First Time Login <span class="arrow">&#9654;</span></a>
 							</li>							
 						</ul>				
 					</nav><!-- .nav -->					

@@ -272,6 +272,8 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 				</div>
 
 				<div class="grid-col bp2-col-1-2 bp3-col-1-1">
+
+					<!-- REMOVE THIS COMMENT WHEN IMODULES LOGIN ISSUE IS FIXED 
 					<div class="module">
 						<div class="header-bar header-bar-gray">Online Directory</div>
 						<div class="feature-box-color feature-box-gray text-center">
@@ -282,6 +284,8 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 							<div class="subtext-alt">For alumni who need a login ID</div>							
 						</div>			
 					</div>
+					END OF COMMENTED OUT IMODULES ISSUE -->
+
 				</div>
 
 			</div><!-- .grid-wrap -->

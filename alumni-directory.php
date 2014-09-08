@@ -30,19 +30,15 @@ $tpTitle="Alumni Directory | The John Marshall Law School - Office of Alumni Rel
 
 					<p>Need help signing in? Email <a href="mailto:alumni@jmls.edu" class="bold">alumni@jmls.edu</a> for first time log in or log in troubles.</p> 
 
-					<!-- REMOVE THIS COMMENT WHEN IMODULES LOGIN ISSUE IS FIXED
-
-					<a href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40">
+					<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40">
 						<div class="btn btn-medium btn-red bold mar-top-smaller">Login Now</div>					
 					</a>
 
 					<div class="mar-bot-medium"></div>
 
-					<a href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46">
+					<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46">
 						<div class="btn btn-medium btn-red bold">First Time Login</div>
 					</a>
-
-					END OF COMMENTED OUT IMODULES ISSUE -->
 					
 				</article><!-- .main -->
 				
