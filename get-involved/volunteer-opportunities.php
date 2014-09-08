@@ -22,9 +22,10 @@
 					<h1 class="page-header">Volunteer Opportunities</h1>
 					<p class="featured-text">Whether you want to mentor a student, speak on a career services panel, or attend the Student/Alumni Exchange, a few hours of time can have a transformative effect on tomorrow&rsquo;s graduates.</p>
 					<h3>Student/Alumni Mentor Program</h3>
-					<p>Mentor a John Marshall student. Each year the Office of Alumni Relations teams up with the Career Services Office to pair students with alumni. It all begins with a mentor/mentee kick-off event and we ask that alums meet with their student three more times throughout the spring semester. To sign up to be a mentor, please <a class="bold" href="../pdf/jmls-alumni-mentor-program-brochure.pdf">complete our Alumni Mentor form</a>.</p>
+					<p>Mentor a John Marshall student. Each year the Office of Alumni Relations teams up with the Career Services Office to pair students with alumni. It all begins with a mentor/mentee kick-off event and we ask that alums meet with their student three more times throughout the spring semester. To sign up to be a mentor, please contact Sherri Dzik at <a class="bold" href="mailto:sdzik@jmls.edu">sdzik@jmls.edu</a>
+                    <!--<a class="bold" href="../pdf/jmls-alumni-mentor-program-brochure.pdf">complete our Alumni Mentor form</a>.</p>-->
 					<h3>Student/Alumni Exchange </h3>
-					<p>Network with students at the Student/Alumni Exchange. Students are advised that this is a networking reception, not a job fair.</p>
+					<p>Network with students at the Student/Alumni Exchange. Students are advised that this is a networking reception, not a job fair. Alumni interested in participating can <a class="bold" href="http://events.jmls.edu/registration/node/604">register online</a>.</p>
 					<h3>Speak on a Career Services Panel</h3>
 					<p>Help John Marshall students learn more about their various legal employment opportunities by speaking on Career Services Office (CSO)-hosted panels and programs throughout the year. If you are interested in speaking, email <a class="bold" href="mailto:alumni@jmls.edu">alumni@jmls.edu</a> for more details.</p>
 					<h3>Mock Interviews</h3>

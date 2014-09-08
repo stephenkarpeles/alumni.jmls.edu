@@ -25,9 +25,9 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 					<div class="grid-wrap mar-bot-zero">
 						<div class="grid-col bp1-col-1-2 bp2-col-2-3 mar-bot-zero">
 							<h3 class="mar-top-zero">Alumni Newsletter</h3>
-							<p>Each month we send our e-newsletter in one compact, easy-to-read format, so you can stay on top of events and opportunities to grow and expand your professional skills and network. We encourage you to share your achievements, acknowledgements, and changes with us.</p>
+							<p>Each month we send our e-newsletter in one compact, easy-to-read format, so you can stay on top of events and opportunities to grow and expand your professional skills and network.</p>
 							<p><strong>Have news to share?</strong><br>
-							Sharing John Marshall news with you is just as important to us as you sharing your news with us! Send your new job, new baby, honor, recognition, or marriage news to <a href="mailto:alumni@jmls.edu" class="bold">alumni@jmls.edu</a>. Don&rsquo;t forget to include a picture! Submissions are published in the ClassNotes section of the bi-annual Briefcase publication.</p>
+							Sharing John Marshall news with you is just as important to us as you sharing your news with us! Send your new job, new baby, honor, recognition, or marriage news to <a href="mailto:alumni@jmls.edu" class="bold">alumni@jmls.edu</a>. Don&rsquo;t forget to include a picture! Submissions are published in the ClassNotes section of the biannual Briefcase publication.</p>
 						</div>
 
 						<div class="grid-col bp1-col-1-2 bp2-col-1-3 mar-bot-medium">
@@ -48,7 +48,7 @@ $tpTitle="Alumni News | The John Marshall Law School - Office of Alumni Relation
 								        </div>
 								      </li>
 								      <li class="form-line" id="id_3">
-								        <label class="form-label form-label-top" id="label_3" for="input_3"> E-mail Address </label>
+								        <label class="form-label form-label-top" id="label_3" for="input_3"> Email Address </label>
 								        <div id="cid_3" class="form-input-wide">
 								          <input type="text" class=" form-textbox" data-type="input-textbox" id="input_3" name="q3_emailAddress" size="20" value="" />
 								        </div>

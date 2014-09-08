@@ -1,8 +1,9 @@
 <!-- Meta Info -->
 <?php
 // Remove commented out marks before each line you wish to edit, and place content between quote marks.
-$tpTitle="Stay Connected | The John Marshall Law School - Office of Alumni Relations &amp; Development";
+// $tpTitle="";
 // $pgDesc="";
+// $pgKeywords="";
 ?>
 
 <!-- Header -->

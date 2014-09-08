@@ -15,7 +15,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 				<div class="module slider">
 					<ul class="rslides no-list-style">
 					  <li>
-					  	<a href="get-involved/"><img src="images/hero-exchange.jpg" alt="Get Involved at John Marshall"></a>
+					  	<a href="get-involved/"><img src="images/hero-exchange.jpg" alt="Get Involved at John Marshall"></a> 
 					  	<p class="caption"><span class="caption-title">Get Involved</span><br>Volunteer, mentor, and enhance the John Marshall community.<br><a class="caption-link" href="get-involved/">Learn More &raquo;</a></p>
 					  </li>					  
 					  <li>
@@ -270,22 +270,40 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						</div>
 					</div>
 				</div>
+                
+                <div class="grid-col bp2-col-1-2 bp3-col-1-1">
+					<div class="module">
+						<div class="header-bar header-bar-red">Alumni Reunion</div>
+						<div class="feature-box-color feature-box-red">
+
+							<div class="feature-box-col feature-box-col-3-5">
+                            	<div class="subtext-alt" style="margin-top:0"><strong>September 19-20, 2014</strong></div>
+                                <p>Honoring the Classes of 2004, 1989, 1974, and 1964+</p>
+                                			
+							</div>
+
+							<div class="feature-box-col feature-box-col-2-5 feature-box-col-raised">
+								<div class="text-center">							
+									<a href="http://events.jmls.edu/registration/node/556"><img class="mar-bot-smallest box-shadow-1" src="images/2014-alumni-reunion.jpg" alt="2014 Alumni Reunion"></a>
+									<a href="http://events.jmls.edu/registration/node/556" class="btn btn-small btn-red bold">Register</a>
+								</div>	
+							</div>
+
+						</div>
+					</div>
+				</div>
 
 				<div class="grid-col bp2-col-1-2 bp3-col-1-1">
-
-					<!-- REMOVE THIS COMMENT WHEN IMODULES LOGIN ISSUE IS FIXED 
 					<div class="module">
 						<div class="header-bar header-bar-gray">Online Directory</div>
 						<div class="feature-box-color feature-box-gray text-center">
-							<a href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40" class="btn btn-medium btn-white bold">Alumni Login</a>
+							<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40" class="btn btn-medium btn-white bold">Alumni Login</a>
 							<div class="subtext-alt">For alumni who have their login ID</div>	
 							<div class="mar-bot-small-alt"></div>						
-							<a href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46" class="btn btn-medium btn-white bold">Alumni Registration</a>
+							<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46" class="btn btn-medium btn-white bold">Alumni Registration</a>
 							<div class="subtext-alt">For alumni who need a login ID</div>							
 						</div>			
 					</div>
-					END OF COMMENTED OUT IMODULES ISSUE -->
-
 				</div>
 
 			</div><!-- .grid-wrap -->

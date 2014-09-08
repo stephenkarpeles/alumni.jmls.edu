@@ -1,6 +1,6 @@
 <?php
   // set a siteroot for php includes, etc
-	$siteroot = "http://alumni.jmls.edu";
+	$siteroot = "http://localhost/alumni.jmls.edu";
 
 	// root for pulling files from www.jmls.edu domain 
 	$server_name = 'www.jmls.edu';
@@ -55,12 +55,10 @@
 
 				<div class="utilities">
 					<ul class="horizontal login">
-						<!-- REMOVE THIS COMMENT WHEN IMODULES LOGIN ISSUE IS FIXED
 
-						<li><a href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40">Login <span class="arrow">&#9654;</span></a></li>
-						<li><a href="http://jmls.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46">First Time Login <span class="arrow">&#9654;</a></li>
-						
-						END OF COMMENTED OUT IMODULES ISSUE -->
+						<li><a href="https://securelb.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40&returnurl=http%3a%2f%2fjmls.imodules.com%2fs%2f395%2fhybrid%2fhybrid-interior.aspx%3fsid%3d395%26gid%3d1%26pgid%3d6%26cid%3d41%26expandNav%3d0">Login <span class="arrow">&#9654;</span></a></li>
+						<li><a href="https://securelb.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46&logout=1 ">First Time Login <span class="arrow">&#9654;</a></li>
+                        
 					</ul>
 
 					<div class="search-wrap">

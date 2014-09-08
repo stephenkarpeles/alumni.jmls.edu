@@ -100,4 +100,4 @@ $tpTitle="Testing | The Office of Alumni Relations &amp; Development";
 	</section>
 
 <!-- Footer -->
-<?php include('includes/footer.php'); ?>
+<?php include('includes/footer.php'); ?>	

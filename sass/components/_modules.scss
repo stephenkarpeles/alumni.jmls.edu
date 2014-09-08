@@ -85,18 +85,6 @@
 	@include breakpoint(bp3) { 
     width: 40%; } }
 
-.callout-box-left {
-	float: none;
-	clear: both;
-	width: 100%;
-	margin-bottom: 1.5em;
-	@include breakpoint(bp2) { 
-    float: left;
-    width: 50%;
-		margin-right: 2em; }
-	@include breakpoint(bp3) { 
-    width: 40%; } }
-
 
 // Highlight Module 
 .highlight {

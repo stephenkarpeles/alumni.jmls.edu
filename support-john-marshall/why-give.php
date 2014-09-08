@@ -20,7 +20,7 @@ $tpTitle="Why Give | The John Marshall Law School - Office of Alumni Relations &
 				  <?php include('../includes/breadcrumbs.php'); ?>		
 				  		
 					<h1 class="page-header">Why Give</h1>
-					<p class="featured-text">Since its founding in 1899, The John Marshall Law School has provided the opportunity for over 16,000 individuals of every race, creed, gender, and background to achieve a legal education in the most dynamic urban setting in the world.</p>
+					<p class="featured-text">Since its founding in 1899, The John Marshall Law School has provided the opportunity for over 21,000 individuals of every race, creed, gender, and background to achieve a legal education in the most dynamic urban setting in the world.</p>
 					<p>The Board of Trustees created the Development Office as an independent entity, dedicated solely to developing financial and community support for the law school, thus allowing the Dean to focus on the academic successes of the law school.</p>
 					<p>The Office of Development is committed to serving our donors with the highest level of integrity and appreciation, upholding the law school's core mission of preparing new attorneys grounded in the same fundamentals that have been taught here for more than 110 years.</p>
 

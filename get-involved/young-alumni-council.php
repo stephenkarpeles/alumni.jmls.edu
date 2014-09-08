@@ -28,17 +28,17 @@ $tpTitle="Young Alumni Council | The John Marshall Law School - Office of Alumni
 					<div class="module callout-box">
 						<div class="header-bar header-bar-gray">2013-2014 Executive Board</div>
 						<div class="feature-box-color feature-box-gray">
-							 <p>Matt Campobasso (&rsquo;06)<br>
-							 <em>President</em></p>
 							 <p>Peter Tessler (&rsquo;11)<br>
-							 <em>Vice President</em></p>
-							 <p>Kinga Lota (&rsquo;08)<br>
-							 <em>Secretary</em></p>
-							 <p>Lauren Tobiason (&rsquo;08)<br>
-							 <em>Chair, Social Committee</em></p>
+							 <em>President</em></p>
 							 <p>Stephanie Greenberg (&rsquo;10)<br>
+							 <em>Vice President</em></p>
+							 <p>Ravinder Sahota (&rsquo;09)<br>
+							 <em>Secretary</em></p>
+							 <p>Paul Prezioso (&rsquo;08)<br>
+							 <em>Chair, Social Committee</em></p>
+							 <p>Eileen Sergo (&rsquo;10)<br>
 							 <em>Chair, Philanthropy Committee</em></p>
-							 <p>Nicole Renchen (&rsquo;10)<br>
+							 <p>Gia Conti (&rsquo;12)<br>
 							 <em>Chair, Professional Development Committee</em></p>
 						</div>
 					</div>
