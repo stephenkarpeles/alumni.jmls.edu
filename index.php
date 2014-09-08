@@ -271,7 +271,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					</div>
 				</div>
                 
-                <div class="grid-col bp2-col-1-2 bp3-col-1-1">
+        <div class="grid-col bp2-col-1-2 bp3-col-1-1">
 					<div class="module">
 						<div class="header-bar header-bar-red">Alumni Reunion</div>
 						<div class="feature-box-color feature-box-red">
@@ -293,18 +293,22 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 					</div>
 				</div>
 
-				<div class="grid-col bp2-col-1-2 bp3-col-1-1">
-					<div class="module">
-						<div class="header-bar header-bar-gray">Online Directory</div>
-						<div class="feature-box-color feature-box-gray text-center">
-							<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40" class="btn btn-medium btn-white bold">Alumni Login</a>
-							<div class="subtext-alt">For alumni who have their login ID</div>	
-							<div class="mar-bot-small-alt"></div>						
-							<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46" class="btn btn-medium btn-white bold">Alumni Registration</a>
-							<div class="subtext-alt">For alumni who need a login ID</div>							
-						</div>			
+			</div><!-- .grid-wrap -->
+
+			<div class="grid-wrap">
+
+					<div class="grid-col bp2-col-1-2 bp3-col-1-1">
+						<div class="module">
+							<div class="header-bar header-bar-gray">Online Directory</div>
+							<div class="feature-box-color feature-box-gray text-center">
+								<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40" class="btn btn-medium btn-white bold">Alumni Login</a>
+								<div class="subtext-alt">For alumni who have their login ID</div>	
+								<div class="mar-bot-small-alt"></div>						
+								<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46" class="btn btn-medium btn-white bold">Alumni Registration</a>
+								<div class="subtext-alt">For alumni who need a login ID</div>							
+							</div>			
+						</div>
 					</div>
-				</div>
 
 			</div><!-- .grid-wrap -->
 
