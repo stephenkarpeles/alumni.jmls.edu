@@ -761,6 +761,19 @@ h4 {
   right: -3px;
 }
 
+.btn-in-header {
+  display: none;
+}
+@media (min-width: 800px) {
+  .btn-in-header {
+    display: block;
+    float: right;
+    position: relative;
+    font-size: 17px;
+    bottom: 13px;
+  }
+}
+
 .no-list-style {
   margin: 0;
   padding: 0;

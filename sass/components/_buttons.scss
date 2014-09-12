@@ -50,3 +50,12 @@
 	&:active {
 		bottom: -3px;
 		right: -3px; } } 
+
+.btn-in-header {
+  display: none;
+	@include breakpoint(bp3) { 
+		display: block;
+		float: right;	
+		position: relative;
+		font-size: 17px;
+		bottom: 13px; } }
