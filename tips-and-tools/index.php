@@ -33,8 +33,8 @@ $tpTitle="Tips &amp; Tools | The John Marshall Law School - Office of Alumni Rel
 								<div class="highlight-header"><a href="http://www.jmls.edu/career-services/alumni/" target="_blank">Career Services Office</a></div>	
 							</div>
 							<div class="highlight-unit">
-								<a href="alumni-benefits.php"><img src="../images/alumni-benefits.jpg" alt="Alumni Benefits"></a>
-								<div class="highlight-header"><a href="../tips-and-tools/alumni-benefits.php">Alumni Benefits</a></div>
+								<a href="hotel-discounts.php"><img src="../images/alumni-benefits.jpg" alt="Alumni Benefits"></a>
+								<div class="highlight-header"><a href="../tips-and-tools/hotel-discounts.php">Alumni Benefits</a></div>
 							</div>
 							<div class="highlight-unit">
 								<a href="http://www.jmls.edu/aap/" target="_blank"><img src="../images/alumni-advantage.jpg" alt="Alumni Advantage Program"></a>

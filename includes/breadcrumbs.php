@@ -13,6 +13,7 @@
 	case "contribute-to-an-academic-program.php": $label = "Contribute to an Academic Program"; break;
 	case "memorials-gifts-in-tribute.php": $label = "Memorials and Gifts in Tribute"; break;
 	case "gifts-of-appreciated-securities.php": $label = "Gifts of Appreciated Securities"; break;
+	case "hotels.php": $label = "Hotel Discounts"; break;
 	case "contact.php": $label = "Contact Us"; break;
 	case "faq.php": $label = "FAQs"; break;
 	case "404.php": $label = "Page Not Found"; break;
