@@ -301,10 +301,10 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
 						<div class="module">
 							<div class="header-bar header-bar-gray">Online Directory</div>
 							<div class="feature-box-color feature-box-gray text-center">
-								<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40" class="btn btn-medium btn-white bold">Alumni Login</a>
+								<a href="https://securelb.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=3&cid=40&returnurl=http%3a%2f%2fjmls.imodules.com%2fs%2f395%2fhybrid%2fhybrid-interior.aspx%3fsid%3d395%26gid%3d1%26pgid%3d6%26cid%3d41%26expandNav%3d0" class="btn btn-medium btn-white bold">Alumni Login</a>
 								<div class="subtext-alt">For alumni who have their login ID</div>	
 								<div class="mar-bot-small-alt"></div>						
-								<a href="http://alumni.jmls.edu/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46" class="btn btn-medium btn-white bold">Alumni Registration</a>
+								<a href="https://securelb.imodules.com/s/395/hybrid/hybrid-interior.aspx?sid=395&gid=1&pgid=8&cid=46&logout=1" class="btn btn-medium btn-white bold">Alumni Registration</a>
 								<div class="subtext-alt">For alumni who need a login ID</div>							
 							</div>			
 						</div>
