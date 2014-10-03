@@ -274,7 +274,7 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
         <div class="grid-col bp2-col-1-2 bp3-col-1-1">
 					<div class="module">
 						<div class="header-bar header-bar-red">Alumni Merchandise</div>
-						<div class="feature-box-color feature-box-red feature-box-bordered">
+						<div class="feature-box-color feature-box-bordered">
 
 							<div class="feature-box-col feature-box-col-3-5">
                 <p>Get your John Marshall alumni gear &mdash; jackets, sweatshirts, polos, and more!</p> 

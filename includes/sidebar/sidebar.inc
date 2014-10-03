@@ -1,3 +1,4 @@
+<!-- Start Scrape -->
 <aside class="sidebar">	
 	<div class="grid-wrap">
 
@@ -41,7 +42,28 @@
 					</div>						
 				</div>
 			</div>
-		</div><!-- .grid-col -->	
+		</div><!-- .grid-col -->
+
+	</div><!-- .grid-wrap -->		
+
+	<div class="grid-wrap">
+
+	  <div class="grid-col bp2-col-1-2 bp3-col-1-1">
+			<div class="module">
+				<div class="header-bar header-bar-red">Alumni Merchandise</div>
+				<div class="feature-box-color feature-box-bordered text-small">
+					<div class="feature-box-col feature-box-col-1-2 text-small">		
+						Get your John Marshall alumni gear &ndash; jackets, sweatshirts, polos, and more!
+					</div>
+					<div class="feature-box-col feature-box-col-1-2 text-center">	
+						<a href="http://alumni.jmls.edu/pdf/jmls-alumni-order-form.pdf"><img class="mar-bot-smallest" src="http://alumni.jmls.edu/images/jmls-shirt.png" alt="Purchase John Marshall Merchandise"></a>													
+						<div>
+							<a href="http://alumni.jmls.edu/pdf/jmls-alumni-order-form.pdf" class="btn btn-small btn-red bold">Shop Now</a>
+						</div>
+					</div>						
+				</div>
+			</div>	
+		</div><!-- .grid-col -->
 
 		<div class="grid-col bp2-col-1-2 bp3-col-1-1">
 			<div class="module">
@@ -57,4 +79,5 @@
 
 	</div><!-- .grid-wrap -->	
 	
-</aside>
+</aside><!-- .sidebar -->
+<!-- End Scrape -->
