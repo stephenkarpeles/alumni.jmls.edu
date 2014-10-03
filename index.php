@@ -273,19 +273,17 @@ $tpTitle="The Office of Alumni Relations &amp; Development | The John Marshall L
                 
         <div class="grid-col bp2-col-1-2 bp3-col-1-1">
 					<div class="module">
-						<div class="header-bar header-bar-red">Alumni Reunion</div>
-						<div class="feature-box-color feature-box-red">
+						<div class="header-bar header-bar-red">Alumni Merchandise</div>
+						<div class="feature-box-color feature-box-red feature-box-bordered">
 
 							<div class="feature-box-col feature-box-col-3-5">
-                            	<div class="subtext-alt" style="margin-top:0"><strong>September 19-20, 2014</strong></div>
-                                <p>Honoring the Classes of 2004, 1989, 1974, and 1964+</p>
-                                			
+                <p>Get your John Marshall alumni gear &mdash; jackets, sweatshirts, polos, and more!</p> 
 							</div>
 
 							<div class="feature-box-col feature-box-col-2-5 feature-box-col-raised">
 								<div class="text-center">							
-									<a href="http://events.jmls.edu/registration/node/556"><img class="mar-bot-smallest box-shadow-1" src="images/2014-alumni-reunion.jpg" alt="2014 Alumni Reunion"></a>
-									<a href="http://events.jmls.edu/registration/node/556" class="btn btn-small btn-red bold">Register</a>
+									<a href="pdf/jmls-alumni-order-form.pdf"><img class="mar-bot-smallest" src="images/jmls-shirt.png" alt="Purchase John Marshall Alumni Gear"></a>
+									<a href="pdf/jmls-alumni-order-form.pdf" class="btn btn-small btn-red bold">Shop Now</a>
 								</div>	
 							</div>
 

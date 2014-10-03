@@ -56,6 +56,11 @@
 .feature-box-gray { background: $light-gray; }
 .feature-box-gold { background: $tan; }
 
+.feature-box-bordered {
+	border-left: 1px solid $lighter-gray;
+	border-right: 1px solid $lighter-gray;
+	border-bottom: 1px solid $lighter-gray; }
+
 .feature-box-col {
 	display: inline-block;
 	vertical-align: top;

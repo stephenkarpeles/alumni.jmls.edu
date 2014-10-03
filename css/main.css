@@ -931,6 +931,12 @@ li.crumb-item:last-child .crumb-tail {
   background: #f8f4e1;
 }
 
+.feature-box-bordered {
+  border-left: 1px solid #cacaca;
+  border-right: 1px solid #cacaca;
+  border-bottom: 1px solid #cacaca;
+}
+
 .feature-box-col {
   display: inline-block;
   vertical-align: top;
